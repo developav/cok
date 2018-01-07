@@ -91,9 +91,8 @@
 			                            <li><i class="icon-ok-sign"></i>по актуализации оценочных средств по 7 профессиональным стандартам, 15 профессиональным квалификациям.</li>
 	                        		</ul>
 									<p>В рамках проекта по актуализации проведена апробация комплектов оценочных средств, в которой приняли участие 24 соискателя, представляющих 7 предприятий и 1 ВУЗ: АО НПП «Исток», ООО «Остек-Электро», ПАО «Микрон», АО «НИИ «Полюс» им. М.Ф.Стельмаха», АО «НИИМЭ», НИУ МИЭТ, ОАО «Ангстрем», ООО «Коннектор Оптикс».</p>
-									<p>Благодарим представителей компаний, принявших участие в наших проектах</p>
-									<p>Желаем процветания и производственных успехов всем нашим партнерам и коллегам!</p>
-									<p>С наступающим 2018 годом!</p>
+									<p style="text-align: center;">Благодарим представителей компаний, принявших участие в наших проектах.</p>
+									<p style="text-align: center;">Желаем процветания и производственных успехов всем нашим партнерам и коллегам!<br>С наступающим 2018 годом!</p>
 								</div>
 
 								<div class="clear"></div>
@@ -101,18 +100,21 @@
 								<div class="col-md-4">	
 									<div class="entry-image nobottommargin topmargin-sm">
 										<img src="images/news/full/32-1.jpg" alt="News Single" title="Инфраструктура нанотехнологического производства (ПАО МИКРОН)">
+										<p style="text-align: center;"><b>Инфраструктура нанотехнологического производства (ПАО МИКРОН).</b></p>
 									</div><!-- .entry-image end -->
 								</div>
 
 								<div class="col-md-4">	
 									<div class="entry-image nobottommargin topmargin-sm">
 										<img src="images/news/full/32-2.jpg" alt="News Single" title="НИУ МИЭТ – Встреча со студентами">
+										<p style="text-align: center;"><b>НИУ МИЭТ – Встреча со студентами.</b></p>
 									</div><!-- .entry-image end -->
 								</div>
 
 								<div class="col-md-4">	
 									<div class="entry-image nobottommargin topmargin-sm">
 										<img src="images/news/full/32-3.jpg" alt="News Single" title="Выступление на выставке Российского Союза промышленников и предпринимателей">
+										<p style="text-align: center;"><b>Выступление на выставке Российского Союза промышленников и предпринимателей.</b></p>
 									</div><!-- .entry-image end -->
 								</div>
 
@@ -120,19 +122,22 @@
 
 								<div class="col-md-4">	
 									<div class="entry-image nobottommargin topmargin-sm">
-										<img src="images/news/full/32-4.jpg" height="300" alt="News Single" title="АО НИИМЭ – Профессиональный экзамен">
+										<img src="images/news/full/32-4.jpg" alt="News Single" title="АО НИИМЭ – Профессиональный экзамен">
+										<p style="text-align: center;"><b>АО НИИМЭ – Профессиональный экзамен.</b></p>
 									</div><!-- .entry-image end -->
 								</div>
 
 								<div class="col-md-4">	
 									<div class="entry-image nobottommargin topmargin-sm">
 										<img src="images/news/full/32-5.jpg" alt="News Single" title="ООО «ОСТЕК-Электро». Профессиональный экзамен">
+										<p style="text-align: center;"><b>ООО «ОСТЕК-Электро». Профессиональный экзамен.</b></p>
 									</div><!-- .entry-image end -->
 								</div>
 
 								<div class="col-md-4">	
 									<div class="nobottommargin topmargin-sm">
 										<img src="images/news/full/32-6.jpg" alt="News Single" title="Встреча с предприятиями-участниками Корпорации развития Зеленоград">
+										<p style="text-align: center;"><b>Встреча с предприятиями-участниками Корпорации развития Зеленоград.</b></p>
 									</div><!-- .entry-image end -->
 								</div>
 								

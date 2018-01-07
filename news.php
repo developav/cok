@@ -58,7 +58,7 @@
 										<h2><a href="/291217.php">Итоги 2017 года</a></h2>
 									</div>
 									<ul class="entry-meta clearfix" style="height: 30px">
-										<li><i class="icon-calendar3"></i> 16/12/2017</li>
+										<li><i class="icon-calendar3"></i> 29/12/2017</li>
 									</ul>
 									<div class="entry-content col_last">
 										<p>Подводим итоги работ 2017 года можно говорить о внесении позитивного вклада в развитие Национальной системы квалификаций в целом и в частности о выполнении намеченных целей и планов нашего Центра.<a href="/291217.php" class="more-link"> (Дальше...)</a></p>
