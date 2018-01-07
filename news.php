@@ -51,6 +51,27 @@
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
+									<a href="/301217.php"><img class="image_fade" src="images/news/grid/33.jpg" alt="Image"></a>
+								</div>
+								<div class="entry-c col_three_forth col_last">
+									<div class="entry-title">
+										<h2><a href="/301217.php">Уважаемые коллеги, друзья!</a></h2>
+									</div>
+									<ul class="entry-meta clearfix" style="height: 30px">
+										<li><i class="icon-calendar3"></i> 30/12/2017</li>
+									</ul>
+									<div class="entry-content col_last">
+										<p>Вас приветствует Национальное агентство развития квалификаций – автономная некоммерческая организация, созданная в целях обеспечения деятельности по развитию квалификаций в Российской Федерации.<a href="/301217.php" class="more-link"> (Дальше...)</a></p>
+									</div>
+								</div>
+							</div>
+
+						</div><!-- #posts end -->
+
+  						<div id="posts" class="col_full small-thumbs">
+
+							<div class="entry clearfix">
+								<div class="entry-image col_one_forth">
 									<a href="/291217.php"><img class="image_fade" src="images/news/grid/32.jpg" alt="Image"></a>
 								</div>
 								<div class="entry-c col_three_forth col_last">

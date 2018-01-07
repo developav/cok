@@ -147,42 +147,6 @@
                             </div>
                         </div> -->
 
-                        
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/27-1.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/27.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="111117.php">По итогам III Международного форума «Микроэлектроника-2017» </a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 11/11/2017</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>ЦОК НИИМЭ принял участие в круглом столе форума по актуальной кадровой тематике - Формирование интеллектуального капитала радиоэлектронной промышленности, организованном ЦНИИ «Электроника»</p>
-                                <a href="111117.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/29.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/29.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="061217.php">Расширяем сеть партнеров</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 06/12/2017</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>В начале декабря 2017 г. Центр оценки квалификаций АО «НИИМЭ» и АО «Центральное конструкторское бюро «Дейтон» подписали соглашение о сотрудничестве в области образовательной деятельности, а также подготовки и проведения независимой оценки квалификаций.</p>
-                                <a href="061217.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
                         <div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/30-1.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/30.jpg" alt="News"></a>
@@ -214,6 +178,40 @@
                             <div class="entry-content">
                                 <p>8 декабря 2017г. состоялось итоговое заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям.<br> <br></p>
                                 <a href="161217.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/32.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/32.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="291217.php">Итоги 2017 года</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 29/12/2017</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Подводя итоги работ 2017 года можно говорить о внесении позитивного вклада в развитие Национальной системы квалификаций в целом и в частности о выполнении намеченных целей и планов нашего Центра.<br> <br><br><br></p>
+                                <a href="291217.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/33.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/33.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="301217.php">Уважаемые коллеги, друзья!</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 30/12/2017</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Вас приветствует Национальное агентство развития квалификаций – автономная некоммерческая организация, созданная в целях обеспечения деятельности по развитию квалификаций в Российской Федерации.<br> <br><br></p>
+                                <a href="301217.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
