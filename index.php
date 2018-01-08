@@ -203,14 +203,14 @@
                                 <a href="images/news/full/33.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/33.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="301217.php">Уважаемые коллеги, друзья!</a></h2>
+                                <h2><a href="301217.php">АНО НАРК выпустило сборники методических материалов.</a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
                                 <li><i class="icon-calendar3"></i> 30/12/2017</li>
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Вас приветствует Национальное агентство развития квалификаций – автономная некоммерческая организация, созданная в целях обеспечения деятельности по развитию квалификаций в Российской Федерации.<br> <br><br></p>
+                                <p>Вас приветствует Национальное агентство развития квалификаций – автономная некоммерческая организация, созданная в целях обеспечения деятельности по развитию квалификаций в Российской Федерации.<br> <br></p>
                                 <a href="301217.php" class="more-link">Далее</a>
                             </div>
                         </div>
