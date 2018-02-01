@@ -149,23 +149,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/30-1.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/30.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="141217.php">ЦОК АО НИИМЭ разработает оценочные средства.</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 14/12/2017</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>13 декабря 2017 г. в рамках работ по актуализации контрольно-измерительных материалов к семи профессиональным стандартам в области наноэлектроники ЦОК НИИМЭ провел первую процедуру апробации оценки квалификаций.</p>
-                                <a href="141217.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/31.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/31.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -214,6 +197,24 @@
                                 <a href="301217.php" class="more-link">Далее</a>
                             </div>
                         </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/33-310118.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/33-310118.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="310118.php">Планы на 2018 год Национального Агентства и Советов по профессиональным квалификациям </a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 31/01/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Национальное агентство развития квалификаций 25 января провело совещание с 30 Советами по профессиональным квалификациям (СПК).</p>
+                                <a href="310118.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
 
 
                     </div>
