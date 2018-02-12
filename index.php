@@ -149,23 +149,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/31.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/31.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="161217.php">АЛЕКСАНДР ШОХИН: Национальная система квалификаций до конца 2018 года должна охватить всю страну</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 16/12/2017</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>8 декабря 2017г. состоялось итоговое заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям.<br> <br></p>
-                                <a href="161217.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/32.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/32.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -215,7 +198,26 @@
                             </div>
                         </div>
 
-
+                        <div class="entry clearfix">
+                            <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/MChLWU2Py1M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+                            <div class="entry-image">
+                                <a href="vimeo.com/255370507" data-lightbox="iframe">
+                                    <img class="image_fade" src="images/news/grid/34.jpg" alt="News">
+                                    <span class="i-overlay"><img src="images/play.png" alt="Play"></span>
+                                </a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="080218.php">Система независимой оценки квалификаций (видео)</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 08/02/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <!--<p>8 декабря 2017г. состоялось итоговое заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям.<br> <br></p>-->
+                                <a href="080218.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
 
                     </div>
                 </div><!-- end news block -->
