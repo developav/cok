@@ -333,7 +333,7 @@
                                 <img src="images/team/nadin.jpg" alt="Nadin">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Надин Алексей Семенович</a></h4><span>Начальник отдела ОАО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="#">Надин Алексей Семенович</a></h4><span>Начальник отдела АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
                                 </div>
@@ -350,7 +350,7 @@
                                 <img src="images/team/shipitsyn.jpg" alt="Shipitsyn">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Шипицын Дмитрий Святославович</a></h4><span>Директор по развитию систем проектирования АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="#">Шипицин Дмитрий Святославович</a></h4><span>Директор по развитию систем проектирования АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
                                 </div>
@@ -446,7 +446,7 @@
                                 <img src="images/team/lastochkin.jpg" alt="Lastochkin">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Ласточкин Олег Викторович</a></h4><span>Начальник отдела ОСБ АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="#">Ласточкин Олег Викторович</a></h4><span>Начальник отдела СБ АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
                                 </div>
