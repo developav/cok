@@ -149,73 +149,71 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/32.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/32.jpg" alt="News"></a>
+                                <a href="images/news/full/35.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/35.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="291217.php">Итоги 2017 года</a></h2>
+                                <h2><a href="160218.php">ВЫДАНО 100-ОЕ СВИДЕТЕЛЬСТВО О ПРОХОЖДЕНИИ ПРОЦЕДУРЫ НЕЗАВИСИМОЙ ОЦЕНКИ КВАЛИФИКАЦИИ В ЦОК АО «НИИМЭ»</a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 29/12/2017</li>
+                                <li><i class="icon-calendar3"></i> 16/02/2018</li>
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Подводя итоги работ 2017 года можно говорить о внесении позитивного вклада в развитие Национальной системы квалификаций в целом и в частности о выполнении намеченных целей и планов нашего Центра.<br> <br><br><br></p>
-                                <a href="291217.php" class="more-link">Далее</a>
+                                <p>100-ое свидетельство НОК выдано сотруднику АО «НИИМЭ» Ласточкину Олегу Викторовичу</p>
+                                <a href="160218.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/33.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/33.jpg" alt="News"></a>
+                                <a href="images/news/full/36.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/36.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="301217.php">АНО НАРК выпустило сборники методических материалов.</a></h2>
+                                <h2><a href="160218-2.php">2018 ГОД ДОЛЖЕН СТАТЬ «ГОДОМ СБОРКИ» НОВЫХ СИСТЕМ КВАЛИФИКАЦИЙ</a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 30/12/2017</li>
+                                <li><i class="icon-calendar3"></i> 16/02/2018</li>
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Вас приветствует Национальное агентство развития квалификаций – автономная некоммерческая организация, созданная в целях обеспечения деятельности по развитию квалификаций в Российской Федерации.<br> <br></p>
-                                <a href="301217.php" class="more-link">Далее</a>
+                                <p>Технический прогресс не приводит к безработице, но способствует изменению существующих профессий.
+                                    От устаревших квалификаций необходимо оказываться, так как они дают ложные сигналы на рынке труда. <br><br></p>
+                                <a href="160218-2.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/33-310118.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/33-310118.jpg" alt="News"></a>
+                                <a href="images/news/full/37.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/37.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="310118.php">Планы на 2018 год Национального Агентства и Советов по профессиональным квалификациям </a></h2>
+                                <h2><a href="160218-3.php">КАК ОЦЕНИВАЕТСЯ КАЧЕСТВО ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ? </a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 31/01/2018</li>
+                                <li><i class="icon-calendar3"></i> 16/02/2018</li>
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Национальное агентство развития квалификаций 25 января провело совещание с 30 Советами по профессиональным квалификациям (СПК).</p>
-                                <a href="310118.php" class="more-link">Далее</a>
+                                <p>Новые инструменты оценки качества СПО: демонстрационный экзамен и независимая оценка квалификации.
+                                    Новые инструменты оценки качества СПО: демонстрационный экзамен и независимая оценка квалификации</p>
+                                <a href="160218-3.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
                         <div class="entry clearfix">
-                            <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/MChLWU2Py1M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
                             <div class="entry-image">
-                                <a href="vimeo.com/255370507" data-lightbox="iframe">
-                                    <img class="image_fade" src="images/news/grid/34.jpg" alt="News">
-                                    <span class="i-overlay"><img src="images/play.png" alt="Play"></span>
-                                </a>
+                                <!--<a href="images/news/full/38.jpg" data-lightbox="image">--><img class="image_fade" src="images/news/grid/38.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="080218.php">Система независимой оценки квалификаций (видео)</a></h2>
+                                <h2><a href="160218-4.php">ОТ РЫНКА РЕЗЮМЕ К РЫНКУ КВАЛИФИКАЦИЙ. ИНТЕРВЬЮ ПРЕДСЕДАТЕЛЯ СОВЕТА А.Г.СВИНАРЕНКО</a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 08/02/2018</li>
+                                <li><i class="icon-calendar3"></i> 16/02/2018</li>
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <!--<p>8 декабря 2017г. состоялось итоговое заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям.<br> <br></p>-->
-                                <a href="080218.php" class="more-link">Далее</a>
+                                <p>Андрей Геннадьевич рассказывает о деятельности и основных задачах Совета по профессиональным квалификациям в наноиндустрии</p>
+                                <a href="160218-4.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

@@ -50,6 +50,86 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/160218-4.php"><img class="image_fade" src="images/news/grid/38.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/160218-4.php">От рынка резюме к рынку квалификаций. Интервью Председателя Совета А.Г.Свинаренко</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 16/02/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>В опубликованном интервью Андрей Геннадьевич подробно рассказывает о деятельности и основных задачах
+                                            Совета по профессиональным квалификациям в наноиндустрии, Фонда инфраструктурных и образовательных программ,
+                                            а также дает ответы на вопросы о процессе формирования национальной системы квалификаций, о современных тенденциях
+                                            развития рынка труда и системы независимой оценки квалификаций<a href="/160218-4.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/160218-3.php"><img class="image_fade" src="images/news/grid/37.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/160218-3.php">Как оценивается качество профессионального образования?</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 16/02/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Новые инструменты оценки качества СПО: демонстрационный экзамен и независимая оценка квалификации.<a href="/160218-3.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/160218-2.php"><img class="image_fade" src="images/news/grid/36.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/160218-2.php">2018 год должен стать «годом сборки» новых систем квалификаций</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 16/02/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Технический прогресс не приводит к безработице, но способствует изменению существующих профессий. От устаревших квалификаций необходимо оказываться, так как они дают ложные сигналы на рынке труда.
+                                            Право на существование должны получить «входные квалификации», рассчитанные на молодых людей и на тех, кто меняет профессию.<a href="/160218-2.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/160218.php"><img class="image_fade" src="images/news/grid/35.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/160218.php">Выдано 100-ое свидетельство о прохождении процедуры независимой оценки квалификации в ЦОК АО «НИИМЭ»</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 16/02/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>100-ое свидетельство НОК выдано сотруднику АО «НИИМЭ» Ласточкину Олегу Викторовичу, начальнику отдела стандартных библиотек.<a href="/160218.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/080218.php"><img class="image_fade" src="images/news/grid/34.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
