@@ -69,7 +69,7 @@
 							<div class="entry-content notopmargin" style="text-align: justify;">
 								
 								<div class="image bottommargin-sm col_one_third">
-									<img src="images/news/full/35.jpg" alt="News Single">
+									<img src="images/news/full/35-2.jpg" alt="News Single">
 								</div><!-- .entry-image end -->
 
 								<p>100-ое свидетельство НОК выдано сотруднику АО «НИИМЭ» Ласточкину Олегу Викторовичу, начальнику отдела стандартных библиотек.

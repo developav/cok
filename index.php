@@ -149,23 +149,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/35.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/35.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="160218.php">ВЫДАНО 100-ОЕ СВИДЕТЕЛЬСТВО О ПРОХОЖДЕНИИ ПРОЦЕДУРЫ НЕЗАВИСИМОЙ ОЦЕНКИ КВАЛИФИКАЦИИ В ЦОК АО «НИИМЭ»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 16/02/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>100-ое свидетельство НОК выдано сотруднику АО «НИИМЭ» Ласточкину Олегу Викторовичу</p>
-                                <a href="160218.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/36.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/36.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -214,6 +197,24 @@
                             <div class="entry-content">
                                 <p>Андрей Геннадьевич рассказывает о деятельности и основных задачах Совета по профессиональным квалификациям в наноиндустрии</p>
                                 <a href="160218-4.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/39.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/39.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="270218.php">Вручение свидетельств НОК</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 27/02/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>16 февраля состоялось торжественное вручение свидетельств о квалификации 15 сотрудникам АО НИИМЭ и ПАО «Микрон»,
+                                    прошедшим независимую оценку квалификаций (НОК) в Центре оценки квалификации (ЦОК) в декабре 2017 года.<br> <br></p>
+                                <a href="270218.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

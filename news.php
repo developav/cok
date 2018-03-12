@@ -50,6 +50,26 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/270218.php"><img class="image_fade" src="images/news/grid/39.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/270218.php">Вручение свидетельств НОК</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 27/02/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>16 февраля состоялось торжественное вручение свидетельств о квалификации 15 сотрудникам АО НИИМЭ и ПАО «Микрон»,
+                                            прошедшим независимую оценку квалификаций (НОК) в Центре оценки квалификации (ЦОК) в декабре 2017 года.<a href="/270218.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/160218-4.php"><img class="image_fade" src="images/news/grid/38.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
