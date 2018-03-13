@@ -145,7 +145,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps90.pdf">Описание стандарта в формате PDF</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps90-q6.pdf">Инженер по разработке средств функционального контроля  интегральной схемы и ее составных блоков (6 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps90-q7.pdf">Инженер по разработке средств функционального контроля  интегральной схемы и ее составных блоков (7 уровень квалификации)</a></li>
-												<!-- <li><i class="icon-file"></i><a href="regulationdocs/standards/ps85-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li> -->
+												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps90-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
@@ -193,7 +193,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps172.pdf">Описание стандарта в формате PDF</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps172-q6.pdf">Инженер-конструктор аналоговых сложнофункциональных блоков (6 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps172-q7.pdf">Инженер-конструктор аналоговых сложнофункциональных блоков (7 уровень квалификации)</a></li>
-												<!-- <li><i class="icon-file"></i><a href="regulationdocs/standards/ps172-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li> -->
+												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps172-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
@@ -243,7 +243,8 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps177.pdf">Описание стандарта в формате PDF</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps177-q6.pdf">Инженер по разработке цифровых библиотек стандартных ячеек и сложнофункциональных блоков (6 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps177-q7.pdf">Инженер по разработке цифровых библиотек стандартных ячеек и сложнофункциональных блоков (7 уровень квалификации)</a></li>
-												<!-- <li><i class="icon-file"></i><a href="regulationdocs/standards/ps177-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li> -->
+												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps177-exam-demo-6.pptx">Демо-версия экзамена 6 уровня в формате Microsoft PowerPoint</a></li>
+                                                <li><i class="icon-file"></i><a href="regulationdocs/standards/ps177-exam-demo-7.pptx">Демо-версия экзамена 7 уровня в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
