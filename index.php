@@ -149,42 +149,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/36.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/36.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="160218-2.php">2018 ГОД ДОЛЖЕН СТАТЬ «ГОДОМ СБОРКИ» НОВЫХ СИСТЕМ КВАЛИФИКАЦИЙ</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 16/02/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Технический прогресс не приводит к безработице, но способствует изменению существующих профессий.
-                                    От устаревших квалификаций необходимо оказываться, так как они дают ложные сигналы на рынке труда. <br><br></p>
-                                <a href="160218-2.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/37.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/37.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="160218-3.php">КАК ОЦЕНИВАЕТСЯ КАЧЕСТВО ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ? </a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 16/02/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Новые инструменты оценки качества СПО: демонстрационный экзамен и независимая оценка квалификации.
-                                    Новые инструменты оценки качества СПО: демонстрационный экзамен и независимая оценка квалификации</p>
-                                <a href="160218-3.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <!--<a href="images/news/full/38.jpg" data-lightbox="image">--><img class="image_fade" src="images/news/grid/38.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -215,6 +179,41 @@
                                 <p>16 февраля состоялось торжественное вручение свидетельств о квалификации 15 сотрудникам АО НИИМЭ и ПАО «Микрон»,
                                     прошедшим независимую оценку квалификаций (НОК) в Центре оценки квалификации (ЦОК) в декабре 2017 года.<br> <br></p>
                                 <a href="270218.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/40.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/40.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="210318.php">Предложена стратегия перезагрузки Национальной системы квалификаций</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 21/03/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Заседание Рабочей группы Национального совета по профессиональным квалификациям при Президенте России по вопросам оценки квалификации и качества подготовки кадров</p>
+                                <a href="210318.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/41.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/41.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="210318-2.php">Результаты мониторинга рынка труда на предприятиях наноиндустрии</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 21/03/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>На заседании Совета по профессиональным квалификациям в наноиндустрии на базе НП «Межотраслевое объединение наноиндустрии» был представлен отчет об итогах
+                                    работы Совета в 2017 году</p>
+                                <a href="210318-2.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

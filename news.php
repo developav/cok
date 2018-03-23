@@ -50,6 +50,46 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/210318-2.php"><img class="image_fade" src="images/news/grid/41.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/210318-2.php">Результаты мониторинга рынка труда на предприятиях наноиндустрии представлены на отраслевом Совете по профквалификациям</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 21/03/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Заседание Совета по профессиональным квалификациям в наноиндустрии на базе НП «Межотраслевое объединение наноиндустрии» <a href="/210318-2.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/210318.php"><img class="image_fade" src="images/news/grid/40.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/210318.php">Предложена стратегия перезагрузки Национальной системы квалификаций</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 21/03/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>На заседании Рабочей группы Национального совета по профессиональным квалификациям при Президенте России по вопросам оценки
+                                            квалификации и качества подготовки кадров 14 марта эксперты и представители профессиональных сообществ обсудили направления
+                                            дальнейшего развития Национальной системы квалификаций (НСК).<a href="/210318.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/270218.php"><img class="image_fade" src="images/news/grid/39.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
