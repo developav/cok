@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/020418.php"><img class="image_fade" src="images/news/grid/42.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/020418.php">Дорожная карта дальнейшего развития Национальной системы квалификаций будет представлена Президенту и Правительству России к началу мая</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 02/04/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Такое решение было принято 29 марта на первом в этом году заседании Национального совета при Президенте РФ по профессиональным квалификациям.<a href="/020418.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/210318-2.php"><img class="image_fade" src="images/news/grid/41.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

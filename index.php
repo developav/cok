@@ -149,23 +149,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <!--<a href="images/news/full/38.jpg" data-lightbox="image">--><img class="image_fade" src="images/news/grid/38.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="160218-4.php">ОТ РЫНКА РЕЗЮМЕ К РЫНКУ КВАЛИФИКАЦИЙ. ИНТЕРВЬЮ ПРЕДСЕДАТЕЛЯ СОВЕТА А.Г.СВИНАРЕНКО</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 16/02/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Андрей Геннадьевич рассказывает о деятельности и основных задачах Совета по профессиональным квалификациям в наноиндустрии</p>
-                                <a href="160218-4.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/39.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/39.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -214,6 +197,23 @@
                                 <p>На заседании Совета по профессиональным квалификациям в наноиндустрии на базе НП «Межотраслевое объединение наноиндустрии» был представлен отчет об итогах
                                     работы Совета в 2017 году</p>
                                 <a href="210318-2.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/42.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/42.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="020418.php">Будет представлена дорожная карта дальнейшего развития Национальной системы квалификаций</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 02/04/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Такое решение было принято 29 марта на первом в этом году заседании Национального совета при Президенте РФ по профессиональным квалификациям.</p>
+                                <a href="020418.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
