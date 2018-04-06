@@ -149,24 +149,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/39.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/39.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="270218.php">Вручение свидетельств НОК</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 27/02/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>16 февраля состоялось торжественное вручение свидетельств о квалификации 15 сотрудникам АО НИИМЭ и ПАО «Микрон»,
-                                    прошедшим независимую оценку квалификаций (НОК) в Центре оценки квалификации (ЦОК) в декабре 2017 года.<br> <br></p>
-                                <a href="270218.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/40.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/40.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -214,6 +196,23 @@
                             <div class="entry-content">
                                 <p>Такое решение было принято 29 марта на первом в этом году заседании Национального совета при Президенте РФ по профессиональным квалификациям.</p>
                                 <a href="020418.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/43.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/43.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="040418.php">Представители АО «НИИМЭ» в жюри конкурса Graduate awards – 2018</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 04/04/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>22 марта прошло награждение победителей всероссийского конкурса Graduate awards – 2018.<br><br><br><br></p>
+                                <a href="040418.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
