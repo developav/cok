@@ -57,7 +57,9 @@
 							
 							<li><i class="icon-line-paper"></i><a href="./regulationdocs/cokdocs/metodika-SPK-raschet-stoimosti.doc">Методика определения стоимости работ по оценке квалификации в наноиндустрии</a></li>
 							
-							<li><i class="icon-line-paper"></i><a href="./regulationdocs/cokdocs/dogovor-s-soiskatelem.doc">Договор на оказание услуг по независимой оценке квалификации</a></li>
+							<li><i class="icon-line-paper"></i><a href="./regulationdocs/cokdocs/dogovor-fiz-2018.doc">Договор на оказание услуг по независимой оценке квалификации  с физическим лицом</a></li>
+
+                            <li><i class="icon-line-paper"></i><a href="./regulationdocs/cokdocs/dogovor-ur-2018.doc">Договор на оказание услуг по независимой оценке квалификации с юридическим лицом</a></li>
 						</ul>
 							
 					</div>
