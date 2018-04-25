@@ -149,41 +149,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/40.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/40.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="210318.php">Предложена стратегия перезагрузки Национальной системы квалификаций</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 21/03/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Заседание Рабочей группы Национального совета по профессиональным квалификациям при Президенте России по вопросам оценки квалификации и качества подготовки кадров</p>
-                                <a href="210318.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/41.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/41.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="210318-2.php">Результаты мониторинга рынка труда на предприятиях наноиндустрии</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 21/03/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>На заседании Совета по профессиональным квалификациям в наноиндустрии на базе НП «Межотраслевое объединение наноиндустрии» был представлен отчет об итогах
-                                    работы Совета в 2017 году</p>
-                                <a href="210318-2.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/42.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/42.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -213,6 +178,41 @@
                             <div class="entry-content">
                                 <p>22 марта прошло награждение победителей всероссийского конкурса Graduate awards – 2018.<br><br><br><br></p>
                                 <a href="040418.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/44.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/44.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="250418.php">Национальное агентство подняло вопрос о модернизации профессионального образования</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 25/04/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>8 апреля на Московском международном салоне образования (ММСО-2018) состоялась рабочая сессия «Система подготовки кадров:
+                                    на перекрестке эпох».</p>
+                                <a href="250418.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/45.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/45.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="250418-2.php">Национальное агентство призывает совместить процедуры НОК и ГИА</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 25/04/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Лишь 25% организаций проводят профессионально-общественную аккредитацию в соответствии с законом.<br><br><br><br></p>
+                                <a href="250418-2.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

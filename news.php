@@ -50,6 +50,45 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/250418-2.php"><img class="image_fade" src="images/news/grid/45.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/250418-2.php">Национальное агентство призывает совместить процедуры НОК и ГИА</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 25/04/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Лишь 25% организаций проводят профессионально-общественную аккредитацию в соответствии с законом.<a href="/250418-2.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/250418.php"><img class="image_fade" src="images/news/grid/44.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/250418.php">Национальное агентство подняло вопрос о модернизации профессионального образования в рамках ММСО</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 25/04/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>8 апреля на Московском международном салоне образования (ММСО-2018) состоялась рабочая сессия «Система подготовки кадров: на перекрестке эпох» в рамках круглого
+                                            стола «Новые инструменты оценки качества подготовки кадров». <a href="/250418.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/040418.php"><img class="image_fade" src="images/news/grid/43.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
