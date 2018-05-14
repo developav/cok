@@ -50,6 +50,66 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/080518.php"><img class="image_fade" src="images/news/grid/48.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/080518.php">Работают профессионалы: зачем России нужна национальная система квалификаций</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 08/05/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Потери экономики из-за плохого качества работ и низкой производительности труда будут продолжать расти, если не ввести обязательную сдачу экзаменов работниками
+                                            различных профессий <a href="080518.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/280418.php"><img class="image_fade" src="images/news/grid/47.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/250418-2.php">Современные требования к профессиональным образовательным программам</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 28/04/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>26 по 27 апреля в Академии развития квалификаций прошел практико-ориентированный семинар на тему «Применение профессиональных стандартов при разработке
+                                            профессиональных образовательных программ».<a href="/280418.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/260418.php"><img class="image_fade" src="images/news/grid/46.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/260418.php">Кадры просят списать</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 26/04/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Александр Шохин: Затраты компаний на образование надо освободить от налога на прибыль<a href="/260418.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/250418-2.php"><img class="image_fade" src="images/news/grid/45.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
