@@ -149,40 +149,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/47.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/47.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="250418.php">Современные требования к профессиональным образовательным программам</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 25/04/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>26 по 27 апреля в Академии развития квалификаций прошел семинар.<br><br></p>
-                                <a href="250418.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/48.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/48.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="080518.php">Зачем России нужна национальная система квалификаций</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 08/05/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Потери экономики из-за плохого качества работ и низкой производительности труда будут продолжать расти<br><br></p>
-                                <a href="080518.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/49.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/49.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -193,7 +159,7 @@
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Об этом заявили участники совместного заседания Ассоциации «Глобальные университеты» и Ассоциации ведущих университетов 11 мая.<br></p>
+                                <p>Об этом заявили участники совместного заседания Ассоциации «Глобальные университеты» и Ассоциации ведущих университетов 11 мая.<br><br></p>
                                 <a href="220518.php" class="more-link">Далее</a>
                             </div>
                         </div>
@@ -210,8 +176,42 @@
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Об этом заявил генеральный директор Национального агентства развития квалификаций Александр Лейбович.<br><br></p>
+                                <p>Об этом заявил генеральный директор Национального агентства развития квалификаций Александр Лейбович.<br><br><br></p>
                                 <a href="220518-2.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/51.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/51.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="090618.php">Будущее системы профквалификаций - в создании единой межотраслевой цифровой платформы</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 09/06/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Эксперты НАРК представили Фонду инфраструктурных и образовательных программ результаты мониторинга рынка труда в наноиндустрии.</p>
+                                <a href="090618.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/52.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/52.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="130618.php">В развитии Национальной системы квалификаций будут учтены положения майского указа Президента России</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 13/06/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>8 июня в НАРК состоялось заседание Экспертного совета по среднему профессиональному образованию.</p>
+                                <a href="130618.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
