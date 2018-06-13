@@ -50,6 +50,82 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/130618.php"><img class="image_fade" src="images/news/grid/52.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/130618.php">В развитии Национальной системы квалификаций будут учтены положения майского указа Президента России</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 13/06/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>8 июня в Национальном агентстве развития квалификаций состоялось заседание Экспертного совета по среднему профессиональному образованию при Комитете Государственной Думы по образованию и науке. <a href="130618.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/090618.php"><img class="image_fade" src="images/news/grid/51.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/090618.php">Будущее системы профквалификаций - в создании единой межотраслевой цифровой платформы</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 09/06/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Эксперты Национального агентства развития квалификаций (Национальное агентство) представили Фонду инфраструктурных и образовательных программ результаты мониторинга рынка труда в наноиндустрии <a href="090618.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/220518-2.php"><img class="image_fade" src="images/news/grid/50.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/220518-2.php">Профессиональные стандарты должны стать документами прямого действия</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 22/05/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Об этом заявил генеральный директор Национального агентства развития квалификаций (Национального агентства) Александр Лейбович<a href="220518-2.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/220518.php"><img class="image_fade" src="images/news/grid/49.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/220518.php">В России необходимо создать новую систему оценки качества высшего образования</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 22/05/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Об этом заявили участники совместного заседания Ассоциации «Глобальные университеты» и Ассоциации ведущих университетов 11 мая.  <a href="220518.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/080518.php"><img class="image_fade" src="images/news/grid/48.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
@@ -65,7 +141,6 @@
                                     </div>
                                 </div>
                             </div>
-
                         </div><!-- #posts end -->
 
                         <div id="posts" class="col_full small-thumbs">

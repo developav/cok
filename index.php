@@ -149,41 +149,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/45.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/45.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="250418-2.php">НАЦИОНАЛЬНОЕ АГЕНТСТВО ПРИЗЫВАЕТ СОВМЕСТИТЬ ПРОЦЕДУРЫ НОК И ГИА</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 25/04/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Лишь 25% организаций проводят профессионально-общественную аккредитацию в соответствии с законом.
-                                </p>
-                                <a href="250418-2.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/46.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/46.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="260418.php">Кадры просят списать</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 26/04/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Александр Шохин: Затраты компаний на образование надо освободить от налога на прибыль<br><br><br><br></p>
-                                <a href="260418.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/47.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/47.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -194,7 +159,7 @@
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>26 по 27 апреля в Академии развития квалификаций прошел семинар</p>
+                                <p>26 по 27 апреля в Академии развития квалификаций прошел семинар.<br><br></p>
                                 <a href="250418.php" class="more-link">Далее</a>
                             </div>
                         </div>
@@ -211,8 +176,42 @@
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Потери экономики из-за плохого качества работ и низкой производительности труда будут продолжать расти<br></p>
+                                <p>Потери экономики из-за плохого качества работ и низкой производительности труда будут продолжать расти<br><br></p>
                                 <a href="080518.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/49.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/49.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="220518.php">В России необходимо создать новую систему оценки качества высшего образования</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 22/05/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Об этом заявили участники совместного заседания Ассоциации «Глобальные университеты» и Ассоциации ведущих университетов 11 мая.<br></p>
+                                <a href="220518.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/50.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/50.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="220518-2.php">Профессиональные стандарты должны стать документами прямого действия</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 22/05/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Об этом заявил генеральный директор Национального агентства развития квалификаций Александр Лейбович.<br><br></p>
+                                <a href="220518-2.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
