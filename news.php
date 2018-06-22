@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/190618.php"><img class="image_fade" src="images/news/grid/53.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/190618.php">Заседание координационного совета Национального агентства</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 19/06/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>15 июня 2018 г. в здании Российского союза промышленников и предпринимателей (РСПП) было проведено заседание Координационного совета Национального агентства<a href="130618.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/130618.php"><img class="image_fade" src="images/news/grid/52.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

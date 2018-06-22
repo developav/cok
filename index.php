@@ -147,22 +147,6 @@
                             </div>
                         </div> -->
 
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/49.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/49.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="220518.php">В России необходимо создать новую систему оценки качества высшего образования</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 22/05/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Об этом заявили участники совместного заседания Ассоциации «Глобальные университеты» и Ассоциации ведущих университетов 11 мая.<br><br></p>
-                                <a href="220518.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
 
                         <div class="entry clearfix">
                             <div class="entry-image">
@@ -212,6 +196,23 @@
                             <div class="entry-content">
                                 <p>8 июня в НАРК состоялось заседание Экспертного совета по среднему профессиональному образованию.</p>
                                 <a href="130618.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/53.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/53.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="190618.php">Заседание координационного совета Национального агентства</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 19/06/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>15 июня 2018 г. в здании Российского союза промышленников и предпринимателей было проведено заседание координационного совета Национального агентства.</p>
+                                <a href="190618.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
