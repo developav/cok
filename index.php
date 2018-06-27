@@ -147,24 +147,6 @@
                             </div>
                         </div> -->
 
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/50.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/50.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="220518-2.php">Профессиональные стандарты должны стать документами прямого действия</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 22/05/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Об этом заявил генеральный директор Национального агентства развития квалификаций Александр Лейбович.<br><br><br></p>
-                                <a href="220518-2.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
                         <div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/51.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/51.jpg" alt="News"></a>
@@ -213,6 +195,23 @@
                             <div class="entry-content">
                                 <p>15 июня 2018 г. в здании Российского союза промышленников и предпринимателей было проведено заседание координационного совета Национального агентства.</p>
                                 <a href="190618.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/54.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/54.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="260618.php">План мероприятий по развитию Национальной системы квалификаций будет доработан в течение двух недель</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 26/06/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям.</p>
+                                <a href="260618.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
