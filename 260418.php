@@ -61,7 +61,7 @@
 							<!-- Entry Meta
 							============================================= -->
 							<ul class="entry-meta clearfix">
-								<li><i class="icon-calendar3"></i> 26 Апреля 2017</li>
+								<li><i class="icon-calendar3"></i> 26 Апреля 2018</li>
 							</ul><!-- .entry-meta end -->
 
 							<!-- Entry Image

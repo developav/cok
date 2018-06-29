@@ -147,22 +147,6 @@
                             </div>
                         </div> -->
 
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/51.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/51.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="090618.php">Будущее системы профквалификаций - в создании единой межотраслевой цифровой платформы</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 09/06/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Эксперты НАРК представили Фонду инфраструктурных и образовательных программ результаты мониторинга рынка труда в наноиндустрии.</p>
-                                <a href="090618.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
 
                         <div class="entry clearfix">
                             <div class="entry-image">
@@ -176,7 +160,7 @@
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>8 июня в НАРК состоялось заседание Экспертного совета по среднему профессиональному образованию.</p>
+                                <p>8 июня в НАРК состоялось заседание Экспертного совета по среднему профессиональному образованию.<br><br><br></p>
                                 <a href="130618.php" class="more-link">Далее</a>
                             </div>
                         </div>
@@ -193,7 +177,7 @@
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>15 июня 2018 г. в здании Российского союза промышленников и предпринимателей было проведено заседание координационного совета Национального агентства.</p>
+                                <p>15 июня 2018 г. в здании Российского союза промышленников и предпринимателей было проведено заседание координационного совета Национального агентства.<br><br><br></p>
                                 <a href="190618.php" class="more-link">Далее</a>
                             </div>
                         </div>
@@ -210,8 +194,25 @@
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям.</p>
+                                <p>Заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям.<br><br><br></p>
                                 <a href="260618.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/55-2.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/55-1.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="290618.php">ЦОК НИИМЭ предлагает методическое сопровождение процесса внедрения профстандартов компаниям</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 29/06/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>29-30 мая состоялся Всероссийский форум HR-директоров, участники которого обсудили последние тенденции и будущее управление персоналом в России.</p>
+                                <a href="290618.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

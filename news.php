@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/290618.php"><img class="image_fade" src="images/news/grid/55-1.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/290618.php">ЦОК НИИМЭ предлагает методическое сопровождение процесса внедрения профстандартов компаниям.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 29/06/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>29-30 мая состоялся Всероссийский форум HR-директоров, участники которого обсудили последние тенденции и будущее управление персоналом в России.<a href="290618.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/260618.php"><img class="image_fade" src="images/news/grid/54.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
