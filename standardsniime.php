@@ -227,6 +227,28 @@
 
 								</div>
 
+                                <div class="entry clearfix">
+                                    <div class="entry-image">
+                                        <img class="image_fade" src="images/standards/ps176.jpg" alt="Standard 176"></a>
+                                    </div>
+
+                                    <div class="entry-c">
+                                        <div class="entry-title">
+                                            <div class="fancy-title title-bottom-border">
+                                                <h5>Профессиональный стандарт № 176</h5>
+                                            </div>
+                                            <p>«Специалист в области разработки полупроводниковых лазеров»</p>
+                                            <ul class="iconlist">
+                                                <li><i class="icon-file"></i><a href="regulationdocs/standards/ps176-1.pdf">Описание стандарта в формате PDF</a></li>
+                                                <li><i class="icon-file"></i><a href="regulationdocs/standards/ps176-q7.pdf">Инженерконструктор п олупроводниковых лазеров (7 уровень квалификации)</a></li>
+                                                <li><i class="icon-file"></i><a href="regulationdocs/standards/ps176-q7-2.pdf">Специалист по организации производства полупроводни ковых лазеров (7 уровень квалификации)</a></li>
+                                                <!-- <li><i class="icon-file"></i><a href="regulationdocs/standards/ps174-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li> -->
+                                            </ul>
+                                        </div>
+                                        <a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
+                                    </div>
+                                </div>
+
 								<div class="entry clearfix">
 									
 									<div class="entry-image">
@@ -419,6 +441,7 @@
 													<option value="ps-168">168 - Специалист по проектному управлению</option>
 													<option value="ps-172">172 - Инженер-конструктор аналоговых СФ-блоков</option>
 													<option value="ps-174">174 - Специалист по разработке технологии производства</option>
+                                                    <option value="ps-174">176 - Специалист в области разработки полупроводниковых лазеров</option>
 													<option value="ps-177">177 - Инженер в области разработки цифровых библиотек</option>
 													<option value="ps-182">182 - Инженер-проектировщик фотошаблонов наносистем</option>
 													<option value="ps-538">538 - Cпециалист по проектированию и обслуживанию</option>
