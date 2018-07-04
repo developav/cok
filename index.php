@@ -150,23 +150,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/52.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/52.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="130618.php">В развитии Национальной системы квалификаций будут учтены положения майского указа Президента России</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 13/06/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>8 июня в НАРК состоялось заседание Экспертного совета по среднему профессиональному образованию.<br><br><br></p>
-                                <a href="130618.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/53.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/53.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -213,6 +196,23 @@
                             <div class="entry-content">
                                 <p>29-30 мая состоялся Всероссийский форум HR-директоров, участники которого обсудили последние тенденции и будущее управление персоналом в России.</p>
                                 <a href="290618.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/58-1.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/58.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="030718.php">Новые возможности независимой оценки квалификации.</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 03/07/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>В конце июня состоялось вручение свидетельств о квалификации 17 сотрудникам ПАО «Микрон», прошедшим независимую оценку квалификаций в Центре оценки квалификации.<br><br><br><br></p>
+                                <a href="030718.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

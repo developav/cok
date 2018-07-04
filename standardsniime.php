@@ -240,8 +240,8 @@
                                             <p>«Специалист в области разработки полупроводниковых лазеров»</p>
                                             <ul class="iconlist">
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standards/ps176-1.pdf">Описание стандарта в формате PDF</a></li>
-                                                <li><i class="icon-file"></i><a href="regulationdocs/standards/ps176-q7.pdf">Инженерконструктор п олупроводниковых лазеров (7 уровень квалификации)</a></li>
-                                                <li><i class="icon-file"></i><a href="regulationdocs/standards/ps176-q7-2.pdf">Специалист по организации производства полупроводни ковых лазеров (7 уровень квалификации)</a></li>
+                                                <li><i class="icon-file"></i><a href="regulationdocs/standards/ps176-q7.pdf">Инженер-конструктор полупроводниковых лазеров (7 уровень квалификации)</a></li>
+                                                <li><i class="icon-file"></i><a href="regulationdocs/standards/ps176-q7-2.pdf">Специалист по организации производства полупроводниковых лазеров (7 уровень квалификации)</a></li>
                                                 <!-- <li><i class="icon-file"></i><a href="regulationdocs/standards/ps174-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li> -->
                                             </ul>
                                         </div>

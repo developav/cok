@@ -53,7 +53,7 @@
 						<ul class="iconlist bottommargin-sm">
 							<li><i class="icon-line-paper"></i><a href="./regulationdocs/cokdocs/zayavlenie-na-ocenku-kv.doc">Заявление на оценку квалификаций</a></li>
 
-							<li><i class="icon-line-paper"></i><a href="./regulationdocs/cokdocs/metodika-soprovozhdeniya-ocenki.doc">Методика сопровождения процедур оценки профессиональных квалификаций в наноидустрии</a></li>
+							<li><i class="icon-line-paper"></i><a href="./regulationdocs/cokdocs/metodika-soprovozhdeniya-zayavlenie.doc">Методика сопровождения процедур оценки квалификации в наноиндустрии</a></li>
 							
 							<li><i class="icon-line-paper"></i><a href="./regulationdocs/cokdocs/metodika-SPK-raschet-stoimosti.doc">Методика определения стоимости работ по оценке квалификации в наноиндустрии</a></li>
 							
