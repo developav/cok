@@ -242,7 +242,7 @@
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standards/ps176-1.pdf">Описание стандарта в формате PDF</a></li>
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standards/ps176-q7.pdf">Инженер-конструктор полупроводниковых лазеров (7 уровень квалификации)</a></li>
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standards/ps176-q7-2.pdf">Специалист по организации производства полупроводниковых лазеров (7 уровень квалификации)</a></li>
-                                                <!-- <li><i class="icon-file"></i><a href="regulationdocs/standards/ps174-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li> -->
+                                                 <li><i class="icon-file"></i><a href="regulationdocs/standards/ps176-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
                                             </ul>
                                         </div>
                                         <a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>

@@ -154,62 +154,60 @@
 
 						</div>
 
-						<div class="heading-block fancy-title nobottomborder title-bottom-border bottommargin-sm">
-	                       	<h4>Порядок подачи и рассмотрения апелляции:</h4>
-	                    </div>
+                        <div class="heading-block fancy-title nobottomborder title-bottom-border bottommargin-sm">
+                            <h4>Порядок подачи и рассмотрения апелляции:</h4>
+                        </div>
 
-						<div class="container clearfix"><!--nobottommargin"-->
-							<div class="col_one_fifth notopmargin nobottommargin">
-								<div class="entry-image">
-	                            	<img class="image_fade" src="images/candidate-appellation.jpg" alt="Image appellation"></a>
-	                        	</div>
-							</div>
+                        <div class="container clearfix"><!--nobottommargin"-->
+                            <div class="col_one_fifth notopmargin nobottommargin">
+                                <div class="entry-image">
+                                    <img class="image_fade" src="images/candidate-appellation.jpg" alt="Image appellation"></a>
+                                </div>
+                            </div>
 
-							<div class="col_four_fifth notopmargin nobottommargin col_last">
-								<p>При возникновении спорных вопросов соискатель или его законный представитель (работодатель) имеет право подать апелляцию, связанную с результатами прохождения профессионального экзамена, либо с процедурой экзамена (выдачей свидетельства о квалификации).</p>
-							</div>
-						</div>
+                            <div class="col_four_fifth notopmargin nobottommargin col_last">
+                                <p>При возникновении спорных вопросов соискатель или его законный представитель (работодатель) имеет право подать апелляцию, связанную с результатами прохождения профессионального экзамена, либо с процедурой экзамена (выдачей свидетельства о квалификации).</p>
+                            </div>
+                        </div>
 
-						<div>
-							<h5 style="margin-bottom: 10px">Апелляция может быть подана <span>в срок не позднее, чем через 30 (тридцать) календарных дней</span> после решения СПК, с которым соискатель (или работодатель) не согласен.</h5>
-						</div>
+                        <div>
+                            <h5 style="margin-bottom: 10px">Апелляция может быть подана <span>в срок не позднее, чем через 30 (тридцать) календарных дней</span> после решения СПК, с которым соискатель (или работодатель) не согласен.</h5>
+                        </div>
 
-						<div>
-							<h5 class="heading-block fancy-title nobottomborder" style="margin-bottom: 10px">Способы подачи апелляции:</h5>
-							<ul class="iconlist iconlist iconlist-color">
-	                            <li><i class="icon-ok-sign"></i> Лично в письменном виде в Совет по профессиональным квалификациям в наноиндустрии (СПК) на имя Председателя СПК.</li>
-	                            <li><i class="icon-ok-sign"></i> Заказным почтовым отправлением в адрес СПК на имя Председателя СПК с уведомлением о вручении.</li>
-	                            <li><i class="icon-ok-sign"></i> В электронном виде через информационно-телекоммуникационные сети общего доступа с уведомлением о получении.</li>
-	                        </ul>
-						</div>
+                        <div>
+                            <h5 class="heading-block fancy-title nobottomborder" style="margin-bottom: 10px">Способы подачи апелляции:</h5>
+                            <ul class="iconlist iconlist iconlist-color">
+                                <li><i class="icon-ok-sign"></i> Лично в письменном виде в Совет по профессиональным квалификациям в наноиндустрии (СПК) на имя Председателя СПК.</li>
+                                <li><i class="icon-ok-sign"></i> Заказным почтовым отправлением в адрес СПК на имя Председателя СПК с уведомлением о вручении.</li>
+                                <li><i class="icon-ok-sign"></i> В электронном виде через информационно-телекоммуникационные сети общего доступа с уведомлением о получении.</li>
+                            </ul>
+                        </div>
 
-						<div>
-							<h5 class="heading-block fancy-title nobottomborder" style="margin-bottom: 10px">В апелляции должны быть предметно изложены аргументы и требования, приложены документы, подтверждающие прохождение НОК, с указанием адреса Центра оценки квалификаций, а также указаны:</h5>
-							<ul class="iconlist iconlist iconlist-color">
-	                            <li><i class="icon-ok-sign"></i> Фамилия, имя, отчество соискателя (его законного представителя или работодателя).</li>
-	                            <li><i class="icon-ok-sign"></i> Адрес  места жительства и места работы (если применимо).</li>
-	                            <li><i class="icon-ok-sign"></i> Дата подачи.</li>
-	                            <li><i class="icon-ok-sign"></i> Подпись соискателя.</li>
-	                        </ul>
-						</div>
+                        <div>
+                            <h5 class="heading-block fancy-title nobottomborder" style="margin-bottom: 10px">В апелляции должны быть предметно изложены аргументы и требования, приложены документы, подтверждающие прохождение НОК, с указанием адреса Центра оценки квалификаций, а также указаны:</h5>
+                            <ul class="iconlist iconlist iconlist-color">
+                                <li><i class="icon-ok-sign"></i> Фамилия, имя, отчество соискателя (его законного представителя или работодателя).</li>
+                                <li><i class="icon-ok-sign"></i> Адрес  места жительства и места работы (если применимо).</li>
+                                <li><i class="icon-ok-sign"></i> Дата подачи.</li>
+                                <li><i class="icon-ok-sign"></i> Подпись соискателя.</li>
+                            </ul>
+                        </div>
 
-						<div>
-							<h5 class="heading-block fancy-title nobottomborder" style="margin-bottom: 10px">Основания для подачи апелляций:</h5>
-							<ul class="iconlist iconlist iconlist-color">
-	                            <li><i class="icon-ok-sign"></i> Отказ соискателю в приеме документов на проведение профессионального экзамена;</li>
-	                            <li><i class="icon-ok-sign"></i> Нарушения ЦОК или членом квалификационной комиссии процедур проведения профессионального экзамена;</li>
-	                            <li><i class="icon-ok-sign"></i> Несогласие с решениями, принятыми по итогам прохождения профессионального экзамена;</li>
-	                            <li><i class="icon-ok-sign"></i> Нарушение сроков выдачи свидетельства о квалификации или отказ в выдаче его дубликата;</li>
-	                            <li><i class="icon-ok-sign"></i> Отказ в выдаче соискателю свидетельства о квалификации при успешном прохождении процедур оценки профессиональной квалификации;</li>
-	                            <li><i class="icon-ok-sign"></i> Несоответствие установленной форме бланка свидетельства о квалификации и приложения к нему;</li>
-	                            <li><i class="icon-ok-sign"></i> Вынесения квалификационной комиссией необоснованного решения о результатах профессионального экзамена;</li>
-	                            <li><i class="icon-ok-sign"></i> Отсутствие информации о выданном свидетельстве о квалификации в реестре сведений о проведении независимой оценки квалификации.</li>
-	                        </ul>
-						</div>
+                        <div>
+                            <h5 class="heading-block fancy-title nobottomborder" style="margin-bottom: 10px">Основания для подачи апелляций:</h5>
+                            <ul class="iconlist iconlist iconlist-color">
+                                <li><i class="icon-ok-sign"></i> Отказ соискателю в приеме документов на проведение профессионального экзамена; </li>
+                                <li><i class="icon-ok-sign"></i> Несогласие с решениями, принятыми по итогам прохождения профессионального экзамена; </li>
+                                <li><i class="icon-ok-sign"></i> Несоблюдение установленного порядка проведения профессионального экзамена; </li>
+                                <li><i class="icon-ok-sign"></i> Нарушение сроков выдачи свидетельства о квалификации или отказ в выдаче его дубликата; </li>
+                                <li><i class="icon-ok-sign"></i> Несоответствие бланка свидетельства о квалификации и приложения к нему установленной форме; </li>
+                                <li><i class="icon-ok-sign"></i> Отсутствие информации о выданном свидетельстве о квалификации в реестре сведений о проведении независимой оценки квалификации (далее - Реестр). </li>
+                            </ul>
+                        </div>
 
-						<div>
-							<h5 class="heading-block fancy-title nobottomborder" style="margin-bottom: 10px">Апелляция рассматривается Апелляционной комиссией СПК в порядке, установленном <a href="regulationdocs/lawframes/13-req-appellate-com.doc">Требованиями к апелляционной комиссии Совета по профессиональным квалификациям в наноиндустрии по рассмотрению апелляций на действия центров оценки квалификаций.</a></h5>
-						</div>
+                        <div>
+                            <h5 class="heading-block fancy-title nobottomborder" style="margin-bottom: 10px">Апелляция рассматривается Апелляционной комиссией СПК в порядке, установленном <a href="regulationdocs/lawframes/13-req-appellate-com.doc">Требованиями к апелляционной комиссии Совета по профессиональным квалификациям в наноиндустрии по рассмотрению апелляций на действия центров оценки квалификаций.</a></h5>
+                        </div>
 
                     </div>
 
