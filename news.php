@@ -50,6 +50,44 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/260718.php"><img class="image_fade" src="images/news/grid/63.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="260718.php">450 человек прошли обучение по программе «Подготовка экспертов центров оценки квалификаций и экзаменационных центров» в 2018.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 26/07/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>С 19 по 20 июля 2018 г. в Национальном агентстве развития квалификаций (Национальное агентство) прошел практико-ориентированный семинар по теме: «Подготовка экспертов центров оценки квалификаций и экзаменационных центров». <a href="260718.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/250718.php"><img class="image_fade" src="images/news/grid/61.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="250718.php">Квалификация – товар востребованный.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 25/07/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Через два года право на работу по ряду специальностей придется отстаивать, регулярно сдавая экзамен в рамках национальной системы оценки квалификации.<a href="250718.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/030718.php"><img class="image_fade" src="images/news/grid/58.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

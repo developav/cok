@@ -150,40 +150,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/53.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/53.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="190618.php">Заседание координационного совета Национального агентства</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 19/06/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>15 июня 2018 г. в здании Российского союза промышленников и предпринимателей было проведено заседание координационного совета Национального агентства.<br><br><br></p>
-                                <a href="190618.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/54.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/54.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="260618.php">План мероприятий по развитию Национальной системы квалификаций будет доработан в течение двух недель</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 26/06/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям.<br><br><br></p>
-                                <a href="260618.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/55-2.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/55-1.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -213,6 +179,40 @@
                             <div class="entry-content">
                                 <p>В конце июня состоялось вручение свидетельств о квалификации 17 сотрудникам ПАО «Микрон», прошедшим независимую оценку квалификаций в Центре оценки квалификации.<br><br><br><br></p>
                                 <a href="030718.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/61.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/61.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="250718.php">Квалификация – товар востребованный.</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 25/07/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Через два года право на работу по ряду специальностей придется отстаивать, регулярно сдавая экзамен в рамках национальной системы оценки квалификации.<br><br><br><br><br></p>
+                                <a href="250718.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/63.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/63.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="260718.php">450 человек прошли обучение по программе «Подготовка экспертов центров оценки квалификаций и экзаменационных центров» в 2018.</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 26/07/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>С 19 по 20 июля 2018 г. в Национальном агентстве развития квалификаций (Национальное агентство) прошел практико-ориентированный семинар.<br></p>
+                                <a href="260718.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
