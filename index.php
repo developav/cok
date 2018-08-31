@@ -147,24 +147,6 @@
                             </div>
                         </div> -->
 
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/55-2.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/55-1.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="290618.php">ЦОК НИИМЭ предлагает методическое сопровождение процесса внедрения профстандартов компаниям</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 29/06/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>29-30 мая состоялся Всероссийский форум HR-директоров, участники которого обсудили последние тенденции и будущее управление персоналом в России.</p>
-                                <a href="290618.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
                         <div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/58-1.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/58.jpg" alt="News"></a>
@@ -213,6 +195,23 @@
                             <div class="entry-content">
                                 <p>С 19 по 20 июля 2018 г. в Национальном агентстве развития квалификаций (Национальное агентство) прошел практико-ориентированный семинар.<br></p>
                                 <a href="260718.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/64.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/64.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="300818.php">Национальное агентство развития квалификаций приглашает  пройти  опрос.</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 30/08/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Национальное агентство развития квалификаций проводит опрос для подготовки предложений по обновлению уровней квалификаций.<br><br><br></p>
+                                <a href="300818.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
