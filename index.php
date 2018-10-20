@@ -149,57 +149,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/58-1.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/58.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="030718.php">Новые возможности независимой оценки квалификации.</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 03/07/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>В конце июня состоялось вручение свидетельств о квалификации 17 сотрудникам ПАО «Микрон», прошедшим независимую оценку квалификаций в Центре оценки квалификации.<br><br><br><br></p>
-                                <a href="030718.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/61.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/61.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="250718.php">Квалификация – товар востребованный.</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 25/07/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Через два года право на работу по ряду специальностей придется отстаивать, регулярно сдавая экзамен в рамках национальной системы оценки квалификации.<br><br><br><br><br></p>
-                                <a href="250718.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/63.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/63.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="260718.php">450 человек прошли обучение по программе «Подготовка экспертов центров оценки квалификаций и экзаменационных центров» в 2018.</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 26/07/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>С 19 по 20 июля 2018 г. в Национальном агентстве развития квалификаций (Национальное агентство) прошел практико-ориентированный семинар.<br></p>
-                                <a href="260718.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/64.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/64.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -210,8 +159,59 @@
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Национальное агентство развития квалификаций проводит опрос для подготовки предложений по обновлению уровней квалификаций.<br><br><br></p>
+                                <p>Национальное агентство развития квалификаций проводит опрос для подготовки предложений по обновлению уровней квалификаций.<br><br></p>
                                 <a href="300818.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/65.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/65.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="171018.php">Порядок разработки профессиональных стандартов совершенствуется.</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 17/10/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Интервью Максима Топилина, Министра труда и социальной защиты РФ журналу «Бизнес России»<br><br><br><br></p>
+                                <a href="171018.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/66.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/66.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="191018.php">Правительство РФ включило в приоритеты своей работы развитие «НСК»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 19/10/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Развитие института «Национальной системы квалификаций», и вовлечение в этот процесс работодателей, стало одним из приоритетов в деятельности Правительства Российской Федерации до 2024 года.</p>
+                                <a href="191018.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/67.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/67.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="221018.php">Оценка квалификации должна стать осознанным выбором участников рынка</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 22/10/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Традиционно в конце года подводим итоги развития национальной системы квалификаций и задаем вопрос о том, какие изменения произошли.<br><br><br></p>
+                                <a href="221018.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

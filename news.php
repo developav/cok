@@ -50,6 +50,65 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/221018.php"><img class="image_fade" src="images/news/grid/67.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="221018.php">Оценка квалификации должна стать осознанным выбором участников рынка </a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 22/10/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>О том, как обеспечить баланс интересов участников рынков труда, что нужно бизнесу для управления квалификациями работников и какова роль и ответственность
+                                            организаторов национальной системы квалификаций<a href="/221018.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/191018.php"><img class="image_fade" src="images/news/grid/66.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="191018.php">Правительство РФ включило в приоритеты своей работы развитие «НСК»</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 19/10/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Развитие института «Национальной системы квалификаций», и вовлечение в этот процесс работодателей, стало одним из приоритетов в деятельности Правительства
+                                            Российской Федерации до 2024 года.<a href="/191018.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/171018.php"><img class="image_fade" src="images/news/grid/65.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="171018.php">Порядок разработки профессиональных стандартов совершенствуется.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 17/10/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Интервью Максима Топилина, Министра труда и социальной защиты РФ журналу «Бизнес России»<a href="/171018.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/300818.php"><img class="image_fade" src="images/news/grid/64.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
