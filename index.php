@@ -149,23 +149,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/64.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/64.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="300818.php">Национальное агентство развития квалификаций приглашает  пройти  опрос.</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 30/08/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Национальное агентство развития квалификаций проводит опрос для подготовки предложений по обновлению уровней квалификаций.<br><br></p>
-                                <a href="300818.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/65.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/65.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -176,7 +159,7 @@
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Интервью Максима Топилина, Министра труда и социальной защиты РФ журналу «Бизнес России»<br><br><br><br></p>
+                                <p>Интервью Максима Топилина, Министра труда и социальной защиты РФ журналу «Бизнес России»<br><br><br><br><br><br></p>
                                 <a href="171018.php" class="more-link">Далее</a>
                             </div>
                         </div>
@@ -193,7 +176,7 @@
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Развитие института «Национальной системы квалификаций», и вовлечение в этот процесс работодателей, стало одним из приоритетов в деятельности Правительства Российской Федерации до 2024 года.</p>
+                                <p>Развитие института «Национальной системы квалификаций», и вовлечение в этот процесс работодателей, стало одним из приоритетов в деятельности Правительства Российской Федерации до 2024 года.<br><br><br></p>
                                 <a href="191018.php" class="more-link">Далее</a>
                             </div>
                         </div>
@@ -210,8 +193,25 @@
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Традиционно в конце года подводим итоги развития национальной системы квалификаций и задаем вопрос о том, какие изменения произошли.<br><br><br></p>
+                                <p>Традиционно в конце года подводим итоги развития национальной системы квалификаций и задаем вопрос о том, какие изменения произошли.<br><br><br><br><br></p>
                                 <a href="221018.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/70.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/70.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="231018.php">ЦОК НИИМЭ на конференции по вопросам системы оценки квалификаций в высокотехнологичных отраслях</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 23/10/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>11 октября на площадке Санкт-Петербургского Технологического института состоялась практическая конференция «Система оценки квалификации в наноиндустрии и высокотехнологичных отраслях 3.0»<br></p>
+                                <a href="231018.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
