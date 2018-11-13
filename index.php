@@ -149,23 +149,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/65.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/65.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="171018.php">Порядок разработки профессиональных стандартов совершенствуется.</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 17/10/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Интервью Максима Топилина, Министра труда и социальной защиты РФ журналу «Бизнес России»<br><br><br><br><br><br></p>
-                                <a href="171018.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/66.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/66.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -212,6 +195,23 @@
                             <div class="entry-content">
                                 <p>11 октября на площадке Санкт-Петербургского Технологического института состоялась практическая конференция «Система оценки квалификации в наноиндустрии и высокотехнологичных отраслях 3.0»<br></p>
                                 <a href="231018.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/71.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/71.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="071118.php">"Рынок труда станет прозрачным". Глава Национального агентства рассказал о профэкзаменах.</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 07/11/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>С 2017 года в России создаются независимые экзаменационные площадки, где можно подтвердить свою квалификацию по различным профессиональным областям.<br><br><br></p>
+                                <a href="071118.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
