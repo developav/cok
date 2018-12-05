@@ -112,10 +112,10 @@
 
                         <div class="team team-list clearfix">
                             <div class="team-image">
-                                <img src="images/team/novozhilova.jpg" alt="Novozhilova">
+                                <img src="images/team/smirnova.jpg" alt="Novozhilova">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Галина Игоревна Новожилова</a></h4><span>Руководитель проектов внедрения программ обучения, развития и оценки ЦОК АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="#">Екатерина Юрьевна Смирнова</a></h4><span>Специалист по оценке Центра оценки квалификации АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>ЭКСПЕРТ ПО ОЦЕНКЕ</p>
                                 </div>

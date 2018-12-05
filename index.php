@@ -149,40 +149,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/66.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/66.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="191018.php">Правительство РФ включило в приоритеты своей работы развитие «НСК»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 19/10/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Развитие института «Национальной системы квалификаций», и вовлечение в этот процесс работодателей, стало одним из приоритетов в деятельности Правительства Российской Федерации до 2024 года.<br><br><br></p>
-                                <a href="191018.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/67.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/67.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="221018.php">Оценка квалификации должна стать осознанным выбором участников рынка</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 22/10/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Традиционно в конце года подводим итоги развития национальной системы квалификаций и задаем вопрос о том, какие изменения произошли.<br><br><br><br><br></p>
-                                <a href="221018.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/70.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/70.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -212,6 +178,41 @@
                             <div class="entry-content">
                                 <p>С 2017 года в России создаются независимые экзаменационные площадки, где можно подтвердить свою квалификацию по различным профессиональным областям.<br><br><br></p>
                                 <a href="071118.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/73.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/73.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="211118.php">ЦОК НИИМЭ разработал комплекты оценочных средств и квалификации для профессиональных стандартов в наноиндустрии.</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 21/11/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>АО «НИИМЭ» по заказу МОН завершило разработку и апробацию оценочных средств для тринадцати квалификаций по семи профессиональным стандартам.</p>
+                                <a href="211118.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/74.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/74.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="031218.php">ЭЛЕКТРОННАЯ СИСТЕМА ОЦЕНКИ КВАЛИФИКАЦИИ ЗАРАБОТАЛА В ПОЛНОМ ОБЪЕМЕ</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 03/12/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Совет по профессиональным квалификациям рад сообщить, что онлайн-сервис для организации процедуры независимой оценки квалификаций (НОК) в наноиндустрии,
+                                    созданный по заказу НП «МОН», переведен в режим полномасштабного функционирования.</p>
+                                <a href="031218.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

@@ -50,6 +50,46 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/031218.php"><img class="image_fade" src="images/news/grid/74.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="031218.php">ЭЛЕКТРОННАЯ СИСТЕМА ОЦЕНКИ КВАЛИФИКАЦИИ ЗАРАБОТАЛА В ПОЛНОМ ОБЪЕМЕ.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 03/12/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Совет по профессиональным квалификациям рад сообщить, что онлайн-сервис для организации процедуры независимой оценки квалификаций (НОК) в наноиндустрии,
+                                            созданный по заказу НП «МОН», переведен в режим полномасштабного функционирования<a href="/031218.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/211118.php"><img class="image_fade" src="images/news/grid/73.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="211118.php">Центром оценки квалификаций НИИМЭ разработаны комплекты оценочных средств и квалификации для профессиональных стандартов в наноиндустрии.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 21/11/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>АО «НИИМЭ» по заказу Межотраслевого объединения наноиндустрии и в рамках сотрудничества по развитию национальной системы квалификаций завершило проекты по разработке и апробации оценочных средств для тринадцати квалификаций по семи профессиональным стандартам<a href="/211118.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/071118.php"><img class="image_fade" src="images/news/grid/71.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
