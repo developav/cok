@@ -140,6 +140,9 @@
                         </div>
                     </div>
 
+                </div>
+
+                <div class="row">
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
                             <div class="team-image">
@@ -153,10 +156,6 @@
                             </div>
                         </div>
                     </div>
-
-                </div>
-
-                <div class="row">
 
                     <div class="col-md-6 bottommargin">
 
@@ -174,6 +173,10 @@
 
                     </div>
 
+                </div>
+
+                <div class="row">
+
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
                             <div class="team-image">
@@ -188,12 +191,7 @@
                         </div>
                     </div>
 
-                </div>
-
-                <div class="row">
-
                     <div class="col-md-6 bottommargin">
-
                         <div class="team team-list clearfix">
                             <div class="team-image">
                                 <img src="images/team/yanovich.jpg" alt="Yanovich">
@@ -205,8 +203,10 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
+
+                </div>
+                <div class="row">
 
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
@@ -222,12 +222,7 @@
                         </div>
                     </div>
 
-                </div>
-
-                <div class="row">
-
                     <div class="col-md-6 bottommargin">
-
                         <div class="team team-list clearfix">
                             <div class="team-image">
                                 <img src="images/team/egorov.jpg" alt="Egorov">
@@ -239,8 +234,10 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
+
+                </div>
+                <div class="row">
 
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
@@ -256,12 +253,7 @@
                         </div>
                     </div>
 
-                </div>
-
-                <div class="row">
-
                     <div class="col-md-6 bottommargin">
-
                         <div class="team team-list clearfix">
                             <div class="team-image">
                                 <img src="images/team/kirushina.jpg" alt="Kirushina">
@@ -273,8 +265,9 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
+                </div>
+                <div class="row">
 
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
@@ -290,12 +283,7 @@
                         </div>
                     </div>
 
-                </div>
-
-                <div class="row">
-
                     <div class="col-md-6 bottommargin">
-
                         <div class="team team-list clearfix">
                             <div class="team-image">
                                 <img src="images/team/mytnyk.jpg" alt="Mytnyk">
@@ -307,9 +295,10 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
+                </div>
 
+                <div class="row">
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
                             <div class="team-image">
@@ -324,11 +313,7 @@
                         </div>
                     </div>
 
-                </div>
-
-                <div class="row">
                     <div class="col-md-6 bottommargin">
-
                         <div class="team team-list clearfix">
                             <div class="team-image">
                                 <img src="images/team/pronin.jpg" alt="Pronin">
@@ -340,8 +325,9 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
+                </div>
+                <div class="row">
 
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
@@ -356,11 +342,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="row">
                     <div class="col-md-6 bottommargin">
-
                         <div class="team team-list clearfix">
                             <div class="team-image">
                                 <img src="images/team/shipitsyn.jpg" alt="Shipitsyn">
@@ -372,8 +355,9 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
+                </div>
+                <div class="row">
 
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
@@ -388,11 +372,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="row">
                     <div class="col-md-6 bottommargin">
-
                         <div class="team team-list clearfix">
                             <div class="team-image">
                                 <img src="images/team/averiev.jpg" alt="Averiev">
@@ -404,8 +385,9 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
+                </div>
+                <div class="row">
 
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
@@ -420,11 +402,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="row">
                     <div class="col-md-6 bottommargin">
-
                         <div class="team team-list clearfix">
                             <div class="team-image">
                                 <img src="images/team/goltsman.jpg" alt="Goltsman">
@@ -436,8 +415,9 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
+                </div>
+                <div class="row">
 
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
@@ -452,11 +432,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="row">
                     <div class="col-md-6 bottommargin">
-
                         <div class="team team-list clearfix">
                             <div class="team-image">
                                 <img src="images/team/lastochkin.jpg" alt="Lastochkin">
@@ -468,8 +445,8 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
+                </div>
 
                     <!-- <div class="col-md-6 bottommargin">
                          <div class="team team-list clearfix">
