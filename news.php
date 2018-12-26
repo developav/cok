@@ -50,6 +50,26 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/261218.php"><img class="image_fade" src="images/news/grid/75.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="261218.php">Открытие новых экзаменационных центров.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 26/12/2018</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>14 декабря в Москве прошло очередное заседание СПК в наноиндустрии, прошедшее в заочном формате. По итогам заседания членами Совета было вынесено решение наделить полномочиями
+                                            по проведению независимой оценки квалификации экзаменационный центр ЦОК «НИИМЭ» ФГБОУ ВО «Воронежский государственный университет».<a href="/261218.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/031218.php"><img class="image_fade" src="images/news/grid/74.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

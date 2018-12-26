@@ -159,23 +159,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/70.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/70.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="231018.php">ЦОК НИИМЭ на конференции по вопросам системы оценки квалификаций в высокотехнологичных отраслях</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 23/10/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>11 октября на площадке Санкт-Петербургского Технологического института состоялась практическая конференция «Система оценки квалификации в наноиндустрии и высокотехнологичных отраслях 3.0»<br></p>
-                                <a href="231018.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/71.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/71.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -226,6 +209,24 @@
                             </div>
                         </div>
 
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/75.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/75.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="261218.php">Открытие новых экзаменационных центров</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 26/12/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>По итогам заседания СПК в наноиндустрии было вынесено решение наделить полномочиями по проведению независимой оценки квалификации экзаменационный
+                                    центр ЦОК «НИИМЭ» ФГБОУ ВО «Воронежский государственный университет»<br><br><br></p>
+                                <a href="261218.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
                     </div>
                 </div><!-- end news block -->
 
@@ -270,10 +271,10 @@
 
                             <div class="team">
                                 <div class="team-image">
-                                    <img src="images/team/novozhilova.jpg" alt="Novozhilova">
+                                    <img src="images/team/smirnova.jpg" alt="Smirnova">
                                 </div>
                                 <div class="team-desc">
-                                    <div class="team-title"><h4>Новожилова Г.И.</h4><span>Руководитель проектов внедрения программ по развитию, обучению и оценке</span></div>
+                                    <div class="team-title"><h4>Смирнова Е.Ю.</h4><span>Специалист по оценке Центра оценки квалификации</span></div>
                                 </div>
                             </div>
 

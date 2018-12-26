@@ -112,7 +112,7 @@
 
                         <div class="team team-list clearfix">
                             <div class="team-image">
-                                <img src="images/team/smirnova.jpg" alt="Novozhilova">
+                                <img src="images/team/smirnova.jpg" alt="Smirnova">
                             </div>
                             <div class="team-desc">
                                 <div class="team-title"><h4><a href="#">Екатерина Юрьевна Смирнова</a></h4><span>Специалист по оценке Центра оценки квалификации АО «НИИМЭ»</span></div>
@@ -122,6 +122,22 @@
                             </div>
                         </div>
 
+                    </div>
+
+                    <!--// Жукалин Дмитрий Алексеевич- руководитель экзаменационного центра Воронежского государственного университета -->
+
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/zhukalin.jpg" alt="Zhukalin">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="#">Дмитрий Алексеевич Жукалин</a></h4><span>Руководитель экзаменационного центра Воронежского государственного университета</span></div>
+                                <div class="team-content">
+                                    <!--<p>ЭКСПЕРТ ПО ОЦЕНКЕ</p>-->
+                                </div>
+                            </div>
+                        </div>
                     </div>
 
                     <div class="col-md-6 bottommargin">
