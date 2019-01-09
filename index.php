@@ -159,23 +159,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/71.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/71.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="071118.php">"Рынок труда станет прозрачным". Глава Национального агентства рассказал о профэкзаменах.</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 07/11/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>С 2017 года в России создаются независимые экзаменационные площадки, где можно подтвердить свою квалификацию по различным профессиональным областям.<br><br><br></p>
-                                <a href="071118.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/73.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/73.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -224,6 +207,24 @@
                                 <p>По итогам заседания СПК в наноиндустрии было вынесено решение наделить полномочиями по проведению независимой оценки квалификации экзаменационный
                                     центр ЦОК «НИИМЭ» ФГБОУ ВО «Воронежский государственный университет»<br><br><br></p>
                                 <a href="261218.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/78.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/78.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="281218.php">Независимая оценка и развитие профессиональных квалификаций</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 28/12/2018</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>В пресс-центре «Парламентской газеты» состоялась открытая дискуссия (в формате пресс-конференции с участием ряда федеральных СМИ) на тему
+                                    «Независимая оценка как инструмент развития Национальной системы квалификаций»<br><br></p>
+                                <a href="281218.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
