@@ -50,6 +50,26 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/100119.php"><img class="image_fade" src="images/news/grid/76.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="100119.php">ИТОГИ РЕАЛИЗАЦИИ ПРОГРАММЫ "РАЗВИТИЕ СИСТЕМЫ ОЦЕНКИ ПРОФЕССИОНАЛЬНЫХ КВАЛИФИКАЦИЙ В НАНОИНДУСТРИИ НА ПЕРИОД 2016 – 2018 ГОДОВ"</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 10/01/2019</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>В 2018 году Межотраслевым объединением наноиндустрии успешно завершена реализация Программы "Развитие системы оценки профессиональных квалификаций в
+                                            наноиндустрии на период 2016 – 2018 годов".<a href="/100119.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/281218.php"><img class="image_fade" src="images/news/grid/78.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

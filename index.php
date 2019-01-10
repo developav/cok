@@ -159,23 +159,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/73.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/73.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="211118.php">ЦОК НИИМЭ разработал комплекты оценочных средств и квалификации для профессиональных стандартов в наноиндустрии.</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 21/11/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>АО «НИИМЭ» по заказу МОН завершило разработку и апробацию оценочных средств для тринадцати квалификаций по семи профессиональным стандартам.</p>
-                                <a href="211118.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/74.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/74.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -225,6 +208,23 @@
                                 <p>В пресс-центре «Парламентской газеты» состоялась открытая дискуссия (в формате пресс-конференции с участием ряда федеральных СМИ) на тему
                                     «Независимая оценка как инструмент развития Национальной системы квалификаций»<br><br></p>
                                 <a href="281218.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/76.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/76.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="100119.php">ИТОГИ ПРОГРАММЫ "РАЗВИТИЕ СИСТЕМЫ ОЦЕНКИ ПРОФЕССИОНАЛЬНЫХ КВАЛИФИКАЦИЙ В НАНОИНДУСТРИИ 2016 – 2018"</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 10/01/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>МОН завершило реализацию Программы "Развитие системы оценки профессиональных квалификаций в наноиндустрии на период 2016 – 2018 годов".<br></p>
+                                <a href="100119.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
