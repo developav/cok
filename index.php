@@ -157,23 +157,6 @@
                             </div>
                         </div> -->
 
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/74.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/74.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="031218.php">ЭЛЕКТРОННАЯ СИСТЕМА ОЦЕНКИ КВАЛИФИКАЦИИ ЗАРАБОТАЛА В ПОЛНОМ ОБЪЕМЕ</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 03/12/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Совет по профессиональным квалификациям рад сообщить, что онлайн-сервис для организации процедуры независимой оценки квалификаций (НОК) в наноиндустрии,
-                                    созданный по заказу НП «МОН», переведен в режим полномасштабного функционирования.</p>
-                                <a href="031218.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
 
                         <div class="entry clearfix">
                             <div class="entry-image">
@@ -227,6 +210,25 @@
                                 <a href="100119.php" class="more-link">Далее</a>
                             </div>
                         </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/79.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/79.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="250119.php">Расширился состав команды технических экспертов и экспертов по оценке ЦОК АО «НИИМЭ»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 25/01/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>28 декабря состоялось заседание СПК в наноиндустрии, на котором были рассмотрены результаты аттестации специалистов на право участия в
+                                    работе экспертной комиссии Центров оценки квалификации.<br><br></p>
+                                <a href="250119.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
 
                     </div>
                 </div><!-- end news block -->

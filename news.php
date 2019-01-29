@@ -50,6 +50,26 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/250119.php"><img class="image_fade" src="images/news/grid/79.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="250119.php">Расширился состав команды технических экспертов и экспертов по оценке ЦОК АО «НИИМЭ»</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 25/01/2019</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>28 декабря состоялось заседание СПК в наноиндустрии, на котором были рассмотрены результаты аттестации специалистов на право участия в работе
+                                            экспертной комиссии Центров оценки квалификации.<a href="/250119.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/100119.php"><img class="image_fade" src="images/news/grid/76.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
