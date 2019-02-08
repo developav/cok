@@ -50,6 +50,64 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/070219-3.php"><img class="image_fade" src="images/news/grid/82.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="070219-3.php">Эффективному бизнесу — эффективные кадры</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 07/02/2019</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Прогресс неумолим. Общество развивается: появляются новые знания, новые технологии, новые сферы деятельности, динамично меняется рынок. Чтобы оставаться в тренде,
+                                            необходимо системно повышать свой профессиональный уровень, формировать новые умения и навыки.<a href="/070219-3.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/070219-2.php"><img class="image_fade" src="images/news/grid/81.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="070219-2.php">Представители ЦОК «НИИМЭ» приняли участие в расширенном заседании Совета по профессиональным квалификациям в наноиндустрии.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 07/02/2019</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>31 января состоялось расширенное заседание Совета по профессиональным квалификациям в наноиндустрии.<a href="/070219-2.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/070219-1.php"><img class="image_fade" src="images/news/grid/80.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="070219-1.php">НАРК подвело итоги 2018 года и обсудило развитие системы независимой оценки квалификаций в 2019 году</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 07/02/2019</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>2018 год внес очень значимый вклад в развитие системы независимой оценки квалификаций в России.<a href="/070219-1.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/250119.php"><img class="image_fade" src="images/news/grid/79.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

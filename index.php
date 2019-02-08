@@ -157,60 +157,6 @@
                             </div>
                         </div> -->
 
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/75.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/75.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="261218.php">Открытие новых экзаменационных центров</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 26/12/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>По итогам заседания СПК в наноиндустрии было вынесено решение наделить полномочиями по проведению независимой оценки квалификации экзаменационный
-                                    центр ЦОК «НИИМЭ» ФГБОУ ВО «Воронежский государственный университет»<br><br><br></p>
-                                <a href="261218.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/78.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/78.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="281218.php">Независимая оценка и развитие профессиональных квалификаций</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 28/12/2018</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>В пресс-центре «Парламентской газеты» состоялась открытая дискуссия (в формате пресс-конференции с участием ряда федеральных СМИ) на тему
-                                    «Независимая оценка как инструмент развития Национальной системы квалификаций»<br><br></p>
-                                <a href="281218.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/76.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/76.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="100119.php">ИТОГИ ПРОГРАММЫ "РАЗВИТИЕ СИСТЕМЫ ОЦЕНКИ ПРОФЕССИОНАЛЬНЫХ КВАЛИФИКАЦИЙ В НАНОИНДУСТРИИ 2016 – 2018"</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 10/01/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>МОН завершило реализацию Программы "Развитие системы оценки профессиональных квалификаций в наноиндустрии на период 2016 – 2018 годов".<br></p>
-                                <a href="100119.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
                         <div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/79.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/79.jpg" alt="News"></a>
@@ -224,8 +170,60 @@
                             </ul>
                             <div class="entry-content">
                                 <p>28 декабря состоялось заседание СПК в наноиндустрии, на котором были рассмотрены результаты аттестации специалистов на право участия в
-                                    работе экспертной комиссии Центров оценки квалификации.<br><br></p>
+                                    работе экспертной комиссии Центров оценки квалификации.</p>
                                 <a href="250119.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/80.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/80.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="070219-1.php">НАРК подвело итоги 2018 года и обсудило развитие системы независимой оценки квалификаций в 2019 году</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 07/02/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>2018 год внес очень значимый вклад в развитие системы независимой оценки квалификаций в России.<br><br><br></p>
+                                <a href="070219-1.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/81.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/81.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="070219-2.php">Представители ЦОК «НИИМЭ» приняли участие в расширенном заседании Совета по профессиональным квалификациям в наноиндустрии</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 07/02/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>31 января состоялось расширенное заседание Совета по профессиональным квалификациям в наноиндустрии.</p>
+                                <a href="070219-2.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/82.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/82.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="070219-3.php">Эффективному бизнесу — эффективные кадры</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 07/02/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Прогресс неумолим. Общество развивается: появляются новые знания, новые технологии, новые сферы деятельности,
+                                    динамично меняется рынок. Чтобы оставаться в тренде, необходимо системно повышать свой профессиональный уровень, формировать новые умения и навыки.<br><br></p>
+                                <a href="070219-3.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
