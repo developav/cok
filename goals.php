@@ -5,7 +5,7 @@
 	<?php include "includes/head-meta.php"; ?>
 	<!-- Document Title
 	============================================= -->
-	<title>Наши проекты | ЦОК</title>
+	<title>Цели и задачи | ЦОК</title>
 
 </head>
 

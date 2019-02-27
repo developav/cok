@@ -26,6 +26,7 @@
 								<li><a href="/standardsniime.php"><div>Оценка в НИИМЭ: Профессиональные стандарты</div></a></li>
 							</ul>
 						</li>
+                        <li><a href="/centers.php"><div>Экзаменационные центры</div></a></li>
 						<li><a href="/team.php"><div>Наша команда</div></a></li>
 						<li><a href="/news.php"><div>Новости</div></a></li>
 						<li><a href="/contacts.php"><div>Контакты</div></a></li>
@@ -38,7 +39,7 @@
 						<li><a href="/expertpage.php"><div><i class="icon-params"></i>Эксперту</div></a></li>
 					</ul>
 				</li>
-				<!--<li class="mega-menu"><a href="./projects.php"><div>Проекты</div></a></li>-->
+				<!--<li class="mega-menu"><a href="./projects.php"><div>Экзаменационные центры</div></a></li>-->
 				<li><a href="/partners.php"><div>Партнеры</div></a></li>
 				<li class="mega-menu"><a href="/news.php"><div>Новости</div></a></li>
 				<li><a href="/contacts.php"><div>Контакты</div></a></li>
