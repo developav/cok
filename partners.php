@@ -49,14 +49,23 @@
 
 						<ul class="clients-grid nobottommargin clearfix">
 							<li><a href="http://www.rusnano.com/infrastructure/"><img src="images/clients/rosnanof.jpg" alt="Clients"></a></li>
-							<!--<li><a href="http://www.rusnano.com"><img src="images/clients/rosnano.jpg" alt="Clients"></a></li>-->
 							<li><a href="http://spknano.ru/"><img src="images/clients/spk.jpg" alt="Clients"></a></li>
 							<li><a href="http://nark.ru/"><img src="images/clients/nark.jpg" alt="Clients"></a></li>
 							<li><a href="https://mipt.ru/"><img src="images/clients/mfti.jpg" alt="Clients"></a></li>
 							<li><a href="https://miet.ru/"><img src="images/clients/miet.png" alt="Clients"></a></li>
 							<li><a href="http://www.monrf.ru/"><img src="images/clients/mon.jpg" alt="Clients"></a></li>
 							<li><a href="http://www.mikron.ru/"><img src="images/clients/mikron.jpg" alt="Clients"></a></li>
-							<li><a href="http://www.niitm.ru"><img src="images/clients/niitm.jpg" alt="Clients"></a></li>
+                            <li><a href="http://www.niitm.ru"><img src="images/clients/niitm.jpg" alt="Clients"></a></li>
+                            <li><a href="http://www.istokmw.ru"><img src="images/clients/istok.jpg" alt="Clients"></a></li>
+                            <li><a href="http://www.angstrem.ru/ru"><img src="images/clients/angstrem.jpg" alt="Clients"></a></li>
+                        </ul>
+                        <ul class="clients-grid nobottommargin clearfix">
+                            <li><a href="https://www.milandr.ru"><img src="images/clients/milandr.jpg" alt="Clients"></a></li>
+                            <li><a href="http://www.connectoroptics.ru"><img src="images/clients/connectoroptics.jpg" alt="Clients"></a></li>
+                            <li><a href="https://www.polyus.info"><img src="images/clients/polyus.jpg" alt="Clients"></a></li>
+                            <li><a href="https://ostec-electro.ru"><img src="images/clients/ostec-electro.jpg" alt="Clients"></a></li>
+                            <li><a href="http://www.vsu.ru"><img src="images/clients/vsu.jpg" alt="Clients"></a></li>
+                            <li><a href="http://www.kpkrz.ru"><img src="images/clients/kpkrz.jpg" alt="Clients"></a></li>
 							<!--<li class="hidden-xs"><a href="#"><img src="images/clients/10.png" alt="Clients"></a></li>-->
 						</ul>
 
