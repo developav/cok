@@ -115,7 +115,7 @@
                                 <img src="images/team/smirnova.jpg" alt="Smirnova">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Екатерина Юрьевна Смирнова</a></h4><span>Специалист по оценке Центра оценки квалификации АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="#">Екатерина Юрьевна Смирнова</a></h4><span>Ассистент ЦОК АО НИИМЭ</span></div>
                                 <div class="team-content">
                                     <p>ЭКСПЕРТ ПО ОЦЕНКЕ</p>
                                 </div>
@@ -134,7 +134,7 @@
                             <div class="team-desc">
                                 <div class="team-title"><h4><a href="#">Дмитрий Алексеевич Жукалин</a></h4><span>Руководитель экзаменационного центра Воронежского государственного университета</span></div>
                                 <div class="team-content">
-                                    <!--<p>ЭКСПЕРТ ПО ОЦЕНКЕ</p>-->
+                                    <p>ЭКСПЕРТ ПО ОЦЕНКЕ</p>
                                 </div>
                             </div>
                         </div>
@@ -206,6 +206,7 @@
                     </div>
 
                 </div>
+
                 <div class="row">
 
                     <div class="col-md-6 bottommargin">
@@ -417,6 +418,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="row">
 
                     <div class="col-md-6 bottommargin">
@@ -448,19 +450,169 @@
                     </div>
                 </div>
 
-                    <!-- <div class="col-md-6 bottommargin">
-                         <div class="team team-list clearfix">
-                             <div class="team-image">
-                                 <img src="images/team/lukyanchikov.jpg" alt="Lukyanchikov">
-                             </div>
-                             <div class="team-desc">
-                                 <div class="team-title"><h4>Лукянчиков Максим Владимирович</h4><span>Ведущий инженер по наладке и испытаниям оборудования ПАО «МИКРОН»</span></div>
-                                 <div class="team-content">
-                                     <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
-                                 </div>
+                <div class="row">
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/gorshkova.jpg" alt="Gorshkova">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="#">Горшкова Наталья Михайловна</a></h4><span>Начальник лаборатории АО НПЦ «Элвис»</span></div>
+                                <div class="team-content">
+                                    <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/shadrova.jpg" alt="Shadrova">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="#">Шадрова Елена Николаевна</a></h4><span>Начальник техбюро АО «Ангстрем»</span></div>
+                                <div class="team-content">
+                                    <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/baranov.jpg" alt="Baranov">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="#">Баранов Глеб Владимирович</a></h4><span>Начальник лаборатории АО «НИИМЭ»</span></div>
+                                <div class="team-content">
+                                    <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/panin.jpg" alt="Panin">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="#">Панин Виталий Вячеславович</a></h4><span>Начальник отдела ОАО «НИИТМ»</span></div>
+                                <div class="team-content">
+                                    <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/zuev.jpg" alt="Zuev">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="#">Зуев Егор Владимирович</a></h4><span>Инженер НИУ МИЭТ</span></div>
+                                <div class="team-content">
+                                    <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/vertyanov.jpg" alt="Vertyanov">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="#">Вертянов Денис Васильевич</a></h4><span>Руководитель УНЦ НИУ МИЭТ</span></div>
+                                <div class="team-content">
+                                    <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/kosolapova.jpg" alt="Kosolapova">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="#">Косолапова Галина Викторовна</a></h4><span>Старший преподаватель НИУ МИЭТ</span></div>
+                                <div class="team-content">
+                                    <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/zhuravlev.jpg" alt="Zhuravlev">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="#">Журавлев Максим Николаевич</a></h4><span>Доцент НИУ  МИЭТ</span></div>
+                                <div class="team-content">
+                                    <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/kosolapov.jpg" alt="Kosolapov">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="#">Косолапов Андрей Алексеевич</a></h4><span>Инженер-конструктор АО «НТЦ ЭЛИНС»</span></div>
+                                <div class="team-content">
+                                    <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/kochurina.jpg" alt="Kochurina">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="#">Кочурина Елена Сергеевна</a></h4><span>Инженер-конструктор НИУ МИЭТ</span></div>
+                                <div class="team-content">
+                                    <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- <div class="col-md-6 bottommargin">
+                     <div class="team team-list clearfix">
+                         <div class="team-image">
+                             <img src="images/team/lukyanchikov.jpg" alt="Lukyanchikov">
+                         </div>
+                         <div class="team-desc">
+                             <div class="team-title"><h4>Лукянчиков Максим Владимирович</h4><span>Ведущий инженер по наладке и испытаниям оборудования ПАО «МИКРОН»</span></div>
+                             <div class="team-content">
+                                 <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
                              </div>
                          </div>
-                     </div>-->
+                     </div>
+                 </div>-->
                 </div>
                 <div class="clear"></div>
 
