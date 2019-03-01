@@ -162,24 +162,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/79.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/79.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="250119.php">Расширился состав команды технических экспертов и экспертов по оценке ЦОК АО «НИИМЭ»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 25/01/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>28 декабря состоялось заседание СПК в наноиндустрии, на котором были рассмотрены результаты аттестации специалистов на право участия в
-                                    работе экспертной комиссии Центров оценки квалификации.</p>
-                                <a href="250119.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/80.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/80.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -227,6 +209,23 @@
                                 <p>Прогресс неумолим. Общество развивается: появляются новые знания, новые технологии, новые сферы деятельности,
                                     динамично меняется рынок. Чтобы оставаться в тренде, необходимо системно повышать свой профессиональный уровень, формировать новые умения и навыки.<br><br></p>
                                 <a href="070219-3.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/83.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/83.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="010319.php">Перспективы развития НОК обсудили на III Санкт-Петербургском международном форуме труда</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 01/03/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>С 28 февраля по 1 марта текущего года проходит III Санкт-Петербургский международный форум труда.<br><br><br><br></p>
+                                <a href="010319.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

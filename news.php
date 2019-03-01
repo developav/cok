@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/010319.php"><img class="image_fade" src="images/news/grid/83.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="010319.php">Перспективы развития НОК обсудили на III Санкт-Петербургском международном форуме труда</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 01/03/2019</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>С 28 февраля по 1 марта текущего года проходит III Санкт-Петербургский международный форум труда. <a href="/010319.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/070219-3.php"><img class="image_fade" src="images/news/grid/82.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
