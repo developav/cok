@@ -155,6 +155,15 @@
 						</div>
 
                         <div class="heading-block fancy-title nobottomborder title-bottom-border bottommargin-sm">
+                            <h4>Независимая оценка квалификации проходит на следующих экзаменационных площадках:</h4>
+                        </div>
+
+                        <ul class="iconlist iconlist iconlist-color">
+                            <li><i class="icon-ok-sign"></i> Аудитории Центра оценки квалификации АО  «НИИМЭ» по адресу: г. Москва, Зеленоград, 1-й Западный проезд, д. 12, стр. 1</li>
+                            <li><i class="icon-ok-sign"></i> ЭЦ Воронежского государственного университета по адресу: г. Воронеж, Университетская площадь, д. 1</li>
+                        </ul>
+
+                        <div class="heading-block fancy-title nobottomborder title-bottom-border bottommargin-sm">
                             <h4>Порядок подачи и рассмотрения апелляции:</h4>
                         </div>
 

@@ -48,6 +48,7 @@
                         <div class="heading-block fancy-title nobottomborder title-bottom-border">
                             <h4>Наш первый экзаменационный центр</h4>
                         </div>
+
 						<div class="col_one_third">
 						    <div class="heading-block fancy-title nobottomborder">
                                 <p style="font-size: 120%"><b><a href="http://www.vsu.ru">Воронежский государственный университет</a></b></p>
@@ -55,12 +56,14 @@
                         </div>
 
                         <div class="col_one_third">
-                            <p style="font-size: 120%">394018, Россия, г. Воронеж, Университетская площадь, 1<br><b>Руководитель:</b> Жукалин Дмитрий Алексеевич, эксперт по оценке<br>
-                                <b>Контакты: </b><a href="mailto:d.zhukalin@mail.ru">d.zhukalin@mail.ru</p>
+                            <p style="font-size: 120%"><b>Руководитель центра:</b> Жукалин Дмитрий Алексеевич,<br>Начальник управления инноваций и предпринимательства,
+                                доцент кафедры физики полупроводников  и микроэлектроники, кандидат физико-математических наук.<br>
+                                <b>Контакты: </b><a href="mailto:d.zhukalin@mail.ru">d.zhukalin@mail.ru</a></p>
                         </div>
 
                         <div class="col_last">
-                            <img src="/images/vgu_gmap.png" width="313" height="157" alt="VGU">
+                            <img src="/images/vgu_gmap.png" width="345" height="175" alt="VGU">
+                            <p>394018, Россия, г. Воронеж, Университетская площадь, 1</p>
                         </div>
 
 

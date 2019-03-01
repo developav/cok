@@ -59,7 +59,7 @@
 								<div class="entry clearfix">
 									
 									<div class="entry-image">
-										<img class="image_fade" src="images/standards/ps21.jpg" alt="Standard 21"></a>
+										<img class="image_fade" src="images/standards/ps21.jpg" alt="Standard 21">
 									</div>
 									
 									<div class="entry-c">
@@ -83,7 +83,7 @@
 								<div class="entry clearfix">
 									
 									<div class="entry-image">
-										<img class="image_fade" src="images/standards/ps26.jpg" alt="Standard 26"></a>
+										<img class="image_fade" src="images/standards/ps26.jpg" alt="Standard 26">
 									</div>
 									
 									<div class="entry-c">
@@ -109,7 +109,7 @@
 								<div class="entry clearfix">
 									
 									<div class="entry-image">
-										<img class="image_fade" src="images/standards/ps85.jpg" alt="Standard 85"></a>
+										<img class="image_fade" src="images/standards/ps85.jpg" alt="Standard 85">
 									</div>
 									
 									<div class="entry-c">
@@ -132,7 +132,7 @@
 								<div class="entry clearfix">
 									
 									<div class="entry-image">
-										<img class="image_fade" src="images/standards/ps90.jpg" alt="Standard 85"></a>
+										<img class="image_fade" src="images/standards/ps90.jpg" alt="Standard 85">
 									</div>
 									
 									<div class="entry-c">
@@ -156,7 +156,7 @@
 								<div class="entry clearfix">
 									
 									<div class="entry-image">
-										<img class="image_fade" src="images/standards/ps168.jpg" alt="Standard 168"></a>
+										<img class="image_fade" src="images/standards/ps168.jpg" alt="Standard 168">
 									</div>
 									
 									<div class="entry-c">
@@ -180,7 +180,7 @@
 								<div class="entry clearfix">
 									
 									<div class="entry-image">
-										<img class="image_fade" src="images/standards/ps172.jpg" alt="Standard 172"></a>
+										<img class="image_fade" src="images/standards/ps172.jpg" alt="Standard 172">
 									</div>
 									
 									<div class="entry-c">
@@ -204,7 +204,7 @@
 								<div class="entry clearfix">
 									
 									<div class="entry-image">
-										<img class="image_fade" src="images/standards/ps174.jpg" alt="Standard 174"></a>
+										<img class="image_fade" src="images/standards/ps174.jpg" alt="Standard 174">
 									</div>
 									
 									<div class="entry-c">
@@ -219,7 +219,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps174-q6.pdf">Инженер-технолог по разработке технологии производства приборов квантовой электроники и фотоники (6-ой уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps174-q7.pdf">Инженер-технолог по разработке технологии производства приборов квантовой электроники и фотоники (7 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps174-q8.pdf">Руководитель подразделения разработки технологии производства приборов квантовой электроники и фотоники (8-ой уровень квалификации)</a></li>
-												<!-- <li><i class="icon-file"></i><a href="regulationdocs/standards/ps174-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li> -->
+												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps174-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
@@ -229,7 +229,7 @@
 
                                 <div class="entry clearfix">
                                     <div class="entry-image">
-                                        <img class="image_fade" src="images/standards/ps176.jpg" alt="Standard 176"></a>
+                                        <img class="image_fade" src="images/standards/ps176.jpg" alt="Standard 176">
                                     </div>
 
                                     <div class="entry-c">
@@ -252,7 +252,7 @@
 								<div class="entry clearfix">
 									
 									<div class="entry-image">
-										<img class="image_fade" src="images/standards/ps177.jpg" alt="Standard 177"></a>
+										<img class="image_fade" src="images/standards/ps177.jpg" alt="Standard 177">
 									</div>
 									
 									<div class="entry-c">
@@ -277,7 +277,7 @@
 								<div class="entry clearfix">
 									
 									<div class="entry-image">
-										<img class="image_fade" src="images/standards/ps182.jpg" alt="Standard 182"></a>
+										<img class="image_fade" src="images/standards/ps182.jpg" alt="Standard 182">
 									</div>
 									
 									<div class="entry-c">
@@ -300,7 +300,7 @@
 
 								<div class="entry clearfix">
 									<div class="entry-image">
-										<img class="image_fade" src="images/standards/ps538.jpg" alt="Standard 538"></a>
+										<img class="image_fade" src="images/standards/ps538.jpg" alt="Standard 538">
 									</div>
 									<div class="entry-c">
 										<div class="fancy-title title-bottom-border">
@@ -325,7 +325,7 @@
 
 								<div class="entry clearfix">
 									<div class="entry-image">
-										<img class="image_fade" src="images/standards/ps543.jpg" alt="Standard 543"></a>
+										<img class="image_fade" src="images/standards/ps543.jpg" alt="Standard 543">
 									</div>
 									<div class="entry-c">
 										<div class="fancy-title title-bottom-border">
@@ -342,7 +342,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps543-q6-1.pdf">Инженер по технической поддержке технологической базы производства приборов квантовой электроники и фотоники (6 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps543-q6-2.pdf">Руководитель подразделения наладки оборудования для производства приборов квантовой электроники и фотоники (6 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps543-q7.pdf">Руководитель подразделения по производству приборов квантовой электроники и фотоники (7 уровень квалификации)</a></li>
-												<!-- <li><i class="icon-file"></i><a href="regulationdocs/standards/ps543-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li> -->
+												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps543-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
@@ -352,7 +352,7 @@
 
 								<div class="entry clearfix">
 									<div class="entry-image">
-										<img class="image_fade" src="images/standards/ps848.jpg" alt="Standard 848"></a>
+										<img class="image_fade" src="images/standards/ps848.jpg" alt="Standard 848">
 									</div>
 									<div class="entry-c">
 										<div class="fancy-title title-bottom-border">
@@ -367,7 +367,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps848-q6-2.pdf">Инженер-технолог по контролю качества готовых изделий «система в корпусе» (6 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps848-q7-1.pdf">Инженер-технолог по разработке, контролю и корректировке технологических маршрутов и процессов изготовления изделий «система в корпусе» (7 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps848-q7-2.pdf">Руководитель производства изделий «система в корпусе» (7 уровень квалификации)</a></li>
-												<!-- <li><i class="icon-file"></i><a href="regulationdocs/standards/ps543-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li> -->
+												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps848-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
@@ -377,7 +377,7 @@
 
 								<div class="entry clearfix">
 									<div class="entry-image">
-										<img class="image_fade" src="images/standards/ps850.jpg" alt="Standard 850"></a>
+										<img class="image_fade" src="images/standards/ps850.jpg" alt="Standard 850">
 									</div>
 									<div class="entry-c">
 										<div class="fancy-title title-bottom-border">
@@ -392,7 +392,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps848-q6-2.pdf">Инженер-конструктор по разработке конструкторской и технологической документации на изделия «система в корпусе» (6 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps848-q7-1.pdf">Инженер-технолог по моделированию и разработке топологии и технологии монтажа, сборки и корпусирования изделий «система в корпусе» (7 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps848-q7-2.pdf">Руководитель работ по проектированию изделий «система в корпусе» (7 уровень квалификации)</a></li>
-												<!-- <li><i class="icon-file"></i><a href="regulationdocs/standards/ps543-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li> -->
+												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps850-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
