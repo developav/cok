@@ -362,6 +362,15 @@
                         <div class="oc-item"><a href="https://www.mikron.ru"><img src="images/clients/mikron.jpg" alt="Clients"></a></div>
                         <div class="oc-item"><a href="https://www.niitm.ru"><img src="images/clients/niitm.jpg" alt="Clients"></a></div>
 
+                        <div class="oc-item"><a href="http://www.istokmw.ru"><img src="images/clients/istok.jpg" alt="Clients"></a></div>
+                        <div class="oc-item"><a href="http://www.angstrem.ru/ru"><img src="images/clients/angstrem.jpg" alt="Clients"></a></div>
+                        <div class="oc-item"><a href="https://www.milandr.ru"><img src="images/clients/milandr.jpg" alt="Clients"></a></div>
+                        <div class="oc-item"><a href="http://www.connectoroptics.ru"><img src="images/clients/connectoroptics.jpg" alt="Clients"></a></div>
+                        <div class="oc-item"><a href="https://www.polyus.info"><img src="images/clients/polyus.jpg" alt="Clients"></a></div>
+                        <div class="oc-item"><a href="https://ostec-electro.ru"><img src="images/clients/ostec-electro.jpg" alt="Clients"></a></div>
+                        <div class="oc-item"><a href="http://www.vsu.ru"><img src="images/clients/vsu.jpg" alt="Clients"></a></div>
+                        <div class="oc-item"><a href="http://www.kpkrz.ru"><img src="images/clients/kpkrz.jpg" alt="Clients"></a></div>
+
 					</div>
 
 				</div>
