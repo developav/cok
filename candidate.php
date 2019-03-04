@@ -161,6 +161,7 @@
                         <ul class="iconlist iconlist iconlist-color">
                             <li><i class="icon-ok-sign"></i> Аудитории Центра оценки квалификации АО  «НИИМЭ» по адресу: г. Москва, Зеленоград, 1-й Западный проезд, д. 12, стр. 1</li>
                             <li><i class="icon-ok-sign"></i> ЭЦ Воронежского государственного университета по адресу: г. Воронеж, Университетская площадь, д. 1</li>
+                            <li><i class="icon-ok-sign"></i> Стоимость  услуги по оценке квалификации составляет  <b>15 000</b> рублей</li>
                         </ul>
 
                         <div class="heading-block fancy-title nobottomborder title-bottom-border bottommargin-sm">
