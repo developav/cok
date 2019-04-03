@@ -162,23 +162,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/80.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/80.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="070219-1.php">НАРК подвело итоги 2018 года и обсудило развитие системы независимой оценки квалификаций в 2019 году</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 07/02/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>2018 год внес очень значимый вклад в развитие системы независимой оценки квалификаций в России.<br><br><br></p>
-                                <a href="070219-1.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/81.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/81.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -226,6 +209,23 @@
                             <div class="entry-content">
                                 <p>С 28 февраля по 1 марта текущего года проходит III Санкт-Петербургский международный форум труда.<br><br><br><br></p>
                                 <a href="010319.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/84.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/84.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="020419.php">Национальный совет при Президенте Российской Федерации по профессиональным квалификациям прошел в обновленном составе.</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 03/04/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>27 марта 2019 года прошло заседании Национального совета при Президенте Российской Федерации по профессиональным квалификациям</p>
+                                <a href="020419.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

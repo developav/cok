@@ -50,6 +50,27 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/020419.php"><img class="image_fade" src="images/news/grid/84.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="020419.php">Национальный совет при Президенте Российской Федерации по профессиональным квалификациям прошел в обновленном составе.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 03/04/2019</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>27 марта 2019 года на заседании Национального совета при Президенте Российской Федерации по профессиональным квалификациям под председательством
+                                            президента Российского союза промышленников и предпринимателей Александра Шохина обсудили вопросы развития Национальной системы
+                                            квалификаций.<a href="/020419.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/010319.php"><img class="image_fade" src="images/news/grid/83.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
