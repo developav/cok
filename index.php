@@ -162,23 +162,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/81.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/81.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="070219-2.php">Представители ЦОК «НИИМЭ» приняли участие в расширенном заседании Совета по профессиональным квалификациям в наноиндустрии</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 07/02/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>31 января состоялось расширенное заседание Совета по профессиональным квалификациям в наноиндустрии.</p>
-                                <a href="070219-2.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/82.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/82.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -229,6 +212,22 @@
                             </div>
                         </div>
 
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/85.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/85.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="100419.php">В АО «НИИМЭ» прошло совещание с членами комиссии и рабочими группами по внедрению на предприятии независимой оценки квалификации</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 10/04/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>5 апреля 2019 года в АО «НИИМЭ» прошло установочное совещание по внедрению на предприятии независимой оценки квалификации</p>
+                                <a href="100419.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
 
                     </div>
                 </div><!-- end news block -->
