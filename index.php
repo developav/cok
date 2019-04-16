@@ -162,24 +162,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/82.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/82.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="070219-3.php">Эффективному бизнесу — эффективные кадры</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 07/02/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Прогресс неумолим. Общество развивается: появляются новые знания, новые технологии, новые сферы деятельности,
-                                    динамично меняется рынок. Чтобы оставаться в тренде, необходимо системно повышать свой профессиональный уровень, формировать новые умения и навыки.<br><br></p>
-                                <a href="070219-3.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/83.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/83.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -190,7 +172,7 @@
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>С 28 февраля по 1 марта текущего года проходит III Санкт-Петербургский международный форум труда.<br><br><br><br></p>
+                                <p>С 28 февраля по 1 марта текущего года проходит III Санкт-Петербургский международный форум труда.<br><br><br><br><br></p>
                                 <a href="010319.php" class="more-link">Далее</a>
                             </div>
                         </div>
@@ -207,7 +189,7 @@
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>27 марта 2019 года прошло заседании Национального совета при Президенте Российской Федерации по профессиональным квалификациям</p>
+                                <p>27 марта 2019 года прошло заседании Национального совета при Президенте Российской Федерации по профессиональным квалификациям<br><br></p>
                                 <a href="020419.php" class="more-link">Далее</a>
                             </div>
                         </div>
@@ -217,7 +199,7 @@
                                 <a href="images/news/full/85.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/85.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="100419.php">В АО «НИИМЭ» прошло совещание с членами комиссии и рабочими группами по внедрению на предприятии независимой оценки квалификации</a></h2>
+                                <h2><a href="100419.php">В АО «НИИМЭ» прошло совещание с членами комиссии и рабочими группами по внедрению на предприятии независимой оценки квалификации<br><br></a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
                                 <li><i class="icon-calendar3"></i> 10/04/2019</li>
@@ -226,6 +208,24 @@
                             <div class="entry-content">
                                 <p>5 апреля 2019 года в АО «НИИМЭ» прошло установочное совещание по внедрению на предприятии независимой оценки квалификации</p>
                                 <a href="100419.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/86.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/86.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="150419.php">НИИМЭ посетили руководители ВГУ</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 15/04/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>12 апреля АО «НИИМЭ» посетили руководители Воронежского государственного университета: проректор по науке и инновациям, доктор химических наук Олег Козадеров
+                                    и начальник управления инноваций и предпринимательства, кандидат физико-математических наук, руководитель Экзаменационного центра ВГУ Дмитрий Жукалин. .</p>
+                                <a href="150419.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
