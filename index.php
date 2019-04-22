@@ -162,23 +162,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/83.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/83.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="010319.php">Перспективы развития НОК обсудили на III Санкт-Петербургском международном форуме труда</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 01/03/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>С 28 февраля по 1 марта текущего года проходит III Санкт-Петербургский международный форум труда.<br><br><br><br><br></p>
-                                <a href="010319.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/84.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/84.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -224,8 +207,25 @@
                             </ul>
                             <div class="entry-content">
                                 <p>12 апреля АО «НИИМЭ» посетили руководители Воронежского государственного университета: проректор по науке и инновациям, доктор химических наук Олег Козадеров
-                                    и начальник управления инноваций и предпринимательства, кандидат физико-математических наук, руководитель Экзаменационного центра ВГУ Дмитрий Жукалин. .</p>
+                                    и начальник управления инноваций и предпринимательства, кандидат физико-математических наук, руководитель Экзаменационного центра ВГУ Дмитрий Жукалин.</p>
                                 <a href="150419.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/87.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/87.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="220419.php">В Воронеже состоялась рабочая встреча руководителей ВГУ и руководителей СПК наноиндустрии</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 22/04/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>12 апреля 2019 в Воронеже состоялась рабочая встреча руководителей Воронежского государственного университета (ВГУ) и руководителей СПК наноиндустрии.<br><br><br></p>
+                                <a href="220419.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
