@@ -347,8 +347,36 @@
 										</div>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
-
 								</div>
+
+
+
+                                <div class="entry clearfix">
+                                    <div class="entry-image">
+                                        <img class="image_fade" src="images/standards/ps545.jpg" alt="Standard 545">
+                                    </div>
+                                    <div class="entry-c">
+                                        <div class="fancy-title title-bottom-border">
+                                            <h5>Профессиональный стандарт № 545</h5>
+                                        </div>
+                                        <div class="entry-title">
+                                            <p>«Специалист по измерению параметров и модификации свойств наноматериалов и наноструктур»</p>
+                                            <ul class="iconlist">
+
+                                                <li><i class="icon-file"></i><a href="">Описание стандарта в формате PDF</a></li>
+                                                <li><i class="icon-file"></i><a href="">Техник-лаборант по измерению параметров наноматериалов и наноструктур (5 уровень квалификации)</a></li>
+                                                <li><i class="icon-file"></i><a href="">Техник по модификации свойств наноматериалов и наноструктур (5 уровень квалификации)</a></li>
+                                                <li><i class="icon-file"></i><a href="">Инженер по модернизации существующих и внедрению новых процессов измерения параметров и модификации свойств наноматериалов и наноструктур (6 уровень квалификации)</a></li>
+                                                <li><i class="icon-file"></i><a href="">Руководитель подразделений по измерению параметров и модификации свойств наноматериалов и наноструктур (7 уровень квалификации)</a></li>
+                                                <li><i class="icon-file"></i><a href="">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
+                                            </ul>
+                                        </div>
+                                        <a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
+                                    </div>
+                                </div>
+
+
+
 
 								<div class="entry clearfix">
 									<div class="entry-image">
@@ -446,6 +474,7 @@
 													<option value="ps-182">182 - Инженер-проектировщик фотошаблонов наносистем</option>
 													<option value="ps-538">538 - Cпециалист по проектированию и обслуживанию</option>
 													<option value="ps-543">543 - Cпециалист технического обеспечения процессов</option>
+                                                    <option value="ps-545">545 - Специалист по измерению параметров и модификации свойств наноматериалов и наноструктур</option>
 													<option value="ps-848">848 - Специалист по технологии производства систем в корпусе</option>
 													<option value="ps-850">850 - Специалист по проектированию систем в корпусе</option>
 												</select>
