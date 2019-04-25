@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/250419.php"><img class="image_fade" src="images/news/grid/88.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="250419.php">Представители ЦОК АО «НИИМЭ» приняли участие в первом в текущем году семинаре по вопросам разработки отраслевых рамок квалификаций</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 25/04/2019</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Представители ЦОК АО «НИИМЭ» приняли участие в первом в текущем году семинаре по вопросам разработки отраслевых рамок квалификаций, организованном Национальным агентством развития квалификаций (АНО НАРК)<a href="/250419.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/220419.php"><img class="image_fade" src="images/news/grid/87.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
