@@ -163,23 +163,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/85.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/85.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="100419.php">В АО «НИИМЭ» прошло совещание с членами комиссии и рабочими группами по внедрению на предприятии независимой оценки квалификации<br><br></a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 10/04/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>5 апреля 2019 года в АО «НИИМЭ» прошло установочное совещание по внедрению на предприятии независимой оценки квалификации</p>
-                                <a href="100419.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/86.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/86.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -227,6 +210,23 @@
                             <div class="entry-content">
                                 <p>Представители ЦОК АО «НИИМЭ» приняли участие в первом в текущем году семинаре по вопросам разработки отраслевых рамок квалификаций,
                                     организованном Национальным агентством развития квалификаций (АНО НАРК)<br></p>
+                                <a href="250419.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/89.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/89.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="250419.php">Перечень квалификаций, по которым можно пройти процедуру независимой оценки в ЦОК «НИИМЭ» продолжает расширяться</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 16/05/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Протоколом СПК № 34 в апреле 2019 года добавлен профессиональный стандарт № 545<br><br></p>
                                 <a href="250419.php" class="more-link">Далее</a>
                             </div>
                         </div>
