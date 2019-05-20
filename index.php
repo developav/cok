@@ -219,7 +219,7 @@
                                 <a href="images/news/full/89.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/89.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="250419.php">Перечень квалификаций, по которым можно пройти процедуру независимой оценки в ЦОК «НИИМЭ» продолжает расширяться</a></h2>
+                                <h2><a href="160519.php">Перечень квалификаций, по которым можно пройти процедуру независимой оценки в ЦОК «НИИМЭ» продолжает расширяться</a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
                                 <li><i class="icon-calendar3"></i> 16/05/2019</li>
@@ -227,7 +227,7 @@
                             </ul>
                             <div class="entry-content">
                                 <p>Протоколом СПК № 34 в апреле 2019 года добавлен профессиональный стандарт № 545<br><br></p>
-                                <a href="250419.php" class="more-link">Далее</a>
+                                <a href="160519.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
