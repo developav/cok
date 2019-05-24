@@ -163,24 +163,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/86.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/86.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="150419.php">НИИМЭ посетили руководители ВГУ</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 15/04/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>12 апреля АО «НИИМЭ» посетили руководители Воронежского государственного университета: проректор по науке и инновациям, доктор химических наук Олег Козадеров
-                                    и начальник управления инноваций и предпринимательства, кандидат физико-математических наук, руководитель Экзаменационного центра ВГУ Дмитрий Жукалин.</p>
-                                <a href="150419.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/87.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/87.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -228,6 +210,23 @@
                             <div class="entry-content">
                                 <p>Протоколом СПК № 34 в апреле 2019 года добавлен профессиональный стандарт № 545<br><br></p>
                                 <a href="160519.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/90.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/90.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="240519.php">Актуализация перечней профессий и специальностей – инструмент настройки СПО на требования современного рынка труда</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 24/05/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Состоялось Всероссийское совещание по вопросам разработки и внедрения актуализированных перечней профессий и специальностей среднего профессионального образования</p>
+                                <a href="240519.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

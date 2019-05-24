@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/240519.php"><img class="image_fade" src="images/news/grid/90.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="240519.php">Актуализация перечней профессий и специальностей – инструмент настройки СПО на требования современного рынка труда.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 24/05/2019</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>22.05.2019 Москве состоялось Всероссийское совещание по вопросам разработки и внедрения актуализированных перечней профессий и специальностей среднего профессионального образования (СПО).<a href="/240519.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/160519.php"><img class="image_fade" src="images/news/grid/89.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
@@ -60,7 +79,7 @@
                                         <li><i class="icon-calendar3"></i> 16/05/2019</li>
                                     </ul>
                                     <div class="entry-content col_last">
-                                        <p>Протоколом СПК № 34 в апреле 2019 года добавлен профессиональный стандарт № 545 «Специалист по измерению параметров и модификации свойств наноматериалов и наноструктур».<a href="/250419.php" class="more-link"> (Дальше...)</a></p>
+                                        <p>Протоколом СПК № 34 в апреле 2019 года добавлен профессиональный стандарт № 545 «Специалист по измерению параметров и модификации свойств наноматериалов и наноструктур».<a href="/160519.php" class="more-link"> (Дальше...)</a></p>
                                     </div>
                                 </div>
                             </div>
