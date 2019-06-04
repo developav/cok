@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/030619.php"><img class="image_fade" src="images/news/grid/91.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="030619.php">Возможность пройти независимую оценку квалификации должны получить как можно больше работников.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 03/06/2019</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>К профессиональным экзаменам для подтверждения квалификации можно допускать не только соискателей с профильным образованием, но и тех, кто такого образования не имеет, зато имеет опыт работы. <a href="/030619.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/240519.php"><img class="image_fade" src="images/news/grid/90.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

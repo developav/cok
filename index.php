@@ -161,22 +161,7 @@
                             </div>
                         </div> -->
 
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/87.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/87.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="220419.php">В Воронеже состоялась рабочая встреча руководителей ВГУ и руководителей СПК наноиндустрии</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 22/04/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>12 апреля 2019 в Воронеже состоялась рабочая встреча руководителей Воронежского государственного университета (ВГУ) и руководителей СПК наноиндустрии.<br><br><br></p>
-                                <a href="220419.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
+
 
                         <div class="entry clearfix">
                             <div class="entry-image">
@@ -227,6 +212,23 @@
                             <div class="entry-content">
                                 <p>Состоялось Всероссийское совещание по вопросам разработки и внедрения актуализированных перечней профессий и специальностей среднего профессионального образования</p>
                                 <a href="240519.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/91.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/91.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="030619.php">Возможность пройти независимую оценку квалификации должны получить как можно больше работников</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 03/06/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>К профессиональным экзаменам для подтверждения квалификации можно допускать не только соискателей с профильным образованием, но и тех, кто такого образования не имеет, зато имеет опыт работы.<br><br></p>
+                                <a href="030619.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
