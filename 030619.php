@@ -80,6 +80,18 @@
                                 <p></p>
                                 <p></p>
 
+                                <!---------->
+                                <?php
+                                $url = $_SERVER['REQUEST_URI'];
+                                if ($url == "/030619.php") {
+                                    ?><p><a href="https://nark.ru/news/vozmozhnost-proyti-nezavisimuyu-otsenku-kvalifikats.php" target="_blank">Подробнее    </a></p>
+                                <?php
+                                }
+                                ?>
+
+                                <!---------->
+
+
                                 <p><a href="https://nark.ru/news/vozmozhnost-proyti-nezavisimuyu-otsenku-kvalifikats.php" target="_blank">Подробнее    </a></p>
 
 								<div class="clear"></div>
