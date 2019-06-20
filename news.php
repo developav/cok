@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/200619.php"><img class="image_fade" src="images/news/grid/92.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="200619.php">Первый экзамен в рамках пилотного проекта интеграции государственной итоговой аттестации с инструментами независимой оценки квалификаций</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 20/06/2019</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>18.06.2019 в Воронежском государственном университете успешно прошел первый экзамен в рамках пилотного проекта интеграции ГИА (государственной итоговой аттестации) с инструментами независимой оценки квалификаций «Вход в профессию». <a href="/200619.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/030619.php"><img class="image_fade" src="images/news/grid/91.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

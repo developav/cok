@@ -162,25 +162,6 @@
                         </div> -->
 
 
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/88.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/88.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="250419.php">Состоялся первый в текущем году семинар по вопросам разработки отраслевых рамок квалификаций</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 25/04/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Представители ЦОК АО «НИИМЭ» приняли участие в первом в текущем году семинаре по вопросам разработки отраслевых рамок квалификаций,
-                                    организованном Национальным агентством развития квалификаций (АНО НАРК)<br></p>
-                                <a href="250419.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
                         <div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/89.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/89.jpg" alt="News"></a>
@@ -229,6 +210,23 @@
                             <div class="entry-content">
                                 <p>К профессиональным экзаменам для подтверждения квалификации можно допускать не только соискателей с профильным образованием, но и тех, кто такого образования не имеет, зато имеет опыт работы.<br><br></p>
                                 <a href="030619.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/92.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/92.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="200619.php">Первый экзамен в рамках пилотного проекта интеграции государственной итоговой аттестации с инструментами независимой оценки квалификаций</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 20/06/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>40 студентов-бакалавров ВГУ прошли оценку по трём профстандартам и шести профессиональным квалификациям наноиндустрии</p>
+                                <a href="200619.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
