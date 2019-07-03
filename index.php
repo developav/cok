@@ -161,24 +161,6 @@
                             </div>
                         </div> -->
 
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/89.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/89.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="160519.php">Перечень квалификаций, по которым можно пройти процедуру независимой оценки в ЦОК «НИИМЭ» продолжает расширяться</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 16/05/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Протоколом СПК № 34 в апреле 2019 года добавлен профессиональный стандарт № 545<br><br></p>
-                                <a href="160519.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
                         <div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/90.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/90.jpg" alt="News"></a>
@@ -227,6 +209,23 @@
                             <div class="entry-content">
                                 <p>40 студентов-бакалавров ВГУ прошли оценку по трём профстандартам и шести профессиональным квалификациям наноиндустрии</p>
                                 <a href="200619.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/93.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/93.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="020719.php">Пилотный проект ГИА-НОК набирает обороты</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 02/07/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>24 июня в Томском государственном университете систем управления и радиоэлектроники (ТУСУР) при поддержке экспертов ЦОК АО «НИИМЭ» студенты - выпускники магистерской программы «Твердотельная электроника» прошли свой первый экзамен в качестве профессионалов.<br><br><br></p>
+                                <a href="020719.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/020719.php"><img class="image_fade" src="images/news/grid/93.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="020719.php">Пилотный проект ГИА-НОК набирает обороты</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 02/07/2019</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>24 июня в Томском государственном университете систем управления и радиоэлектроники (ТУСУР) при поддержке экспертов ЦОК АО «НИИМЭ» студенты - выпускники магистерской программы «Твердотельная электроника» прошли свой первый экзамен в качестве профессионалов.<a href="/020719.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/200619.php"><img class="image_fade" src="images/news/grid/92.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
