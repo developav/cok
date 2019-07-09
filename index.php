@@ -163,23 +163,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/90.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/90.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="240519.php">Актуализация перечней профессий и специальностей – инструмент настройки СПО на требования современного рынка труда</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 24/05/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Состоялось Всероссийское совещание по вопросам разработки и внедрения актуализированных перечней профессий и специальностей среднего профессионального образования</p>
-                                <a href="240519.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/91.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/91.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -226,6 +209,23 @@
                             <div class="entry-content">
                                 <p>24 июня в Томском государственном университете систем управления и радиоэлектроники (ТУСУР) при поддержке экспертов ЦОК АО «НИИМЭ» студенты - выпускники магистерской программы «Твердотельная электроника» прошли свой первый экзамен в качестве профессионалов.<br><br><br></p>
                                 <a href="020719.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/94.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/94.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="080719.php">Интервью Александра Лейбовича на портале MarketMedia</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 08/07/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>С 1 июля закон «О независимой оценке квалификации» действует для всех компаний. Что это значит для бизнеса, почему профстандарты — дело добровольное, и как складывается цена на квалификационный экзамен, рассказывает глава Национального агентства развития квалификаций Александр Лейбович.</p>
+                                <a href="080719.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
