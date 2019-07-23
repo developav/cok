@@ -161,22 +161,7 @@
                             </div>
                         </div> -->
 
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/91.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/91.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="030619.php">Возможность пройти независимую оценку квалификации должны получить как можно больше работников</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 03/06/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>К профессиональным экзаменам для подтверждения квалификации можно допускать не только соискателей с профильным образованием, но и тех, кто такого образования не имеет, зато имеет опыт работы.<br><br></p>
-                                <a href="030619.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
+
 
                         <div class="entry clearfix">
                             <div class="entry-image">
@@ -226,6 +211,23 @@
                             <div class="entry-content">
                                 <p>С 1 июля закон «О независимой оценке квалификации» действует для всех компаний. Что это значит для бизнеса, почему профстандарты — дело добровольное, и как складывается цена на квалификационный экзамен, рассказывает глава Национального агентства развития квалификаций Александр Лейбович.</p>
                                 <a href="080719.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/95.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/95.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="230719.php">Интервью А.Н. Лейбовича «Российской газете». Диплом теряет в цене?</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 23/07/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Все чаще в объявлениях о найме на работу вместо специальности просто указан набор навыков и умений - квалификаций, необходимых потенциальному сотруднику.<br><br><br><br></p>
+                                <a href="230719.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
