@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/290719.php"><img class="image_fade" src="images/news/grid/96.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="290719.php">Владимир Путин пообещал уделять личное внимание теме развития профессиональных квалификаций</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 29/07/2019</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>24 июля Президент России Владимир Путин провёл очередное совещание с членами Правительства.<a href="/290719.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/230719.php"><img class="image_fade" src="images/news/grid/95.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

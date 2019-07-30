@@ -162,24 +162,6 @@
                         </div> -->
 
 
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/92.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/92.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="200619.php">Первый экзамен в рамках пилотного проекта интеграции государственной итоговой аттестации с инструментами независимой оценки квалификаций</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 20/06/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>40 студентов-бакалавров ВГУ прошли оценку по трём профстандартам и шести профессиональным квалификациям наноиндустрии</p>
-                                <a href="200619.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
                         <div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/93.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/93.jpg" alt="News"></a>
@@ -228,6 +210,23 @@
                             <div class="entry-content">
                                 <p>Все чаще в объявлениях о найме на работу вместо специальности просто указан набор навыков и умений - квалификаций, необходимых потенциальному сотруднику.<br><br><br><br></p>
                                 <a href="230719.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/96.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/96.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="290719.php">Владимир Путин пообещал уделять личное внимание теме развития профессиональных квалификаций</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 29/07/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>24 июля Президент России Владимир Путин провёл очередное совещание с членами Правительства<br><br><br><br></p>
+                                <a href="290719.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
