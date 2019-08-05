@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/050819.php"><img class="image_fade" src="images/news/grid/97.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="050819.php">30 июля 2019 года состоялось торжественное вручение свидетельств сотрудникам АО НИИМЭ и ПАО «Микрон»</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 05/08/2019</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Соискатели успешно сдали профессиональные экзамены по 5 профессиональным стандартам.<a href="/050819.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/290719.php"><img class="image_fade" src="images/news/grid/96.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

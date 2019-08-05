@@ -164,23 +164,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/93.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/93.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="020719.php">Пилотный проект ГИА-НОК набирает обороты</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 02/07/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>24 июня в Томском государственном университете систем управления и радиоэлектроники (ТУСУР) при поддержке экспертов ЦОК АО «НИИМЭ» студенты - выпускники магистерской программы «Твердотельная электроника» прошли свой первый экзамен в качестве профессионалов.<br><br><br></p>
-                                <a href="020719.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/94.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/94.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -227,6 +210,23 @@
                             <div class="entry-content">
                                 <p>24 июля Президент России Владимир Путин провёл очередное совещание с членами Правительства<br><br><br><br></p>
                                 <a href="290719.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/97.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/97.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="050819.php">Торжественное вручение свидетельств сотрудникам АО НИИМЭ и ПАО «Микрон»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 05/08/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>30 июля 2019 года состоялось торжественное вручение свидетельств сотрудникам АО НИИМЭ и ПАО «Микрон», подтвердившим свой уровень квалификации по результатам прохождения профессионального экзамена в Центре оценки квалификации АО «НИИМЭ»</p>
+                                <a href="050819.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
