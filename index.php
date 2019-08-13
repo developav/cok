@@ -164,23 +164,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/94.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/94.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="080719.php">Интервью Александра Лейбовича на портале MarketMedia</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 08/07/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>С 1 июля закон «О независимой оценке квалификации» действует для всех компаний. Что это значит для бизнеса, почему профстандарты — дело добровольное, и как складывается цена на квалификационный экзамен, рассказывает глава Национального агентства развития квалификаций Александр Лейбович.</p>
-                                <a href="080719.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/95.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/95.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -227,6 +210,23 @@
                             <div class="entry-content">
                                 <p>30 июля 2019 года состоялось торжественное вручение свидетельств сотрудникам АО НИИМЭ и ПАО «Микрон», подтвердившим свой уровень квалификации по результатам прохождения профессионального экзамена в Центре оценки квалификации АО «НИИМЭ»</p>
                                 <a href="050819.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/98.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/98.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="130819.php">Подтверди квалификацию: соискателю теперь понадобится не только диплом</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 13/08/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Мало кто знает, но с июля 2019 года все работники нашей страны, а также те, кто еще только учится, живут в новом мире.<br><br><br><br><br></p>
+                                <a href="130819.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/130819.php"><img class="image_fade" src="images/news/grid/98.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="130819.php">Подтверди квалификацию: соискателю теперь понадобится не только диплом</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 13/08/2019</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Мало кто знает, но с июля 2019 года все работники нашей страны, а также те, кто еще только учится, живут в новом мире. <a href="/130819.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/050819.php"><img class="image_fade" src="images/news/grid/97.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
