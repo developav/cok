@@ -417,7 +417,7 @@
 
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps850.pdf">Описание стандарта в формате PDF</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps848-q6-1.pdf">Инженер по измерениям и испытаниям изделий «система в корпусе» (6 уровень квалификации)</a></li>
-												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps848-q6-2.pdf">Инженер-конструктор по разработке конструкторской и технологической документации на изделия «система в корпусе» (6 уровень квалификации)</a></li>
+												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps848-q6-2.pdf">Инженер-конструктор конструкторской и технологической документации на изделия «система в корпусе» (6 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps848-q7-1.pdf">Инженер-технолог по моделированию и разработке топологии и технологии монтажа, сборки и корпусирования изделий «система в корпусе» (7 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps848-q7-2.pdf">Руководитель работ по проектированию изделий «система в корпусе» (7 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps850-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
