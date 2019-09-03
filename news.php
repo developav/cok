@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/030919.php"><img class="image_fade" src="images/news/grid/99.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="030919.php">Новую Стратегию развития национальной системы квалификаций представят в конце года</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 3/09/2019</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Обновленный проект Стратегии развития национальной системы квалификаций в РФ планируется представить в конце 2019 года. <a href="/030919.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/130819.php"><img class="image_fade" src="images/news/grid/98.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

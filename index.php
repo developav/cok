@@ -161,24 +161,6 @@
                             </div>
                         </div> -->
 
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/95.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/95.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="230719.php">Интервью А.Н. Лейбовича «Российской газете». Диплом теряет в цене?</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 23/07/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Все чаще в объявлениях о найме на работу вместо специальности просто указан набор навыков и умений - квалификаций, необходимых потенциальному сотруднику.<br><br><br><br></p>
-                                <a href="230719.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
                         <div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/96.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/96.png" alt="News"></a>
@@ -225,8 +207,25 @@
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Мало кто знает, но с июля 2019 года все работники нашей страны, а также те, кто еще только учится, живут в новом мире.<br><br><br><br><br></p>
+                                <p>Мало кто знает, но с июля 2019 года все работники нашей страны, а также те, кто еще только учится, живут в новом мире.<br><br><br><br></p>
                                 <a href="130819.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/99.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/99.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="030919.php">Новую Стратегию развития национальной системы квалификаций представят в конце года</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 3/08/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Обновленный проект Стратегии развития национальной системы квалификаций в РФ планируется представить в конце 2019 года.<br><br><br></p>
+                                <a href="030919.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
