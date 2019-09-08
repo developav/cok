@@ -161,22 +161,6 @@
                             </div>
                         </div> -->
 
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/96.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/96.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="290719.php">Владимир Путин пообещал уделять личное внимание теме развития профессиональных квалификаций</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 29/07/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>24 июля Президент России Владимир Путин провёл очередное совещание с членами Правительства<br><br><br><br></p>
-                                <a href="290719.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
 
                         <div class="entry clearfix">
                             <div class="entry-image">
@@ -220,12 +204,29 @@
                                 <h2><a href="030919.php">Новую Стратегию развития национальной системы квалификаций представят в конце года</a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 3/08/2019</li>
+                                <li><i class="icon-calendar3"></i> 3/09/2019</li>
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
                                 <p>Обновленный проект Стратегии развития национальной системы квалификаций в РФ планируется представить в конце 2019 года.<br><br><br></p>
                                 <a href="030919.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/100.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/100.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="060919.php">Интервью А.Н. Лейбовича «Российской газете»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 6/09/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Более 100 профессий исчезнут из системы подготовки в среднем профобразовании. Что это за профессии? Их в интервью "РГ" лично озвучила министр просвещения Ольга Васильева<br><br><br><br></p>
+                                <a href="060919.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
