@@ -352,7 +352,7 @@
 					<div id="oc-clients" class="owl-carousel owl-carousel-full image-carousel carousel-widget" data-margin="30" data-loop="true" data-nav="false" data-autoplay="5000" data-pagi="false" data-items-xxs="2" data-items-xs="3" data-items-sm="4" data-items-md="5" data-items-lg="6" style="padding: 20px 0;">
 
 						<div class="oc-item"><a href="http://www.rusnano.com/infrastructure"><img src="images/clients/rosnanof.jpg" alt="Clients"></a></div>
-						<!--<div class="oc-item"><a href="http://www.rusnano.com"><img src="images/clients/rosnano.jpg" alt="Clients"></a></div>-->
+						<div class="oc-item"><a href="https://tusur.ru/"><img src="images/clients/tusur.jpg" alt="Clients"></a></div>
 						<div class="oc-item"><a href="http://www.monrf.ru/"><img src="images/clients/mon.jpg" alt="Clients"></a></div>
 						<div class="oc-item"><a href="http://spknano.ru/"><img src="images/clients/spk.jpg" alt="Clients"></a></div>
 						<div class="oc-item"><a href="http://nark.ru/"><img src="images/clients/nark.jpg" alt="Clients"></a></div>
