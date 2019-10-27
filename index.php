@@ -161,24 +161,6 @@
                             </div>
                         </div> -->
 
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/97.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/97.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="050819.php">Торжественное вручение свидетельств сотрудникам АО НИИМЭ и ПАО «Микрон»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 05/08/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>30 июля 2019 года состоялось торжественное вручение свидетельств сотрудникам АО НИИМЭ и ПАО «Микрон», подтвердившим свой уровень квалификации по результатам прохождения профессионального экзамена в Центре оценки квалификации АО «НИИМЭ»</p>
-                                <a href="050819.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
                         <div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/98.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/98.png" alt="News"></a>
@@ -208,7 +190,7 @@
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Обновленный проект Стратегии развития национальной системы квалификаций в РФ планируется представить в конце 2019 года.<br><br><br></p>
+                                <p>Обновленный проект Стратегии развития национальной системы квалификаций в РФ планируется представить в конце 2019 года.<br><br></p>
                                 <a href="030919.php" class="more-link">Далее</a>
                             </div>
                         </div>
@@ -225,8 +207,25 @@
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Более 100 профессий исчезнут из системы подготовки в среднем профобразовании. Что это за профессии? Их в интервью "РГ" лично озвучила министр просвещения Ольга Васильева<br><br><br><br></p>
+                                <p>Более 100 профессий исчезнут из системы подготовки в среднем профобразовании. Что это за профессии? Их в интервью "РГ" лично озвучила министр просвещения Ольга Васильева<br><br><br></p>
                                 <a href="060919.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/101.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/101.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="251019.php">ЦОК на Всероссийской конференции «Подготовка кадров для инновационной экономики: ориентиры и контент»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 25/10/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>23 октября состоялась Всероссийскоя конференция «Подготовка кадров для инновационной экономики: ориентиры и контент»<br><br></p>
+                                <a href="251019.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
