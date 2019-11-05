@@ -57,7 +57,6 @@
 							<div id="posts" class="small-thumbs">
 
 								<div class="entry clearfix">
-									
 									<div class="entry-image">
 										<img class="image_fade" src="images/standards/ps21.jpg" alt="Standard 21">
 									</div>
@@ -77,8 +76,29 @@
 											<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 										</div>
 									</div>
-
 								</div>
+
+                                <div class="entry clearfix">
+                                    <div class="entry-image">
+                                        <img class="image_fade" src="images/standards/ps24.jpg" alt="Standard 24">
+                                    </div>
+
+                                    <div class="entry-c">
+                                        <div class="entry-title">
+                                            <div class="fancy-title title-bottom-border">
+                                                <h5>Профессиональный стандарт № 24</h5>
+                                            </div>
+                                            <p>«Инженер-технолог в области производства наноразмерных полупроводниковых приборов и интегральных схем»</p>
+                                            <ul class="iconlist">
+                                                <li><i class="icon-file"></i><a href="regulationdocs/standards/ps24.pdf"> Описание стандарта в формате PDF</a></li>
+                                                <li><i class="icon-file"></i><a href="">Инженер-технолог по организации и сопровождению процессов формирования наноразмерных полупроводниковых структур (7 уровень квалификации)</a></li>
+                                                <li><i class="icon-file"></i><a href=""> Инженер по разработке и внедрению процессов формирования наноразмерных полупроводниковых структур (7 уровень квалификации)</a></li>
+                                                <!--<li><i class="icon-file"></i><a href="regulationdocs/standards/ps21-exam-demo.pptx"> Демо-версия экзамена в формате Microsoft PowerPoint</a></li>-->
+                                            </ul>
+                                            <a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
+                                        </div>
+                                    </div>
+                                </div>
 
 								<div class="entry clearfix">
 									
@@ -405,7 +425,7 @@
 
 								<div class="entry clearfix">
 									<div class="entry-image">
-										<img class="image_fade" src="images/standards/ps850.jpg" alt="Standard 850">
+										<img class="image_fade" src="images/standards/ps850.jpg" alt="Standard 853">
 									</div>
 									<div class="entry-c">
 										<div class="fancy-title title-bottom-border">
@@ -416,17 +436,39 @@
 											<ul class="iconlist">
 
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps850.pdf">Описание стандарта в формате PDF</a></li>
-												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps848-q6-1.pdf">Инженер по измерениям и испытаниям изделий «система в корпусе» (6 уровень квалификации)</a></li>
-												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps848-q6-2.pdf">Инженер-конструктор конструкторской и технологической документации на изделия «система в корпусе» (6 уровень квалификации)</a></li>
-												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps848-q7-1.pdf">Инженер-технолог по моделированию и разработке топологии и технологии монтажа, сборки и корпусирования изделий «система в корпусе» (7 уровень квалификации)</a></li>
-												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps848-q7-2.pdf">Руководитель работ по проектированию изделий «система в корпусе» (7 уровень квалификации)</a></li>
+												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps850-q6-1.pdf">Инженер по измерениям и испытаниям изделий «система в корпусе» (6 уровень квалификации)</a></li>
+												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps850-q6-2.pdf">Инженер-конструктор конструкторской и технологической документации на изделия «система в корпусе» (6 уровень квалификации)</a></li>
+												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps850-q7-1.pdf">Инженер-технолог по моделированию и разработке топологии и технологии монтажа, сборки и корпусирования изделий «система в корпусе» (7 уровень квалификации)</a></li>
+												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps850-q7-2.pdf">Руководитель работ по проектированию изделий «система в корпусе» (7 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps850-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
+								</div>
 
-								</div>							
+                                <div class="entry clearfix">
+                                    <div class="entry-image">
+                                        <img class="image_fade" src="images/standards/ps853.jpg" alt="Standard 850">
+                                    </div>
+                                    <div class="entry-c">
+                                        <div class="fancy-title title-bottom-border">
+                                            <h5>Профессиональный стандарт № 853</h5>
+                                        </div>
+                                        <div class="entry-title">
+                                            <p>«Специалист в области производства бетонов с наноструктурирующими компонентами»</p>
+                                            <ul class="iconlist">
+
+                                                <li><i class="icon-file"></i><a href="regulationdocs/standards/ps853.pdf">Описание стандарта в формате PDF</a></li>
+                                                <li><i class="icon-file"></i><a href="">Инженер-технолог по производству бетонов с наноструктурирующими компонентами(5 уровень квалификации)</a></li>
+                                                <li><i class="icon-file"></i><a href="">Инженер-технолог по производству бетонов с наноструктурирующими компонентами(6 уровень квалификации)</a></li>
+                                                <li><i class="icon-file"></i><a href="">Руководитель производства бетонных смесей с наноструктурирующими компонентами(7 уровень квалификации)</a></li>
+                                                <!--<li><i class="icon-file"></i><a href="regulationdocs/standards/ps850-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>-->
+                                            </ul>
+                                        </div>
+                                        <a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
+                                    </div>
+                                </div>
 
 							</div><!-- #posts end -->
 
@@ -463,6 +505,7 @@
 												<select id="template-contactform-standard" name="template-contactform-standard" class="sm-form-control required">
 													<option value="">-- Выберите --</option>
 													<option value="ps-21">21 - Инженер-конструктор СВЧ-монолитных интегральных схем</option>
+                                                    <option value="ps-24">24 - Инженер-технолог в области производства наноразмерных полупроводниковых приборов и интегральных схем </option>
 													<option value="ps-26">26 - Инженер-технолог СВЧ-монолитных интегральных схем</option>
 													<option value="ps-85">85 - Инженер в области проектирования интегральных схем</option>
 													<option value="ps-90">90 - Специалист по функциональной верификации</option>
@@ -472,11 +515,12 @@
                                                     <option value="ps-174">176 - Специалист в области разработки полупроводниковых лазеров</option>
 													<option value="ps-177">177 - Инженер в области разработки цифровых библиотек</option>
 													<option value="ps-182">182 - Инженер-проектировщик фотошаблонов наносистем</option>
-													<option value="ps-538">538 - Cпециалист по проектированию и обслуживанию</option>
-													<option value="ps-543">543 - Cпециалист технического обеспечения процессов</option>
+													<option value="ps-538">538 - Специалист по проектированию и обслуживанию</option>
+													<option value="ps-543">543 - Специалист технического обеспечения процессов</option>
                                                     <option value="ps-545">545 - Специалист по измерению параметров и модификации свойств наноматериалов и наноструктур</option>
 													<option value="ps-848">848 - Специалист по технологии производства систем в корпусе</option>
 													<option value="ps-850">850 - Специалист по проектированию систем в корпусе</option>
+                                                    <option value="ps-850">853 - Специалист в области производства бетонов с наноструктурирующими компонентами</option>
 												</select>
 											</div>
 
