@@ -91,9 +91,9 @@
                                             <p>«Инженер-технолог в области производства наноразмерных полупроводниковых приборов и интегральных схем»</p>
                                             <ul class="iconlist">
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standards/ps24.pdf"> Описание стандарта в формате PDF</a></li>
-                                                <li><i class="icon-file"></i><a href="">Инженер-технолог по организации и сопровождению процессов формирования наноразмерных полупроводниковых структур (7 уровень квалификации)</a></li>
-                                                <li><i class="icon-file"></i><a href=""> Инженер по разработке и внедрению процессов формирования наноразмерных полупроводниковых структур (7 уровень квалификации)</a></li>
-                                                <!--<li><i class="icon-file"></i><a href="regulationdocs/standards/ps21-exam-demo.pptx"> Демо-версия экзамена в формате Microsoft PowerPoint</a></li>-->
+                                                <li><i class="icon-file"></i><a href="regulationdocs/standards/ps24-q7-1.pdf">Инженер-технолог по организации и сопровождению процессов формирования наноразмерных полупроводниковых структур (7 уровень квалификации)</a></li>
+                                                <li><i class="icon-file"></i><a href="regulationdocs/standards/ps24-q7-2.pdf"> Инженер по разработке и внедрению процессов формирования наноразмерных полупроводниковых структур (7 уровень квалификации)</a></li>
+                                                <li><i class="icon-file"></i><a href="regulationdocs/standards/ps24-exam-demo.pptx"> Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
                                             </ul>
                                             <a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
                                         </div>
