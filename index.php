@@ -164,23 +164,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/99.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/99.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="030919.php">Новую Стратегию развития национальной системы квалификаций представят в конце года</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 3/09/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Обновленный проект Стратегии развития национальной системы квалификаций в РФ планируется представить в конце 2019 года.<br><br></p>
-                                <a href="030919.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/100.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/100.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -227,6 +210,23 @@
                             <div class="entry-content">
                                 <p>8 ноября в Белом зале ВГУ вручены свидетельства о квалификации первым 9 специалистам кафедры физики твердого тела и наноструктур и кафедры физики полупроводников и микроэлектроники.</p>
                                 <a href="081119.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/103.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/103.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="181119.php">Расширенное заседание СПК наноиндустрии в рамках XII Петербургского иннофорума </a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 18/11/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>15.11.2019 в ходе работы XII Петербургского иннофорума состоялось расширенное заседание СПК наноиндустрии в рамках сессии «Развитие рынка квалифицированных кадров для наноиндустрии».</p>
+                                <a href="181119.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
