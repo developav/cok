@@ -161,24 +161,6 @@
                             </div>
                         </div> -->
 
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/100.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/100.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="060919.php">Интервью А.Н. Лейбовича «Российской газете»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 6/09/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Более 100 профессий исчезнут из системы подготовки в среднем профобразовании. Что это за профессии? Их в интервью "РГ" лично озвучила министр просвещения Ольга Васильева<br><br><br></p>
-                                <a href="060919.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
                         <div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/101.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/101.png" alt="News"></a>
@@ -227,6 +209,23 @@
                             <div class="entry-content">
                                 <p>15.11.2019 в ходе работы XII Петербургского иннофорума состоялось расширенное заседание СПК наноиндустрии в рамках сессии «Развитие рынка квалифицированных кадров для наноиндустрии».</p>
                                 <a href="181119.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/104.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/104.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="211119.php">ЦОК НИИМЭ провёл семинар для руководителей высокотехнологичных компаний </a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 21/11/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>19 ноября состоялось очное презентационное мероприятие для руководителей и HR-директоров предприятий инновационной инфраструктуры Зеленограда.</p>
+                                <a href="211119.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
