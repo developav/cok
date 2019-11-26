@@ -73,9 +73,13 @@
 
                                 <!--<div class="image bottommargin-sm"><img src="images/news/full/95.jpg" style="display: block; margin: 0 auto;"></div>-->
 
-                                <div class="image bottommargin topmargin-sm col_one_third">
+                                <!--<div class="image bottommargin topmargin-sm col_one_third">
                                     <img src="images/news/full/105.png" alt="News Single">
-                                </div><!-- .entry-image end -->
+                                </div>--><!-- .entry-image end -->
+
+                                <div class="image bottommargin-sm">
+                                    <img src="images/news/grid/105.png" style="display: block; margin: 0 auto;">
+                                </div>
 
                                 <p>20.11 2019 состоялась рабочая встреча с представителем Южного федерального университета Лысенко И.Е., заведующим кафедрой конструирования электронных средств Института нанотехнологий. </p>
                                 <p>В ходе визита были рассмотрены перспективные направления сотрудничества. К таким направлениям можно отнести: обучение по инновационным направлениям наноидустрии, прохождение производственной
@@ -93,9 +97,17 @@
 
 							</div>
 
-						</div><!-- .entry end -->
+                            <div class="clear"></div>
 
-						<!-- <div class="line"></div> -->
+                            <div class="image bottommargin topmargin-sm col_half">
+                                <img src="images/news/full/105-1.png" alt="News Single">
+                            </div>
+
+                            <div class="image bottommargin topmargin-sm col_last">
+                                <img src="images/news/full/105-2.png" alt="News Single">
+                            </div>
+
+						</div><!-- .entry end -->
 
 					</div>
 
