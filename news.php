@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/261119.php"><img class="image_fade" src="images/news/grid/105.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="261119.php">Мы расширяем границы сотрудничества</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 26/11/2019</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>20.11 2019 состоялась рабочая встреча с представителем Южного федерального университета Лысенко И.Е., заведующим кафедрой конструирования электронных средств Института нанотехнологий.<a href="/261119.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/211119.php"><img class="image_fade" src="images/news/grid/104.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

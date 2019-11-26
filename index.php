@@ -161,22 +161,6 @@
                             </div>
                         </div> -->
 
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/101.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/101.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="251019.php">ЦОК на Всероссийской конференции «Подготовка кадров для инновационной экономики: ориентиры и контент»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 25/10/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>23 октября состоялась Всероссийскоя конференция «Подготовка кадров для инновационной экономики: ориентиры и контент»<br><br></p>
-                                <a href="251019.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
 
                         <div class="entry clearfix">
                             <div class="entry-image">
@@ -226,6 +210,23 @@
                             <div class="entry-content">
                                 <p>19 ноября состоялось очное презентационное мероприятие для руководителей и HR-директоров предприятий инновационной инфраструктуры Зеленограда.</p>
                                 <a href="211119.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/105.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/105.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="261119.php">Мы расширяем границы сотрудничества </a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 26/11/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>20 ноября 2019 состоялась рабочая встреча с представителем Южного федерального университета Лысенко И.Е., заведующим кафедрой конструирования электронных средств Института нанотехнологий.</p>
+                                <a href="261119.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
