@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/271119.php"><img class="image_fade" src="images/news/grid/106.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="271119.php">Доступность инструментов независимой оценки квалификаций</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 27/11/2019</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>26 ноября в Национальном агентстве развития квалификаций прошло публичное обсуждение предложений по доступности инструментов независимой оценки квалификаций для молодежи и взрослых - обучающихся по образовательным программам, ведущим к получению квалификации.<a href="/271119.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/261119.php"><img class="image_fade" src="images/news/grid/105.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

@@ -164,23 +164,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/102.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/102.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="081119.php">Технические эксперты нашего экзаменационного центра на базе ВГУ подтвердили свою квалификацию</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 08/11/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>8 ноября в Белом зале ВГУ вручены свидетельства о квалификации первым 9 специалистам кафедры физики твердого тела и наноструктур и кафедры физики полупроводников и микроэлектроники.</p>
-                                <a href="081119.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/103.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/103.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -227,6 +210,23 @@
                             <div class="entry-content">
                                 <p>20 ноября 2019 состоялась рабочая встреча с представителем Южного федерального университета Лысенко И.Е., заведующим кафедрой конструирования электронных средств Института нанотехнологий.</p>
                                 <a href="261119.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/106.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/106.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="271119.php">Доступность инструментов независимой оценки квалификаций</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 27/11/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>26 ноября в НАРК прошло публичное обсуждение предложений по доступности инструментов независимой оценки квалификаций для молодежи и взрослых - обучающихся по образовательным программам, ведущим к получению квалификации.</p>
+                                <a href="271119.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
