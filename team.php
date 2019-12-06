@@ -517,7 +517,7 @@
                                 <img src="images/team/zuev.jpg" alt="Zuev">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Зуев Егор Владимирович </a></h4><span>Инженер НИУ МИЭТ</span></div>
+                                <div class="team-title"><h4><a href="#">Зуев Егор Владиславович </a></h4><span>Инженер НИУ МИЭТ</span></div>
                                 <div class="team-content">
                                     <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
                                 </div>
