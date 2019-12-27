@@ -457,7 +457,7 @@
                                 <img src="images/team/gorshkova.jpg" alt="Gorshkova">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Горшкова Наталья Михайловна </a></h4><span>Начальник лаборатории АО НПЦ «Элвис»</span></div>
+                                <div class="team-title"><h4><a href="#">Горшкова Наталья Михайловна </a></h4><span>Начальник лаборатории АО НПЦ «ЭЛВИС»</span></div>
                                 <div class="team-content">
                                     <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
                                 </div>

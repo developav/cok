@@ -161,24 +161,6 @@
                             </div>
                         </div> -->
 
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/103.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/103.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="181119.php">Расширенное заседание СПК наноиндустрии в рамках XII Петербургского иннофорума </a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 18/11/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>15.11.2019 в ходе работы XII Петербургского иннофорума состоялось расширенное заседание СПК наноиндустрии в рамках сессии «Развитие рынка квалифицированных кадров для наноиндустрии».</p>
-                                <a href="181119.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
                         <div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/104.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/104.png" alt="News"></a>
@@ -227,6 +209,23 @@
                             <div class="entry-content">
                                 <p>26 ноября в НАРК прошло публичное обсуждение предложений по доступности инструментов независимой оценки квалификаций для молодежи и взрослых - обучающихся по образовательным программам, ведущим к получению квалификации.</p>
                                 <a href="271119.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/107.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/107.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="261219.php">Повышение квалификации сотрудников АО «НИИМЭ» для подтверждения звания «технический эксперт»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 26/12/2019</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Вручение удостоверений по дополнительной профессиональной программе «Независимая оценка квалификации специалистов нанотехнологического профиля»</p>
+                                <a href="261219.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
