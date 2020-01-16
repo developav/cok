@@ -161,22 +161,6 @@
                             </div>
                         </div> -->
 
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/104.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/104.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="211119.php">ЦОК НИИМЭ провёл семинар для руководителей высокотехнологичных компаний </a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 21/11/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>19 ноября состоялось очное презентационное мероприятие для руководителей и HR-директоров предприятий инновационной инфраструктуры Зеленограда.</p>
-                                <a href="211119.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
 
                         <div class="entry clearfix">
                             <div class="entry-image">
@@ -226,6 +210,23 @@
                             <div class="entry-content">
                                 <p>Вручение удостоверений по дополнительной профессиональной программе «Независимая оценка квалификации специалистов нанотехнологического профиля»</p>
                                 <a href="261219.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/108.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/108.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="160120.php">Начиная 2020-й год, ЦОК НИИМЭ подвел результаты работы в 2019-м году и они, действительно, вдохновляют!</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 16/01/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>С 2016 по 2019 проведено 223 профессиональных экзамена по более чем 25 квалификациям...</p>
+                                <a href="160120.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

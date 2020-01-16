@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/160120.php"><img class="image_fade" src="images/news/grid/108.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="160120.php">Начиная 2020-й год, ЦОК НИИМЭ подвел результаты работы в 2019-м году и они, действительно, вдохновляют!</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 16/01/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>С 2016 по 2019 проведено 223 профессиональных экзамена по более чем 25 квалификациям.<a href="/160120.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/261219.php"><img class="image_fade" src="images/news/grid/107.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
