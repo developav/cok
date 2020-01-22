@@ -164,7 +164,7 @@
                                 <img src="images/team/kravtsov.jpg" alt="Kravtsov">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Кравцов Александр Сергеевич</a></h4><span>Начальник отдела разработки ИС АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="#">Кравцов Александр Сергеевич</a></h4><span>Главный конструктор АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
                                 </div>
@@ -246,7 +246,7 @@
                                 <img src="images/team/ivanov.jpg" alt="Ivanov">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Иванов Владимир Викторович </a></h4><span>Начальник лаборатории Отдел проектирования фотошаблонов АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="#">Иванов Владимир Викторович </a></h4><span>Заместитель начальника отдела</span></div>
                                 <div class="team-content">
                                     <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
                                 </div>
@@ -260,7 +260,7 @@
                                 <img src="images/team/kirushina.jpg" alt="Kirushina">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Кирюшина Ирина Васильевна </a></h4><span>Главный специалист ПАО «Микрон»</span></div>
+                                <div class="team-title"><h4><a href="#">Кирюшина Ирина Васильевна </a></h4><span>Начальник лаборатории</span></div>
                                 <div class="team-content">
                                     <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
                                 </div>
@@ -276,7 +276,7 @@
                                 <img src="images/team/markin.jpg" alt="Markin">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Маркин Александр Викторович </a></h4><span>Начальник  лаборатории  ЧПП АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="#">Маркин Александр Викторович </a></h4><span>Заместитель начальника отдела</span></div>
                                 <div class="team-content">
                                     <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
                                 </div>
@@ -396,7 +396,7 @@
                                 <img src="images/team/lukyanchikov.jpg" alt="Lukyanchikov">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Лукянчиков Максим Владимирович </a></h4><span>Ведущий инженер по наладке и испытаниям оборудования ПАО «МИКРОН»</span></div>
+                                <div class="team-title"><h4><a href="#">Лукянчиков Максим Владимирович </a></h4><span>Начальник лаборатории</span></div>
                                 <div class="team-content">
                                     <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
                                 </div>
