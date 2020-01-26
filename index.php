@@ -161,24 +161,6 @@
                             </div>
                         </div> -->
 
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/105.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/105.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="261119.php">Мы расширяем границы сотрудничества </a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 26/11/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>20 ноября 2019 состоялась рабочая встреча с представителем Южного федерального университета Лысенко И.Е., заведующим кафедрой конструирования электронных средств Института нанотехнологий.</p>
-                                <a href="261119.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
                         <div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/106.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/106.png" alt="News"></a>
@@ -225,8 +207,25 @@
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>С 2016 по 2019 проведено 223 профессиональных экзамена по более чем 25 квалификациям...</p>
+                                <p>С 2016 по 2019 проведено 223 профессиональных экзамена по более чем 25 квалификациям...<br><br><br></p>
                                 <a href="160120.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/109.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/109.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="240120.php">Успешное начало нового года!</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 24/01/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>30 специалистов ПАО «Микрон» подтвердили свою квалификацию, пройдя процедуру независимой оценки квалификации в ЦОК АО «НИИМЭ»<br><br><br><br><br><br></p>
+                                <a href="240120.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
