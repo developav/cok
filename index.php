@@ -163,23 +163,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/106.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/106.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="271119.php">Доступность инструментов независимой оценки квалификаций</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 27/11/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>26 ноября в НАРК прошло публичное обсуждение предложений по доступности инструментов независимой оценки квалификаций для молодежи и взрослых - обучающихся по образовательным программам, ведущим к получению квалификации.</p>
-                                <a href="271119.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/107.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/107.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -228,6 +211,24 @@
                                 <a href="240120.php" class="more-link">Далее</a>
                             </div>
                         </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/110.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/110.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="280120.php">Аттестат соответствия ЦОК АО "НИИМЭ"</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 28/01/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>ЦОК АО «НИИМЭ» успешно прошел процедуру проверки соответствия<br><br><br><br><br><br><br><br></p>
+                                <a href="280120.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
 
                     </div>
                 </div><!-- end news block -->
