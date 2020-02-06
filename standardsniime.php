@@ -383,12 +383,12 @@
                                             <p>«Специалист по измерению параметров и модификации свойств наноматериалов и наноструктур»</p>
                                             <ul class="iconlist">
 
-                                                <li><i class="icon-file"></i><a href="">Описание стандарта в формате PDF</a></li>
+                                                <li><i class="icon-file"></i><a href="regulationdocs/standards/ps545.pdf">Описание стандарта в формате PDF</a></li>
                                                 <li><i class="icon-file"></i><a href="">Техник-лаборант по измерению параметров наноматериалов и наноструктур (5 уровень квалификации)</a></li>
                                                 <li><i class="icon-file"></i><a href="">Техник по модификации свойств наноматериалов и наноструктур (5 уровень квалификации)</a></li>
                                                 <li><i class="icon-file"></i><a href="">Инженер по модернизации существующих и внедрению новых процессов измерения параметров и модификации свойств наноматериалов и наноструктур (6 уровень квалификации)</a></li>
                                                 <li><i class="icon-file"></i><a href="">Руководитель подразделений по измерению параметров и модификации свойств наноматериалов и наноструктур (7 уровень квалификации)</a></li>
-                                                <li><i class="icon-file"></i><a href="">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
+                                                <li><i class="icon-file"></i><a href="regulationdocs/standards/ps545-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
                                             </ul>
                                         </div>
                                         <a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
