@@ -161,22 +161,6 @@
                             </div>
                         </div> -->
 
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/107.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/107.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="261219.php">Повышение квалификации сотрудников АО «НИИМЭ» для подтверждения звания «технический эксперт»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 26/12/2019</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Вручение удостоверений по дополнительной профессиональной программе «Независимая оценка квалификации специалистов нанотехнологического профиля»</p>
-                                <a href="261219.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
 
                         <div class="entry clearfix">
                             <div class="entry-image">
@@ -229,6 +213,22 @@
                             </div>
                         </div>
 
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/111.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/111.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="110220.php">Интервью с соискателем об участии в профессиональном экзамене в системе независимой оценки </a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 11/02/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Мы начинаем публиковать серию интервью с соискателями из различных регионов и сфер деятельности о прохождении ими процедуры независимой оценки квалификации.</p>
+                                <a href="110220.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
 
                     </div>
                 </div><!-- end news block -->
