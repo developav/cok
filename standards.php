@@ -66,7 +66,7 @@
 						</div>
 						
 						<ul class="iconlist bottommargin-sm">
-							<li><i class="icon-line-arrow-right"></i><a href="standardsniime.php">Реестр профессиональных стандартов Центра оценки квалификаций АО «НИИМЭ» </a><a href="./regulationdocs/attestat/cokattestat.pdf">(согласно Аттестату соответствия от 23.12.2016 года №3)</a></li>
+							<li><i class="icon-line-arrow-right"></i><a href="standardsniime.php">Реестр профессиональных стандартов Центра оценки квалификаций АО «НИИМЭ» </a><a href="./regulationdocs/Аттестат 8.pdf">(согласно Аттестату соответствия от 24.12.2019 года № 8)</a></li>
 
 							<li><i class="icon-line-arrow-right"></i><a href="http://www.rosmintrud.ru/docs/mintrud/payment/128">Информация Минтруда России по вопросам применения профессиональных стандартов</a></li>
 							
