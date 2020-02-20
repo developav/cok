@@ -95,6 +95,7 @@
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standards/ps24-q7-2.pdf"> Инженер по разработке и внедрению процессов формирования наноразмерных полупроводниковых структур (7 уровень квалификации)</a></li>
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standards/ps24-exam-demo.pptx"> Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
                                             </ul>
+                                            <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/vvedenie-v-soprovozhdenie-i-integratsiyu-tekhnologicheskikh-protsessov-proizvodstva-poluprovodnikov-/" target="_blank" r>АНО «еНано»</a></p>
                                             <a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
                                         </div>
                                     </div>
@@ -121,6 +122,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps26-exam-demo.pptx"> Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>	
 										</div>
+                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/tekhnologiya-proizvodstva-nanogeterostrukturnykh-svch-monolitnykh-integralnykh-skhem/" target="_blank" r>АНО «еНано»</a></p>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
 
@@ -144,6 +146,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps85-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
+                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/proektirovanie-sistem-na-kristalle/" target="_blank" r>АНО «еНано»</a></p>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
 
@@ -168,6 +171,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps90-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
+                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/funktsionalnaya-verifikatsiya-nanorazmernykh-integralnykh-skhem/" target="_blank" r>АНО «еНано»</a></p>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
 
@@ -192,6 +196,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps168-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
+                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/spetsialist-po-proektnomu-upravleniyu-v-oblasti-razrabotki-i-postanovki-proizvodstva-poluprovodnikov/" target="_blank" r>АНО «еНано»</a></p>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
 
@@ -216,6 +221,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps172-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
+                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/proektirovanie-analogovykh-sf-blokov/" target="_blank" r>АНО «еНано»</a></p>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
 
@@ -313,6 +319,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps182-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
+                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/proektirovanie-fotoshablonov-dlya-proizvodstva-nanosistem/" target="_blank" r>АНО «еНано»</a></p>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
 
@@ -338,6 +345,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps538-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
+                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/proektirovanie-i-obsluzhivanie-chistykh-proizvodstvennykh-pomeshcheniy-dlya-mikro-i-nanoelektronnykh/" target="_blank" r>АНО «еНано»</a></p>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
 
@@ -365,6 +373,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps543-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
+                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/tekhnicheskaya-podderzhka-oborudovaniya-tekhnologicheskikh-protsessov-proizvodstva-priborov-mikroele/" target="_blank" r>АНО «еНано»</a></p>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
 								</div>
@@ -391,6 +400,7 @@
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standards/ps545-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
                                             </ul>
                                         </div>
+                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/izmerenie-parametrov-i-modifikatsiya-svoystv-nanomaterialov-i-nanostruktur/" target="_blank" r>АНО «еНано»</a></p>
                                         <a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
                                     </div>
                                 </div>
