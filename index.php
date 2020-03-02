@@ -161,24 +161,6 @@
                             </div>
                         </div> -->
 
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/108.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/108.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="160120.php">Начиная 2020-й год, ЦОК НИИМЭ подвел результаты работы в 2019-м году и они, действительно, вдохновляют!</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 16/01/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>С 2016 по 2019 проведено 223 профессиональных экзамена по более чем 25 квалификациям...<br><br><br></p>
-                                <a href="160120.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
                         <div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/109.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/109.jpg" alt="News"></a>
@@ -227,6 +209,23 @@
                             <div class="entry-content">
                                 <p>Мы начинаем публиковать серию интервью с соискателями из различных регионов и сфер деятельности о прохождении ими процедуры независимой оценки квалификации.</p>
                                 <a href="110220.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/112.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/112.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="020320.php">Резолюция Пятого Всероссийского форума «Национальная система квалификаций России»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 02/03/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Национальный совет при Президенте Российской Федерации по профессиональным квалификациям принял резолюцию по итогам пятого Всероссийского форума «Национальная система квалификаций России»</p>
+                                <a href="020320.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
