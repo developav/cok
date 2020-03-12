@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/120320.php"><img class="image_fade" src="images/news/grid/113.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="120320.php">О промежуточных результатах работы СПК</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 12/03/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Заместитель председателя СПК в наноиндустрии Ольга Крюкова выступила на конференции «Развитие Национальной системы квалификаций в Республике Татарстан»<a href="/120320.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/020320.php"><img class="image_fade" src="images/news/grid/112.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

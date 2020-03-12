@@ -161,22 +161,6 @@
                             </div>
                         </div> -->
 
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/109.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/109.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="240120.php">Успешное начало нового года!</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 24/01/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>30 специалистов ПАО «Микрон» подтвердили свою квалификацию, пройдя процедуру независимой оценки квалификации в ЦОК АО «НИИМЭ»<br><br><br><br><br><br></p>
-                                <a href="240120.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
 
                         <div class="entry clearfix">
                             <div class="entry-image">
@@ -226,6 +210,23 @@
                             <div class="entry-content">
                                 <p>Национальный совет при Президенте Российской Федерации по профессиональным квалификациям принял резолюцию по итогам пятого Всероссийского форума «Национальная система квалификаций России»</p>
                                 <a href="020320.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/113.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/113.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="120320.php">О промежуточных результатах работы СПК</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 12/03/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Заместитель председателя СПК в наноиндустрии Ольга Крюкова выступила на конференции «Развитие Национальной системы квалификаций в Республике Татарстан»,  прошедшей в казанском технопарке «Идея», одном из центров оценки квалификаций в наноиндустрии.<br><br></p>
+                                <a href="120320.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
