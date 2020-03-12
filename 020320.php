@@ -61,7 +61,7 @@
 							<!-- Entry Meta
 							============================================= -->
 							<ul class="entry-meta clearfix">
-								<li><i class="icon-calendar3"></i> 28 Января 2020</li>
+								<li><i class="icon-calendar3"></i> 2 Марта 2020</li>
 							</ul><!-- .entry-meta end -->
 
 							<!-- Entry Image
