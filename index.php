@@ -164,23 +164,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/110.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/110.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="280120.php">Аттестат соответствия ЦОК АО "НИИМЭ"</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 28/01/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>ЦОК АО «НИИМЭ» успешно прошел процедуру проверки соответствия<br><br><br><br><br><br><br><br></p>
-                                <a href="280120.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/111.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/111.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -227,6 +210,23 @@
                             <div class="entry-content">
                                 <p>Заместитель председателя СПК в наноиндустрии Ольга Крюкова выступила на конференции «Развитие Национальной системы квалификаций в Республике Татарстан»,  прошедшей в казанском технопарке «Идея», одном из центров оценки квалификаций в наноиндустрии.<br><br></p>
                                 <a href="120320.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/114.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/114.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="160320.php">Состоялось совещание с советами по профессиональным квалификациям</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 16/03/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>11 марта в Национальном агентстве развития квалификаций состоялось расширенное совещание с советами по профессиональным квалификациям, на котором были рассмотрены актуальные вопросы дальнейшего развития Национальной системы квалификаций.<br></p>
+                                <a href="160320.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
