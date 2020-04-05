@@ -173,23 +173,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/111.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/111.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="110220.php">Интервью с соискателем об участии в профессиональном экзамене в системе независимой оценки </a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 11/02/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Мы начинаем публиковать серию интервью с соискателями из различных регионов и сфер деятельности о прохождении ими процедуры независимой оценки квалификации.</p>
-                                <a href="110220.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/112.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/112.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -236,6 +219,23 @@
                             <div class="entry-content">
                                 <p>11 марта в Национальном агентстве развития квалификаций состоялось расширенное совещание с советами по профессиональным квалификациям, на котором были рассмотрены актуальные вопросы дальнейшего развития Национальной системы квалификаций.<br></p>
                                 <a href="160320.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/115.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/115.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="030420.php">У страха резюме велики: россияне стали активнее искать работу</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 03/04/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Граждане боятся сокращений из-за эпидемии коронавируса и заранее ищут новое место.<br><br><br><br><br><br></p>
+                                <a href="030420.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
