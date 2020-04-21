@@ -74,7 +74,7 @@
                                 <!--<div class="image bottommargin-sm"><img src="images/news/full/95.jpg" style="display: block; margin: 0 auto;"></div>-->
 
                                 <div class="image bottommargin topmargin-sm col_one_third">
-                                    <img src="images/news/full/116.jpg" alt="News Single">
+                                    <img src="images/news/full/116.png" alt="News Single">
                                 </div><!-- .entry-image end -->
 
                                 <p><i>В мае 2020 года студенты учреждений профессионального образования и ряда вузов пройдут параллельно с выпускными экзаменами и независимую оценку квалификации.
