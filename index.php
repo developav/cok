@@ -173,23 +173,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/112.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/112.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="020320.php">Резолюция Пятого Всероссийского форума «Национальная система квалификаций России»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 02/03/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Национальный совет при Президенте Российской Федерации по профессиональным квалификациям принял резолюцию по итогам пятого Всероссийского форума «Национальная система квалификаций России»</p>
-                                <a href="020320.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/113.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/113.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -236,6 +219,23 @@
                             <div class="entry-content">
                                 <p>Граждане боятся сокращений из-за эпидемии коронавируса и заранее ищут новое место.<br><br><br><br><br><br></p>
                                 <a href="030420.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/116.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/116.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="210420.php">Российские студенты пройдут экзамен на подтверждение квалификации в режиме онлайн</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 21/04/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>В мае 2020 года студенты учреждений профессионального образования и ряда вузов пройдут параллельно с выпускными экзаменами и независимую оценку квалификации.<br><br></p>
+                                <a href="210420.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
