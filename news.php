@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/230420.php"><img class="image_fade" src="images/news/grid/117.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="230420.php">Национальное агентство развития квалификаций продлило сроки действия свидетельств о квалификации на 5 месяцев</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 23/04/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Сегодня в условиях продолжающейся пандемии, руководство страны принимает все возможные меры для того, чтобы остановить продвижение коронавирусной инфекции, сохранить жизни и здоровье граждан страны, смягчить экономический кризис, вызванный негативными тенденциями на мировом и внутреннем рынке.<a href="/230420.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/210420.php"><img class="image_fade" src="images/news/grid/116.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

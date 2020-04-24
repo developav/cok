@@ -173,23 +173,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/113.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/113.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="120320.php">О промежуточных результатах работы СПК</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 12/03/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Заместитель председателя СПК в наноиндустрии Ольга Крюкова выступила на конференции «Развитие Национальной системы квалификаций в Республике Татарстан»,  прошедшей в казанском технопарке «Идея», одном из центров оценки квалификаций в наноиндустрии.<br><br></p>
-                                <a href="120320.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/114.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/114.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -236,6 +219,23 @@
                             <div class="entry-content">
                                 <p>В мае 2020 года студенты учреждений профессионального образования и ряда вузов пройдут параллельно с выпускными экзаменами и независимую оценку квалификации.<br><br></p>
                                 <a href="210420.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/117.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/117.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="230420.php">Национальное агентство развития квалификаций продлило сроки действия свидетельств о квалификации на 5 месяцев</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 23/04/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Правительство России приняло решение о продлении сроков действия лицензий, аккредитаций и иных разрешительных документов</p>
+                                <a href="230420.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
