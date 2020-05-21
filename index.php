@@ -173,23 +173,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/114.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/114.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="160320.php">Состоялось совещание с советами по профессиональным квалификациям</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 16/03/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>11 марта в Национальном агентстве развития квалификаций состоялось расширенное совещание с советами по профессиональным квалификациям, на котором были рассмотрены актуальные вопросы дальнейшего развития Национальной системы квалификаций.<br></p>
-                                <a href="160320.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/115.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/115.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -236,6 +219,23 @@
                             <div class="entry-content">
                                 <p>Правительство России приняло решение о продлении сроков действия лицензий, аккредитаций и иных разрешительных документов</p>
                                 <a href="230420.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/118.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/118.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="300420.php">Центр оценки квалификаций НИИМЭ разработал три проекта новых профессиональных стандартов в области микроэлектроники</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 30/04/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Потребность в кадрах на предприятиях промышленности сегодня носит и количественный, и качественный характер.</p>
+                                <a href="300420.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

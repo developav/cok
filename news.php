@@ -50,6 +50,26 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/300420.php"><img class="image_fade" src="images/news/grid/118.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="300420.php">Центр оценки квалификаций НИИМЭ разработал три проекта новых профессиональных стандарта в области микроэлектроники</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 30/04/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Потребность в кадрах на предприятиях промышленности сегодня носит и количественный, и качественный характер. Объективно существует постоянная потребность в новых профессиональных квалификациях. Поэтому работа над новыми профстандартами идет непрерывно.<a href="/300420.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/230420.php"><img class="image_fade" src="images/news/grid/117.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
