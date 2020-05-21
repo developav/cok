@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/210520.php"><img class="image_fade" src="images/news/grid/119.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="210520.php">19 и 21 в НИИМЭ прошла серия вебинаров по теме " Разработке профессиональных стандартов в сфере производства изделий микроэлектроники»</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 21/05/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Для рассмотрения были представлены проекты трех новых профессиональных стандартов<a href="/210520.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/300420.php"><img class="image_fade" src="images/news/grid/118.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

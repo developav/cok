@@ -170,24 +170,6 @@
                             </div>
                         </div> -->
 
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/115.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/115.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="030420.php">У страха резюме велики: россияне стали активнее искать работу</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 03/04/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Граждане боятся сокращений из-за эпидемии коронавируса и заранее ищут новое место.<br><br><br><br><br><br></p>
-                                <a href="030420.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
                         <div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/116.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/116.png" alt="News"></a>
@@ -238,6 +220,24 @@
                                 <a href="300420.php" class="more-link">Далее</a>
                             </div>
                         </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/119.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/119.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="210520.php">19 и 21 в НИИМЭ прошла серия вебинаров по теме " Разработке профессиональных стандартов в сфере производства изделий микроэлектроники»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 21/05/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Для рассмотрения были представлены проекты трех новых профессиональных стандартов.<br><br></p>
+                                <a href="210520.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
 
                     </div>
                 </div><!-- end news block -->
