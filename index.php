@@ -172,23 +172,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/116.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/116.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="210420.php">Российские студенты пройдут экзамен на подтверждение квалификации в режиме онлайн</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 21/04/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>В мае 2020 года студенты учреждений профессионального образования и ряда вузов пройдут параллельно с выпускными экзаменами и независимую оценку квалификации.<br><br></p>
-                                <a href="210420.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/117.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/117.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -235,6 +218,23 @@
                             <div class="entry-content">
                                 <p>Для рассмотрения были представлены проекты трех новых профессиональных стандартов.<br><br></p>
                                 <a href="210520.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/120.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/120.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="290520.php">Экспертный совет по СПО и профессиональному обучению Комитета по образованию и науке Госдумы состоялся</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 29/05/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>27 мая 2020 года в дистанционном формате состоялось заседание Экспертного совета по среднему профессиональному образованию и профессиональному обучению<br></p>
+                                <a href="290520.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

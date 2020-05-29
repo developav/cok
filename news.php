@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/290520.php"><img class="image_fade" src="images/news/grid/120.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="290520.php">Экспертный совет по СПО и профессиональному обучению Комитета по образованию и науке Госдумы состоялся»</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 29/05/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>27 мая 2020 года в дистанционном формате состоялось заседание Экспертного совета по среднему профессиональному образованию и профессиональному обучению при Комитете Государственной Думы по образованию и науке<a href="/290520.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/210520.php"><img class="image_fade" src="images/news/grid/119.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
