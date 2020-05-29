@@ -112,7 +112,7 @@
 						<address>
 							<strong>Офис:</strong><br>
 							124460, Россия, Москва, Зеленоград,<br>
-							1-ый Западный проезд, д. 12/1<br>
+                            улица Академика Валиева, д.6, стр.1<br>
 						</address>
 						<abbr title="Phone Number"><strong>Телефон:</strong></abbr> +7 495 229 70 64<br>
 						<!--<abbr title="Fax"><strong>Fax:</strong></abbr>+7 495 229 72 99<br>-->

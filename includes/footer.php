@@ -19,7 +19,7 @@
 							<address class="nobottommargin">
 								<abbr title="Address" style="display: inline-block;"><strong>Адрес:</strong></abbr>
 								124460, Россия, Москва, Зеленоград,
-								1-ый Западный проезд, д. 12/1<br>
+                                улица Академика Валиева, д.6, стр.1<br>
 							</address>
 						</div>
 						<div class="col_half col_last">
