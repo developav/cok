@@ -170,22 +170,6 @@
                             </div>
                         </div> -->
 
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/117.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/117.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="230420.php">Национальное агентство развития квалификаций продлило сроки действия свидетельств о квалификации на 5 месяцев</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 23/04/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Правительство России приняло решение о продлении сроков действия лицензий, аккредитаций и иных разрешительных документов</p>
-                                <a href="230420.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
 
                         <div class="entry clearfix">
                             <div class="entry-image">
@@ -235,6 +219,23 @@
                             <div class="entry-content">
                                 <p>27 мая 2020 года в дистанционном формате состоялось заседание Экспертного совета по среднему профессиональному образованию и профессиональному обучению<br></p>
                                 <a href="290520.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/121.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/121.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="010620.php">Национальный совет рассмотрел законодательные инициативы и создал новый совет по профессиональным квалификациям</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 1/06/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Подведены итоги 43 очередного заседания Национального совета при Президенте Российской Федерации по профессиональным квалификациям<br<br></p>
+                                <a href="010620.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
