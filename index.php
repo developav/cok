@@ -170,24 +170,6 @@
                             </div>
                         </div> -->
 
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/118.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/118.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="300420.php">Центр оценки квалификаций НИИМЭ разработал три проекта новых профессиональных стандартов в области микроэлектроники</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 30/04/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Потребность в кадрах на предприятиях промышленности сегодня носит и количественный, и качественный характер.</p>
-                                <a href="300420.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
                         <div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/119.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/119.jpg" alt="News"></a>
@@ -236,6 +218,23 @@
                             <div class="entry-content">
                                 <p>Подведены итоги 43 очередного заседания Национального совета при Президенте Российской Федерации по профессиональным квалификациям<br<br></p>
                                 <a href="010620.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/122.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/122.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="090620.php">Вебинар по вопросам применения профессиональных стандартов посетило больше 1000 человек</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 9/06/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>29 мая в рамках второго этапа Московского международного салона образования НАРК провело вебинар по вопросам применения профстандартов, процедур и методик НОК в подготовке рабочих кадров.</p>
+                                <a href="090620.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
