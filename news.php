@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/190620.php"><img class="image_fade" src="images/news/grid/123.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="190620.php">Даёшь молодёжь! Начинай строить свою карьеру уже сегодня!</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 19/06/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>18 июня на площадке Национального агентства развития квалификации состоялся онлайн-митап «Построй свою карьеру». Организаторами выступили Национальное агентство и SuperJob.<a href="/190620.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/090620.php"><img class="image_fade" src="images/news/grid/122.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
