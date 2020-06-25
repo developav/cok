@@ -172,23 +172,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/120.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/120.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="290520.php">Экспертный совет по СПО и профессиональному обучению Комитета по образованию и науке Госдумы состоялся</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 29/05/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>27 мая 2020 года в дистанционном формате состоялось заседание Экспертного совета по среднему профессиональному образованию и профессиональному обучению<br></p>
-                                <a href="290520.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/121.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/121.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -235,6 +218,23 @@
                             <div class="entry-content">
                                 <p>18 июня на площадке Национального агентства развития квалификации состоялся онлайн-митап «Построй свою карьеру». Организаторами выступили Национальное агентство и SuperJob. <br><br><br><br></p>
                                 <a href="190620.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/124.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/124.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="250620.php">Александр Лейбович представил ключевые инструменты Национальной системы квалификации на НРБ-2020</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 25/06/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>На площадке Недели Российского бизнеса состоялась онлайн-сессия Социального форума «Рынок труда: уроки кризиса и посткризисное развитие»</p>
+                                <a href="250620.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
