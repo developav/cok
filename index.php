@@ -172,23 +172,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/121.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/121.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="010620.php">Национальный совет рассмотрел законодательные инициативы и создал новый совет по профессиональным квалификациям</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 1/06/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Подведены итоги 43 очередного заседания Национального совета при Президенте Российской Федерации по профессиональным квалификациям<br<br></p>
-                                <a href="010620.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/122.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/122.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -235,6 +218,23 @@
                             <div class="entry-content">
                                 <p>На площадке Недели Российского бизнеса состоялась онлайн-сессия Социального форума «Рынок труда: уроки кризиса и посткризисное развитие»</p>
                                 <a href="250620.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/125.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/125.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="200720.php">Александр Лейбович выступил на Федеральном Конгрессе «Приоритеты 2024»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 20/07/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>16 июля 2020 года Генеральный директор Национального агентства развития квалификаций Александр Лейбович принял участие в Пленарном заседании Федерального Конгресса «Приоритеты 2024»<br><br></p>
+                                <a href="200720.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
