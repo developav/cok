@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/220720.php"><img class="image_fade" src="images/news/grid/126.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="220720.php">Итоги работы Межотраслевого объединения наноиндустрии по реализации Программы по развитие системы оценки профессиональных квалификаций за I полугодие 2020 года</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 22/07/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Дорогие друзья, предлагаем ознакомиться с основными (далеко не всеми, а самыми значимыми) итогами нашей работы за первое полугодие<a href="/220720.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/200720.php"><img class="image_fade" src="images/news/grid/125.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

@@ -170,22 +170,6 @@
                             </div>
                         </div> -->
 
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/122.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/122.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="090620.php">Вебинар по вопросам применения профессиональных стандартов посетило больше 1000 человек</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 9/06/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>29 мая в рамках второго этапа Московского международного салона образования НАРК провело вебинар по вопросам применения профстандартов, процедур и методик НОК в подготовке рабочих кадров.</p>
-                                <a href="090620.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
 
                         <div class="entry clearfix">
                             <div class="entry-image">
@@ -235,6 +219,23 @@
                             <div class="entry-content">
                                 <p>16 июля 2020 года Генеральный директор Национального агентства развития квалификаций Александр Лейбович принял участие в Пленарном заседании Федерального Конгресса «Приоритеты 2024»</p>
                                 <a href="200720.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/126.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/126.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="220720.php">Итоги работы Межотраслевого объединения наноиндустрии по реализации Программы по развитию системы оценки профессиональных квалификаций за I полугодие 2020 года</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 22/07/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p><br></p>
+                                <a href="220720.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
