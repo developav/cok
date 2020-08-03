@@ -66,6 +66,9 @@
 						<input type="text" class="hidden" id="quick-contact-form-botcheck" name="quick-contact-form-botcheck" value="" />
 						<button type="submit" id="quick-contact-form-submit" name="quick-contact-form-submit" class="btn btn-danger nomargin" value="submit">Отправить</button>
 
+                        <p style="margin: 10px; font-size: 75%">Нажимая кнопку «Отправить», я принимаю условия <a href="" target="_blank">Политики конфиденциальности</a> и даю своё <a href="" target="_blank">согласие на обработку моих персональных данных</a></p>
+
+
 					</form>
 
 				</div>

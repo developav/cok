@@ -571,6 +571,7 @@
 
 											<div class="col_full">
 												<button class="button button-3d nomargin" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Отправить</button>
+                                                <p style="margin: 10px; font-size: 85%">Нажимая кнопку «Отправить», я принимаю условия <a href="" target="_blank">Политики конфиденциальности</a> и даю своё <a href="" target="_blank">согласие на обработку моих персональных данных</a></p>
 											</div>
 
 										</form>
