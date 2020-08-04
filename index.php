@@ -223,7 +223,7 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/127-1.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/127.jpg" alt="News"></a>
+                                <a href="images/news/full/127-2.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/127.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
                                 <h2><a href="040820.php">К экспертизе образовательных программ готовы</a></h2>
