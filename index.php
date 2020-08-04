@@ -170,24 +170,6 @@
                             </div>
                         </div> -->
 
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/123.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/123.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="190620.php">Даёшь молодёжь! Начинай строить свою карьеру уже сегодня!</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 19/06/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>18 июня на площадке Национального агентства развития квалификации состоялся онлайн-митап «Построй свою карьеру». Организаторами выступили Национальное агентство и SuperJob. <br><br><br><br></p>
-                                <a href="190620.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
                         <div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/124.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/124.png" alt="News"></a>
@@ -236,6 +218,23 @@
                             <div class="entry-content">
                                 <p><br></p>
                                 <a href="220720.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/127-1.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/127.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="040820.php">К экспертизе образовательных программ готовы</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 04/08/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Руководитель ЦОК НИИМЭ Лилиана Поликарпова и заместитель руководителя Нина Забодаева аккредитованы в качестве экспертов по проведению Профессионально-общественная аккредитация (ПОА) образовательных программ в области нанотехнологий.</p>
+                                <a href="040820.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
