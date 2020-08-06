@@ -172,23 +172,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/124.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/124.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="250620.php">Александр Лейбович представил ключевые инструменты Национальной системы квалификации на НРБ-2020</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 25/06/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>На площадке Недели Российского бизнеса состоялась онлайн-сессия Социального форума «Рынок труда: уроки кризиса и посткризисное развитие»</p>
-                                <a href="250620.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/125.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/125.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -235,6 +218,23 @@
                             <div class="entry-content">
                                 <p>Руководитель ЦОК НИИМЭ Лилиана Поликарпова и заместитель руководителя Нина Забодаева аккредитованы в качестве экспертов по проведению Профессионально-общественная аккредитация (ПОА) образовательных программ в области нанотехнологий.</p>
                                 <a href="040820.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/128.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/128.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="060820.php">Интервью А.Н. Лейбовича «Российской газете». Диплом теряет в цене?</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 06/08/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Выпускники вузов будут сдавать экзамен на профпригодность. Все чаще в объявлениях о найме на работу вместо специальности просто указан набор навыков и умений - квалификаций, необходимых потенциальному сотруднику.</p>
+                                <a href="060820.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
