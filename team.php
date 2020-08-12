@@ -750,6 +750,66 @@
                     </div>
                 </div>
 
+                <div class="row">
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/blank.jpg" alt="Lysenko">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="#">Лысенко Игорь Евгеньевич</a></h4><span>Заведующий кафедрой ФГАОУ ВО «ЮФУ»</span></div>
+                                <div class="team-content">
+                                    <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/blank.jpg" alt="Isaeva">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="#">Исаева Алина Сергеевна</a></h4><span>Преподаватель ФГАОУ ВО «ЮФУ»</span></div>
+                                <div class="team-content">
+                                    <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/blank.jpg" alt="Denisenko">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="#">Денисенко Марк Анатольевич</a></h4><span>Доцент ФГАОУ ВО «ЮФУ»</span></div>
+                                <div class="team-content">
+                                    <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/blank.jpg" alt="Ezhova">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="#">Ежова Ольга Александровна</a></h4><span>Старший научный сотрудник ФГАОУ ВО «ЮФУ»</span></div>
+                                <div class="team-content">
+                                    <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="clear"></div>
 
             </div>
