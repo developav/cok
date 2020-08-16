@@ -172,23 +172,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/125.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/125.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="200720.php">Александр Лейбович выступил на Федеральном Конгрессе «Приоритеты 2024»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 20/07/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>16 июля 2020 года Генеральный директор Национального агентства развития квалификаций Александр Лейбович принял участие в Пленарном заседании Федерального Конгресса «Приоритеты 2024»</p>
-                                <a href="200720.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/126.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/126.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -235,6 +218,23 @@
                             <div class="entry-content">
                                 <p>Выпускники вузов будут сдавать экзамен на профпригодность. Все чаще в объявлениях о найме на работу вместо специальности просто указан набор навыков и умений - квалификаций, необходимых потенциальному сотруднику.</p>
                                 <a href="060820.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/129.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/129.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="140820.php">Заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 14/08/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>31 июля 2020 г. подведены итоги 46 заседания Национального совета при Президенте Российской Федерации по профессиональным квалификациям, прошедшего в заочном формате</p>
+                                <a href="140820.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
