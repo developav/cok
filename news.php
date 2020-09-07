@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/070920.php"><img class="image_fade" src="images/news/grid/130.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="070920.php">Консультационный семинар для работодателей и образовательных организаций</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 7/09/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>27 августа Национальное агентство развития квалификаций провело второй консультационный семинар по вопросам применения профессиональных стандартов, процедур и методик независимой оценки квалификации в подготовке кадров.<a href="/070920.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/140820.php"><img class="image_fade" src="images/news/grid/129.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

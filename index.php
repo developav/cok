@@ -172,23 +172,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/126.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/126.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="220720.php">Итоги работы Межотраслевого объединения наноиндустрии по реализации Программы по развитию системы оценки профессиональных квалификаций за I полугодие 2020 года</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 22/07/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p><br></p>
-                                <a href="220720.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/127-2.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/127.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -235,6 +218,23 @@
                             <div class="entry-content">
                                 <p>31 июля 2020 г. подведены итоги 46 заседания Национального совета при Президенте Российской Федерации по профессиональным квалификациям, прошедшего в заочном формате</p>
                                 <a href="140820.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/130.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/130.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="070920.php">Консультационный семинар для работодателей и образовательных организаций</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 07/09/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>27 августа Национальное агентство развития квалификаций провело второй консультационный семинар по вопросам применения профессиональных стандартов, процедур и методик независимой оценки квалификации</p>
+                                <a href="070920.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
