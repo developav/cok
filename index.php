@@ -253,7 +253,7 @@
                             <h3><a href="team.php">Наша команда</a></h3>
                         </div>
 
-                        <div class="col_one_fourth">
+                        <div class="col_one_third"><!--<div class="col_one_fourth">-->
 
                             <div class="team">
                                 <div class="team-image">
@@ -266,7 +266,7 @@
 
                         </div>
 
-                        <div class="col_one_fourth">
+                        <div class="col_one_third"><!--<div class="col_one_fourth">-->
 
                             <div class="team">
                                 <div class="team-image">
@@ -279,8 +279,7 @@
 
                         </div>
 
-                        <div class="col_one_fourth">
-
+                        <!--<div class="col_one_fourth">
                             <div class="team">
                                 <div class="team-image">
                                     <img src="images/team/smirnova.jpg" alt="Smirnova">
@@ -289,10 +288,9 @@
                                     <div class="team-title"><h4>Смирнова Е.Ю.</h4><span>Специалист по оценке Центра оценки квалификации</span></div>
                                 </div>
                             </div>
+                        </div>-->
 
-                        </div>
-
-                        <div class="col_one_fourth col_last">
+                        <div class="col_one_third col_last"><!--<div class="col_one_fourth col_last">-->
 
                             <div class="team">
                                 <div class="team-image">
