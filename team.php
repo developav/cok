@@ -108,24 +108,7 @@
 
                 <div class="row">
 
-                    <div class="col-md-6 bottommargin">
-
-                        <div class="team team-list clearfix">
-                            <div class="team-image">
-                                <img src="images/team/smirnova.jpg" alt="Smirnova">
-                            </div>
-                            <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Смирнова Екатерина Юрьевна</a></h4><span>Специалист по оценке ЦОК</span></div>
-                                <div class="team-content">
-                                    <p>ЭКСПЕРТ ПО ОЦЕНКЕ</p>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
                     <!--// Жукалин Дмитрий Алексеевич- руководитель экзаменационного центра Воронежского государственного университета -->
-
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
                             <div class="team-image">
@@ -138,6 +121,20 @@
                                 </div>
                             </div>
                         </div>
+                    </div>
+
+                    <div class="col-md-6 bottommargin">
+                        <!--<div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/smirnova.jpg" alt="Smirnova">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="#">Смирнова Екатерина Юрьевна</a></h4><span>Специалист по оценке ЦОК</span></div>
+                                <div class="team-content">
+                                    <p>ЭКСПЕРТ ПО ОЦЕНКЕ</p>
+                                </div>
+                            </div>
+                        </div>-->
                     </div>
 
                 </div>
