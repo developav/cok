@@ -46,6 +46,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="swiper-slide" style="background-image: url('images/slider/2.jpg'); opacity: 0.8">
                             <div class="container clearfix">
                                 <div class="slider-caption slider-caption-center">
@@ -55,6 +56,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="swiper-slide" style="background-image: url('images/slider/3.jpg'); background-position: center top;">
                             <div class="container clearfix">
                                 <div class="slider-caption slider-caption-center">
@@ -64,6 +66,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="swiper-slide" style="background-image: url('images/slider/4.jpg'); background-position: center top;">
                             <div class="container clearfix">
                                 <div class="slider-caption slider-caption-center">
@@ -73,12 +76,23 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="swiper-slide" style="background-image: url('images/slider/4.jpg'); background-position: center top;">
                             <div class="container clearfix">
                                 <div class="slider-caption slider-caption-center">
                                     <a href="standards.php"><h2 data-caption-animate="fadeInUp">Публичное обсуждение проектов профессиональных стандартов в наноиндустрии</h2></a>
                                     <br>
                                     <a data-caption-animate="fadeInUp" data-caption-delay="300" href="/standards.php" target="_blank" class="button button-border button-large button-rounded tright nomargin"><span>Ознакомиться</span> <i class="icon-angle-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide" style="background-image: url('images/slider/4.jpg'); background-position: center top;">
+                            <div class="container clearfix">
+                                <div class="slider-caption slider-caption-center">
+                                    <a href="standards.php"><h2 data-caption-animate="fadeInUp">ПРИГЛАШАЕМ СТАТЬ УЧАСТНИКОМ ПРОЕКТА «ВХОД В ПРОФЕССИЮ»</h2></a>
+                                    <br>
+                                    <a data-caption-animate="fadeInUp" data-caption-delay="300" href="/profession.php" target="_blank" class="button button-border button-large button-rounded tright nomargin"><span>Ознакомиться</span> <i class="icon-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
