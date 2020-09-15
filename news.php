@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/150920.php"><img class="image_fade" src="images/news/grid/131.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="150920.php">Вузы, бизнес и эксперты по оценке квалификаций обсудили вопросы подготовки востребованных кадров</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 15/09/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Вопросы квалификации студентов, качества подготовки выпускников вузами и колледжами, требования бизнеса к квалификации персонала обсудили 14 сентября в технопарке «Идея» в рамках онлайн-сессии «Независимая оценка в образовании.<a href="/150920.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/070920.php"><img class="image_fade" src="images/news/grid/130.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

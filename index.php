@@ -172,23 +172,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/127-2.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/127.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="040820.php">К экспертизе образовательных программ готовы</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 04/08/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Руководитель ЦОК НИИМЭ Лилиана Поликарпова и заместитель руководителя Нина Забодаева аккредитованы в качестве экспертов по проведению Профессионально-общественная аккредитация (ПОА) образовательных программ в области нанотехнологий.</p>
-                                <a href="040820.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/128.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/128.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -235,6 +218,23 @@
                             <div class="entry-content">
                                 <p>27 августа Национальное агентство развития квалификаций провело второй консультационный семинар по вопросам применения профессиональных стандартов, процедур и методик независимой оценки квалификации</p>
                                 <a href="070920.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/131.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/131.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="150920.php">Вузы, бизнес и эксперты по оценке квалификаций обсудили вопросы подготовки востребованных кадров</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 15/09/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Вопросы квалификации студентов, качества подготовки выпускников вузами и колледжами, требования бизнеса к квалификации персонала - онлайн-сессия.</p>
+                                <a href="150920.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
