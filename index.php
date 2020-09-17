@@ -87,7 +87,7 @@
                             </div>
                         </div>
 
-                        <div class="swiper-slide" style="background-image: url('images/slider/4.jpg'); background-position: center top;">
+                        <div class="swiper-slide" style="background-image: url('images/slider/6.jpg'); background-position: center top;">
                             <div class="container clearfix">
                                 <div class="slider-caption slider-caption-center">
                                     <a href="standards.php"><h2 data-caption-animate="fadeInUp">ПРИГЛАШАЕМ СТАТЬ УЧАСТНИКОМ ПРОЕКТА «ВХОД В ПРОФЕССИЮ»</h2></a>
