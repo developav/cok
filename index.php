@@ -186,23 +186,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/128.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/128.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="060820.php">Интервью А.Н. Лейбовича «Российской газете». Диплом теряет в цене?</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 06/08/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Выпускники вузов будут сдавать экзамен на профпригодность. Все чаще в объявлениях о найме на работу вместо специальности просто указан набор навыков и умений - квалификаций, необходимых потенциальному сотруднику.</p>
-                                <a href="060820.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/129.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/129.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -247,8 +230,25 @@
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Вопросы квалификации студентов, качества подготовки выпускников вузами и колледжами, требования бизнеса к квалификации персонала - онлайн-сессия.</p>
+                                <p>Вопросы квалификации студентов, качества подготовки выпускников вузами и колледжами, требования бизнеса к квалификации персонала - онлайн-сессия</p>
                                 <a href="150920.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/132.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/132.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="220920.php">ФИОП и НАРК разработали методические рекомендации по применению модели ЦОК в деятельности наукоемкого предприятия</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 22/09/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Система независимой оценки квалификаций имеет широкое распространение в развитых странах</p>
+                                <a href="220920.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

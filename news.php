@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/220920.php"><img class="image_fade" src="images/news/grid/132.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="220920.php">ФИОП и НАРК разработали методические рекомендации по применению многофункциональной модели Центра оценки квалификаций в деятельности наукоемкого предприятия</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 22/09/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Система независимой оценки квалификаций имеет широкое распространение в развитых странах, что способствует повышению эффективности труда и формированию глобальной конкурентоспособности отдельных компаний в части реализации уникальных бизнес-моделей и запуска проектов<a href="/220920.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/150920.php"><img class="image_fade" src="images/news/grid/131.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
