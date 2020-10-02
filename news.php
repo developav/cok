@@ -50,6 +50,44 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/011020-1.php"><img class="image_fade" src="images/news/grid/134.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="011020-1.php">Интервью Александра Лейбовича журналу "Russian Business Guide"</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 1/10/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Наличие диплома и даже его цвет далеко не всегда являются гарантией знаний, а главное, умения их применять<a href="/011020-1.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/011020.php"><img class="image_fade" src="images/news/grid/133.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="011020.php">СПК в наноиндустрии и в сфере образования объединяют усилия по развитию НСК</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 1/10/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>В рамках заседания Рабочей группы НСПК по развитию системы оценки квалификаций, состоявшегося 15 сентября в Роснано, между СПК в сфере образования и нашим Советом подписано Соглашение о межотраслевом сотрудничестве и взаимодействии в сфере развития Национальной системы квалификаций, в том числе, независимой оценки квалификаций в форме профессионального экзамена<a href="/011020.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/220920.php"><img class="image_fade" src="images/news/grid/132.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

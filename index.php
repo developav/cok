@@ -186,40 +186,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/129.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/129.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="140820.php">Заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 14/08/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>31 июля 2020 г. подведены итоги 46 заседания Национального совета при Президенте Российской Федерации по профессиональным квалификациям, прошедшего в заочном формате</p>
-                                <a href="140820.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/130.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/130.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="070920.php">Консультационный семинар для работодателей и образовательных организаций</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 07/09/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>27 августа Национальное агентство развития квалификаций провело второй консультационный семинар по вопросам применения профессиональных стандартов, процедур и методик независимой оценки квалификации</p>
-                                <a href="070920.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/131.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/131.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -252,6 +218,39 @@
                             </div>
                         </div>
 
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/133.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/133.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="011020.php">СПК в наноиндустрии и в сфере образования объединяют усилия по развитию НСК</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 1/10/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>В рамках Рабочей группы НСПК по развитию системы оценки квалификаций, между СПК в сфере образования и нашим Советом подписано Соглашение о сотрудничестве в сфере развития Национальной системы квалификаций</p>
+                                <a href="011020.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/134.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/134.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="011020-1.php">Интервью Александра Лейбовича журналу "Russian Business Guide"</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 1/10/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Наличие диплома и даже его цвет далеко не всегда являются гарантией знаний, а главное, умения их применять; гарантией квалификации, компетенции специалиста, претендующего на какое-либо рабочее место. Экзамены сданы, впереди работа...<br><br></p>
+                                <a href="011020-1.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
 
                     </div>
                 </div><!-- end news block -->
