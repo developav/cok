@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/121020.php"><img class="image_fade" src="images/news/grid/135.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="121020.php">Обсуждение проектов рекомендаций по организации деятельности центров оценки квалификаций в регионах РФ</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 12/10/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>8 октября Национальное агентство развития квалификаций открыло серию мероприятий по обсуждению с субъектами Российской Федерации рекомендаций по организации деятельности центров оценки квалификаций, а также практики создания и деятельности центров оценки квалификации, осуществляющих проведение профессиональных экзаменов по квалификациям, относящимся к различным областям профессиональной деятельности.<a href="/121020.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/011020-1.php"><img class="image_fade" src="images/news/grid/134.jpg" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
