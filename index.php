@@ -184,22 +184,6 @@
                             </div>
                         </div> -->
 
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/132.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/132.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="220920.php">ФИОП и НАРК разработали методические рекомендации по применению модели ЦОК в деятельности наукоемкого предприятия</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 22/09/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Система независимой оценки квалификаций имеет широкое распространение в развитых странах</p>
-                                <a href="220920.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
 
                         <div class="entry clearfix">
                             <div class="entry-image">
@@ -249,6 +233,23 @@
                             <div class="entry-content">
                                 <p>8 октября Национальное агентство развития квалификаций открыло серию мероприятий по обсуждению рекомендаций по организации деятельности центров оценки квалификаций</p>
                                 <a href="121020.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/136.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/136.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="191020.php">В России появятся профстандарты по перспективным профессиям будущего</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 19/10/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Премьер-министр РФ Михаил Мишустин подписал постановление о реализации пилотного проекта по разработке профстандартов по перспективным профессиям будущего, в том числе в области искусственного интеллекта</p>
+                                <a href="191020.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

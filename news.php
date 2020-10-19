@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/191020.php"><img class="image_fade" src="images/news/grid/136.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="191020.php">В России появятся профстандарты по перспективным профессиям будущего</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 19/10/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Премьер-министр РФ Михаил Мишустин подписал постановление о реализации пилотного проекта по разработке профстандартов по перспективным профессиям будущего<a href="/191020.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/121020.php"><img class="image_fade" src="images/news/grid/135.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
