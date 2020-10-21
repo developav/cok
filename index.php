@@ -184,24 +184,6 @@
                             </div>
                         </div> -->
 
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/133.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/133.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="011020.php">СПК в наноиндустрии и в сфере образования объединяют усилия по развитию НСК</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 1/10/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>В рамках Рабочей группы НСПК по развитию системы оценки квалификаций, между СПК в сфере образования и нашим Советом подписано Соглашение о сотрудничестве в сфере развития Национальной системы квалификаций</p>
-                                <a href="011020.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
                         <div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/134.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/134.jpg" alt="News"></a>
@@ -250,6 +232,23 @@
                             <div class="entry-content">
                                 <p>Премьер-министр РФ Михаил Мишустин подписал постановление о реализации пилотного проекта по разработке профстандартов по перспективным профессиям будущего, в том числе в области искусственного интеллекта</p>
                                 <a href="191020.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/137.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/137.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="211020.php">Более 150 человек приняло участие в семинаре «Оценка квалификации. Траектория профессионального роста»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 21/10/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>16 октября 2020 года в дистанционном формате состоялся региональный семинар «Оценка квалификации. Траектория профессионального роста»</p>
+                                <a href="211020.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
