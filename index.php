@@ -186,23 +186,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/134.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/134.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="011020-1.php">Интервью Александра Лейбовича журналу "Russian Business Guide"</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 1/10/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Наличие диплома и даже его цвет далеко не всегда являются гарантией знаний, а главное, умения их применять; гарантией квалификации, компетенции специалиста, претендующего на какое-либо рабочее место. Экзамены сданы, впереди работа...<br></p>
-                                <a href="011020-1.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/135.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/135.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -249,6 +232,23 @@
                             <div class="entry-content">
                                 <p>16 октября 2020 года в дистанционном формате состоялся региональный семинар «Оценка квалификации. Траектория профессионального роста»</p>
                                 <a href="211020.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/138.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/138.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="021120.php">Обсуждение рекомендаций по созданию МЦОК и оказанию дополнительных услуг ЦОК с субъектами РФ</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 2/11/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>27 октября состоялось совещание - обсуждение с субъектами РФ проектов рекомендаций по организации деятельности многопрофильных центров оценки квалификаций</p>
+                                <a href="021120.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

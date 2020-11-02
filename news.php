@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/021120.php"><img class="image_fade" src="images/news/grid/138.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="021120.php">Обсуждение рекомендаций по созданию МЦОК и оказанию дополнительных услуг ЦОК с представителями субъектов Российской Федерации</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 2/11/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>27 октября состоялось очередное совещание - обсуждение с субъектами Российской Федерации проектов рекомендаций по организации деятельности многопрофильных центров оценки квалификаций...<a href="/021120.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/211020.php"><img class="image_fade" src="images/news/grid/137.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
