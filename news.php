@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/091120.php"><img class="image_fade" src="images/news/grid/139.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="091120.php">Исследование по вопросам применения механизмов национальной системы квалификаций в образовательном процессе</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 9/11/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Приглашаем принять участие в исследовании по вопросам применения механизмов национальной системы квалификаций в образовательном процессе и информированности студентов об услугах НОК.<a href="/091120.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/021120.php"><img class="image_fade" src="images/news/grid/138.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

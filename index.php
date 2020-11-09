@@ -186,23 +186,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/135.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/135.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="121020.php">Обсуждение рекомендаций по организации деятельности центров оценки квалификаций</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 12/10/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>8 октября Национальное агентство развития квалификаций открыло серию мероприятий по обсуждению рекомендаций по организации деятельности центров оценки квалификаций</p>
-                                <a href="121020.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/136.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/136.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -249,6 +232,23 @@
                             <div class="entry-content">
                                 <p>27 октября состоялось совещание - обсуждение с субъектами РФ проектов рекомендаций по организации деятельности многопрофильных центров оценки квалификаций</p>
                                 <a href="021120.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/139.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/139.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="091120.php">Исследование по вопросам применения механизмов национальной системы квалификаций в образовательном процессе</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 9/11/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Исследование проводится СПК наноиндустрии совместно с ФГБУ ВНИИ труда Минтруда России.</p>
+                                <a href="091120.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
