@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/231120.php"><img class="image_fade" src="images/news/grid/140.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="231120.php">Представлена модель кадрового обеспечения инжиниринговых команд для реализации инновационных проектов</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 23/11/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>16 ноября в Санкт-Петербурге на онлайн-площадке информационного агентства ТАСС состоялась пресс-конференция, на которой была представлена модель кадрового обеспечения инжиниринговых команд для реализации инновационных проектов.<a href="/231120.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/091120.php"><img class="image_fade" src="images/news/grid/139.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

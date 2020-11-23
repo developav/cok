@@ -186,23 +186,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/136.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/136.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="191020.php">В России появятся профстандарты по перспективным профессиям будущего</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 19/10/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Премьер-министр РФ Михаил Мишустин подписал постановление о реализации пилотного проекта по разработке профстандартов по перспективным профессиям будущего, в том числе в области искусственного интеллекта</p>
-                                <a href="191020.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/137.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/137.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -249,6 +232,23 @@
                             <div class="entry-content">
                                 <p>Исследование проводится СПК наноиндустрии совместно с ФГБУ ВНИИ труда Минтруда России.</p>
                                 <a href="091120.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/140.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/140.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="231120.php">Представлена модель кадрового обеспечения инжиниринговых команд для реализации инновационных проектов</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 23/11/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>16 Ноября на пресс-конференции на онлайн-площадке ТАСС, на которой представлена модель кадрового обеспечения инжиниринговых команд</p>
+                                <a href="231120.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
