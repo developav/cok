@@ -186,23 +186,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/137.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/137.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="211020.php">Более 150 человек приняло участие в семинаре «Оценка квалификации. Траектория профессионального роста»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 21/10/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>16 октября 2020 года в дистанционном формате состоялся региональный семинар «Оценка квалификации. Траектория профессионального роста»</p>
-                                <a href="211020.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/138.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/138.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -249,6 +232,23 @@
                             <div class="entry-content">
                                 <p>16 Ноября на пресс-конференции на онлайн-площадке ТАСС, на которой представлена модель кадрового обеспечения инжиниринговых команд</p>
                                 <a href="231120.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/141.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/141.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="141220.php">"Входные" квалификации для проведения оценки студентов, учитывающие уровень подготовки</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 14/12/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Некорректно проводить независимую оценку квалификации и выпускников, и специалистов с многолетним опытом работы по одной и той же процедуре</p>
+                                <a href="141220.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

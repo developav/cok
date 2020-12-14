@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/141220.php"><img class="image_fade" src="images/news/grid/141.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="141220.php">"Входные" квалификации для проведения оценки студентов, учитывающие уровень подготовки соискателей</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 14/12/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Безусловно некорректно проводить независимую оценку квалификации и выпускников, и специалистов с многолетним опытом работы по одной и той же процедуре, на соответствие одной и той же квалификации, ведь у студентов почти нет практических навыков.<a href="/141220.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/231120.php"><img class="image_fade" src="images/news/grid/140.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
