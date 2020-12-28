@@ -54,7 +54,7 @@
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
                                     <div class="entry-title">
-                                        <h2><a href="281220.php">Не более 60% работодателей готовы взять на работу выпускника без опыта работы</a></h2>
+                                        <h2><a href="281220.php">Проект "Вход в профессию" 2019-2020</a></h2>
                                     </div>
                                     <ul class="entry-meta clearfix" style="height: 30px">
                                         <li><i class="icon-calendar3"></i> 28/12/2020</li>
