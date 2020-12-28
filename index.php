@@ -186,23 +186,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/138.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/138.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="021120.php">Обсуждение рекомендаций по созданию МЦОК и оказанию дополнительных услуг ЦОК с субъектами РФ</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 2/11/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>27 октября состоялось совещание - обсуждение с субъектами РФ проектов рекомендаций по организации деятельности многопрофильных центров оценки квалификаций</p>
-                                <a href="021120.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/139.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/139.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -249,6 +232,23 @@
                             <div class="entry-content">
                                 <p>Некорректно проводить независимую оценку квалификации и выпускников, и специалистов с многолетним опытом работы по одной и той же процедуре</p>
                                 <a href="141220.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/142.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/142.jpg" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="281220.php">Не более 60% работодателей готовы взять на работу выпускника без опыта работы и выбирают более опытных кандидатов</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 28/12/2020</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>К сожалению, диплом о высшем образовании не говорит о реальных знаниях, умения и навыках</p>
+                                <a href="281220.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

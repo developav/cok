@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/281220.php"><img class="image_fade" src="images/news/grid/142.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="281220.php">Не более 60% работодателей готовы взять на работу выпускника без опыта работы</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 28/12/2020</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>По данным исследований рынка труда, не более 60% работодателей готовы взять на работу выпускника без опыта работы и выбирают более опытных кандидатов<a href="/281220.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/141220.php"><img class="image_fade" src="images/news/grid/141.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
