@@ -186,23 +186,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/139.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/139.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="091120.php">Исследование по вопросам применения механизмов национальной системы квалификаций в образовательном процессе</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 9/11/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Исследование проводится СПК наноиндустрии совместно с ФГБУ ВНИИ труда Минтруда России.</p>
-                                <a href="091120.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/140.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/140.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -250,6 +233,24 @@
                                 <p>По данным исследований рынка труда, не более 60% работодателей готовы взять на работу выпускника без опыта работы и выбирают
                                     более опытных кандидатов<br><br><br><br></p>
                                 <a href="281220.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/143.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/143.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="180121.php">Мнение эксперта</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 18/01/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Алла Факторович, заместитель генерального директора АНО Национального агентства развития квалификаций рассказала РИА "Стандарты и качество"
+                                    каковы перспективы профессионального образования в России.<br><br><br></p>
+                                <a href="180121.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
