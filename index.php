@@ -223,15 +223,15 @@
                                 <a href="images/news/full/142.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/142.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="281220.php">Проект "Вход в профессию" 2019-2020</a></h2>
+                                <h2><a href="281220.php">Проект "Вход в профессию"</a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
                                 <li><i class="icon-calendar3"></i> 28/12/2020</li>
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>По данным исследований рынка труда, не более 60% работодателей готовы взять на работу выпускника без опыта работы и выбирают
-                                    более опытных кандидатов<br><br><br><br></p>
+                                <p>Проект реализован ЦОК "НИИМЭ" совместно с СПК наноиндустрии при участии передовых вузов страны,
+                                    ведущих подготовку по инженерным специальностям (МИЭТ, МЭИ, СевГУ, ЮФУ, ВГУ, НГТУ, НЭТИ)<br><br><br></p>
                                 <a href="281220.php" class="more-link">Далее</a>
                             </div>
                         </div>
