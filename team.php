@@ -69,9 +69,12 @@
                                 <img src="images/team/polikarpova.jpg" alt="Polikarpova">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Поликарпова Лилиана Владимировна</a></h4><span>Руководитель Центра оценки квалификаций АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="#">Поликарпова Лилиана Владимировна</a>
+                                    </h4><span>Руководитель Центра оценки квалификаций АО «НИИМЭ»</span></div>
                                 <div class="team-content">
-                                    <p>Зам.генерального директора по организационному развитию и управлению персоналом АО «НИИМЭ»<br> ЭКСПЕРТ ПО ОЦЕНКЕ</p>
+                                    <p>Член Совета по квалификациям в наноиндустрии
+                                        <br>Зам.генерального директора по организационному развитию и управлению персоналом АО «НИИМЭ»
+                                        <br>ЭКСПЕРТ ПО ОЦЕНКЕ</p>
                                 </div>
                                 <!--<a href="#" class="social-icon si-rounded si-small si-facebook">
                                     <i class="icon-facebook"></i>

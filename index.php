@@ -275,7 +275,7 @@
                                     <img src="images/team/polikarpova.jpg" alt="Polikarpova">
                                 </div>
                                 <div class="team-desc">
-                                    <div class="team-title"><h4>Поликарпова Л.В.</h4><span>Руководитель центра оценки</span></div>
+                                    <div class="team-title"><h4>Поликарпова Л.В.</h4><span>Руководитель центра оценки,<br>член Совета по квалификациям в наноиндустрии</span></div>
                                 </div>
                             </div>
 
