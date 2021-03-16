@@ -41,7 +41,11 @@
 				</li>
 				<!--<li class="mega-menu"><a href="./projects.php"><div>Экзаменационные центры</div></a></li>-->
 				<li><a href="/partners.php"><div>Партнеры</div></a></li>
-				<li class="mega-menu"><a href="/news.php"><div>Новости</div></a></li>
+                <li><a href="/news.php"><div>Новости</div></a>
+                    <ul>
+                        <li><a href="/blog.php"><div>Блог</div></a></li>
+                    </ul>
+                </li>
 				<li><a href="/contacts.php"><div>Контакты</div></a></li>
 			</ul>
 
