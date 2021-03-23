@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/blog-230321.php"><img class="image_fade" src="images/blog/grid/230321.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-230321.php">Первое трудоустройство. Как избежать провального собеседования?</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 23/03/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Первый опыт прохождения собеседования часто бывает неудачным. Чаще всего "просто растерялся", "я не знал, что нужно отвечать", "интервьюер придирался" и т.п.<a href="/blog-160321.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/blog-160321.php"><img class="image_fade" src="images/blog/grid/160321.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
