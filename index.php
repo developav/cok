@@ -120,16 +120,47 @@
                         <!--<span>Доп текст в заголовке блока новостей</span>-->
                     </div>
 
-                    <div class="col_two_fifth notopmargin bottommargin">
-                        <div class="entry-image">
-                            <img class="image_fade" src="images/about-small.jpg" alt="Image about">
-                        </div>
+                    <div class="col_half notopmargin bottommargin" style="text-align: center">
+                        <img src="images/greenrings.png" alt="data">
                     </div>
+                    <!--<div class="col_half notopmargin bottommargin" style="text-align: center">
+                        <div class="col_one_third">
+                            <p><b>1-ый</b></p>
+                            <span>В Росии ЦОК в микроэлектронике</span>
+                            <p></p>
+                        </div>
+                        <div class="col_one_third">
+                            <div style="background: url(/images/greenring.png) no-repeat;">
+                                <p><b>45</b></p>
+                            </div>
+                            <span>Технических экспертов</span>
+                            <p></p>
+                        </div>
+                        <div class="col_one_third col_last">
+                            <p><b>300</b></p>
+                            <span>Профессиональных экзаменов с 2017 года</span>
+                            <p></p>
+                        </div>
+                        <div class="col_one_third">
+                            <p><b>17</b></p>
+                            <span>Профстандартов для независимой оценки</span>
+                            <p></p>
+                        </div>
+                        <div class="col_one_third">
+                            <p><b>50</b></p>
+                            <span>Квалификаций в наноиндустрии</span>
+                            <p></p>
+                        </div>
+                        <div class="col_one_third col_last">
+                            <p><b>> 250</b></p>
+                            <span>Студентов прошли адаптированный профэкзамен в вузах страны</span>
+                            <p></p>
+                        </div>
+                    </div>-->
 
-                    <div class="col_three_fifth notopmargin nobottommargin col_last" style="text-align: justify;">
-
+                    <div class="col_half notopmargin nobottommargin col_last" style="text-align: justify;">
                         <p>Центр оценки квалификаций (ЦОК) в наноиндустрии, созданный на базе Акционерного общества «Научно-исследовательского института молекулярной электроники» при поддержке <a href="http://www.rusnano.com/infrastructure">Фонда инфраструктурных и образовательных программ</a> РОСНАНО (ФИОП), начал свою работу 23 декабря 2016 года.<br>
-                        <a href="/regulationdocs/Аттестат 8.pdf">Аттестат соответствия Центра оценки квалификаций от 24 декабря 2019 года № 8</a>.<br>
+                            <a href="/regulationdocs/Аттестат 8.pdf">Аттестат соответствия Центра оценки квалификаций от 24 декабря 2019 года № 8</a>.<br>
                             Перечень наименований квалификаций, по которым планируется проведение независимой оценки квалификации (расширение области деятельности) ЦОК АО «НИИМЭ» был расширен 14.06.2017 (Протокол СПК № 20).
                             Добавлены профессиональные стандарты: 90, 172, 177, 848, 850, 174 и 543. 28.05.2018 добавлен профессиональный стандарт № 176 (Протокол СПК № 27).
                             11.04.2019 добавлен профессиональный стандарт № 545 (Протокол СПК № 34). Протоколом СПК № 38 от 22.07.2019 ЦОК и ЭЦ ВГУ добавлены профессиональные стандарты № 24 и № 853.
@@ -142,9 +173,7 @@
                             <li><i class="icon-ok-sign"></i> Экспертные знания в области проведения независимой оценки квалификаций и профессиональных экзаменов</li>
                             <li><i class="icon-ok-sign"></i> Гарантия соответствия подтвержденных квалификаций сертифицированного специалиста установленным профессиональным требованиям независимой оценки квалификаций</li>
                         </ul>
-
                     </div>
-
                 </div>
 
 				<!-- news block -->
