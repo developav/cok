@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/140.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/140.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="231120.php">Представлена модель кадрового обеспечения инжиниринговых команд для реализации инновационных проектов</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 23/11/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>16 Ноября на пресс-конференции на онлайн-площадке ТАСС, на которой представлена модель кадрового обеспечения инжиниринговых команд</p>
-                                <a href="231120.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/141.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/141.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -280,6 +263,23 @@
                                 <p>Алла Факторович, заместитель генерального директора АНО Национального агентства развития квалификаций рассказала РИА "Стандарты и качество"
                                     каковы перспективы профессионального образования в России.<br><br><br></p>
                                 <a href="180121.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/144.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/144.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="290321.php">«Ценность работника определяется его квалификацией»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 29/03/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Первый в России Центр оценки квалификаций в сфере микроэлектроники открыт на базе АО «НИИМЭ» в 2017г. Сегодня ЦОК НИИМЭ проводит оценку по 17 профстандартам, включающим 50 квалификаций работников наноиндустрии</p>
+                                <a href="290321.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
