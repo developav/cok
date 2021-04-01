@@ -50,6 +50,26 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/010421.php"><img class="image_fade" src="images/news/grid/145.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="010421.php">ЦОК «НИИМЭ» принял участие в IX ФОРУМЕ-КОНКУРСЕ GRADUATE-2021</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 01/04/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Форум прошел 25-26 марта в Москве и стал крупнейшей площадкой для презентации собственных решений и практик по работе с молодёжью представителей бизнеса, образования, общественных организаций, кадровых агентств и многих других участников.<a href="/010421.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/290321.php"><img class="image_fade" src="images/news/grid/144.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

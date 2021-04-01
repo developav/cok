@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/141.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/141.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="141220.php">"Входные" квалификации для проведения оценки студентов, учитывающие уровень подготовки</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 14/12/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Некорректно проводить независимую оценку квалификации и выпускников, и специалистов с многолетним опытом работы по одной и той же процедуре</p>
-                                <a href="141220.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/142.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/142.jpg" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -280,6 +263,23 @@
                             <div class="entry-content">
                                 <p>Первый в России Центр оценки квалификаций в сфере микроэлектроники открыт на базе АО «НИИМЭ» в 2017г. Сегодня ЦОК НИИМЭ проводит оценку по 17 профстандартам, включающим 50 квалификаций работников наноиндустрии</p>
                                 <a href="290321.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/145.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/145.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="010421.php">ЦОК «НИИМЭ» принял участие в IX ФОРУМЕ-КОНКУРСЕ GRADUATE-2021</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 01/04/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Форум прошел 25-26 марта в Москве и стал крупнейшей площадкой для презентации собственных решений и практик по работе с молодёжью представителей бизнеса, образования, общественных организаций, кадровых агентств и многих других участников.</p>
+                                <a href="010421.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
