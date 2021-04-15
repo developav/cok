@@ -215,24 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/142.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/142.jpg" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="281220.php">Проект "Вход в профессию"</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 28/12/2020</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Проект реализован ЦОК "НИИМЭ" совместно с СПК наноиндустрии при участии передовых вузов страны,
-                                    ведущих подготовку по инженерным специальностям (МИЭТ, МЭИ, СевГУ, ЮФУ, ВГУ, НГТУ, НЭТИ)<br><br><br></p>
-                                <a href="281220.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/143.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/143.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -280,6 +262,24 @@
                             <div class="entry-content">
                                 <p>Форум прошел 25-26 марта в Москве и стал крупнейшей площадкой для презентации собственных решений и практик по работе с молодёжью представителей бизнеса, образования, общественных организаций, кадровых агентств и многих других участников.</p>
                                 <a href="010421.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/146.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/146.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <!--<h2><a href="150421.php">ЦОК «НИИМЭ» принял участие в IX ФОРУМЕ-КОНКУРСЕ GRADUATE-2021</a></h2>-->
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 15/04/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Я, Лилиана Поликарпова, заместитель генерального директора АО «НИИМЭ» и руководитель Центра оценки квалификаций АО «НИИМЭ».
+                                    Почти 15 лет я управляю кадровыми процессами в крупнейших отечественных компаниях – производителях и разработчиках элементной базы.<br><br><br></p>
+                                <a href="150421.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
