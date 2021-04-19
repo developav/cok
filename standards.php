@@ -53,11 +53,11 @@
                         </div>
 
                         <p><b>Уважаемые коллеги!</b></p>
-                        Приглашаем вас принять участие в публичном обсуждении проектов профессиональных стандартов в наноиндустрии:<br>
-                        <b>«Оператор прецизионного травления изделий микроэлектроники»</b> <a href="/regulationdocs/standards/projects/проект%20ПС%20ПТ.DOCX" target="_blank">Скачать</a><br>
-                        <b>«Оператор прецизионной фотолитографии изделий микроэлектроники»</b> <a href="/regulationdocs/standards/projects/проект%20ПС%20ПФЛ.DOC" target="_blank">Скачать</a><br>
-                        <b>«Оператор элионных процессов изделий микроэлектроники»</b> <a href="/regulationdocs/standards/projects/проект%20ПС%20ЭП.DOC" target="_blank">Скачать</a><br><br>
-                        <p>Принять участие в обсуждении вы можете ознакомившись с проектами профессиональных стандартов и заполнив <a href="https://docs.google.com/forms/d/e/1FAIpQLSd2w22APyb4CsVeU8dnN-JtmaigWJSgPhb9CxptNDO1CftdvA/viewform" target="_blank">форму.</a></p>
+                        <p>Приглашаем вас принять участие в публичном обсуждении проектов профессиональных стандартов в наноиндустрии:</p>
+                        <p>• <a href="https://cok-niime.ru/uploads/ps_spec_tech_is.docx" target="_blank">«Инженер-технолог в области производства наноразмерных полупроводниковых приборов и интегральных схем»</a></p>
+                        <p>• <a href="https://cok-niime.ru/uploads/ps_spec_snk.docx" target="_blank">«Инженер в области проектирования и сопровождения интегральных схем и систем на кристалле»</a></p>
+                        <p>• <a href="https://cok-niime.ru/uploads/ps_svch.doc" target="_blank">«Инженер-конструктор в области производства наногетероструктурных СВЧ-монолитных интегральных схем»</a></p>
+                        <p>Принять участие в обсуждении вы можете ознакомившись с проектами профессиональных стандартов и заполнив <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhqbXXf4B-47IyFQJbzELyXaYXvQ_qGec_ReV1s62FRXc2dA/viewform" target="_blank">форму.</a></p>
 
                         <div class="heading-block fancy-title nobottomborder title-bottom-border">
                             <h4></h4>
