@@ -50,6 +50,63 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/blog-260421-3.php"><img class="image_fade" src="images/blog/grid/260421-3.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-260421-3.php">Рубрика вопрос-ответ</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 26/04/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Что определяет уровень квалификации? На что он указывает?<a href="/blog-260421-3.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/blog-260421-2.php"><img class="image_fade" src="images/blog/grid/260421-2.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-260421-2.php">Отраслевая рамка квалификаций (ОРК)</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 26/04/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>В современном понимании ОРК – это новый единый цифровой формат и инструмент систематизации квалификаций.<a href="/blog-260421-2.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/blog-260421-1.php"><img class="image_fade" src="images/blog/grid/260421-1.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-260421-1.php">Как проходит процедура НОК?</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 26/04/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Экзамен проводится с целью установления знаний, умений и навыков, отвечающих требованиям конкретной квалификации.<a href="/blog-260421-1.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <!--<div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/blog-010421.php"><img class="image_fade" src="images/blog/grid/010421.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
@@ -64,7 +121,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><!-- #posts end -->
+                        </div><!- #posts end ->-->
 
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
