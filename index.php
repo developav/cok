@@ -215,58 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/143.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/143.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="180121.php">Мнение эксперта</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 18/01/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Алла Факторович, заместитель генерального директора АНО Национального агентства развития квалификаций рассказала РИА "Стандарты и качество"
-                                    каковы перспективы профессионального образования в России.<br><br><br></p>
-                                <a href="180121.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/144.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/144.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="290321.php">«Ценность работника определяется его квалификацией»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 29/03/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Первый в России Центр оценки квалификаций в сфере микроэлектроники открыт на базе АО «НИИМЭ» в 2017г. Сегодня ЦОК НИИМЭ проводит оценку по 17 профстандартам, включающим 50 квалификаций работников наноиндустрии</p>
-                                <a href="290321.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/145.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/145.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="010421.php">ЦОК «НИИМЭ» принял участие в IX ФОРУМЕ-КОНКУРСЕ GRADUATE-2021</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 01/04/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Форум прошел 25-26 марта в Москве и стал крупнейшей площадкой для презентации собственных решений и практик по работе с молодёжью представителей бизнеса, образования, общественных организаций, кадровых агентств и многих других участников.</p>
-                                <a href="010421.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/146.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/146.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -280,6 +228,57 @@
                                 <p>Я, Лилиана Поликарпова, заместитель генерального директора АО «НИИМЭ» и руководитель Центра оценки квалификаций АО «НИИМЭ».
                                     Почти 15 лет я управляю кадровыми процессами в крупнейших отечественных компаниях – производителях и разработчиках элементной базы.<br><br><br></p>
                                 <a href="150421.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/147-1.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/147-1.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <!--<h2><a href="150421.php">ЦОК «НИИМЭ» принял участие в IX ФОРУМЕ-КОНКУРСЕ GRADUATE-2021</a></h2>-->
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 26/04/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Поликарпова Лилиана, руководитель ЦОК «НИИМЭ», член Совета по квалификациям в наноиндустрии примет участие во второй российской онлайн конференции по инженерному образованию CEE2021, которая состоится 27 апреля 2021 года.<br><br><br></p>
+                                <a href="260421-1.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/147-2.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/147-2.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="260421-2.php">Руководитель ЦОК НИИМЭ Лилиана Поликарпова на конференции "Трансформация отрасли: кадровая готовность".</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 26/04/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Конференция состоялась в рамках 23-й ежегодной выставки ExpoElectronica2021 с 13 по 15 апреля в «Крокус Экспо» в Москве.</p>
+                                <a href="260421-2.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/147-3.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/147-3.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="260421-3.php">21 апреля руководитель ЦОК НИИМЭ Лилиана Поликарпова приняла участие в межвузовском карьерном форуме StartWork</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 26/04/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Организатором данного мероприятия выступил #ТУСУР. Мероприятие проходит в онлайн-формате с 19 по 27 апреля 2021 года.</p>
+                                <a href="260421-3.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

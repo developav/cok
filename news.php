@@ -57,10 +57,67 @@
                                         <!--<h2><a href="150421.php">ЦОК «НИИМЭ» принял участие в IX ФОРУМЕ-КОНКУРСЕ GRADUATE-2021</a></h2>-->
                                     </div>
                                     <ul class="entry-meta clearfix" style="height: 30px">
-                                        <li><i class="icon-calendar3"></i> 15/04/2021</li>
+                                        <li><i class="icon-calendar3"></i> 15/04/2021 - Закреплено</li>
                                     </ul>
                                     <div class="entry-content col_last">
                                         <p>Я, Лилиана Поликарпова, заместитель генерального директора АО «НИИМЭ» и руководитель Центра оценки квалификаций АО «НИИМЭ». Почти 15 лет я управляю кадровыми процессами в крупнейших отечественных компаниях – производителях и разработчиках элементной базы.<a href="/150421.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/260421-3.php"><img class="image_fade" src="images/news/grid/147-3.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="260421-3.php">21 апреля руководитель ЦОК НИИМЭ Лилиана Поликарпова приняла участие в межвузовском карьерном форуме StartWork</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 26/04/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Организатором данного мероприятия выступил #ТУСУР. Мероприятие проходит в онлайн-формате с 19 по 27 апреля 2021 года.<a href="/260421-3.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/260421-2.php"><img class="image_fade" src="images/news/grid/147-2.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="260421-2.php">15 апреля 2021 года Руководитель ЦОК НИИМЭ, член СПКнано Лилиана Поликарпова приняла участие в кадровой конференции "Трансформация отрасли: кадровая готовность".</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 26/04/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Конференция состоялась в рамках 23-й ежегодной выставки электронных компонентов, модулей и комплектующих ежегодной выставки ExpoElectronica2021, прошедшей с 13 по 15 апреля в выставочном центре «Крокус Экспо» в Москве.<a href="/260421-2.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/260421-1.php"><img class="image_fade" src="images/news/grid/147-1.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <!--<h2><a href="150421.php">ЦОК «НИИМЭ» принял участие в IX ФОРУМЕ-КОНКУРСЕ GRADUATE-2021</a></h2>-->
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 26/04/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Поликарпова Лилиана, руководитель ЦОК «НИИМЭ», член Совета по квалификациям в наноиндустрии примет участие во второй российской онлайн конференции по инженерному образованию CEE2021, которая состоится 27 апреля 2021 года.<a href="/260421-1.php" class="more-link"> (Дальше...)</a></p>
                                     </div>
                                 </div>
                             </div>
