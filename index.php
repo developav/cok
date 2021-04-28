@@ -233,23 +233,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/147-1.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/147-1.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <!--<h2><a href="150421.php">ЦОК «НИИМЭ» принял участие в IX ФОРУМЕ-КОНКУРСЕ GRADUATE-2021</a></h2>-->
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 26/04/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Поликарпова Лилиана, руководитель ЦОК «НИИМЭ», член Совета по квалификациям в наноиндустрии примет участие во второй российской онлайн конференции по инженерному образованию CEE2021, которая состоится 27 апреля 2021 года.<br><br><br></p>
-                                <a href="260421-1.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/147-2.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/147-2.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -279,6 +262,23 @@
                             <div class="entry-content">
                                 <p>Организатором данного мероприятия выступил #ТУСУР. Мероприятие проходит в онлайн-формате с 19 по 27 апреля 2021 года.</p>
                                 <a href="260421-3.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/148.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/148.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <!--<h2><a href="280421.php">Лилиана Поликарпова рассказала о выявлении и устранении квалификационных дефицитов у специалистов микро-и наноэлектроники с помощью инструментов НОК</a></h2>-->
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 28/04/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Лилиана Поликарпова рассказала о выявлении и устранении квалификационных дефицитов у специалистов микро-и наноэлектроники с помощью инструментов НОК. Были представлены успешные модели работы с квалификационными дефицитами, описана процедура прохождения НОК, а также способы выстраивания индивидуальных планов развития</p>
+                                <a href="280421.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

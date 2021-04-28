@@ -69,6 +69,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/280421.php"><img class="image_fade" src="images/news/grid/148.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="280421.php">Лилиана Поликарпова рассказала о выявлении и устранении квалификационных дефицитов у специалистов микро-и наноэлектроники с помощью инструментов НОК</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 28/04/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Спикером были представлены успешные модели работы с квалификационными дефицитами, описана процедура прохождения НОК, а также способы выстраивания индивидуальных планов развития с целью устранения выявленных дефицитов.<a href="/280421.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/260421-3.php"><img class="image_fade" src="images/news/grid/147-3.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
