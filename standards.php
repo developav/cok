@@ -57,7 +57,7 @@
                         <p>• <a href="https://cok-niime.ru/uploads/ps_spec_tech_is.docx" target="_blank">«Инженер-технолог в области производства наноразмерных полупроводниковых приборов и интегральных схем»</a></p>
                         <p>• <a href="https://cok-niime.ru/uploads/ps_spec_snk.docx" target="_blank">«Инженер в области проектирования и сопровождения интегральных схем и систем на кристалле»</a></p>
                         <p>• <a href="https://cok-niime.ru/uploads/ps_svch.doc" target="_blank">«Инженер-конструктор в области производства наногетероструктурных СВЧ-монолитных интегральных схем»</a></p>
-                        <p>Принять участие в обсуждении вы можете ознакомившись с проектами профессиональных стандартов и заполнив <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhqbXXf4B-47IyFQJbzELyXaYXvQ_qGec_ReV1s62FRXc2dA/viewform" target="_blank">форму.</a> – отправив свои замечания на адрес электронной почты <a href="mailto:info@cok-niime.ru">info@cok-niime.ru</p>
+                        <p>Принять участие в обсуждении вы можете ознакомившись с проектами профессиональных стандартов и отправив свои замечания на адрес электронной почты <a href="mailto:info@cok-niime.ru">info@cok-niime.ru</a></p>
 
                         <div class="heading-block fancy-title nobottomborder title-bottom-border">
                             <h4></h4>
