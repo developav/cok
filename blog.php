@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/blog-100621-1.php"><img class="image_fade" src="images/blog/grid/100621-1.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-100621-1.php">Справедливая заработная плата-залог здоровой мотивации персонала.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 9/06/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>В России только 33,3% работников считают свою зарплату справедливой, а 58,8% полагают, что им платят меньше, чем они заслуживают, показал опрос, проведенный компанией Online Market Intelligence (OMI) в 2020 году<a href="/blog-100621-1.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/blog-260421-3.php"><img class="image_fade" src="images/blog/grid/260421-3.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
