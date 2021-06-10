@@ -66,7 +66,7 @@
                                 </div>
                             </div>
                         </div><!-- #posts end -->
-
+                        
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
@@ -74,13 +74,32 @@
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
                                     <div class="entry-title">
-                                        <!--<h2><a href="150421.php">ЦОК «НИИМЭ» принял участие в IX ФОРУМЕ-КОНКУРСЕ GRADUATE-2021</a></h2>-->
+                                        <h2><a href="040621.php">Вопрос-ответ</a></h2>
                                     </div>
                                     <ul class="entry-meta clearfix" style="height: 30px">
                                         <li><i class="icon-calendar3"></i> 04/06/2021</li>
                                     </ul>
                                     <div class="entry-content col_last">
-                                        <p>Я, Лилиана Поликарпова, заместитель генерального директора АО «НИИМЭ» и руководитель Центра оценки квалификаций АО «НИИМЭ». Почти 15 лет я управляю кадровыми процессами в крупнейших отечественных компаниях – производителях и разработчиках элементной базы.<a href="/040621.php" class="more-link"> (Дальше...)</a></p>
+                                        <p>Могу ли я подать апелляцию в случае несогласия с результатами НОК?<a href="/040621.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/020621.php"><img class="image_fade" src="images/news/grid/150.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="020621.php">Научно-исследовательский институт молекулярной электроники (НИИМЭ) – презентовал проекты новых профессиональных стандартов для микроэлектронной промышленности.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 02/06/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Профессиональные стандарты в наноиндустрии обсудили на встрече ТехноКлуба на площадке ОЭЗ в Печатниках, которая прошла на прошлой неделе.<a href="/020621.php" class="more-link"> (Дальше...)</a></p>
                                     </div>
                                 </div>
                             </div>

@@ -248,7 +248,7 @@
                             </div>
                         </div>-->
 
-                        <div class="entry clearfix">
+                        <!--<div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/147-3.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/147-3.png" alt="News"></a>
                             </div>
@@ -257,13 +257,13 @@
                             </div>
                             <ul class="entry-meta clearfix">
                                 <li><i class="icon-calendar3"></i> 26/04/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                                <1--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>--
                             </ul>
                             <div class="entry-content">
                                 <p>Организатором данного мероприятия выступил #ТУСУР. Мероприятие проходит в онлайн-формате с 19 по 27 апреля 2021 года.</p>
                                 <a href="260421-3.php" class="more-link">Далее</a>
                             </div>
-                        </div>
+                        </div>-->
 
                         <div class="entry clearfix">
                             <div class="entry-image">
@@ -284,10 +284,27 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
+                                <a href="images/news/full/150.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/150.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="020621.php">НИИМЭ презентовал проекты новых профессиональных стандартов для микроэлектронной промышленности</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 02/06/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Профессиональные стандарты в наноиндустрии обсудили на встрече ТехноКлуба на площадке ОЭЗ в Печатниках на прошлой неделе</p>
+                                <a href="020621.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
                                 <a href="images/news/full/149.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/149.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="280421.php">Вопрос-ответ</a></h2>
+                                <h2><a href="040621.php">Вопрос-ответ</a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
                                 <li><i class="icon-calendar3"></i> 04/06/2021</li>
