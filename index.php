@@ -231,7 +231,7 @@
                             </div>
                         </div>
 
-                        <div class="entry clearfix">
+                        <!--<div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/147-2.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/147-2.png" alt="News"></a>
                             </div>
@@ -240,13 +240,13 @@
                             </div>
                             <ul class="entry-meta clearfix">
                                 <li><i class="icon-calendar3"></i> 26/04/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                                <1--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>--
                             </ul>
                             <div class="entry-content">
                                 <p>Конференция состоялась в рамках 23-й ежегодной выставки ExpoElectronica2021 с 13 по 15 апреля в «Крокус Экспо» в Москве.</p>
                                 <a href="260421-2.php" class="more-link">Далее</a>
                             </div>
-                        </div>
+                        </div>-->
 
                         <div class="entry clearfix">
                             <div class="entry-image">
@@ -279,6 +279,23 @@
                             <div class="entry-content">
                                 <p>Лилиана Поликарпова рассказала о выявлении и устранении квалификационных дефицитов у специалистов микро-и наноэлектроники с помощью инструментов НОК. Были представлены успешные модели работы с квалификационными дефицитами, описана процедура прохождения НОК, а также способы выстраивания индивидуальных планов развития</p>
                                 <a href="280421.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/149.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/149.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="280421.php">Вопрос-ответ</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 04/06/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p><i>Вопрос</i>: Могу ли я подать апелляцию в случае несогласия с результатами НОК?<br><i>Ответ</i>: При возникновении спорных вопросов вы или ваш законный представитель (работодатель) имеете право подать апелляцию, связанную а результатами прохождения НОК, либо с процедурой экзамена (выдачей свидетельства о квалификации)</p>
+                                <a href="040621.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
