@@ -250,35 +250,35 @@
 
                         <!--<div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/147-3.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/147-3.png" alt="News"></a>
+                                <a href="images/news/full/148.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/148.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="260421-3.php">21 апреля руководитель ЦОК НИИМЭ Лилиана Поликарпова приняла участие в межвузовском карьерном форуме StartWork</a></h2>
+                                <1--<h2><a href="280421.php">Лилиана Поликарпова рассказала о выявлении и устранении квалификационных дефицитов у специалистов микро-и наноэлектроники с помощью инструментов НОК</a></h2>--
                             </div>
                             <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 26/04/2021</li>
+                                <li><i class="icon-calendar3"></i> 28/04/2021</li>
                                 <1--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>--
                             </ul>
                             <div class="entry-content">
-                                <p>Организатором данного мероприятия выступил #ТУСУР. Мероприятие проходит в онлайн-формате с 19 по 27 апреля 2021 года.</p>
-                                <a href="260421-3.php" class="more-link">Далее</a>
+                                <p>Лилиана Поликарпова рассказала о выявлении и устранении квалификационных дефицитов у специалистов микро-и наноэлектроники с помощью инструментов НОК. Были представлены успешные модели работы с квалификационными дефицитами, описана процедура прохождения НОК, а также способы выстраивания индивидуальных планов развития</p>
+                                <a href="280421.php" class="more-link">Далее</a>
                             </div>
                         </div>-->
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/148.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/148.png" alt="News"></a>
+                                <a href="images/news/full/151.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/151.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
-                                <!--<h2><a href="280421.php">Лилиана Поликарпова рассказала о выявлении и устранении квалификационных дефицитов у специалистов микро-и наноэлектроники с помощью инструментов НОК</a></h2>-->
+                                <h2><a href="200521.php">НИИМЭ выступит разработчиком новых "входных" квалификаций в наноиндустрии</a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 28/04/2021</li>
+                                <li><i class="icon-calendar3"></i> 20/05/2021</li>
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Лилиана Поликарпова рассказала о выявлении и устранении квалификационных дефицитов у специалистов микро-и наноэлектроники с помощью инструментов НОК. Были представлены успешные модели работы с квалификационными дефицитами, описана процедура прохождения НОК, а также способы выстраивания индивидуальных планов развития</p>
-                                <a href="280421.php" class="more-link">Далее</a>
+                                <p>Заказчиком разработки выступает Межотраслевое объединение наноиндустрии</p>
+                                <a href="200521.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
