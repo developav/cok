@@ -126,6 +126,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/blog-060521.php"><img class="image_fade" src="images/blog/grid/060521.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-060521.php">Подходит к концу очередной учебный год. Многие выпускники будут готовиться к поступлению в заведения среднего профессионального образования</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 6/05/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>В своём интервью газете "Московская правда" генеральный директор Национального агентства развития квалификаций, Александр Лейбович рассказал о совмещении процедур демонтрационного экзамена с процедурой итоговой аттестации выпускников<a href="/blog-060521.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/blog-260421-3.php"><img class="image_fade" src="images/blog/grid/260421-3.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
