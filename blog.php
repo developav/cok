@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/blog-210621.php"><img class="image_fade" src="images/blog/grid/210621.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-210621.php"></a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 21/06/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Национальная система квалификаций (НСК) — комплекс  взаимосвязанных нормативных  правовых  и  методических  документов,  государственно-общественных институтов  и  мероприятий,  обеспечивающих  управление  жизненным  циклом квалификаций.<a href="/blog-210621.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/blog-180621.php"><img class="image_fade" src="images/blog/grid/180621.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
