@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/blog-180621.php"><img class="image_fade" src="images/blog/grid/180621.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-180621.php">Пандемия-время цифровых возможностей!</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 18/06/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Пандемия внесла существенные изменения в ритм жизни современного общества. В прошлом году организации экстренно переходили на "удаленку", образовательные организации перестраивались проводить обучение в дистанционном формате.<a href="/blog-180621.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/blog-100621-1.php"><img class="image_fade" src="images/blog/grid/100621-1.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
