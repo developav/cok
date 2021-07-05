@@ -284,23 +284,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/150.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/150.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="020621.php">НИИМЭ презентовал проекты новых профессиональных стандартов для микроэлектронной промышленности</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 02/06/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Профессиональные стандарты в наноиндустрии обсудили на встрече ТехноКлуба на площадке ОЭЗ в Печатниках на прошлой неделе</p>
-                                <a href="020621.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/149.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/149.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -313,6 +296,23 @@
                             <div class="entry-content">
                                 <p><i>Вопрос</i>: Могу ли я подать апелляцию в случае несогласия с результатами НОК?<br><i>Ответ</i>: При возникновении спорных вопросов вы или ваш законный представитель (работодатель) имеете право подать апелляцию, связанную а результатами прохождения НОК, либо с процедурой экзамена (выдачей свидетельства о квалификации)</p>
                                 <a href="040621.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/152.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/152.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="280621.php">ЦОК НИИМЭ проведёт оценку уровня квалификации по итогам завершения новой программы обучения.</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 28/06/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Заказчиком новой программы выступил Фонд инфраструктурных и образовательных программ - ФИОП</p>
+                                <a href="280621.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
