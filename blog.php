@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/blog-060721.php"><img class="image_fade" src="images/blog/grid/060721.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-060721.php">Прелиминаринг стал еще доступнее</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 6/07/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Дефицит специалистов в сфере хай-тек на рынке труда заставляет работодателей искать новые форматы подготовки специалистов «под себя».<a href="/blog-060721.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/blog-210621.php"><img class="image_fade" src="images/blog/grid/210621.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
