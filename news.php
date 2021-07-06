@@ -86,7 +86,7 @@
                             </div>
                         </div><!-- #posts end -->
                         
-                        <div id="posts" class="col_full small-thumbs">
+                        <!--<div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/040621.php"><img class="image_fade" src="images/news/grid/149.png" alt="Image"></a>
@@ -103,7 +103,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><!-- #posts end -->
+                        </div>--><!-- #posts end -->
 
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
