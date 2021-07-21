@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="ru">
 <head>
- 
+
     <?php include "includes/head-meta.php"; ?>
-	
+
 	<!-- Document Title
 	============================================= -->
 	<title>Центр оценки квалификаций АО "НИИМЭ"</title>
@@ -265,7 +265,7 @@
                             </div>
                         </div>-->
 
-                        <div class="entry clearfix">
+                        <!--<div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/151.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/151.png" alt="News"></a>
                             </div>
@@ -274,13 +274,13 @@
                             </div>
                             <ul class="entry-meta clearfix">
                                 <li><i class="icon-calendar3"></i> 20/05/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
+                                <!-<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            <!--</ul>
                             <div class="entry-content">
                                 <p>Заказчиком разработки выступает Межотраслевое объединение наноиндустрии</p>
                                 <a href="200521.php" class="more-link">Далее</a>
                             </div>
-                        </div>
+                        </div>-->
 
                         <!--<div class="entry clearfix">
                             <div class="entry-image">
@@ -330,6 +330,23 @@
                             <div class="entry-content">
                                 <p>Заказчиком новой программы выступил Фонд инфраструктурных и образовательных программ - ФИОП</p>
                                 <a href="280621.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/153.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/153.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="210721.php">Лилиана Поликарпова выступила с докладом на семинаре «Комплексное кадровое обеспечение высокотехнологичных компаний»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 21/07/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Семинар состоялся при поддержке Фонда инфраструктурных и образовательных программ, НП «Межотраслевое объединение наноиндустрии» и Национального агентства развития квалификаций</p>
+                                <a href="210721.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
@@ -406,7 +423,7 @@
 
 
                 <div class="col_full bottommargin-lg common-height">
-                    
+
                     <div id="ocenka" class="heading-block center">
                         <h3><a href="#" data-scrollto="#ocenka">НЕЗАВИСИМАЯ ОЦЕНКА КВАЛИФИКАЦИЙ</a></h3>
                     </div>
@@ -484,7 +501,7 @@
 		============================================= -->
         <?php include "./includes/footer.php"; ?>
         <!-- end footer -->
-        
+
 	</div><!-- #wrapper end -->
 
 	<!-- Go To Top button
@@ -497,7 +514,7 @@
 	<script type="text/javascript" src="./js/plugins.js"></script>
 
     <!-- <script src="js/menu-hilight.js"></script> -->
-    
+
 	<!-- Footer Scripts
 	============================================= -->
 	<script type="text/javascript" src="./js/functions.js"></script>
