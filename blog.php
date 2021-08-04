@@ -5,7 +5,7 @@
 	<?php include "includes/head-meta.php"; ?>
 	<!-- Document Title
 	============================================= -->
-	<title>Новости | ЦОК</title>
+	<title>Блог | ЦОК</title>
 
 </head>
 
@@ -47,6 +47,63 @@
 
 						<!-- Posts
 						============================================= -->
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/blog-190721.php"><img class="image_fade" src="images/blog/grid/190721.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-190721.php">У нас новый отзыв!</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 19/07/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Я проходила процедуру НОК на подтверждение квалификации "Инженер по проектированию фотошаблонов субмикронного и наноразмерного уровней" 6 уровень квалификации.<a href="/blog-190721.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/blog-160721.php"><img class="image_fade" src="images/blog/grid/160721.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-160721.php">Вопрос- ответ</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 16/07/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Я работаю в области проектирования и сопровождения интегральных схем и систем на кристалле в должности инженера более 6 лет, имею высшее профильное образование. Могу ли я стать техническим экспертом центра оценки квалификаций?<a href="/blog-160721.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/blog-070721.php"><img class="image_fade" src="images/blog/grid/070721.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-070721.php">Топ-5 ошибок работодателя при направлении работников на НОК</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 7/07/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p><a href="/blog-070721.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
