@@ -459,7 +459,7 @@
 
                                 <div class="entry clearfix">
                                     <div class="entry-image">
-                                        <img class="image_fade" src="images/standards/ps851.jpg" alt="Standard 853">
+                                        <img class="image_fade" src="images/standards/ps851.jpg" alt="Standard 851">
                                     </div>
                                     <div class="entry-c">
                                         <div class="fancy-title title-bottom-border">
