@@ -5,7 +5,7 @@
 	<?php include "includes/head-meta.php"; ?>
 
 	<?php include_once "includes/googleanalytics.php"; ?>
-	
+
 	<!-- Document Title
 	============================================= -->
 	<title>Профессиональные стандарты | ЦОК</title>
@@ -60,7 +60,7 @@
 									<div class="entry-image">
 										<img class="image_fade" src="images/standards/ps21.jpg" alt="Standard 21">
 									</div>
-									
+
 									<div class="entry-c">
 										<div class="entry-title">
 											<div class="fancy-title title-bottom-border">
@@ -102,11 +102,11 @@
                                 </div>
 
 								<div class="entry clearfix">
-									
+
 									<div class="entry-image">
 										<img class="image_fade" src="images/standards/ps26.jpg" alt="Standard 26">
 									</div>
-									
+
 									<div class="entry-c">
 										<div class="entry-title">
 											<div class="fancy-title title-bottom-border">
@@ -120,20 +120,20 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps26-q7-3.pdf"> Инженер технолог по реализации и сопровождению производства наногетероструктурных сверхвысокочастотных монолитных интегральных схем (7 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps26-q7-4.pdf"> Специалист по организации разработки новых технологических процессов производства наногетероструктурных сверхвысокочастотных монолитных интегральных схем (7 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps26-exam-demo.pptx"> Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
-											</ul>	
+											</ul>
 										</div>
                                         <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/tekhnologiya-proizvodstva-nanogeterostrukturnykh-svch-monolitnykh-integralnykh-skhem/" target="_blank" r>АНО «еНано»</a></p>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
 
-								</div>								
+								</div>
 
 								<div class="entry clearfix">
-									
+
 									<div class="entry-image">
 										<img class="image_fade" src="images/standards/ps85.jpg" alt="Standard 85">
 									</div>
-									
+
 									<div class="entry-c">
 										<div class="entry-title">
 											<div class="fancy-title title-bottom-border">
@@ -153,11 +153,11 @@
 								</div>
 
 								<div class="entry clearfix">
-									
+
 									<div class="entry-image">
 										<img class="image_fade" src="images/standards/ps90.jpg" alt="Standard 85">
 									</div>
-									
+
 									<div class="entry-c">
 										<div class="entry-title">
 											<div class="fancy-title title-bottom-border">
@@ -178,11 +178,11 @@
 								</div>
 
 								<div class="entry clearfix">
-									
+
 									<div class="entry-image">
 										<img class="image_fade" src="images/standards/ps168.jpg" alt="Standard 168">
 									</div>
-									
+
 									<div class="entry-c">
 										<div class="entry-title">
 											<div class="fancy-title title-bottom-border">
@@ -203,11 +203,11 @@
 								</div>
 
 								<div class="entry clearfix">
-									
+
 									<div class="entry-image">
 										<img class="image_fade" src="images/standards/ps172.jpg" alt="Standard 172">
 									</div>
-									
+
 									<div class="entry-c">
 										<div class="entry-title">
 											<div class="fancy-title title-bottom-border">
@@ -228,11 +228,11 @@
 								</div>
 
 								<div class="entry clearfix">
-									
+
 									<div class="entry-image">
 										<img class="image_fade" src="images/standards/ps174.jpg" alt="Standard 174">
 									</div>
-									
+
 									<div class="entry-c">
 										<div class="entry-title">
 											<div class="fancy-title title-bottom-border">
@@ -276,11 +276,11 @@
                                 </div>
 
 								<div class="entry clearfix">
-									
+
 									<div class="entry-image">
 										<img class="image_fade" src="images/standards/ps177.jpg" alt="Standard 177">
 									</div>
-									
+
 									<div class="entry-c">
 										<div class="entry-title">
 											<div class="fancy-title title-bottom-border">
@@ -301,11 +301,11 @@
 								</div>
 
 								<div class="entry clearfix">
-									
+
 									<div class="entry-image">
 										<img class="image_fade" src="images/standards/ps182.jpg" alt="Standard 182">
 									</div>
-									
+
 									<div class="entry-c">
 										<div class="entry-title">
 											<div class="fancy-title title-bottom-border">
@@ -349,7 +349,7 @@
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
 
-								</div>							
+								</div>
 
 								<div class="entry clearfix">
 									<div class="entry-image">
@@ -459,6 +459,31 @@
 
                                 <div class="entry clearfix">
                                     <div class="entry-image">
+                                        <img class="image_fade" src="images/standards/ps851.jpg" alt="Standard 853">
+                                    </div>
+                                    <div class="entry-c">
+                                        <div class="fancy-title title-bottom-border">
+                                            <h5>Профессиональный стандарт № 851</h5>
+                                        </div>
+                                        <div class="entry-title">
+                                            <p>«Специалист по проектированию микро- и наноразмерных электромеханических систем»</p>
+                                            <ul class="iconlist">
+
+                                                <li><i class="icon-file"></i><a href="regulationdocs/standards/ps851.pdf">Описание стандарта в формате PDF</a></li>
+                                                <li><i class="icon-file"></i><!--<a href="regulationdocs/standards/ps850-q6-1.pdf">-->Инженер по разработке, моделированию и верификации электрической схемы микро- и наноразмерных электромеханических систем (6 уровень квалификации)</a></li>
+                                                <li><i class="icon-file"></i><!--<a href="regulationdocs/standards/ps850-q6-2.pdf">-->Инженер по разработке и моделированию физического прототипа микро- и наноразмерных электромеханических систем (6 уровень квалификации)</a></li>
+                                                <li><i class="icon-file"></i><!--<a href="regulationdocs/standards/ps850-q7-1.pdf">-->Инженер-технолог по разработке и тестированию технологии изготовления и конструкций микро- и наноразмерных электромеханических систем (7 уровень квалификации)</a></li>
+                                                <li><i class="icon-file"></i><!--<a href="regulationdocs/standards/ps850-q7-2.pdf">-->Инженер-конструктор по разработке конструкторской и технической документации на проектирование микро- и наноразмерных электромеханических систем (7 уровень квалификации)</a></li>
+                                                <li><i class="icon-file"></i><!--<a href="regulationdocs/standards/ps850-q7-2.pdf">-->Руководитель работ по проектированию и оценке качества разработки микро- и наноразмерных электромеханических систем (7 уровень квалификации)</a></li>
+                                                <!--<li><i class="icon-file"></i><a href="regulationdocs/standards/ps850-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>-->
+                                            </ul>
+                                        </div>
+                                        <a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
+                                    </div>
+                                </div>
+
+                                <div class="entry clearfix">
+                                    <div class="entry-image">
                                         <img class="image_fade" src="images/standards/ps853.jpg" alt="Standard 850">
                                     </div>
                                     <div class="entry-c">
@@ -530,6 +555,7 @@
                                                     <option value="ps-545">545 - Специалист по измерению параметров и модификации свойств наноматериалов и наноструктур</option>
 													<option value="ps-848">848 - Специалист по технологии производства систем в корпусе</option>
 													<option value="ps-850">850 - Специалист по проектированию систем в корпусе</option>
+													<option value="ps-850">851 - Специалист по проектированию микро- и наноразмерных электромеханических систем</option>
                                                     <option value="ps-850">853 - Специалист в области производства бетонов с наноструктурирующими компонентами</option>
 												</select>
 											</div>
@@ -583,7 +609,7 @@
 							</div>
 
 						</div>
-							
+
 					</div>
 
 				</div>
