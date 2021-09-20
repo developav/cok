@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/blog-050821.php"><img class="image_fade" src="images/blog/grid/050821.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-050821.php">У нас новый отзыв</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 5/08/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Хочу поделиться своим опытом прохождения НОК на соответствие квалификации "Инженер по разработке и внедрению процессов формирования наноразмерных полупроводниковых структур" (7 уровень квалификации).<a href="/blog-050821.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/blog-300721.php"><img class="image_fade" src="images/blog/grid/300721.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
