@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/blog-130821.php"><img class="image_fade" src="images/blog/grid/130821.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-130821.php">Как снизить вероятность ошибок при подборе персонала? </a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 13/08/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Задача службы персонала, осуществляющей оценку кандидатов при приеме на работу, состоит в сущности в том, чтобы отобрать такого работника, который в состоянии достичь ожидаемого организацией результата.<a href="/blog-130821.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/blog-050821.php"><img class="image_fade" src="images/blog/grid/050821.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
