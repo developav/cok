@@ -299,7 +299,7 @@
                             </div>
                         </div>-->
 
-                        <div class="entry clearfix">
+                        <!--<div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/150.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/150.png" alt="News"></a>
                             </div>
@@ -308,13 +308,13 @@
                             </div>
                             <ul class="entry-meta clearfix">
                                 <li><i class="icon-calendar3"></i> 02/06/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                                <li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>
                             </ul>
                             <div class="entry-content">
                                 <p>Профессиональные стандарты в наноиндустрии обсудили на встрече ТехноКлуба на площадке ОЭЗ в Печатниках на прошлой неделе</p>
                                 <a href="020621.php" class="more-link">Далее</a>
                             </div>
-                        </div>
+                        </div>-->
 
                         <div class="entry clearfix">
                             <div class="entry-image">
@@ -347,6 +347,23 @@
                             <div class="entry-content">
                                 <p>Семинар состоялся при поддержке Фонда инфраструктурных и образовательных программ, НП «Межотраслевое объединение наноиндустрии» и Национального агентства развития квалификаций</p>
                                 <a href="210721.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/154.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/154.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="160821.php">Студенты Ивановского государственного химико-технологического университета прошли профессиональный экзамен "Вход в профессию"</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 16/08/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Экзамен проходил в дистанционном формате.</p>
+                                <a href="160821.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

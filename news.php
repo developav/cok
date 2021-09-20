@@ -47,7 +47,6 @@
 
 						<!-- Posts
 						============================================= -->
-
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
@@ -62,6 +61,25 @@
                                     </ul>
                                     <div class="entry-content col_last">
                                         <p>Я, Лилиана Поликарпова, заместитель генерального директора АО «НИИМЭ» и руководитель Центра оценки квалификаций АО «НИИМЭ». Почти 15 лет я управляю кадровыми процессами в крупнейших отечественных компаниях – производителях и разработчиках элементной базы.<a href="/150421.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/160821.php"><img class="image_fade" src="images/news/grid/154.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="160821.php">Студенты Ивановского государственного химико-технологического университета прошли профессиональный экзамен "Вход в профессию"</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 16/08/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Выпускница бакалавриата и две первокурсницы магистратуры подтвердили квалификацию "Технолог производства наноразмерных полупроводниковых приборов и интегральных схем" (6 уровень квалификации).<a href="/160821.php" class="more-link"> (Дальше...)</a></p>
                                     </div>
                                 </div>
                             </div>
