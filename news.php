@@ -69,6 +69,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/060921.php"><img class="image_fade" src="images/news/grid/156.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="060921.php">Приглашаем студентов и выпускников технических вузов, принять участие в проекте "Вход в профессию"</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 6/09/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Вход в профессию - это экзамен по входным квалификациям в наноиндустрии, который показывает теоретические знания и практические навыки, необходимы для трудоустройства на стартовую позицию<a href="/060921.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/030921.php"><img class="image_fade" src="images/news/grid/155.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
