@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="ru">
 	<head>
-		
+
 		<?php include "includes/head-meta.php"; ?>
 
 		<!-- Document Title
@@ -66,10 +66,13 @@
                             <li><a href="https://ostec-electro.ru"><img src="images/clients/ostec-electro.jpg" alt="Clients"></a></li>
                             <li><a href="http://www.vsu.ru"><img src="images/clients/vsu.jpg" alt="Clients"></a></li>
                             <li><a href="http://www.kpkrz.ru"><img src="images/clients/kpkrz.jpg" alt="Clients"></a></li>
+                            <li><a href="https://www.sibsau.ru/"><img src="images/clients/sibsau.png" alt="Clients"></a></li>
+                            <li><a href="https://www.sfedu.ru/"><img src="images/clients/sfedu.jpg" alt="Clients"></a></li>
 							<!--<li class="hidden-xs"><a href="#"><img src="images/clients/10.png" alt="Clients"></a></li>-->
 						</ul>
 
-					</div>
+
+                    </div>
 
 				</div>
 
