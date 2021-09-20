@@ -316,7 +316,7 @@
                             </div>
                         </div>-->
 
-                        <div class="entry clearfix">
+                        <!--<div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/152.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/152.png" alt="News"></a>
                             </div>
@@ -325,13 +325,13 @@
                             </div>
                             <ul class="entry-meta clearfix">
                                 <li><i class="icon-calendar3"></i> 28/06/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                                <li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>
                             </ul>
                             <div class="entry-content">
                                 <p>Заказчиком новой программы выступил Фонд инфраструктурных и образовательных программ - ФИОП</p>
                                 <a href="280621.php" class="more-link">Далее</a>
                             </div>
-                        </div>
+                        </div>-->
 
                         <div class="entry clearfix">
                             <div class="entry-image">
@@ -364,6 +364,23 @@
                             <div class="entry-content">
                                 <p>Экзамен проходил в дистанционном формате.</p>
                                 <a href="160821.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/155.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/155.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="030921.php">Советы по профквалификациям могут стать драйверами развития партнерства работодателей с образовательными организациями</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 3/09/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>25 августа в рамках деловой программы Международного военно-технического форума «АРМИЯ-2021» состоялась проектная сессия «Национальная система квалификации: нормативная и методическая база»</p>
+                                <a href="030921.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
