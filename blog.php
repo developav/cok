@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/blog-280821.php"><img class="image_fade" src="images/blog/grid/280821.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-280821.php">База знаний: экзаменационный центр </a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 28/08/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Экзаменационный центр (ЭЦ) -это площадка за пределами Центра оценки квалификаций (ЦОК), оснащенная всем необходимым для проведения профессиональных экзаменов по оценке и подтверждению квалификации. <a href="/blog-280821.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/blog-250821.php"><img class="image_fade" src="images/blog/grid/250821.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
