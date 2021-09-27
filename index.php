@@ -233,52 +233,52 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/155.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/155.png" alt="News"></a>
+                                <a href="images/news/full/158.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/158.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="030921.php">Советы по профквалификациям могут стать драйверами развития партнерства работодателей с образовательными организациями</a></h2>
+                                <h2><a href="210921.php">21 сентября на базе Южный федеральный университет состоялся профессиональный экзамен «Вход в профессию»</a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 3/09/2021</li>
+                                <li><i class="icon-calendar3"></i> 21/09/2021</li>
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>25 августа в рамках деловой программы Международного военно-технического форума «АРМИЯ-2021» состоялась проектная сессия «Национальная система квалификации: нормативная и методическая база»</p>
-                                <a href="030921.php" class="more-link">Далее</a>
+                                <p>В процедуре подтверждения квалификации приняли участие 20 студентов.</p>
+                                <a href="210921.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/156.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/156.png" alt="News"></a>
+                                <a href="images/news/full/159.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/159.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="060921.php">Приглашаем студентов и выпускников технических вузов, принять участие в проекте "Вход в профессию"</a></h2>
+                                <h2><a href="240921.php">Генеральный директор Национального агентства развития квалификаций Артем Шадрин выступил на 24-ой Всемирной конференции TCI Global</a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 6/09/2021</li>
+                                <li><i class="icon-calendar3"></i> 24/09/2021</li>
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Вход в профессию - это экзамен по входным квалификациям в наноиндустрии, который показывает теоретические знания и практические навыки, необходимы для трудоустройства на стартовую позицию</p>
-                                <a href="060921.php" class="more-link">Далее</a>
+                                <p>24-ая Всемирная конференция TCI Global «Создавая устойчивое будущее в партнерстве» прошла с 15 по 17 сентября в Казани</p>
+                                <a href="240921.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/157.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/157.png" alt="News"></a>
+                                <a href="images/news/full/160.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/160.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="170921.php">Перечень Профстандартов ЦОК НИИМЭ расширен</a></h2>
+                                <h2><a href="240921-2.php">Состоялось очередное заседание Национального совета при Президенте РФ по профессиональным квалификациям</a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 17/09/2021</li>
+                                <li><i class="icon-calendar3"></i> 24/09/2021</li>
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Рады вам сообщить, что СПК в наноиндустрии принято решение о добавлении к нашему перечню ПС N851 «Специалист по проектированию микро- и наноразмерных электромеханических систем» и теперь мы можем проводить НОК по следующим квалификациям</p>
-                                <a href="170921.php" class="more-link">Далее</a>
+                                <p>22 сентября состоялось третье в этом году заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям, которое провел Александр Шохин.</p>
+                                <a href="240921-2.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

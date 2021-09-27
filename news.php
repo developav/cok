@@ -69,6 +69,63 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/240921-2.php"><img class="image_fade" src="images/news/grid/160.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="240921-2.php">Состоялось очередное заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 24/09/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>22 сентября 2021 года состоялось третье в этом году очное заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям, которое провел Александр Шохин<a href="/240921-2.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/240921.php"><img class="image_fade" src="images/news/grid/159.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="240921.php">Генеральный директор Национального агентства развития квалификаций Артем Шадрин выступил на 24-ой Всемирной конференции TCI Global «Создавая устойчивое будущее в партнерстве», которая прошла с 15 по 17 сентября в Казани</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 24/09/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p><a href="/240921.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/210921.php"><img class="image_fade" src="images/news/grid/158.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="210921.php">21 сентября на базе Южный федеральный университет состоялся профессиональный экзамен «Вход в профессию»</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 21/09/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>В процедуре подтверждения квалификации приняли участие 20 студентов.<a href="/210921.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/170921.php"><img class="image_fade" src="images/news/grid/157.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
