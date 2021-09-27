@@ -231,142 +231,6 @@
                             </div>
                         </div>
 
-                        <!--<div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/147-2.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/147-2.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="260421-2.php">Руководитель ЦОК НИИМЭ Лилиана Поликарпова на конференции "Трансформация отрасли: кадровая готовность".</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 26/04/2021</li>
-                                <1--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>--
-                            </ul>
-                            <div class="entry-content">
-                                <p>Конференция состоялась в рамках 23-й ежегодной выставки ExpoElectronica2021 с 13 по 15 апреля в «Крокус Экспо» в Москве.</p>
-                                <a href="260421-2.php" class="more-link">Далее</a>
-                            </div>
-                        </div>-->
-
-                        <!--<div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/148.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/148.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <1--<h2><a href="280421.php">Лилиана Поликарпова рассказала о выявлении и устранении квалификационных дефицитов у специалистов микро-и наноэлектроники с помощью инструментов НОК</a></h2>--
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 28/04/2021</li>
-                                <1--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>--
-                            </ul>
-                            <div class="entry-content">
-                                <p>Лилиана Поликарпова рассказала о выявлении и устранении квалификационных дефицитов у специалистов микро-и наноэлектроники с помощью инструментов НОК. Были представлены успешные модели работы с квалификационными дефицитами, описана процедура прохождения НОК, а также способы выстраивания индивидуальных планов развития</p>
-                                <a href="280421.php" class="more-link">Далее</a>
-                            </div>
-                        </div>-->
-
-                        <!--<div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/151.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/151.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="200521.php">НИИМЭ выступит разработчиком новых "входных" квалификаций в наноиндустрии</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 20/05/2021</li>
-                                <!-<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            <!--</ul>
-                            <div class="entry-content">
-                                <p>Заказчиком разработки выступает Межотраслевое объединение наноиндустрии</p>
-                                <a href="200521.php" class="more-link">Далее</a>
-                            </div>
-                        </div>-->
-
-                        <!--<div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/149.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/149.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="040621.php">Вопрос-ответ</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 04/06/2021</li>-->
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            <!--</ul>
-                            <div class="entry-content">
-                                <p><i>Вопрос</i>: Могу ли я подать апелляцию в случае несогласия с результатами НОК?<br><i>Ответ</i>: При возникновении спорных вопросов вы или ваш законный представитель (работодатель) имеете право подать апелляцию, связанную а результатами прохождения НОК, либо с процедурой экзамена (выдачей свидетельства о квалификации)</p>
-                                <a href="040621.php" class="more-link">Далее</a>
-                            </div>
-                        </div>-->
-
-                        <!--<div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/150.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/150.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="020621.php">НИИМЭ презентовал проекты новых профессиональных стандартов для микроэлектронной промышленности</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 02/06/2021</li>
-                                <li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>
-                            </ul>
-                            <div class="entry-content">
-                                <p>Профессиональные стандарты в наноиндустрии обсудили на встрече ТехноКлуба на площадке ОЭЗ в Печатниках на прошлой неделе</p>
-                                <a href="020621.php" class="more-link">Далее</a>
-                            </div>
-                        </div>-->
-
-                        <!--<div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/152.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/152.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="280621.php">ЦОК НИИМЭ проведёт оценку уровня квалификации по итогам завершения новой программы обучения.</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 28/06/2021</li>
-                                <li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>
-                            </ul>
-                            <div class="entry-content">
-                                <p>Заказчиком новой программы выступил Фонд инфраструктурных и образовательных программ - ФИОП</p>
-                                <a href="280621.php" class="more-link">Далее</a>
-                            </div>
-                        </div>-->
-
-                        <!--<div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/153.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/153.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="210721.php">Лилиана Поликарпова выступила с докладом на семинаре «Комплексное кадровое обеспечение высокотехнологичных компаний»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 21/07/2021</li>
-                                <--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Семинар состоялся при поддержке Фонда инфраструктурных и образовательных программ, НП «Межотраслевое объединение наноиндустрии» и Национального агентства развития квалификаций</p>
-                                <a href="210721.php" class="more-link">Далее</a>
-                            </div>
-                        </div>-->
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/154.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/154.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="160821.php">Студенты Ивановского государственного химико-технологического университета прошли профессиональный экзамен "Вход в профессию"</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 16/08/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Экзамен проходил в дистанционном формате.</p>
-                                <a href="160821.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
                         <div class="entry clearfix">
                             <div class="entry-image">
                                 <a href="images/news/full/155.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/155.png" alt="News"></a>
@@ -398,6 +262,23 @@
                             <div class="entry-content">
                                 <p>Вход в профессию - это экзамен по входным квалификациям в наноиндустрии, который показывает теоретические знания и практические навыки, необходимы для трудоустройства на стартовую позицию</p>
                                 <a href="060921.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/157.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/157.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="170921.php">Перечень Профстандартов ЦОК НИИМЭ расширен</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 17/09/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Рады вам сообщить, что СПК в наноиндустрии принято решение о добавлении к нашему перечню ПС N851 «Специалист по проектированию микро- и наноразмерных электромеханических систем» и теперь мы можем проводить НОК по следующим квалификациям</p>
+                                <a href="170921.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
