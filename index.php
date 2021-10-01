@@ -121,7 +121,7 @@
                     </div>
 
                     <div class="col_half notopmargin bottommargin" style="text-align: center">
-                        <img src="images/greenrings.png" alt="data">
+                        <img src="images/greenrings2.png" alt="data">
                     </div>
                     <!--<div class="col_half notopmargin bottommargin" style="text-align: center">
                         <div class="col_one_third">
