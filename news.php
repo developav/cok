@@ -69,6 +69,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/011021.php"><img class="image_fade" src="images/news/grid/163.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="011021.php">Проект «Вход в профессию» уверенно охватывает ведущие Вузы страны</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 1/10/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>27 сентября 2021 года ЦОК НИИМЭ провел экзамен для 15 студентов Воронежского государственного университета<a href="/011021.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/290921.php"><img class="image_fade" src="images/news/grid/162.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

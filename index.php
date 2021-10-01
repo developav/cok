@@ -233,23 +233,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/160.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/160.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="240921-2.php">Состоялось очередное заседание Национального совета при Президенте РФ по профессиональным квалификациям</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 24/09/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>22 сентября состоялось третье в этом году заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям, которое провел Александр Шохин.</p>
-                                <a href="240921-2.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/161.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/161.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -279,6 +262,23 @@
                             <div class="entry-content">
                                 <p>29 сентября в Москве, на площадке инновационно-образовательного комплекса «Техноград», состоялся HR-Форум «Национальная система квалификаций’2021»</p>
                                 <a href="290921.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/163.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/163.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="011021.php">Проект «Вход в профессию» уверенно охватывает ведущие Вузы страны</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 1/10/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>27 сентября 2021 года ЦОК НИИМЭ провел экзамен для 15 студентов Воронежского государственного университета</p>
+                                <a href="011021.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
