@@ -42,10 +42,11 @@
 				<!--<li class="mega-menu"><a href="./projects.php"><div>Экзаменационные центры</div></a></li>-->
 				<li><a href="/partners.php"><div>Партнеры</div></a></li>
                 <li><a href="/news.php"><div>Новости</div></a>
-                    <ul>
+                    <!--<ul>
                         <li><a href="/blog.php"><div>Блог</div></a></li>
-                    </ul>
+                    </ul>-->
                 </li>
+                <li><a href="/blog.php"><div>Блог</div></a></li>
 				<li><a href="/contacts.php"><div>Контакты</div></a></li>
 			</ul>
 
@@ -53,9 +54,11 @@
 			============================================= -->
 			<div id="top-search">
 				<a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
-				<form action="search.php" method="get">
-					<input type="text" name="q" class="form-control" value="" placeholder="введите текст &amp; нажмите enter...">
-				</form>
+				<form action="/search.php" method="get">
+                    <label>
+                        <input type="text" name="q" class="form-control" value="" placeholder="введите текст &amp; нажмите enter...">
+                    </label>
+                </form>
 			</div><!-- #top-search end -->
 
 		</nav><!-- #primary-menu end -->
