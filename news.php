@@ -69,6 +69,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/240921-3.php"><img class="image_fade" src="images/news/grid/161.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="240921-3.php">Проект Вход в профессию набирает обороты!</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 24/09/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>23 сентября 2021 года на базе ЦОК НИИМЭ прошел профессиональный экзамен для студентов ФГАОУ ВО "Волгоградский государственный университет".<a href="/240921-3.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/240921-2.php"><img class="image_fade" src="images/news/grid/160.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
