@@ -233,23 +233,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/159.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/159.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="240921.php">Генеральный директор Национального агентства развития квалификаций Артем Шадрин выступил на 24-ой Всемирной конференции TCI Global</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 24/09/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>24-ая Всемирная конференция TCI Global «Создавая устойчивое будущее в партнерстве» прошла с 15 по 17 сентября в Казани</p>
-                                <a href="240921.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/160.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/160.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -279,6 +262,23 @@
                             <div class="entry-content">
                                 <p>23 сентября 2021 года на базе ЦОК НИИМЭ прошел профессиональный экзамен для студентов ФГАОУ ВО "Волгоградский государственный университет"</p>
                                 <a href="240921-3.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/162.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/162.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="290921.php">Участники HR-Форума обсудили будущее рынка труда</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 29/09/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>29 сентября в Москве, на площадке инновационно-образовательного комплекса «Техноград», состоялся HR-Форум «Национальная система квалификаций’2021»</p>
+                                <a href="290921.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
