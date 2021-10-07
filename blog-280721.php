@@ -60,7 +60,7 @@
                             <div class="entry-content notopmargin" style="text-align: justify"><!--class="col_half col_last">-->
 
                                 <div class="col_half">
-                                    <img src="images/blog/full/280721.jpg" alt="Blog 190721">
+                                    <img src="images/blog/full/280721.png" alt="Blog 280721">
                                 </div>
 
                                 <p>Свидетельство о квалификации – документ государственного образца, подтверждающий успешное прохождение профессионального экзамена в рамках №238-ФЗ «О независимой оценке квалификации».<br>

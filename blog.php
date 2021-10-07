@@ -187,7 +187,7 @@
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
                                     <div class="entry-title">
-                                        <h2><a href="blog-280721.php"></a></h2>
+                                        <h2><a href="blog-280721.php">Что такое свидетельство о квалификации?</a></h2>
                                     </div>
                                     <ul class="entry-meta clearfix" style="height: 30px">
                                         <li><i class="icon-calendar3"></i> 28/07/2021</li>
