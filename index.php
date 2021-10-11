@@ -215,24 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/146.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/146.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <!--<h2><a href="150421.php">ЦОК «НИИМЭ» принял участие в IX ФОРУМЕ-КОНКУРСЕ GRADUATE-2021</a></h2>-->
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 15/04/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Я, Лилиана Поликарпова, заместитель генерального директора АО «НИИМЭ» и руководитель Центра оценки квалификаций АО «НИИМЭ».
-                                    Почти 15 лет я управляю кадровыми процессами в крупнейших отечественных компаниях – производителях и разработчиках элементной базы.<br><br><br></p>
-                                <a href="150421.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/161.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/161.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
