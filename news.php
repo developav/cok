@@ -50,6 +50,30 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/111021.php"><img class="image_fade" src="images/news/grid/164.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="111021.php">В Воронеже пройдет региональный этап проекта «ОК!НАНО–тур»,
+                                                направленного на развитие системы оценки квалификации в наноиндустрии</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 11/10/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>21 октября Совет по профессиональным квалификациям в наноиндустрии
+                                            совместно с АО «Научно-исследовательский институт молекулярной
+                                            электроники» и ФГБОУ ВО «Воронежский государственный университет»
+                                            проводит мероприятие «Оценка квалификации. Траектория профессионального
+                                            роста» в рамках регионального проекта «ОК!НАНО–тур».<a href="/111021.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/011021.php"><img class="image_fade" src="images/news/grid/163.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
