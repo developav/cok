@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/161.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/161.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="240921-3.php">Проект Вход в профессию набирает обороты!</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 24/09/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>23 сентября 2021 года на базе ЦОК НИИМЭ прошел профессиональный экзамен для студентов ФГАОУ ВО "Волгоградский государственный университет"</p>
-                                <a href="240921-3.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/162.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/162.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -280,6 +263,25 @@
                                     совместно с АО «НИИМЭ» и ФГБОУ ВО «ВГУ» проводит
                                     мероприятие «Оценка квалификации. Траектория профессионального роста»</p>
                                 <a href="111021.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/165.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/165.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="211021.php">В Самаре пройдет региональный этап проекта «ОК!НАНО–тур»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 21/10/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>28 октября Совет по профессиональным квалификациям в наноиндустрии
+                                    совместно с АО «НИИМЭ» и ФГБОУ ВО «ВГУ» проводит
+                                    мероприятие «Оценка квалификации. Траектория профессионального роста»</p>
+                                <a href="211021.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
