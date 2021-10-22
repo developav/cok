@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/162.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/162.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="290921.php">Участники HR-Форума обсудили будущее рынка труда</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 29/09/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>29 сентября в Москве, на площадке инновационно-образовательного комплекса «Техноград», состоялся HR-Форум «Национальная система квалификаций’2021»</p>
-                                <a href="290921.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/163.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/163.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -282,6 +265,23 @@
                                     совместно с АО «НИИМЭ» и ФГБОУ ВО «ВГУ» проводит
                                     мероприятие «Оценка квалификации. Траектория профессионального роста»</p>
                                 <a href="211021.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/166.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/166.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="221021.php">21 октября в Воронеже прошел региональный этап проекта «ОК!НАНО-тур»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 22/10/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>На онлайн-конференции были рассмотрены актуальные вопросы кадрового обеспечения высокотехнологичных производств </p>
+                                <a href="221021.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
