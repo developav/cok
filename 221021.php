@@ -200,11 +200,35 @@
                                 такую кадровую проблему в отрасли микро- и наноэлектроники, как снижение мотивации к
                                 выбору высококвалифицированных профессий»<i>, – отметила Лилиана Поликарпова, как
                                 действующий руководитель службы управления персоналом высокотехнологичной компании.</p>
+                            <div class="entry-content" style="margin-left: 30px">
+                                <p>Доклады:</p>
+                                <ul>
+                                    <li><a href="/uploads/2021/voronezh/2111/sinukov_presents.pdf" target="_blank">
+                                            Дмитрий Александрович Синюков, «Реализация нацпроекта «Производительность
+                                            труда в Воронежской области»
+                                        </a> </li>
+                                    <li><a href="/uploads/2021/voronezh/2111/krukova_presents.pptx" target="_blank">
+                                            Ольга Алексеевна Крюкова, «Опыт СПК по внедрению независимой оценки
+                                            квалификации в систему высшего образования»</a> </li>
+                                    <li><a href="/uploads/2021/voronezh/2111/polikarpova_presents.pptx" target="_blank">
+                                            Лилиана Владимировна Поликарпова, «Применение инструментов независимой
+                                            оценки квалификации в кадровых процессах высокотехнологичных компаний»</a> </li>
+                                    <li><a href="/uploads/2021/voronezh/2111/yaretsky_presents.pptx" target="_blank">
+                                            Юрий Львович Ярецкий, «Внедрение профстандартов и системы независимой
+                                            оценки квалификации в регионе»</a> </li>
+                                    <li><a href="/uploads/2021/voronezh/2111/zhukalin_presents.pptx" target="_blank">
+                                            Дмитрий Алексеевич Жукалин, Взаимодействие системы высшего образования и
+                                            системы НОК. Опыт Экзаменационного Центра ВГУ</a> </li>
+                                    <!--<li><a href="/uploads/2021/voronezh/2111/" target="_blank"></a> </li>-->
+                                </ul>
+                                <p>Запись мероприятия: </p>
+                            </div>
                             <!--<p><iframe width="560" height="315" src="https://www.youtube.com/watch?v=PWM4RxgIbOY"
                                        title="YouTube video player" frameborder="0"
                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                        allowfullscreen></iframe></p>-->
-                            <p></p><iframe width="560" height="315"  src="https://www.youtube.com/embed/PWM4RxgIbOY"
+
+                            <iframe width="560" height="315"  src="https://www.youtube.com/embed/PWM4RxgIbOY"
                                            frameborder="0"
                                            allowfullscreen></iframe>
                         </div>
