@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/163.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/163.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="011021.php">Проект «Вход в профессию» уверенно охватывает ведущие Вузы страны</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 1/10/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>27 сентября 2021 года ЦОК НИИМЭ провел экзамен для 15 студентов Воронежского государственного университета</p>
-                                <a href="011021.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/164.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/164.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -282,6 +265,26 @@
                             <div class="entry-content">
                                 <p>На онлайн-конференции были рассмотрены актуальные вопросы кадрового обеспечения высокотехнологичных производств </p>
                                 <a href="221021.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/167.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/167.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="011121.php">28 октября в Самаре прошел региональный этап проекта «ОК!НАНО-тур»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 1/11/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Организаторами выступили АО «НИИМЭ», ФГБОУ ВО «Самарский государственный
+                                    технический университет», ФГАОУ ВО «Самарский национальный исследовательский
+                                    университет им. ак. С.П. Королева» при поддержке министерства труда, занятости и
+                                    миграционной политики Самарской области и Совета по квалификациям в наноиндустрии</p>
+                                <a href="011121.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

@@ -50,6 +50,30 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/011121.php"><img class="image_fade" src="images/news/grid/167.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="011121.php">28 октября в Самаре прошел региональный этап проекта
+                                                «ОК!НАНО-тур»</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 1/11/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Мероприятие прошло в формате онлайн-конференции, на которой были рассмотрены
+                                            актуальные вопросы кадрового обеспечения высокотехнологичных производств в
+                                            регионах и преимущества от применения системы независимой оценки квалификации
+                                            для выпускников, специалистов и работодателей Самарской
+                                            области<a href="/011121.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/221021.php"><img class="image_fade" src="images/news/grid/166.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
