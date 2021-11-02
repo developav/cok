@@ -74,6 +74,31 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/261021.php"><img class="image_fade" src="images/news/grid/168.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="261021.php">В Санкт-Петербурге обсудили национальную систему
+                                                квалификаций и профессии будущего</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 26/10/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>21 октября в Санкт-Петербурге состоялся форум «Национальная система
+                                            квалификаций для профессий будущего». В мероприятии приняли участие
+                                            представители органов государственной власти, инновационных промышленных
+                                            компаний, отраслевых профессиональных объединений и союзов,
+                                            специалисты научно-исследовательских институтов и образовательных
+                                            учреждений<a href="/261021.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/221021.php"><img class="image_fade" src="images/news/grid/166.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
