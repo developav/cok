@@ -215,25 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/165.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/165.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="211021.php">В Самаре пройдет региональный этап проекта «ОК!НАНО–тур»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 21/10/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>28 октября Совет по профессиональным квалификациям в наноиндустрии
-                                    совместно с АО «НИИМЭ» и ФГБОУ ВО «ВГУ» проводит
-                                    мероприятие «Оценка квалификации. Траектория профессионального роста»</p>
-                                <a href="211021.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/166.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/166.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -283,6 +264,25 @@
                                     университет им. ак. С.П. Королева» при поддержке министерства труда, занятости и
                                     миграционной политики Самарской области и Совета по квалификациям в наноиндустрии</p>
                                 <a href="011121.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/169.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/169.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="011121-2.php">Артем Шадрин выступил на Российской энергетической неделе</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 1/11/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>14 октября участники программы «Российской энергетической недели» обсудили механизмы
+                                    повышения гибкости системы подготовки квалифицированных кадров и парадигму
+                                    обновления профессиональных стандартов</p>
+                                <a href="011121-2.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
