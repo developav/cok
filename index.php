@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/166.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/166.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="221021.php">21 октября в Воронеже прошел региональный этап проекта «ОК!НАНО-тур»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 22/10/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>На онлайн-конференции были рассмотрены актуальные вопросы кадрового обеспечения высокотехнологичных производств </p>
-                                <a href="221021.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/168.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/168.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -283,6 +266,24 @@
                                     повышения гибкости системы подготовки квалифицированных кадров и парадигму
                                     обновления профессиональных стандартов</p>
                                 <a href="011121-2.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/170.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/170.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="151121.php">18 и 19 ноября состоится VII Всероссийский форум «Национальная система квалификаций России»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 15/11/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Форум «Национальная система квалификаций России» - ежегодное Всероссийское
+                                    мероприятие, где рассматриваются вопросы развития национальной системы квалификаций</p>
+                                <a href="151121.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
