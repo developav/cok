@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/blog-151121.php"><img class="image_fade" src="images/blog/grid/151121.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-151121.php"></a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 15/11/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>«Национальная система квалификации, которая строится на федеральном уровне является базовым, основным и идеальным инструментом для того, чтобы устранить разрывы между реальными запросами рынка труда, потребностями работодателей и тем, как реагирует на эти потребности и запросы система подготовки кадров и система высшего образования»<a href="/blog-151121.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/blog-290921.php"><img class="image_fade" src="images/blog/grid/290921.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
