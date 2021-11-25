@@ -215,25 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/169.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/169.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="011121-2.php">Артем Шадрин выступил на Российской энергетической неделе</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 1/11/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>14 октября участники программы «Российской энергетической недели» обсудили механизмы
-                                    повышения гибкости системы подготовки квалифицированных кадров и парадигму
-                                    обновления профессиональных стандартов</p>
-                                <a href="011121-2.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/171.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/171.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -288,6 +269,25 @@
                                     времени.
                                 </p>
                                 <a href="181121.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/173.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/173.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="241121.php">22 ноября ЦОК присутствовал на совещании, проведенном Минобрнауки в формате ВКС</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 24/11/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Целью собрания являлось обсуждение планируемого пилотного проекта, направленного на
+                                    апробирование системы совмещения государственной итоговой и промежуточной аттестации и
+                                    независимой оценки квалификации</p>
+                                <a href="241121.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

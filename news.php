@@ -50,6 +50,27 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/241121.php"><img class="image_fade" src="images/news/grid/173.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="241121.php">22 ноября ЦОК присутствовал на совещании, проведенном Минобрнауки в формате ВКС</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 24/11/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Целью собрания являлось обсуждение планируемого пилотного проекта, направленного на
+                                            апробирование системы совмещения государственной итоговой и промежуточной аттестации и
+                                            независимой оценки квалификации<a href="/241121.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/181121.php"><img class="image_fade" src="images/news/grid/172.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
