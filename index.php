@@ -215,26 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/167.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/167.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="011121.php">28 октября в Самаре прошел региональный этап проекта «ОК!НАНО-тур»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 1/11/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Организаторами выступили АО «НИИМЭ», ФГБОУ ВО «Самарский государственный
-                                    технический университет», ФГАОУ ВО «Самарский национальный исследовательский
-                                    университет им. ак. С.П. Королева» при поддержке министерства труда, занятости и
-                                    миграционной политики Самарской области и Совета по квалификациям в наноиндустрии</p>
-                                <a href="011121.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/169.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/169.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -288,6 +268,26 @@
                                 <p>Форум «Национальная система квалификаций России» - ежегодное Всероссийское
                                     мероприятие, где рассматриваются вопросы развития национальной системы квалификаций</p>
                                 <a href="151121.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/172.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/172.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="181121.php"></a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 18/11/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Лилиана Поликарпова примет участие во Всероссийской акции "Время карьеры".
+                                    Выступление пройдёт в формате онлайн 29 ноября 2021 года в 11:00 по Московскому
+                                    времени.
+                                </p>
+                                <a href="181121.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
