@@ -50,6 +50,28 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/031221.php"><img class="image_fade" src="images/news/grid/174.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="031221.php">АО «НИИМЭ» приняло участие в межвузовском карьерном
+                                                форуме в рамках проекта Всероссийская акция «Время карьеры»</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 1/12/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Форум проходит в Томске с 29 ноября по 3 декабря. В дни работы Форума
+                                            работодатели проводят для студентов мастер-классы, лекции,
+                                            вебинары<a href="/031221.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/241121.php"><img class="image_fade" src="images/news/grid/173.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

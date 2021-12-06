@@ -215,27 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/171.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/171.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="111121.php"></a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 11/11/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>10 ноября 2021 года в выставочном центре «Экспофорум» состоялся экспертный семинар по
-                                    итогам реализации пилотного проекта по развитию деятельности экзаменационных центров
-                                    по проведению независимой оценки квалификации (экзаменационных площадок центров оценки
-                                    квалификаций в наноиндустрии), функционирующих на базе образовательных организаций
-                                    высшего образования. Мероприятие проходило в онлайн-формате</p>
-                                <a href="111121.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/170.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/170.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -288,6 +267,26 @@
                                     апробирование системы совмещения государственной итоговой и промежуточной аттестации и
                                     независимой оценки квалификации</p>
                                 <a href="241121.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/174.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/174.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="031221.php">АО «НИИМЭ» приняло участие в межвузовском карьерном
+                                        форуме в рамках проекта Всероссийская акция «Время карьеры»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 1/12/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Целью собрания являлось обсуждение планируемого пилотного проекта, направленного на
+                                    апробирование системы совмещения государственной итоговой и промежуточной аттестации и
+                                    независимой оценки квалификации</p>
+                                <a href="031221.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
