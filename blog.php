@@ -50,6 +50,27 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/blog-031221.php"><img class="image_fade" src="images/blog/grid/031221.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-031221.php"></a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 3/12/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Ранее на подготовку специалиста уходило восемь лет: пять в вузе и еще три на
+                                            предприятии. Однако в современных экономических условиях на дообучение у
+                                            работодателя нет ни денег, ни времени...<a href="/blog-031221.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/blog-191121.php"><img class="image_fade" src="images/blog/grid/191121.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
