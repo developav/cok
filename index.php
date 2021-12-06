@@ -215,24 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/170.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/170.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="151121.php">18 и 19 ноября состоится VII Всероссийский форум «Национальная система квалификаций России»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 15/11/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Форум «Национальная система квалификаций России» - ежегодное Всероссийское
-                                    мероприятие, где рассматриваются вопросы развития национальной системы квалификаций</p>
-                                <a href="151121.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/172.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/172.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -287,6 +269,24 @@
                                     апробирование системы совмещения государственной итоговой и промежуточной аттестации и
                                     независимой оценки квалификации</p>
                                 <a href="031221.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/175.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/175.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="031221-2.php">30 ноября состоялся второй экспертный семинар, на котором
+                                        обсуждались практики взаимного признания квалификаций на примере стран СНГ, ЕАЭС и ЕС</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 1/12/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Участники обсудили между собой наиболее актуальные вопросы профессионального развития</p>
+                                <a href="031221-2.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
