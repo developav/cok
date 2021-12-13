@@ -50,6 +50,48 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/101221.php"><img class="image_fade" src="images/news/grid/178.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="101221.php">Сотрудники АО «Микрон» приняли участие в процедуре независимой оценке квалификации</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 10/12/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Экзамен проходил в очной форме на территории ЦОК «НИИМЭ»<a href="/101221.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/091221.php"><img class="image_fade" src="images/news/grid/177.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="091221.php">Проект «Вход в профессию» реализованный ЦОК АО «НИИМЭ»
+                                                по заказу СПК наноиндустрии отмечен премией бизнес-сообщества ОЭЗ
+                                                «Технополис Москва»</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 9/12/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Резидентам особой экономической зоны «Технополис Москва» вручили
+                                            корпоративную премию в области развития инновационного бизнеса «Техноход
+                                            2021»<a href="/091221.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/061221.php"><img class="image_fade" src="images/news/grid/176.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

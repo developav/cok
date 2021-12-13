@@ -215,65 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/172.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/172.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="181121.php"></a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 18/11/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Лилиана Поликарпова примет участие во Всероссийской акции "Время карьеры".
-                                    Выступление пройдёт в формате онлайн 29 ноября 2021 года в 11:00 по Московскому
-                                    времени.
-                                </p>
-                                <a href="181121.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/173.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/173.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="241121.php">22 ноября ЦОК присутствовал на совещании, проведенном Минобрнауки в формате ВКС</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 24/11/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Целью собрания являлось обсуждение планируемого пилотного проекта, направленного на
-                                    апробирование системы совмещения государственной итоговой и промежуточной аттестации и
-                                    независимой оценки квалификации</p>
-                                <a href="241121.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/174.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/174.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="031221.php">АО «НИИМЭ» приняло участие в межвузовском карьерном
-                                        форуме в рамках проекта Всероссийская акция «Время карьеры»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 1/12/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Целью собрания являлось обсуждение планируемого пилотного проекта, направленного на
-                                    апробирование системы совмещения государственной итоговой и промежуточной аттестации и
-                                    независимой оценки квалификации</p>
-                                <a href="031221.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/175.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/175.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -287,6 +228,62 @@
                             <div class="entry-content">
                                 <p>Участники обсудили между собой наиболее актуальные вопросы профессионального развития</p>
                                 <a href="031221-2.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/176.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/176.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="061221.php">Подготовка кадров при помощи Национальной системы
+                                        квалификаций – драйвер развития экономики</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 6/12/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>3 декабря в рамках Digital Innopolis Days в Казани состоялась панельная дискуссия «Кадры для будущего. Ключевые итоги 2021 года»</p>
+                                <a href="061221.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/177.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/177.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="091221.php">Проект «Вход в профессию» реализованный ЦОК АО «НИИМЭ»
+                                        по заказу СПК наноиндустрии отмечен премией бизнес-сообщества ОЭЗ
+                                        «Технополис Москва»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 9/12/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Резидентам особой экономической зоны «Технополис Москва» вручили
+                                    корпоративную премию в области развития инновационного бизнеса «Техноход
+                                    2021»</p>
+                                <a href="091221.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/178.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/178.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="101221.php">Сотрудники АО «Микрон» приняли участие в процедуре независимой оценке квалификации</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 10/12/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Экзамен проходил в очной форме на территории ЦОК «НИИМЭ»</p>
+                                <a href="101221.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
