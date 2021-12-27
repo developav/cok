@@ -50,6 +50,48 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/231221.php"><img class="image_fade" src="images/news/grid/180.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="231221.php">Уважаемые подписчики, представляем Вашему вниманию видео о проекте "Вход в профессию"</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 23/12/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Цель проекта – оценить качество подготовки выпускников технических вузов, определить
+                                            соответствие их знаний требованиям работодателей, и, таким образом, улучшить
+                                            взаимосвязь между работодателями и образовательными учреждениями в процессе
+                                            подготовки будущих специалистов.<a href="/231221.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/201221.php"><img class="image_fade" src="images/news/grid/179.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="201221.php">Выпускник политехнического вуза – «полуфабрикат» или готовый специалист?</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 20/12/2021</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Руководство высокотехнологичных предприятий часто берет на
+                                            работу нового сотрудников будто «кота в мешке», мало что зная о его квалификации.<a href="/201221.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/101221.php"><img class="image_fade" src="images/news/grid/178.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

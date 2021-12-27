@@ -215,42 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/175.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/175.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="031221-2.php">30 ноября состоялся второй экспертный семинар, на котором
-                                        обсуждались практики взаимного признания квалификаций на примере стран СНГ, ЕАЭС и ЕС</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 1/12/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Участники обсудили между собой наиболее актуальные вопросы профессионального развития</p>
-                                <a href="031221-2.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/176.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/176.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="061221.php">Подготовка кадров при помощи Национальной системы
-                                        квалификаций – драйвер развития экономики</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 6/12/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>3 декабря в рамках Digital Innopolis Days в Казани состоялась панельная дискуссия «Кадры для будущего. Ключевые итоги 2021 года»</p>
-                                <a href="061221.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/177.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/177.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -284,6 +248,40 @@
                             <div class="entry-content">
                                 <p>Экзамен проходил в очной форме на территории ЦОК «НИИМЭ»</p>
                                 <a href="101221.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/179.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/179.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="201221.php">Выпускник политехнического вуза – «полуфабрикат» или готовый специалист? Вопрос не из простых</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 20/12/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Руководство высокотехнологичных предприятий часто берет на работу нового сотрудников будто «кота в мешке», мало что зная о его квалификации</p>
+                                <a href="201221.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/180.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/180.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="231221.php">Уважаемые подписчики, представляем Вашему вниманию видео о проекте "Вход в профессию"</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 23/12/2021</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Цель проекта – оценить качество подготовки выпускников технических вузов, определить соответствие их знаний требованиям работодателей</p>
+                                <a href="231221.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
