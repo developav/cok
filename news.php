@@ -50,6 +50,27 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/180122.php"><img class="image_fade" src="images/news/grid/181.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="180122.php">Привлечение к работе молодых специалистов в настоящее время является одной из ключевых задач рынка труда</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 18/01/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Не секрет, что передовые компании отрасли, например, НИИ Молекулярной Электроники - НИИМЭ,
+                                            уже длительное время самостоятельно готовят и доучивают студентов и выпускников
+                                            своими силами и в коллаборации с учебными заведениями.<a href="/180122.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/231221.php"><img class="image_fade" src="images/news/grid/180.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
