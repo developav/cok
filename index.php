@@ -215,27 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/177.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/177.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="091221.php">Проект «Вход в профессию» реализованный ЦОК АО «НИИМЭ»
-                                        по заказу СПК наноиндустрии отмечен премией бизнес-сообщества ОЭЗ
-                                        «Технополис Москва»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 9/12/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Резидентам особой экономической зоны «Технополис Москва» вручили
-                                    корпоративную премию в области развития инновационного бизнеса «Техноход
-                                    2021»</p>
-                                <a href="091221.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/178.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/178.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -282,6 +261,23 @@
                             <div class="entry-content">
                                 <p>Цель проекта – оценить качество подготовки выпускников технических вузов, определить соответствие их знаний требованиям работодателей</p>
                                 <a href="231221.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/181.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/181.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="180122.php">Привлечение к работе молодых специалистов в настоящее время является одной из ключевых задач рынка труда</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 18/01/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>НИИМЭ уже длительное время самостоятельно готовят и доучивают студентов и выпускников своими силами и в коллаборации с учебными заведениями</p>
+                                <a href="180122.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
