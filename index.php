@@ -215,18 +215,18 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/180.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/180.png" alt="News"></a>
+                                <a href="images/news/full/184.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/184.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="231221.php">Уважаемые подписчики, представляем Вашему вниманию видео о проекте "Вход в профессию"</a></h2>
+                                <h2><a href="261221.php">ЦОК НИИМЭ подвел итоги работы в 2021 году и открыл запись на сдачу профессиональных экзаменов в 2022 году</a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 23/12/2021</li>
+                                <li><i class="icon-calendar3"></i> 26/12/2021</li>
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Цель проекта – оценить качество подготовки выпускников технических вузов, определить соответствие их знаний требованиям работодателей</p>
-                                <a href="231221.php" class="more-link">Далее</a>
+                                <p>Рассказываем, как лучше подготовиться к процедуре НОК, чтобы пройти её успешно и с минимальным стрессом</p>
+                                <a href="261221.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
