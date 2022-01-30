@@ -50,6 +50,27 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/blog-250122.php"><img class="image_fade" src="images/blog/grid/250122.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-250122.php"></a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 25/01/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Заместитель Министра труда и социальной защиты Российской Федерации,
+                                            Елена Мухтиярова: «Национальная система квалификаций — это
+                                            многофункциональный комплекс, нацеленный на... <a href="/blog-250122.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/blog-031221.php"><img class="image_fade" src="images/blog/grid/031221.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
