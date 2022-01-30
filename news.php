@@ -50,6 +50,29 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/190122.php"><img class="image_fade" src="images/news/grid/182.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="190122.php">Группа «Лукойл» использует национальную систему оценки квалификаций уже 5 лет</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 19/01/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Начальник департамента организационного развития и управления карьерой ПАО
+                                            «Лукойл» Юрий Пихтовников рассказывает, какие цели ставила компания перед
+                                            внедрением системы оценки, каким образом они взаимодействуют с обучающими
+                                            организациями и как именно используются результаты независимой оценки в
+                                            работе компании.<a href="/190122.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/180122.php"><img class="image_fade" src="images/news/grid/181.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/178.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/178.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="101221.php">Сотрудники АО «Микрон» приняли участие в процедуре независимой оценке квалификации</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 10/12/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Экзамен проходил в очной форме на территории ЦОК «НИИМЭ»</p>
-                                <a href="101221.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/179.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/179.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,23 @@
                             <div class="entry-content">
                                 <p>НИИМЭ уже длительное время самостоятельно готовят и доучивают студентов и выпускников своими силами и в коллаборации с учебными заведениями</p>
                                 <a href="180122.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/182.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/182.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="190122.php">Группа «Лукойл» использует национальную систему оценки квалификаций уже 5 лет</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 19/01/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Начальник департамента организационного развития и управления карьерой ПАО «Лукойл» Юрий Пихтовников рассказывает, какие цели ставила компания перед внедрением системы оценки</p>
+                                <a href="190122.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
