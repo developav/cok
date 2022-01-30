@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/179.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/179.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="201221.php">Выпускник политехнического вуза – «полуфабрикат» или готовый специалист? Вопрос не из простых</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 20/12/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Руководство высокотехнологичных предприятий часто берет на работу нового сотрудников будто «кота в мешке», мало что зная о его квалификации</p>
-                                <a href="201221.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/180.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/180.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,23 @@
                             <div class="entry-content">
                                 <p>Начальник департамента организационного развития и управления карьерой ПАО «Лукойл» Юрий Пихтовников рассказывает, какие цели ставила компания перед внедрением системы оценки</p>
                                 <a href="190122.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/183.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/183.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="240122.php">В Минтруда рассказали о "бирже навыков" и других проектах в области развития рынка труда и системы независимой оценки квалификации</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 24/01/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Вектор развития продолжает вопрос о синхронизации рынка труда и системы образования, которая обязана обеспечивать качественную подготовку трудовых ресурсов</p>
+                                <a href="240122.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
