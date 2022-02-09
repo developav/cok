@@ -46,7 +46,7 @@
 							<!-- Entry Meta
 							============================================= -->
 							<ul class="entry-meta clearfix">
-								<li><i class="icon-calendar3"></i> 25 Января 2021</li>
+								<li><i class="icon-calendar3"></i> 25 Января 2022</li>
 							</ul><!-- .entry-meta end -->
 
 							<!-- Entry Image
