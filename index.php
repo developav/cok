@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/181.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/181.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="180122.php">Привлечение к работе молодых специалистов в настоящее время является одной из ключевых задач рынка труда</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 18/01/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>НИИМЭ уже длительное время самостоятельно готовят и доучивают студентов и выпускников своими силами и в коллаборации с учебными заведениями</p>
-                                <a href="180122.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/182.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/182.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,23 @@
                             <div class="entry-content">
                                 <p>3 февраля 2022 года в Уральском колледже строительства, архитектуры и предпринимательства состоялось пленарное заседание «Аспекты развития отраслевого среднего профессионального образования»</p>
                                 <a href="040222.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/186.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/186.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="080222.php">Ежегодно, 8 февраля, представители научного сообщества нашей страны отмечают профессиональный праздник</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 8/02/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>День российской науки – это профессиональный праздник всех ученых, посвятивших свою жизнь развитию научно-технического потенциала страны</p>
+                                <a href="080222.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

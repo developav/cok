@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/080222.php"><img class="image_fade" src="images/news/grid/186.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="080222.php">Ежегодно, 8 февраля, представители научного сообщества нашей страны отмечают профессиональный праздник</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 8/02/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>День российской науки – это профессиональный праздник всех ученых, посвятивших свою жизнь развитию научно-технического потенциала страны<a href="/080222.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/040222.php"><img class="image_fade" src="images/news/grid/185.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
@@ -60,7 +79,8 @@
                                         <li><i class="icon-calendar3"></i> 4/02/2022</li>
                                     </ul>
                                     <div class="entry-content col_last">
-                                        <p>3 февраля 2022 года в Уральском колледже строительства, архитектуры и предпринимательства состоялось пленарное заседание «Аспекты развития отраслевого среднего профессионального образования».<a href="/240122.php" class="more-link"> (Дальше...)</a></p>
+                                        <p>3 февраля 2022 года в Уральском колледже строительства, архитектуры и предпринимательства состоялось
+                                            пленарное заседание «Аспекты развития отраслевого среднего профессионального образования».<a href="/040222.php" class="more-link"> (Дальше...)</a></p>
                                     </div>
                                 </div>
                             </div>
