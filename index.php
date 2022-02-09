@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/184.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/184.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="261221.php">ЦОК НИИМЭ подвел итоги работы в 2021 году и открыл запись на сдачу профессиональных экзаменов в 2022 году</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 26/12/2021</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Рассказываем, как лучше подготовиться к процедуре НОК, чтобы пройти её успешно и с минимальным стрессом</p>
-                                <a href="261221.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/181.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/181.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,23 @@
                             <div class="entry-content">
                                 <p>Вектор развития продолжает вопрос о синхронизации рынка труда и системы образования, которая обязана обеспечивать качественную подготовку трудовых ресурсов</p>
                                 <a href="240122.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/185.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/185.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="040222.php">В Екатеринбурге обсудили развитие системы подготовки кадров в строительной отрасли</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 4/02/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>3 февраля 2022 года в Уральском колледже строительства, архитектуры и предпринимательства состоялось пленарное заседание «Аспекты развития отраслевого среднего профессионального образования»</p>
+                                <a href="040222.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
