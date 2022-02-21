@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/blog-170222.php"><img class="image_fade" src="images/blog/grid/170222.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-170222.php"></a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 17/02/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Следование бизнеса стандартам и внедрение систем менеджмента качества (СМК), в том числе и для обеспечения высокого уровня квалификации персонала, является необходимым требованием со стороны заказчиков и клиентов практически любого трудо- или наукоёмкого производства<a href="/blog-170222.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/blog-110222.php"><img class="image_fade" src="images/blog/grid/110222.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
