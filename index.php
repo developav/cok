@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/183.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/183.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="240122.php">В Минтруда рассказали о "бирже навыков" и других проектах в области развития рынка труда и системы независимой оценки квалификации</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 24/01/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Вектор развития продолжает вопрос о синхронизации рынка труда и системы образования, которая обязана обеспечивать качественную подготовку трудовых ресурсов</p>
-                                <a href="240122.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/185.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/185.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,23 @@
                             <div class="entry-content">
                                 <p>9 февраля были подведены итоги 61-го заседания Национального совета при Президенте Российской Федерации по профессиональным квалификациям. Первое заседание в 2022 году прошло в заочном формате.</p>
                                 <a href="160222.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/188.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/188.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="250222.php">Экзаменационный центр (ЭЦ) - это площадка за пределами Центра оценки квалификаций (ЦОК)</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 25/02/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>ЭЦ всегда относится к определенному ЦОК и имеет право проводить процедуру независимой оценки квалификации только по профессиональным стандартам, которые закреплены за ним</p>
+                                <a href="250222.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
