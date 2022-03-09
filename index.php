@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/185.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/185.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="040222.php">В Екатеринбурге обсудили развитие системы подготовки кадров в строительной отрасли</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 4/02/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>3 февраля 2022 года в Уральском колледже строительства, архитектуры и предпринимательства состоялось пленарное заседание «Аспекты развития отраслевого среднего профессионального образования»</p>
-                                <a href="040222.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/186.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/186.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,24 @@
                             <div class="entry-content">
                                 <p>ЭЦ всегда относится к определенному ЦОК и имеет право проводить процедуру независимой оценки квалификации только по профессиональным стандартам, которые закреплены за ним</p>
                                 <a href="250222.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/189.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/189.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="050322.php"> </a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 5/03/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Успешно развиваются три формы кооперации бизнеса и образования: участие в работе региональных центров карьеры,
+                                    профориентация и наставничество непосредственно на предприятиях, а также формирование внутри вузов структурных подразделений работодателей.</p>
+                                <a href="050322.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
