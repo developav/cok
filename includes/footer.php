@@ -28,10 +28,20 @@
 						</div>
 					</div>
 
-					<a href="https://www.facebook.com/cokniime/" class="social-icon topmargin-sm si-facebook">
+					<!--<a href="https://www.facebook.com/cokniime/" class="social-icon topmargin-sm si-facebook">
 						<i class="icon-facebook"></i>
 						<i class="icon-facebook"></i>
-					</a>
+					</a>-->
+
+                    <a href="https://vk.com/cokniime" class="social-icon topmargin-sm si-vk">
+                        <i class="icon-vk"></i>
+                        <i class="icon-vk"></i>
+                    </a>
+
+                    <a href="https://t.me/mcokniime" class="social-icon topmargin-sm si-vk">
+                        <i class="icon-telegram-plane"></i>
+                        <i class="icon-telegram-plane"></i>
+                    </a>
 
 					<a href="https://www.youtube.com/channel/UC3dCkU8C2Vsc82VYZVkBn6w" class="social-icon topmargin-sm si-youtube">
 						<i class="icon-youtube"></i>

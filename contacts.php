@@ -4,7 +4,7 @@
 
 	<?php include "includes/head-meta.php"; ?>
 
-	<!-- Document Title 
+	<!-- Document Title
 	============================================= -->
 	<title>Контакты | ЦОК</title>
 
@@ -23,7 +23,7 @@
 			<?php include "includes/primary-menu.php"; ?>
 
 		</header><!-- #header end -->
-		
+
 <!-- 		<section id="page-title">
 
 			<div class="container clearfix">
@@ -35,12 +35,13 @@
 				</ol>
 			</div>
 
-		</section><!-- #page-title end -->
- 
+		</section> #page-title end
+		-->
+
 		<!-- Google Map
 		============================================= -->
 		<section id="google-map" class="gmap slider-parallax"></section>
-		
+
 		<!-- Content
 		============================================= -->
 		<section id="content">
@@ -121,10 +122,20 @@
 
 					</div><!-- .sidebar end -->
 
-					<a href="https://www.facebook.com/cokniime/" class="social-icon topmargin-sm si-facebook">
+					<!--<a href="https://www.facebook.com/cokniime/" class="social-icon topmargin-sm si-facebook">
 						<i class="icon-facebook"></i>
 						<i class="icon-facebook"></i>
-					</a>
+					</a>-->
+
+                    <a href="https://vk.com/cokniime" class="social-icon topmargin-sm si-vk">
+                        <i class="icon-vk"></i>
+                        <i class="icon-vk"></i>
+                    </a>
+
+                    <a href="https://t.me/mcokniime" class="social-icon topmargin-sm si-vk">
+                        <i class="icon-telegram-plane"></i>
+                        <i class="icon-telegram-plane"></i>
+                    </a>
 
 					<a href="https://www.youtube.com/channel/UC3dCkU8C2Vsc82VYZVkBn6w" class="social-icon topmargin-sm si-youtube">
 						<i class="icon-youtube"></i>
@@ -158,7 +169,7 @@
 	<!-- Footer Scripts
 	============================================= -->
 	<script type="text/javascript" src="js/functions.js"></script>
-	
+
 	<!-- Google map
 	============================================= -->
 	<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCgFBaLmsRydkkVs0TXvtAqIwqYbLIKTrQ"></script>
