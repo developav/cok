@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/186.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/186.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="080222.php">Ежегодно, 8 февраля, представители научного сообщества нашей страны отмечают профессиональный праздник</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 8/02/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>День российской науки – это профессиональный праздник всех ученых, посвятивших свою жизнь развитию научно-технического потенциала страны</p>
-                                <a href="080222.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/187.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/187.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -279,6 +262,23 @@
                                 <p>Успешно развиваются три формы кооперации бизнеса и образования: участие в работе региональных центров карьеры,
                                     профориентация и наставничество непосредственно на предприятиях, а также формирование внутри вузов структурных подразделений работодателей.</p>
                                 <a href="050322.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/190.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/190.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="180322.php">На Форуме труда в Санкт-Петербурге обсудили развитие рынка труда в новых реалиях</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 18/03/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>14-18 марта 2022 года в Санкт-Петербурге прошел 6-й Международный форум труда.</p>
+                                <a href="180322.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
