@@ -54,13 +54,13 @@
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
                                     <div class="entry-title">
-                                        <h2><a href="180322.php"> </a></h2>
+                                        <h2><a href="180322.php">На Форуме труда в Санкт-Петербурге обсудили развитие рынка труда в новых реалиях </a></h2>
                                     </div>
                                     <ul class="entry-meta clearfix" style="height: 30px">
                                         <li><i class="icon-calendar3"></i> 18/03/2022</li>
                                     </ul>
                                     <div class="entry-content col_last">
-                                        <p>На Форуме труда в Санкт-Петербурге обсудили развитие рынка труда в новых реалиях<a href="/180322.php" class="more-link"> (Дальше...)</a></p>
+                                        <p>14-18 марта 2022 года в Санкт-Петербурге прошел 6-й Международный форум труда<a href="/180322.php" class="more-link"> (Дальше...)</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -73,7 +73,7 @@
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
                                     <div class="entry-title">
-                                        <h2><a href="050322.php"> </a></h2>
+                                        <h2><a href="050322.php"> Артем Шадрин рассказал участникам КЭФ про цифровизацию и адаптацию программ вузов и СПО</a></h2>
                                     </div>
                                     <ul class="entry-meta clearfix" style="height: 30px">
                                         <li><i class="icon-calendar3"></i> 5/03/2022</li>

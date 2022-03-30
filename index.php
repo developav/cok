@@ -252,7 +252,7 @@
                                 <a href="images/news/full/189.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/189.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="050322.php"> </a></h2>
+                                <h2><a href="050322.php">Артем Шадрин рассказал участникам КЭФ про цифровизацию и адаптацию программ вузов и СПО </a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
                                 <li><i class="icon-calendar3"></i> 5/03/2022</li>
