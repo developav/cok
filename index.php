@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/188.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/188.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="250222.php">Экзаменационный центр (ЭЦ) - это площадка за пределами Центра оценки квалификаций (ЦОК)</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 25/02/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>ЭЦ всегда относится к определенному ЦОК и имеет право проводить процедуру независимой оценки квалификации только по профессиональным стандартам, которые закреплены за ним</p>
-                                <a href="250222.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/189.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/189.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -279,6 +262,23 @@
                             <div class="entry-content">
                                 <p></p>
                                 <a href="210322.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/192.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/192.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="280322.php">Состоялось заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям № 63</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 28/03/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>23 марта 2022 года состоялось очное заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям.</p>
+                                <a href="280322.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

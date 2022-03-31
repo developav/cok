@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/280322.php"><img class="image_fade" src="images/news/grid/192.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="280322.php">Состоялось заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям № 63</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 28/03/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>23 марта 2022 года состоялось очное заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям. Заседание прошло в формате ВКС.<a href="/280322.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/210322.php"><img class="image_fade" src="images/news/grid/191.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
