@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/187.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/187.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="160222.php">Итоги заочного заседания Национального совета № 61</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 16/02/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>9 февраля были подведены итоги 61-го заседания Национального совета при Президенте Российской Федерации по профессиональным квалификациям. Первое заседание в 2022 году прошло в заочном формате.</p>
-                                <a href="160222.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/188.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/188.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -279,6 +262,23 @@
                             <div class="entry-content">
                                 <p>14-18 марта 2022 года в Санкт-Петербурге прошел 6-й Международный форум труда.</p>
                                 <a href="180322.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/191.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/191.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="210322.php">Сотрудники НИИТМ успешно подтвердили свой уровень квалификации</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 21/03/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p></p>
+                                <a href="210322.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
