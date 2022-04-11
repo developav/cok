@@ -145,8 +145,10 @@
                                 реализации нацпроектов управления социальной политики Липецкой области <b>Светлана
                                     Голенских</b>.</p>
                             <p></p>
+                            <p>Источник: <a href="https://nark.ru/news/eksperty-i-predstaviteli-krupnogo-biznesa-obsudili.php"
+                                                      target="_blank">https://nark.ru/news/eksperty-i-predstaviteli-krupnogo-biznesa-obsudili.php</a></p>
                             <p>Запись мероприятия: <a href="https://www.youtube.com/watch?v=7iFVC8kzFII"
-                                             target="_blank">https://www.youtube.com/watch?v=7iFVC8kzFII</a></p>
+                            target="_blank">https://www.youtube.com/watch?v=7iFVC8kzFII</a></p>
                         </div>
                     </div>
                 </div><!-- .entry end -->
