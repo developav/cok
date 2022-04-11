@@ -215,24 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/189.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/189.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="050322.php">Артем Шадрин рассказал участникам КЭФ про цифровизацию и адаптацию программ вузов и СПО </a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 5/03/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Успешно развиваются три формы кооперации бизнеса и образования: участие в работе региональных центров карьеры,
-                                    профориентация и наставничество непосредственно на предприятиях, а также формирование внутри вузов структурных подразделений работодателей.</p>
-                                <a href="050322.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/190.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/190.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -279,6 +261,23 @@
                             <div class="entry-content">
                                 <p>23 марта 2022 года состоялось очное заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям.</p>
                                 <a href="280322.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/193.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/193.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="040422.php">Советы по профессиональным квалификациям и региональные методические центры обсудили эффективные практики профориентации</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 4/04/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>30 марта состоялась онлайн-конференция для региональных методических центров и советов по профессиональным квалификациям</p>
+                                <a href="040422.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
