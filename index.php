@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/191.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/191.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="210322.php">Сотрудники НИИТМ успешно подтвердили свой уровень квалификации</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 21/03/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p></p>
-                                <a href="210322.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/192.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/192.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -280,6 +263,24 @@
                                 <a href="080422.php" class="more-link">Далее</a>
                             </div>
                         </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/195.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/195.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="110422.php">Кубанский государственный университет откроет экзаменационный центр ЦОК «НИИМЭ»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 11/04/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>8 апреля 2022г в Центре оценки квалификаций АО «НИИМЭ» состоялась рабочая встреча с деканом физико-технического факультета Кубанского государственного университета Строгановой Еленой Валерьевной</p>
+                                <a href="110422.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
                     </div>
                 </div><!-- end news block -->
 
