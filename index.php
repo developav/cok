@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/192.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/192.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="280322.php">Состоялось заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям № 63</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 28/03/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>23 марта 2022 года состоялось очное заседание Национального совета при Президенте Российской Федерации по профессиональным квалификациям.</p>
-                                <a href="280322.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/193.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/193.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,23 @@
                             <div class="entry-content">
                                 <p>8 апреля 2022г в Центре оценки квалификаций АО «НИИМЭ» состоялась рабочая встреча с деканом физико-технического факультета Кубанского государственного университета Строгановой Еленой Валерьевной</p>
                                 <a href="110422.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/196.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/196.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="130422.php">Национальная система квалификаций как механизм развития рынка труда</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 13/04/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>В журнале Business Excellence №4, 2022 опубликована статья советника по региональному развитию и международным связям Национального агентства Ивана Митрофанова</p>
+                                <a href="130422.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
