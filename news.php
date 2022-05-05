@@ -50,6 +50,44 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/290422.php"><img class="image_fade" src="images/news/grid/199.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="290422.php">СПК связи в рамках пилотного проекта по сопряжению ГИА - НОК оценил уровень квалификации будущих радиотехников</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 29/04/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>СПК связи провел в «ЛЭТИ» профессиональный экзамен «Инженер-радиоэлектронщик» в области радиотехники и телекоммуникаций<a href="/290422.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/270422.php"><img class="image_fade" src="images/news/grid/198.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="270422.php">ЦОК НИИМЭ провел профессионалный экзамен "Вход в профессию" для студентов МИЭТ</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 27/04/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>ЦОК АО "НИИМЭ" воплощая цели и задачи НСК продолжает формировать "рынок квалификаций" для наноиндустрии путем проведения профессиональных экзаменов для студентов профильных ВУЗов.<a href="/270422.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/260422.php"><img class="image_fade" src="images/news/grid/197.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

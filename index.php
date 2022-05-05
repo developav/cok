@@ -215,40 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/194.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/194.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="080422.php">Опубликован обзор событий в области регионального развития Национальной системы квалификаций за первый квартал 2022 года</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 8/04/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Дайджест публикаций региональной и отраслевой прессы по развитию НСК в субъектах Российской Федерации за январь – март 2022 года</p>
-                                <a href="080422.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/195.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/195.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="110422.php">Кубанский государственный университет откроет экзаменационный центр ЦОК «НИИМЭ»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 11/04/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>8 апреля 2022г в Центре оценки квалификаций АО «НИИМЭ» состоялась рабочая встреча с деканом физико-технического факультета Кубанского государственного университета Строгановой Еленой Валерьевной</p>
-                                <a href="110422.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/196.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/196.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +244,40 @@
                             <div class="entry-content">
                                 <p>В качестве ответственной за разработку организации выступил Фонд инфраструктурных образовательных программ</p>
                                 <a href="260422.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/198.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/198.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="270422.php">ЦОК НИИМЭ провел профессионалный экзамен "Вход в профессию" для студентов МИЭТ</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 27/04/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>ЦОК АО "НИИМЭ" продолжает формировать "рынок квалификаций" для наноиндустрии путем проведения профессиональных экзаменов для студентов профильных ВУЗов</p>
+                                <a href="270422.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/199.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/199.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="290422.php">СПК связи в рамках пилотного проекта по сопряжению ГИА - НОК оценил уровень квалификации будущих радиотехников</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 29/04/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>СПК связи провел в «ЛЭТИ» профессиональный экзамен на соответствие квалификации «Инженер-радиоэлектронщик» в области радиотехники и телекоммуникаций</p>
+                                <a href="290422.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
