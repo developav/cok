@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/193.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/193.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="040422.php">Советы по профессиональным квалификациям и региональные методические центры обсудили эффективные практики профориентации</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 4/04/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>30 марта состоялась онлайн-конференция для региональных методических центров и советов по профессиональным квалификациям</p>
-                                <a href="040422.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/194.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/194.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,23 @@
                             <div class="entry-content">
                                 <p>В журнале Business Excellence №4, 2022 опубликована статья советника по региональному развитию и международным связям Национального агентства Ивана Митрофанова</p>
                                 <a href="130422.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/197.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/197.png" alt="News"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="260422.php">Минтруд утвердил новые профстандарты, утвержденные АО НИИМЭ</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 26/04/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>В качестве ответственной за разработку организации выступил Фонд инфраструктурных образовательных программ</p>
+                                <a href="260422.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
