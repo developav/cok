@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/196.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/196.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="130422.php">Национальная система квалификаций как механизм развития рынка труда</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 13/04/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>В журнале Business Excellence №4, 2022 опубликована статья советника по региональному развитию и международным связям Национального агентства Ивана Митрофанова</p>
-                                <a href="130422.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/197.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/197.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,23 @@
                             <div class="entry-content">
                                 <p>СПК связи провел в «ЛЭТИ» профессиональный экзамен на соответствие квалификации «Инженер-радиоэлектронщик» в области радиотехники и телекоммуникаций</p>
                                 <a href="290422.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/200.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/200.png" alt="image 050522"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="050522.php">На Форуме Международной академии связи обсудили кадровые вопросы радиоэлектронной промышленности</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 5/5/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>29 апреля в Москве состоялся XXVI Международный Форум Международной академии связи «Цифровая трансформация: устойчивое развитие»</p>
+                                <a href="050522.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
