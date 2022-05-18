@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/197.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/197.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="260422.php">Минтруд утвердил новые профстандарты, утвержденные АО НИИМЭ</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 26/04/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>В качестве ответственной за разработку организации выступил Фонд инфраструктурных образовательных программ</p>
-                                <a href="260422.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/198.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/198.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,23 @@
                             <div class="entry-content">
                                 <p>29 апреля в Москве состоялся XXVI Международный Форум Международной академии связи «Цифровая трансформация: устойчивое развитие»</p>
                                 <a href="050522.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/201.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/201.png" alt="image 110522"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="110522.php">Эксперт ЦОК НИИМЭ награжден почетной грамотой Минпромторг РФ</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 11/5/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Поздравляем Забабурина Аркадия Юрьевича с получением Почетной грамоты Министерства промышленности и торговли Российской Федерации!</p>
+                                <a href="110522.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
