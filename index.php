@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/199.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/199.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="290422.php">СПК связи в рамках пилотного проекта по сопряжению ГИА - НОК оценил уровень квалификации будущих радиотехников</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 29/04/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>СПК связи провел в «ЛЭТИ» профессиональный экзамен на соответствие квалификации «Инженер-радиоэлектронщик» в области радиотехники и телекоммуникаций</p>
-                                <a href="290422.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/200.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/200.png" alt="image 050522"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,24 @@
                             <div class="entry-content">
                                 <p>Предложения работодателей по целевому набору абитуриентов в вузы могут обязать публиковать на портале госуслуг, а соискатели смогут онлайн откликнуться на них</p>
                                 <a href="180522.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/203.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/203.png" alt="image 190522"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="190522.php"> </a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 19/5/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Поздравляем специалиста АО НИИМЭ Евгению Глебову с успешным завершением программы
+                                    обучения "Независимая оценка квалификации специалистов наноиндустрии"</p>
+                                <a href="190522.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
