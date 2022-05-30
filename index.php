@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/198.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/198.png" alt="News"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="270422.php">ЦОК НИИМЭ провел профессионалный экзамен "Вход в профессию" для студентов МИЭТ</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 27/04/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>ЦОК АО "НИИМЭ" продолжает формировать "рынок квалификаций" для наноиндустрии путем проведения профессиональных экзаменов для студентов профильных ВУЗов</p>
-                                <a href="270422.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/199.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/199.png" alt="News"></a>
                             </div>
                             <div class="entry-title">
@@ -280,6 +263,24 @@
                                 <a href="110522.php" class="more-link">Далее</a>
                             </div>
                         </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/202.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/202.png" alt="image 180522"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="180522.php">Госдума корректирует порядок целевого образования в вузах</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 18/5/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Предложения работодателей по целевому набору абитуриентов в вузы могут обязать публиковать на портале госуслуг, а соискатели смогут онлайн откликнуться на них</p>
+                                <a href="180522.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
 
                     </div>
                 </div><!-- end news block -->

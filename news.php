@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/180522.php"><img class="image_fade" src="images/news/grid/202.png" alt="image 18052022"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="180522.php">Госдума корректирует порядок целевого образования в вузах</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 18/5/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Предложения работодателей по целевому набору абитуриентов в вузы могут обязать публиковать на портале госуслуг, а соискатели смогут онлайн откликнуться на них<a href="/180522.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/110522.php"><img class="image_fade" src="images/news/grid/201.png" alt="image 11052022"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
