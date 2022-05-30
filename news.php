@@ -57,7 +57,7 @@
                                         <h2><a href="110522.php">Эксперт ЦОК НИИМЭ награжден почетной грамотой Минпромторг РФ</a></h2>
                                     </div>
                                     <ul class="entry-meta clearfix" style="height: 30px">
-                                        <li><i class="icon-calendar3"></i> 5/5/2022</li>
+                                        <li><i class="icon-calendar3"></i> 11/5/2022</li>
                                     </ul>
                                     <div class="entry-content col_last">
                                         <p>Поздравляем Забабурина Аркадия Юрьевича с получением Почетной грамоты Министерства промышленности и торговли Российской Федерации!<a href="/110522.php" class="more-link"> (Дальше...)</a></p>
