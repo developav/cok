@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/260522.php"><img class="image_fade" src="images/news/grid/204.png" alt="image 26052022"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="260522.php">НИИМЭ признан "Работодателем года" по результатам первой Народной премии «Зеленоград.ру»!</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 26/5/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Церемония награждения прошла 24 мая в «Ведогонь-театре»<a href="/260522.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/190522.php"><img class="image_fade" src="images/news/grid/203.png" alt="image 19052022"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

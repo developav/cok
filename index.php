@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/200.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/200.png" alt="image 050522"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="050522.php">На Форуме Международной академии связи обсудили кадровые вопросы радиоэлектронной промышленности</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 5/5/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>29 апреля в Москве состоялся XXVI Международный Форум Международной академии связи «Цифровая трансформация: устойчивое развитие»</p>
-                                <a href="050522.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/201.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/201.png" alt="image 110522"></a>
                             </div>
                             <div class="entry-title">
@@ -282,6 +265,22 @@
                             </div>
                         </div>
 
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/204.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/204.png" alt="image 260522"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="260522.php">НИИМЭ признан "Работодателем года" по результатам первой Народной премии «Зеленоград.ру»!</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 26/5/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Церемония награждения прошла 24 мая в «Ведогонь-театре»</p>
+                                <a href="260522.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
 
                     </div>
                 </div><!-- end news block -->
