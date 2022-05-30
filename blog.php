@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/blog-120522.php"><img class="image_fade" src="images/blog/grid/120522.png" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-120522.php">Гайд о порядке прохождения независимой оценки квалификации (НОК) на портале ГОСУСЛУГ</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 12/05/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p><a href="/blog-120522.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/blog-180222.php"><img class="image_fade" src="images/blog/grid/180222.png" alt="Image"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
