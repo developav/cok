@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/202.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/202.png" alt="image 180522"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="180522.php">Госдума корректирует порядок целевого образования в вузах</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 18/5/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Предложения работодателей по целевому набору абитуриентов в вузы могут обязать публиковать на портале госуслуг, а соискатели смогут онлайн откликнуться на них</p>
-                                <a href="180522.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/203.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/203.png" alt="image 190522"></a>
                             </div>
                             <div class="entry-title">
@@ -279,6 +262,23 @@
                             <div class="entry-content">
                                 <p>30 мая Президент РФ Владимир Путин подписал Указ № 329 об утверждении состава Национального совета при Президенте Российской Федерации по профессиональным квалификациям</p>
                                 <a href="010622.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/206.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/206.png" alt="image 030622"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="030622.php">Обзор событий в области развития квалификаций в государствах-членах ЕАЭС с начала 2022 года</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 3/6/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Аналитический документ подготовлен Департаментом регионального развития и международных связей Национального агентства развития квалификаций</p>
+                                <a href="030622.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

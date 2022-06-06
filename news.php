@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/030622.php"><img class="image_fade" src="images/news/grid/206.png" alt="image 030622"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="030622.php">Национальное агентство подготовило Обзор событий в области развития квалификаций в государствах-членах ЕАЭС с начала 2022 года</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 3/6/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Обзор содержит краткие сведения о событиях в области развития квалификаций в государствах-членах Евразийского экономического союза (ЕАЭС) за январь – май 2022 года<a href="/030622.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/010622.php"><img class="image_fade" src="images/news/grid/205.png" alt="image 010622"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
