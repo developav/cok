@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/205.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/205.png" alt="image 010622"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="010622.php">Утвержден новый состав НСК</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 1/6/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>30 мая Президент РФ Владимир Путин подписал Указ № 329 об утверждении состава Национального совета при Президенте Российской Федерации по профессиональным квалификациям</p>
-                                <a href="010622.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/206.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/206.png" alt="image 030622"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,23 @@
                             <div class="entry-content">
                                 <p>15 июня 2022 года, в рамках первого дня работы Петербургского международного экономического форума, состоялся круглый стол «Новые вызовы автомобильной промышленности в науке, образовании и спорте»</p>
                                 <a href="150622.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/209.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/209.png" alt="image 160622"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="160622.php">Новые карьерные траектории: главное об образовании и рынке труда с юношеской секции «ПМЭФ.Юниор»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 16/6/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>15 июня 2022 года в рамках Петербургского международного экономического форума была организована юношеская секция «ПМЭФ.Юниор»</p>
+                                <a href="160622.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
