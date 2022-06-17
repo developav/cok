@@ -50,6 +50,44 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/150622.php"><img class="image_fade" src="images/news/grid/208.png" alt="image 150622"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="150622.php">Артем Шадрин рассказал на ПМЭФ о новых возможностях подготовки кадров для реального сектора</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 15/6/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>15 июня 2022 года, в рамках первого дня работы Петербургского международного экономического форума, состоялся круглый стол «Новые вызовы автомобильной промышленности в науке, образовании и спорте».<a href="/150622.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/140622.php"><img class="image_fade" src="images/news/grid/207.png" alt="image 140622"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="140622.php">На форуме в Якутске эксперты Национального агентства обсудили вопросы подготовки молодых ученых</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 14/6/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Эксперты Национального агентства развития квалификаций приняли участие в работе второго форума «Университеты и развитие геостратегических территорий России», организованного Северо-Восточным университетом (СВФУ) им М. К. Аммосова 10-12 июня 2022 года в Якутске<a href="/140622.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/030622.php"><img class="image_fade" src="images/news/grid/206.png" alt="image 030622"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

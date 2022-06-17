@@ -215,41 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/203.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/203.png" alt="image 190522"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="190522.php"> </a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 19/5/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Поздравляем специалиста АО НИИМЭ Евгению Глебову с успешным завершением программы
-                                    обучения "Независимая оценка квалификации специалистов наноиндустрии"</p>
-                                <a href="190522.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/204.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/204.png" alt="image 260522"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="260522.php">НИИМЭ признан "Работодателем года" по результатам первой Народной премии «Зеленоград.ру»!</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 26/5/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Церемония награждения прошла 24 мая в «Ведогонь-театре»</p>
-                                <a href="260522.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/205.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/205.png" alt="image 010622"></a>
                             </div>
                             <div class="entry-title">
@@ -279,6 +244,40 @@
                             <div class="entry-content">
                                 <p>Аналитический документ подготовлен Департаментом регионального развития и международных связей Национального агентства развития квалификаций</p>
                                 <a href="030622.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/207.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/207.png" alt="image 140622"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="140622.php">На форуме в Якутске эксперты Национального агентства обсудили вопросы подготовки молодых ученых</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 14/6/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Эксперты Национального агентства развития квалификаций приняли участие в работе второго форума «Университеты и развитие геостратегических территорий России»</p>
+                                <a href="140622.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/208.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/208.png" alt="image 150622"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="150622.php">Артем Шадрин рассказал на ПМЭФ о новых возможностях подготовки кадров для реального сектора</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 15/6/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>15 июня 2022 года, в рамках первого дня работы Петербургского международного экономического форума, состоялся круглый стол «Новые вызовы автомобильной промышленности в науке, образовании и спорте»</p>
+                                <a href="150622.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
