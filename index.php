@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/206.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/206.png" alt="image 030622"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="030622.php">Обзор событий в области развития квалификаций в государствах-членах ЕАЭС с начала 2022 года</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 3/6/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Аналитический документ подготовлен Департаментом регионального развития и международных связей Национального агентства развития квалификаций</p>
-                                <a href="030622.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/207.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/207.png" alt="image 140622"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,23 @@
                             <div class="entry-content">
                                 <p>15 июня 2022 года в рамках Петербургского международного экономического форума была организована юношеская секция «ПМЭФ.Юниор»</p>
                                 <a href="160622.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/210.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/210.png" alt="image 240622"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="240622.php">Белгородский ГАУ принял участие в пилотном проекте ГИА-НОК</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 24/6/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Белгородский государственный аграрный университет им. В.Я. Горина принял участие в пилотном проекте по совмещению государственной итоговой аттестации выпускников с независимой оценкой квалификации</p>
+                                <a href="240622.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
