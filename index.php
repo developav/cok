@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/207.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/207.png" alt="image 140622"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="140622.php">На форуме в Якутске эксперты Национального агентства обсудили вопросы подготовки молодых ученых</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 14/6/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Эксперты Национального агентства развития квалификаций приняли участие в работе второго форума «Университеты и развитие геостратегических территорий России»</p>
-                                <a href="140622.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/208.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/208.png" alt="image 150622"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,23 @@
                             <div class="entry-content">
                                 <p>Белгородский государственный аграрный университет им. В.Я. Горина принял участие в пилотном проекте по совмещению государственной итоговой аттестации выпускников с независимой оценкой квалификации</p>
                                 <a href="240622.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/211.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/211.png" alt="image 270622"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="270622.php">Ольга Клинк выступила в программе «Разное время» на Радио России</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 27/6/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Приемная кампания в колледжи на экспериментальные программы «Профессионалитета» стартовала в России 20 июня. Главной особенностью «Профессионалитета» является интеграция учебных организаций с предприятиями реального сектора экономики</p>
+                                <a href="270622.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
