@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/209.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/209.png" alt="image 160622"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="160622.php">Новые карьерные траектории: главное об образовании и рынке труда с юношеской секции «ПМЭФ.Юниор»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 16/6/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>15 июня 2022 года в рамках Петербургского международного экономического форума была организована юношеская секция «ПМЭФ.Юниор»</p>
-                                <a href="160622.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/210.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/210.png" alt="image 240622"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,23 @@
                             <div class="entry-content">
                                 <p>6 июля 2022 года на площадке «Иннопрома» прошли панельные дискуссии «Интеллектуальный потенциал университетов для развития российской промышленности» и «Передовые инженерные школы как драйвер развития региона и страны»</p>
                                 <a href="070022.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/213.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/213.png" alt="image 90722"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="090722.php">Опубликован обзор региональных событий в сфере НСК за II квартал 2022 года</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 9/7/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Департамент регионального развития и международных связей Национального агентства развития квалификаций подготовил обзор региональных событий Национальной системы квалификаций (НСК) с апреля по июнь 2022 года</p>
+                                <a href="090722.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
