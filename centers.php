@@ -45,12 +45,14 @@
 					<div class="container clearfix">
 
                         <div class="heading-block fancy-title nobottomborder title-bottom-border">
-                            <h4>Наш первый экзаменационный центр</h4>
+                            <h4>Экзаменационные центры</h4>
                         </div>
+
+                        <!-- Voronezh -->
 
 						<div class="col_one_third">
 						    <div class="heading-block fancy-title nobottomborder">
-                                <p style="font-size: 120%"><b><a href="http://www.vsu.ru">Воронежский государственный университет</a></b></p>
+                                <p style="font-size: 120%"><b><a href="http://www.vsu.ru" target="_blank">Воронежский государственный университет</a></b></p>
                             </div>
                         </div>
 
@@ -65,6 +67,25 @@
                             <p>394018, Россия, г. Воронеж, Университетская площадь, 1</p>
                         </div>
 
+                        <br>
+
+                        <!-- Kuban -->
+
+                        <div class="col_one_third">
+                            <div class="heading-block fancy-title nobottomborder">
+                                <p style="font-size: 120%"><b><a href="https://www.kubsu.ru/index.php" target="_blank">Кубанский государственный университет </a></b></p>
+                            </div>
+                        </div>
+
+                        <div class="col_one_third">
+                            <p style="font-size: 120%"><b>Руководитель центра:</b> Строганова Елена Валерьевна,<br>декан физико-технического факультета, доктор физико-математических наук.<br>
+                                <b>Контакты: </b><a href="mailto:radiophys@phys.kubsu.ru">radiophys@phys.kubsu.ru </a></p>
+                        </div>
+
+                        <div class="col_last topmargin">
+                            <img src="/images/kubsu_gmap.png" width="345" height="175" alt="VGU">
+                            <p>350040, г. Краснодар, ул. Ставропольская, 149 </p>
+                        </div>
 
                         <!-- <div class="divider"><i class="icon-circle"></i></div> -->
 					</div>
