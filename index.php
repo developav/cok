@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/208.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/208.png" alt="image 150622"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="150622.php">Артем Шадрин рассказал на ПМЭФ о новых возможностях подготовки кадров для реального сектора</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 15/6/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>15 июня 2022 года, в рамках первого дня работы Петербургского международного экономического форума, состоялся круглый стол «Новые вызовы автомобильной промышленности в науке, образовании и спорте»</p>
-                                <a href="150622.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/209.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/209.png" alt="image 160622"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,23 @@
                             <div class="entry-content">
                                 <p>Приемная кампания в колледжи на экспериментальные программы «Профессионалитета» стартовала в России 20 июня. Главной особенностью «Профессионалитета» является интеграция учебных организаций с предприятиями реального сектора экономики</p>
                                 <a href="270622.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/212.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/212.png" alt="image 70722"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="070722.php">Артем Шадрин принял участие в обсуждении роли университетов для технологического развития страны</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 7/7/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>6 июля 2022 года на площадке «Иннопрома» прошли панельные дискуссии «Интеллектуальный потенциал университетов для развития российской промышленности» и «Передовые инженерные школы как драйвер развития региона и страны»</p>
+                                <a href="070022.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
