@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/210.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/210.png" alt="image 240622"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="240622.php">Белгородский ГАУ принял участие в пилотном проекте ГИА-НОК</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 24/6/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Белгородский государственный аграрный университет им. В.Я. Горина принял участие в пилотном проекте по совмещению государственной итоговой аттестации выпускников с независимой оценкой квалификации</p>
-                                <a href="240622.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/211.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/211.png" alt="image 270622"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,23 @@
                             <div class="entry-content">
                                 <p>Департамент регионального развития и международных связей Национального агентства развития квалификаций подготовил обзор региональных событий Национальной системы квалификаций (НСК) с апреля по июнь 2022 года</p>
                                 <a href="090722.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/214.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/214.png" alt="image 110722"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="110722.php">Утверждены Приоритетные направления развития системы независимой оценки квалификации на период до 2024 года</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 11/7/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>8 июля 2022 года Председатель Национального совета А.Н. Шохин утвердил Приоритетные направления развития системы независимой оценки квалификации на период до 2024 года</p>
+                                <a href="110722.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

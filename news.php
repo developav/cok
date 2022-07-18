@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/110722.php"><img class="image_fade" src="images/news/grid/214.png" alt="image 110722"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="110722.php">Утверждены Приоритетные направления развития системы независимой оценки квалификации на период до 2024 года</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 11/7/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>8 июля 2022 года Председатель Национального совета А.Н. Шохин утвердил Приоритетные направления развития системы независимой оценки квалификации на период до 2024 года.<a href="/110722.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/090722.php"><img class="image_fade" src="images/news/grid/213.png" alt="image 90722"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
