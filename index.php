@@ -215,18 +215,18 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/211.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/211.png" alt="image 270622"></a>
+                                <a href="images/news/full/215.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/215.png" alt="image 70722"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="270622.php">Ольга Клинк выступила в программе «Разное время» на Радио России</a></h2>
+                                <h2><a href="070722-2.php">ОК теперь доступна для проведения в регионах</a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 27/6/2022</li>
+                                <li><i class="icon-calendar3"></i> 7/7/2022</li>
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
-                                <p>Приемная кампания в колледжи на экспериментальные программы «Профессионалитета» стартовала в России 20 июня. Главной особенностью «Профессионалитета» является интеграция учебных организаций с предприятиями реального сектора экономики</p>
-                                <a href="270622.php" class="more-link">Далее</a>
+                                <p>ЦОК НИИМЭ провел профессиональный экзамен для сотрудников ОА «НПО автоматики» г. Екатеринбург</p>
+                                <a href="070722-2.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
