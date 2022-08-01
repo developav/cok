@@ -810,6 +810,42 @@
                     </div>
                 </div>
 
+                <div class="row">
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/stroganova.jpg" alt="Stroganova">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title">
+                                    <h4><a href="#">Строганова Елена Валерьевна</a></h4>
+                                    <span>Руководитель экзаменационного центра Кубанского государственного университета декан физико-технического факультета, доктор физико-математических наук</span>
+                                </div>
+                                <div class="team-content">
+                                    <p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <!--<img src="images/team/stroganova.jpg" alt="Stroganova">-->
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title">
+                                    <!--<h4><a href="#">Строганова Елена Валерьевна</a></h4>
+                                    <span>Руководитель экзаменационного центра Кубанского государственного университета декан физико-технического факультета, доктор физико-математических наук</span>-->
+                                </div>
+                                <div class="team-content">
+                                    <!--<p>ТЕХНИЧЕСКИЙ ЭКСПЕРТ</p>-->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="clear"></div>
 
             </div>
