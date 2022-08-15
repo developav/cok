@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/212.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/212.png" alt="image 70722"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="070722.php">Артем Шадрин принял участие в обсуждении роли университетов для технологического развития страны</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 7/7/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>6 июля 2022 года на площадке «Иннопрома» прошли панельные дискуссии «Интеллектуальный потенциал университетов для развития российской промышленности» и «Передовые инженерные школы как драйвер развития региона и страны»</p>
-                                <a href="070022.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/213.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/213.png" alt="image 90722"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,23 @@
                             <div class="entry-content">
                                 <p>14 июля 2022 года на базе центра оценки квалификаций АО «НИИМЭ» прошло совещание с представителями Совета по профессиональным квалификациям в наноиндустрии: зам. председателя Совета Крюковой О.А. и секретарем Совета Ионовым С.А.</p>
                                 <a href="150722.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/217.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/217.png" alt="image 310722"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="310722.php">Продолжается Всероссийский конкурс профессионального мастерства «Лучший по профессии»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 31/7/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Целью конкурса является повышение престижа рабочих профессий и популяризация их среди молодежи, распространение актуального опыта и лучших практик подготовки кадров</p>
+                                <a href="310722.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
