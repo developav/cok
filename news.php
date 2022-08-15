@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/150722.php"><img class="image_fade" src="images/news/grid/216.png" alt="image 150722"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="150722.php">В ЦОК НИИМЭ состоялась встреча с представителями СПК в наноиндустрии</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 15/7/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>14 июля 2022 года на базе центра оценки квалификаций АО «НИИМЭ» прошло совещание с представителями Совета по профессиональным квалификациям в наноиндустрии: зам. председателя Совета Крюковой О.А. и секретарем Совета Ионовым С.А.<a href="/150722.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/110722.php"><img class="image_fade" src="images/news/grid/214.png" alt="image 110722"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/215.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/215.png" alt="image 70722"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="070722-2.php">ОК теперь доступна для проведения в регионах</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 7/7/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>ЦОК НИИМЭ провел профессиональный экзамен для сотрудников ОА «НПО автоматики» г. Екатеринбург</p>
-                                <a href="070722-2.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/212.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/212.png" alt="image 70722"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,23 @@
                             <div class="entry-content">
                                 <p>8 июля 2022 года Председатель Национального совета А.Н. Шохин утвердил Приоритетные направления развития системы независимой оценки квалификации на период до 2024 года</p>
                                 <a href="110722.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/216.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/216.png" alt="image 150722"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="150722.php">В ЦОК НИИМЭ состоялась встреча с представителями СПК в наноиндустрии</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 15/7/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>14 июля 2022 года на базе центра оценки квалификаций АО «НИИМЭ» прошло совещание с представителями Совета по профессиональным квалификациям в наноиндустрии: зам. председателя Совета Крюковой О.А. и секретарем Совета Ионовым С.А.</p>
+                                <a href="150722.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
