@@ -50,6 +50,26 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/020822.php"><img class="image_fade" src="images/news/grid/218.png" alt="image 020822"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="020822.php">Эксперты ЦОК НИИМЭ начали разработку комплекта оценочных средств для рабочих профессий в микроэлектронике</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 2/8/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>ЦОК АО "НИИМЭ" приступил к разработке КОС для работников основного производства микросхем<a href="/020822.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/310722.php"><img class="image_fade" src="images/news/grid/217.png" alt="image 310722"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">

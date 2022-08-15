@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/213.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/213.png" alt="image 90722"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="090722.php">Опубликован обзор региональных событий в сфере НСК за II квартал 2022 года</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 9/7/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>Департамент регионального развития и международных связей Национального агентства развития квалификаций подготовил обзор региональных событий Национальной системы квалификаций (НСК) с апреля по июнь 2022 года</p>
-                                <a href="090722.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/214.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/214.png" alt="image 110722"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,23 @@
                             <div class="entry-content">
                                 <p>Целью конкурса является повышение престижа рабочих профессий и популяризация их среди молодежи, распространение актуального опыта и лучших практик подготовки кадров</p>
                                 <a href="310722.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/218.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/218.png" alt="image 020822"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="020822.php">Эксперты ЦОК НИИМЭ начали разработку комплекта оценочных средств для рабочих профессий в микроэлектронике</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 2/8/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>ЦОК АО "НИИМЭ" приступил к разработке КОС для работников основного производства микросхем</p>
+                                <a href="020822.php" class="more-link">Далее</a>
                             </div>
                         </div>
 
