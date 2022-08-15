@@ -71,6 +71,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps21.pdf"> Описание стандарта в формате PDF</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps21-q6.pdf"> Инженер по производству наногетероструктурных сверхвысокочастотных монолитных интегральных схем (6 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps21-q7.pdf"> Инженер-конструктор по производству наногетероструктурных сверхвысокочастотных монолитных интегральных схем (7 уровень квалификации)</a></li>
+												<li><i class="icon-file"></i><a href="#"> Специалист по производству наногетероструктурных сверхвысокочастотных монолитных интегральных схем (6 уровень)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps21-exam-demo.pptx"> Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 											<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
@@ -93,6 +94,7 @@
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standards/ps24.pdf"> Описание стандарта в формате PDF</a></li>
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standards/ps24-q7-1.pdf">Инженер-технолог по организации и сопровождению процессов формирования наноразмерных полупроводниковых структур (7 уровень квалификации)</a></li>
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standards/ps24-q7-2.pdf"> Инженер по разработке и внедрению процессов формирования наноразмерных полупроводниковых структур (7 уровень квалификации)</a></li>
+                                                <li><i class="icon-file"></i><a href="#"> Технолог производства наноразмерных полупроводниковых приборов и интегральных схем (6 уровень)</a></li>
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standards/ps24-exam-demo.pptx"> Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
                                             </ul>
                                             <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/vvedenie-v-soprovozhdenie-i-integratsiyu-tekhnologicheskikh-protsessov-proizvodstva-poluprovodnikov-/" target="_blank" r>АНО «еНано»</a></p>
@@ -143,6 +145,7 @@
 											<ul class="iconlist">
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps85.pdf">Описание стандарта в формате PDF</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps85-q7.pdf">Инженер по проектированию и сопровождению интегральных схем и систем на кристалле (7 уровень квалификации)</a></li>
+												<li><i class="icon-file"></i><a href="#">Специалист подразделения по проектированию интегральных схем на кристалле (6 уровень)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps85-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
@@ -155,7 +158,7 @@
 								<div class="entry clearfix">
 
 									<div class="entry-image">
-										<img class="image_fade" src="images/standards/ps90.jpg" alt="Standard 85">
+										<img class="image_fade" src="images/standards/ps90.jpg" alt="Standard 90">
 									</div>
 
 									<div class="entry-c">
@@ -193,6 +196,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps168.pdf">Описание стандарта в формате PDF</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps168-q7-1.pdf">Менеджер (администратор) проекта в области разработки и постановки производства полупроводниковых приборов и систем с использованием нанотехнологий (7 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps168-q7-2.pdf">Руководитель проекта в области разработки и постановки производства полупроводниковых приборов и систем с использованием нанотехнологий (7 уровень квалификации)</a></li>
+												<li><i class="icon-file"></i><a href="#">Администратор проектов в области разработки и постановки производства полупроводниковых приборов и систем (6 уровень)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps168-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
@@ -291,6 +295,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps177.pdf">Описание стандарта в формате PDF</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps177-q6.pdf">Инженер по разработке цифровых библиотек стандартных ячеек и сложнофункциональных блоков (6 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps177-q7.pdf">Инженер по разработке цифровых библиотек стандартных ячеек и сложнофункциональных блоков (7 уровень квалификации)</a></li>
+												<li><i class="icon-file"></i><a href="#">Специалист по разработке цифровых библиотек стандартных ячеек и сложнофункциональных блоков (6 уровень)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps177-exam-demo-6.pptx">Демо-версия экзамена 6 уровня в формате Microsoft PowerPoint</a></li>
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standards/ps177-exam-demo-7.pptx">Демо-версия экзамена 7 уровня в формате Microsoft PowerPoint</a></li>
 											</ul>
@@ -316,6 +321,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps182.pdf">Описание стандарта в формате PDF</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps182-q6.pdf">Инженер по проектированию фотошаблонов субмикронного и наноразмерного уровней (6 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps182-q7.pdf">Инженер по проектированию фотошаблонов субмикронного и наноразмерного уровней (7 уровень квалификации)</a></li>
+												<li><i class="icon-file"></i><a href="#">Специалист по подготовке сопровождающей информации и документации по проектированию фотошаблонов (6 уровень)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps182-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
