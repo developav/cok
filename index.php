@@ -215,23 +215,6 @@
 
                         <div class="entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/214.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/214.png" alt="image 110722"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="110722.php">Утверждены Приоритетные направления развития системы независимой оценки квалификации на период до 2024 года</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 11/7/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <p>8 июля 2022 года Председатель Национального совета А.Н. Шохин утвердил Приоритетные направления развития системы независимой оценки квалификации на период до 2024 года</p>
-                                <a href="110722.php" class="more-link">Далее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
                                 <a href="images/news/full/216.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/216.png" alt="image 150722"></a>
                             </div>
                             <div class="entry-title">
@@ -278,6 +261,23 @@
                             <div class="entry-content">
                                 <p>ЦОК АО "НИИМЭ" приступил к разработке КОС для работников основного производства микросхем</p>
                                 <a href="020822.php" class="more-link">Далее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/219.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/219.png" alt="image 120822"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="120822.php">Национальное агентство назовет лучших журналистов и блогеров</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 12/8/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <p>Национальное агентство развития квалификаций и Союз журналистов России начинают прием работ на VI ежегодный конкурс публикаций о профессиональном образовании и рынке труда! </p>
+                                <a href="120822.php" class="more-link">Далее</a>
                             </div>
                         </div>
 

@@ -50,6 +50,25 @@
                         <div id="posts" class="col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/120822.php"><img class="image_fade" src="images/news/grid/219.png" alt="image 120822"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="120822.php">Национальное агентство назовет лучших журналистов и блогеров</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 12/8/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Национальное агентство развития квалификаций и Союз журналистов России начинают прием работ на VI ежегодный конкурс публикаций о профессиональном образовании и рынке труда! <a href="/120822.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/020822.php"><img class="image_fade" src="images/news/grid/218.png" alt="image 020822"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
