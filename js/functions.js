@@ -9,6 +9,9 @@ $.fn.doOnce = function( func ) {
 	return this;
 }
 
+//Animation numbers block id= counter
+
+
 if( $().infinitescroll ) {
 
 	$.extend($.infinitescroll.prototype,{

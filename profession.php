@@ -26,13 +26,13 @@
 			<!-- Page Title
 			============================================= -->
 			<!--<section id="page-title" class="page-title-parallax page-title-dark" style="background-image: url('images/goals-bg.jpg'); padding: 120px 0; opacity: 0.5" data-stellar-background-ratio="0.3">-->
-			<section id="page-title" class="page-title-parallax" style="background-image: url('images/goals-bg.jpg'); padding: 120px 0;" data-stellar-background-ratio="0.3">
+			<section id="page-title" class="page-title-parallax" style="background-image: url('images/6.png'); padding: 120px 0;" data-stellar-background-ratio="0.3">
 				<div class="container clearfix" >
-					<h1 style="color:black"><b>Проект "Вход в профессию"</b></h1>
+					<h1 style="color: #fff"><b>Проект "Вход в профессию"</b></h1>
 					<!--<span>По дороге встретил текст рукопись</span>-->
 					<ol class="breadcrumb">
-						<li><a href="index.php" style="color:black;">Главная</a></li>
-						<li class="active" style="color:black;">Вход в профессию</li>
+						<li><a href="index.php" style="color:#fff;">Главная</a></li>
+						<li class="active" style="color:#fff;">Вход в профессию</li>
 					</ol>
 				</div>
 			</section><!-- #page-title end -->
@@ -44,9 +44,9 @@
 					<div class="container clearfix">
 						<div class="col_full"> <!--postcontent nobottommargin clearfix">-->
 
-                            <div class="heading-block fancy-title nobottomborder title-bottom-border">
+                            <!-- <div class="heading-block fancy-title nobottomborder title-bottom-border">
                                 <h4>Проект «Вход в профессию»</h4>
-                            </div>
+                            </div> -->
 
                             <p>Цель проекта – оценить качество подготовки выпускников технических вузов, определить
                                 соответствие их знаний требованиям работодателей, и, таким образом, улучшить

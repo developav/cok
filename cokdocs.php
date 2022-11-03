@@ -25,7 +25,7 @@
 
 			<!-- Page Title
 			============================================= -->
-			<section id="page-title" class="page-title-parallax page-title-dark" style="background-image: url('images/cokdocs-bg.jpg'); padding: 120px 0; opacity: .8" data-stellar-background-ratio="0.3">
+			<section id="page-title" class="page-title-parallax page-title-dark" style="background-image: url('images/6.png'); padding: 120px 0; opacity: .8" data-stellar-background-ratio="0.3">
 
 				<div class="container clearfix">
 					<h1>Документы центра</h1>
@@ -57,9 +57,9 @@
 							
 							<li><i class="icon-line-paper"></i><a href="./regulationdocs/cokdocs/metodika-SPK-raschet-stoimosti.doc">Методика определения стоимости работ по оценке квалификации в наноиндустрии</a></li>
 							
-							<li><i class="icon-line-paper"></i><a href="./regulationdocs/cokdocs/dogovor-fiz-2018.doc">Договор на оказание услуг по независимой оценке квалификации  с физическим лицом</a></li>
+							<li><i class="icon-line-paper"></i><a href="./regulationdocs/cokdocs/dogovor-fiz-2022.docx">Договор на оказание услуг по независимой оценке квалификации  с физическим лицом</a></li>
 
-                            <li><i class="icon-line-paper"></i><a href="./regulationdocs/cokdocs/dogovor-ur-2018.doc">Договор на оказание услуг по независимой оценке квалификации с юридическим лицом</a></li>
+                            <li><i class="icon-line-paper"></i><a href="./regulationdocs/cokdocs/dogovor-ur-2022.docx">Договор на оказание услуг по независимой оценке квалификации с юридическим лицом</a></li>
 						</ul>
 							
 					</div>

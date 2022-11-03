@@ -72,7 +72,7 @@
                         ============================================= -->
                         <div class="entry-content notopmargin" style="text-align: justify;">
                             <div class="image bottommargin topmargin-sm col_half" style="font-size: small;">
-                                <img src="images/news/full/216.png" alt="News 150722">
+                                <img src="images/news/grid/216.jpg" alt="News 150722">
                             </div><!-- .entry-image end -->
 
                             <p>14 июля 2022 года на базе центра оценки квалификаций АО «НИИМЭ» прошло совещание с

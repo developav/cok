@@ -26,7 +26,7 @@
 
 			<!-- Page Title
 			============================================= -->
-			<section id="page-title" class="page-title-parallax page-title-dark" style="background-image: url('images/clients-bg.jpg'); padding: 120px 0;" data-stellar-background-ratio="0.3">
+			<section id="page-title" class="page-title-parallax page-title-dark" style="background-image: url('images/partners.png'); padding: 120px 0;" data-stellar-background-ratio="0.3">
 
 				<div class="container clearfix">
 					<h1>Наши партнеры</h1>
@@ -54,10 +54,10 @@
 							<li><a href="https://mipt.ru/"><img src="images/clients/mfti.jpg" alt="Clients"></a></li>
 							<li><a href="https://miet.ru/"><img src="images/clients/miet.png" alt="Clients"></a></li>
 							<li><a href="http://www.monrf.ru/"><img src="images/clients/mon.jpg" alt="Clients"></a></li>
-							<li><a href="http://www.mikron.ru/"><img src="images/clients/mikron.jpg" alt="Clients"></a></li>
+							<li><a href="http://www.mikron.ru/"><img src="images/clients/logo.svg" alt="Clients"></a></li>
                             <li><a href="http://www.niitm.ru"><img src="images/clients/niitm.jpg" alt="Clients"></a></li>
                             <li><a href="http://www.istokmw.ru"><img src="images/clients/istok.jpg" alt="Clients"></a></li>
-                            <li><a href="http://www.angstrem.ru/ru"><img src="images/clients/angstrem.jpg" alt="Clients"></a></li>
+                            <li><a href="https://www.angstrem.ru/"><img src="images/clients/angstrem.jpg" alt="Clients"></a></li>
                         </ul>
                         <ul class="clients-grid nobottommargin clearfix">
                             <li><a href="https://www.milandr.ru"><img src="images/clients/milandr.jpg" alt="Clients"></a></li>

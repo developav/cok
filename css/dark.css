@@ -312,7 +312,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 
 .dark .slider-caption,
 .dark .slider-caption h2 {
-	color: #EEE;
+	color: #fff;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.15);
 }
 
@@ -583,8 +583,9 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 .dark .button-light:not(.button-border):hover { background-color: #282828; }
 
 .dark .button.button-border:not(.button-light) {
-	border-color: rgba(255,255,255,0.4);
-	color: rgba(255,255,255,0.5);
+	border-radius: 15px;
+	border-color: #fff;
+	color: #fff;
 }
 
 .dark .button.button-border:not(.button-light):hover { color: #EEE; }
@@ -724,8 +725,9 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 .dark .i-plain:hover { color: #DDD; }
 
 .dark .social-icon {
-	color: #DDD !important;
-	border-color: #DDD;
+	color: #4197a6 !important;
+	border-color: #4197a6;
+	border-radius: 15px;
 }
 
 .dark #footer .social-icon.si-borderless,
@@ -1022,22 +1024,25 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 
 #footer.dark,
 .dark #footer {
-	background-color: #333;
-	color: #CCC;
-	border-top-color: rgba(0,0,0,0.2);
+	box-shadow: 0 0 15px #4197a6;
+    background-color: #ffffff;
+    color: #444;
+    border-top-color: rgba(0,0,0,0.2);
 }
 
 .dark #copyrights {
-	background-color: rgba(0,0,0,0.2);
-	color: rgba(255,255,255,0.25);
-	text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+	background-color: rgb(255 255 255);
+    color: rgb(65 151 166);
+    text-shadow: 0px 0px 1px rgb(65 151 166);
+	box-shadow: 0 0 15px #4197a6;
 }
 
 .dark #copyrights i.footer-icon { color: rgba(255,255,255,0.3); }
 
 .dark .copyright-links a {
-	color: rgba(255,255,255,0.25);
+	color: rgb(65 151 166);
 	border-bottom-color: rgba(255,255,255,0.25);
+	
 }
 
 .dark .copyright-links a:hover {
@@ -1046,7 +1051,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 }
 
 
-.dark .footer-widgets-wrap a { color: #CCC; }
+.dark .footer-widgets-wrap a { color: #5d0051; }
 
 .dark .footer-widgets-wrap a:hover { color: #999; }
 
@@ -1060,9 +1065,9 @@ body #side-panel.dark #side-panel-trigger-close a {
 	color: #FFF;
 }
 
-.dark .widget h4 { color: #DDD; }
+.dark .widget h4 { color: #444; }
 
-.dark .widget p { opacity: 0.8; }
+.dark .widget p { opacity: 1; }
 
 .dark .tagcloud a {
 	color: #999;
@@ -1214,19 +1219,26 @@ body #side-panel.dark #side-panel-trigger-close a {
 
 .dark .form-control:not(.not-dark),
 .dark .sm-form-control:not(.not-dark) {
-	color: #999;
-	background-color: rgba(0,0,0,0.2);
-	border-color: rgba(0,0,0,0.25);
+	color: #444;
+    background-color: #bad9df;
+    border-color: rgb(195 222 227);
+    border-radius: 15px;
+    box-shadow: 0 0 2px 1px #bad9df;
+	transition: all 0.3s linear;
 }
 
 .dark .form-control:not(.not-dark) option,
 .dark .sm-form-control:not(.not-dark) option { background-color: #282828; }
+.dark .form-control:not(.not-dark):hover{
+	cursor: text;
+	background-color: #d3e7eb;
+}
 
 .dark .form-control:not(.not-dark):active,
 .dark .form-control:not(.not-dark):focus,
 .dark .sm-form-control:not(.not-dark):active,
 .dark .sm-form-control:not(.not-dark):focus {
-	background-color: rgba(0,0,0,0.3);
+	background-color: rgb(255 255 255);
 	border-color: rgba(0,0,0,0.25) !important;
 }
 
@@ -1314,13 +1326,13 @@ body #side-panel.dark #side-panel-trigger-close a {
 .dark .input-group-addon,
 .dark .input-group-btn .btn-default {
 	color: #999;
-	background-color: rgba(0,0,0,0.35);
-	border-color: rgba(0,0,0,0.25);
+	background-color: #ffffff;
+	border-color: transparent;
 }
 
 .dark .input-group-btn .btn-default { color: #FFF; }
 
-.dark .input-group-btn .btn-default:hover { background-color: rgba(0,0,0,0.30); }
+.dark .input-group-btn .btn-default:hover { background-color: rgba(236, 228, 228, 0.3); }
 
 .dark .nav > li > a:hover,
 .dark .nav > li > a:focus,
@@ -1745,4 +1757,6 @@ body #side-panel.dark #side-panel-trigger-close a {
 	.dark .pricing-box.pricing-extended .pricing-action-area { border-top-color: rgba(255,255,255,0.15); }
 
 }
-
+.slider__head{
+	color: #000!important;
+  }

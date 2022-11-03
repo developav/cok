@@ -25,7 +25,7 @@
 
 			<!-- Page Title
 			============================================= -->
-			<section id="page-title" class="page-title-parallax page-title-dark" style="background-image: url('images/news-bg.jpg'); padding: 120px 0; opacity: .8" data-stellar-background-ratio="0.3">
+			<section id="page-title" class="page-title-parallax page-title-dark" style="background-image: url('images/22.png'); padding: 120px 0; opacity: .8" data-stellar-background-ratio="0.3">
 
 				<div class="container clearfix">
 					<h1>Блог</h1>
@@ -43,11 +43,106 @@
 
 				<div class="content-wrap">
 
-					<div class="container clearfix">
+					<div class="news__columns container clearfix">
 
 						<!-- Posts
 						============================================= -->
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="blog-270922.php"><img class="image_fade" src="images/blog/grid/270922.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/blog-270922.php">Вышел новый(№1-2, 2022 г.) номер журнала "Национальная система квалификаций России"!</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 27/09/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p><a href="/blog-270922.php" class="more-link">Друзья, коллеги! Вышел новый (№ 1-2, 2022 г) номер журнала «Национальная система квалификаций России»! Представляем приветственное слово главного редактора, генерального директора Национального агентства (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="blog-130922.php"><img class="image_fade" src="images/blog/grid/130922.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/blog-130922.php">Что делать, если не согласны с результатом НОК?</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 08/09/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p><a href="/blog-130922.php" class="more-link">При возникновении спорных вопросов вы или ваш законный представитель (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="blog-080922.php"><img class="image_fade" src="images/blog/grid/080922.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/blog-080922.php">Как проходит независимая оценка квалификации?</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 08/09/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p><a href="/blog-080922.php" class="more-link">1. Определение квалификации<br>Экзамен проводится с целью установления знаний, умений и навыков, отвечающих требованиям (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="blog-290822.php"><img class="image_fade" src="images/blog/grid/290822.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/blog-290822.php">У нас новый отзыв!</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 29/08/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p><a href="/blog-290822.php" class="more-link">Свидетельство о квалификации —это "знак качества" для (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/blog-180822.php"><img class="image_fade" src="images/blog/grid/180822.jpg" alt="Image"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="blog-180822.php">Технологическое решение для отрасли микроэлектроники: независимая оценка квалификации в онлайн-формате</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 18/08/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p><a href="/blog-180822.php" class="more-link">Свидетельство о квалификации —это "знак качества" для (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-120522.php"><img class="image_fade" src="images/blog/grid/120522.png" alt="Image"></a>
@@ -66,7 +161,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-180222.php"><img class="image_fade" src="images/blog/grid/180222.png" alt="Image"></a>
@@ -85,7 +180,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-170222.php"><img class="image_fade" src="images/blog/grid/170222.png" alt="Image"></a>
@@ -104,7 +199,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-110222.php"><img class="image_fade" src="images/blog/grid/110222.png" alt="Image"></a>
@@ -123,7 +218,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-030222.php"><img class="image_fade" src="images/blog/grid/030222.png" alt="Image"></a>
@@ -144,7 +239,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-250122.php"><img class="image_fade" src="images/blog/grid/250122.png" alt="Image"></a>
@@ -165,7 +260,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-031221.php"><img class="image_fade" src="images/blog/grid/031221.png" alt="Image"></a>
@@ -186,7 +281,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-191121.php"><img class="image_fade" src="images/blog/grid/191121.png" alt="Image"></a>
@@ -207,7 +302,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-151121.php"><img class="image_fade" src="images/blog/grid/151121.png" alt="Image"></a>
@@ -226,7 +321,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-290921.php"><img class="image_fade" src="images/blog/grid/290921.png" alt="Image"></a>
@@ -245,7 +340,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-280821.php"><img class="image_fade" src="images/blog/grid/280821.png" alt="Image"></a>
@@ -264,7 +359,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-250821.php"><img class="image_fade" src="images/blog/grid/250821.png" alt="Image"></a>
@@ -283,7 +378,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-180821.php"><img class="image_fade" src="images/blog/grid/180821.png" alt="Image"></a>
@@ -302,7 +397,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-130821.php"><img class="image_fade" src="images/blog/grid/130821.png" alt="Image"></a>
@@ -321,7 +416,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-050821.php"><img class="image_fade" src="images/blog/grid/050821.png" alt="Image"></a>
@@ -340,7 +435,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-300721.php"><img class="image_fade" src="images/blog/grid/300721.png" alt="Image"></a>
@@ -359,7 +454,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-280721.php"><img class="image_fade" src="images/blog/grid/280721.png" alt="Image"></a>
@@ -378,7 +473,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-190721.php"><img class="image_fade" src="images/blog/grid/190721.png" alt="Image"></a>
@@ -397,7 +492,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-160721.php"><img class="image_fade" src="images/blog/grid/160721.png" alt="Image"></a>
@@ -416,7 +511,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-070721.php"><img class="image_fade" src="images/blog/grid/070721.png" alt="Image"></a>
@@ -435,7 +530,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-060721.php"><img class="image_fade" src="images/blog/grid/060721.png" alt="Image"></a>
@@ -454,7 +549,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-210621.php"><img class="image_fade" src="images/blog/grid/210621.png" alt="Image"></a>
@@ -473,7 +568,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-180621.php"><img class="image_fade" src="images/blog/grid/180621.png" alt="Image"></a>
@@ -492,7 +587,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-100621-1.php"><img class="image_fade" src="images/blog/grid/100621-1.png" alt="Image"></a>
@@ -511,7 +606,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-300521.php"><img class="image_fade" src="images/blog/grid/300521.png" alt="Image"></a>
@@ -530,7 +625,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-170521.php"><img class="image_fade" src="images/blog/grid/170521.png" alt="Image"></a>
@@ -549,7 +644,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-120521.php"><img class="image_fade" src="images/blog/grid/120521.png" alt="Image"></a>
@@ -568,7 +663,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <!--<div id="posts" class="col_full small-thumbs">
+                        <!--<div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-060521.php"><img class="image_fade" src="images/blog/grid/060521.png" alt="Image"></a>
@@ -587,7 +682,7 @@
                             </div>
                         </div>--><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-260421-3.php"><img class="image_fade" src="images/blog/grid/260421-3.png" alt="Image"></a>
@@ -606,7 +701,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-260421-2.php"><img class="image_fade" src="images/blog/grid/260421-2.png" alt="Image"></a>
@@ -625,7 +720,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-260421-1.php"><img class="image_fade" src="images/blog/grid/260421-1.png" alt="Image"></a>
@@ -644,7 +739,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <!--<div id="posts" class="col_full small-thumbs">
+                        <!--<div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-010421.php"><img class="image_fade" src="images/blog/grid/010421.png" alt="Image"></a>
@@ -663,7 +758,7 @@
                             </div>
                         </div><!- #posts end ->-->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-230321.php"><img class="image_fade" src="images/blog/grid/230321.jpg" alt="Image"></a>
@@ -682,7 +777,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/blog-160321.php"><img class="image_fade" src="images/blog/grid/160321.png" alt="Image"></a>
