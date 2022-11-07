@@ -8,23 +8,21 @@
 		============================================= -->
 		<div class="footer-widgets-wrap clearfix">
 
-			<div class="col_half">
+			<div class="col_half column__half">
+			<section id="google-map" class="gmap slider-parallax"></section>
 
 				<div class="widget clearfix">
 
-					<img src="/images/footer-widget-logo.png" alt="company logo" class="footer-logo nobottommargin">
-
-					<div class="clearfix" style="padding: 10px 0; background: url('/images/world-map.png') no-repeat center center;">
+					<div class="clearfix widget__contact" style="padding: 10px 0;">
 						<div class="col_half">
 							<address class="nobottommargin">
-								<abbr title="Address" style="display: inline-block;"><strong>Адрес:</strong></abbr>
-								124460, Россия, Москва, Зеленоград,
-                                улица Академика Валиева, д.6, стр.1<br>
+								<strong>Адрес:</strong><a title="Address"  target="_blank" href="https://yandex.ru/maps/216/zelenograd/house/ulitsa_akademika_valiyeva_6s1/Z04Ydw5hQUAFQFtsfXxwcn5iYg==/?ll=37.191851%2C56.013216&z=17.09">124460, Россия, Москва, Зеленоград,
+                                улица Академика Валиева, д.6, стр.1<br></a>
 							</address>
 						</div>
 						<div class="col_half col_last">
-							<abbr title="Phone Number"><strong>Телефон:</strong></abbr>+7 495 229 70 64<br>
-							<abbr title="Email Address"><strong>Email:</strong></abbr> info@cok-niime.ru
+						<strong>Телефон:</strong><a title="Phone Number" href="tel:+74952297064">+7 495 229 70 64</a><br>
+						<strong>Email:</strong><a title="Email Address" href="mailto:info@cok-niime.ru">info@cok-niime.ru</a>
 						</div>
 					</div>
 
@@ -56,7 +54,7 @@
 
 				<div class="widget quick-contact-widget clearfix">
 
-					<h4>Задайте нам вопрос:</h4>
+					<h4>Связаться с нами:</h4>
 
 					<div class="quick-contact-form-result"></div>
 
@@ -65,11 +63,9 @@
 						<div class="form-process"></div>
 
 						<div class="input-group divcenter">
-							<span class="input-group-addon"><i class="icon-user"></i></span>
 							<input type="text" class="required form-control input-block-level" id="quick-contact-form-name" name="quick-contact-form-name" value="" placeholder="Имя..." />
 						</div>
 						<div class="input-group divcenter">
-							<span class="input-group-addon"><i class="icon-email2"></i></span>
 							<input type="text" class="required form-control email input-block-level" id="quick-contact-form-email" name="quick-contact-form-email" value="" placeholder="Ваш Email..." />
 						</div>
 						<textarea class="required form-control input-block-level short-textarea" id="quick-contact-form-message" name="quick-contact-form-message" rows="4" cols="30" placeholder="Сообщение..."></textarea>

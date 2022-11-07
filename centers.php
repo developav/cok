@@ -9,6 +9,7 @@
 
 </head>
 
+
 	<body class="stretched">
 
 		<!-- Document Wrapper
@@ -25,7 +26,7 @@
 
 			<!-- Page Title
 			============================================= -->
-			<section id="page-title" class="page-title-parallax page-title-dark" style="background-image: url('images/centers-bg.jpg'); padding: 120px 0;" data-stellar-background-ratio="0.3">
+			<section id="page-title" class="page-title-parallax page-title-dark" style="background-image: url('images/1.png'); padding: 120px 0;" data-stellar-background-ratio="0.3">
 
 				<div class="container clearfix">
 					<h1>Экзаменационные центры</h1>
@@ -50,13 +51,13 @@
 
                         <!-- Voronezh -->
 
-						<div class="col_one_third">
+						<div class="col_one_third-1 col_one_third">
 						    <div class="heading-block fancy-title nobottomborder">
                                 <p style="font-size: 120%"><b><a href="http://www.vsu.ru" target="_blank">Воронежский государственный университет</a></b></p>
                             </div>
                         </div>
 
-                        <div class="col_one_third">
+                        <div class="col_one_third-1 col_one_third">
                             <p style="font-size: 120%"><b>Руководитель центра:</b> Жукалин Дмитрий Алексеевич,<br>Начальник управления инноваций и предпринимательства,
                                 доцент кафедры физики полупроводников  и микроэлектроники, кандидат физико-математических наук.<br>
                                 <b>Контакты: </b><a href="mailto:d.zhukalin@mail.ru">d.zhukalin@mail.ru</a></p>
@@ -71,13 +72,13 @@
 
                         <!-- Kuban -->
 
-                        <div class="col_one_third">
+                        <div class="col_one_third-1 col_one_third">
                             <div class="heading-block fancy-title nobottomborder">
                                 <p style="font-size: 120%"><b><a href="https://www.kubsu.ru/index.php" target="_blank">Кубанский государственный университет </a></b></p>
                             </div>
                         </div>
 
-                        <div class="col_one_third">
+                        <div class="col_one_third-1 col_one_third">
                             <p style="font-size: 120%"><b>Руководитель центра:</b> Строганова Елена Валерьевна,<br>декан физико-технического факультета, доктор физико-математических наук.<br>
                                 <b>Контакты: </b><a href="mailto:radiophys@phys.kubsu.ru">radiophys@phys.kubsu.ru </a></p>
                         </div>

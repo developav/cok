@@ -52,7 +52,7 @@
 
 					<!-- Postcontent
 					============================================= -->
-					<div class="postcontent nobottommargin">
+					<!-- <div class="postcontent nobottommargin">
 
 						<h3>Отправьте нам сообщение</h3>
 
@@ -66,7 +66,7 @@
 
 								<div class="col_one_third">
 									<label for="template-contactform-name">Имя <small>*</small></label>
-									<input type="text" id="template-contactform-name" name="template-contactform-name" value="" class="sm-form-control required" /><!-- show-error-msg-->
+									<input type="text" id="template-contactform-name" name="template-contactform-name" value="" class="sm-form-control required" /><!-- show-error-msg
 								</div>
 
 								<div class="col_one_third">
@@ -81,7 +81,7 @@
 
 								<div class="clear"></div>
 
-								<div class="col_full"><!--"col_two_third"-->
+								<div class="col_full"><!--"col_two_third"
 									<label for="template-contactform-subject">Тема сообщения <small>*</small></label>
 									<input type="text" id="template-contactform-subject" name="template-contactform-subject" value="" class="required sm-form-control" />
 								</div>
@@ -105,20 +105,21 @@
 							</form>
 						</div>
 
-					</div><!-- .postcontent end -->
+					</div>.postcontent end -->
 
 					<!-- Sidebar
 					============================================= -->
 					<div class="sidebar col_last nobottommargin">
-
-						<address>
-							<strong>Офис:</strong><br>
-							124460, Россия, Москва, Зеленоград,<br>
-                            улица Академика Валиева, д.6, стр.1<br>
+						<h3>Контакты</h3>
+						<address class="nobottommargin">
+							<strong>Юридический адрес:</strong><a title="Address"  target="_blank" href="https://yandex.ru/maps/216/zelenograd/house/ulitsa_akademika_valiyeva_6s1/Z04Ydw5hQUAFQFtsfXxwcn5iYg==/?ll=37.191851%2C56.013216&z=17.09">124460, Россия, Москва, Зеленоград, улица Академика Валиева, д.6, стр.1<br></a>
 						</address>
-						<abbr title="Phone Number"><strong>Телефон:</strong></abbr> +7 495 229 70 64<br>
+						<address class="nobottommargin">
+							<strong>Фактический адрес:</strong><a title="Address"  target="_blank" href="https://yandex.ru/maps/216/zelenograd/house/ulitsa_akademika_valiyeva_6s1/Z04Ydw5hQUAFQFtsfXxwcn5iYg==/?ll=37.191851%2C56.013216&z=17.09">124460, Россия, Москва, Зеленоград, улица Академика Валиева, д.6, стр.1<br></a>
+						</address>
+						<strong>Телефон:</strong><a title="Phone Number" href="tel:+74952297064">+7 495 229 70 64</a><br>
+						<strong>Email:</strong><a title="Email Address" href="mailto:info@cok-niime.ru">info@cok-niime.ru</a>
 						<!--<abbr title="Fax"><strong>Fax:</strong></abbr>+7 495 229 72 99<br>-->
-						<abbr title="Email Address"><strong>Email:</strong></abbr> info@cok-niime.ru<br>
 
 					</div><!-- .sidebar end -->
 
@@ -141,10 +142,23 @@
 						<i class="icon-youtube"></i>
 						<i class="icon-youtube"></i>
 					</a>
-
-
 				</div>
-
+				<div class="container clearfix">
+					<address class="requisites nobottommargin">
+					<h3>Реквизиты</h3>
+						<strong>ИНН:</strong><a title="Address">7735579027<br></a>
+						<strong>КПП:</strong><a title="Address">773501001<br></a>
+						<strong>Код организации ОКПО:</strong><a title="Address">92611467<br></a>
+						<strong>ОГРН:</strong><a title="Address">1117746568829 от 20.07.2011г<br></a>
+						<strong>ОКТМО:</strong><a title="Address">45331000<br></a>
+						<h3>Платежные реквизиты </h3>
+						<strong>Расчетный счет:</strong><a title="Address">40702810100410001663<br></a>
+						<strong>БИК:</strong><a title="Address">044525411<br></a>
+						<strong>Корреспондирующий счет:</strong><a title="Address">30101810145250000411<br></a>
+						<strong>Полное наименование банка:</strong><a title="Address">Филиал «Центральный» Банка ВТБ (ПАО), г. Москва<br></a>
+						<strong>Генеральный директор:</strong><a title="Address">Красников Геннадий Яковлевич<br></a>
+					</address>
+				</div>
 			</div>
 
 		</section><!-- #content end -->

@@ -25,7 +25,7 @@
 
 			<!-- Page Title
 			============================================= -->
-			<section id="page-title" class="page-title-parallax page-title-dark" style="background-image: url('images/standards-bg.jpg'); padding: 120px 0; opacity: .8" data-stellar-background-ratio="0.3">
+			<section id="page-title" class="page-title-parallax page-title-dark" style="background-image: url('images/22.png'); padding: 120px 0; opacity: .8" data-stellar-background-ratio="0.3">
 
 				<div class="container clearfix">
 					<h1>Профессиональные<br>стандарты</h1>
@@ -48,11 +48,11 @@
 
 					<div class="container clearfix">
 
-                        <div class="heading-block fancy-title nobottomborder title-bottom-border">
+                        <!-- <div class="heading-block fancy-title nobottomborder title-bottom-border">
                             <h4>Публичное обсуждение проектов профессиональных стандартов в наноиндустрии</h4>
-                        </div>
+                        </div> -->
 
-                        <p><b>Уважаемые коллеги!</b></p>
+                        <!-- <p><b>Уважаемые коллеги!</b></p>
                         <p>Приглашаем вас принять участие в публичном обсуждении проектов профессиональных стандартов в наноиндустрии:</p>
                         <p>• <a href="https://cok-niime.ru/uploads/ps_spec_tech_is.docx" target="_blank">«Специалист по технологии производства наноразмерных полупроводниковых приборов и интегральных схем»</a></p>
                         <p>• <a href="https://cok-niime.ru/uploads/ps_spec_snk.docx" target="_blank">«Специалист в области проектирования и сопровождения интегральных схем и систем на кристалле»</a></p>
@@ -61,7 +61,7 @@
 
                         <div class="heading-block fancy-title nobottomborder title-bottom-border">
                             <h4></h4>
-                        </div>
+                        </div> -->
 
                         <blockquote class="quote blockquote-reverse" style="font-size: 14px; text-align: justify">
 							<p><b>Профессиональный стандарт</b> — характеристика квалификации, необходимой работнику для осуществления определенного вида профессиональной деятельности.<br>

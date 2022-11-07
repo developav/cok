@@ -25,7 +25,7 @@
 
 			<!-- Page Title
 			============================================= -->
-			<section id="page-title" class="page-title-parallax page-title-dark" style="background-image: url('images/lawframe-bg.jpg'); padding: 120px 0; opacity: .8" data-stellar-background-ratio="0.3">
+			<section id="page-title" class="page-title-parallax page-title-dark" style="background-image: url('images/3.png'); padding: 120px 0; opacity: .8" data-stellar-background-ratio="0.3">
 
 				<div class="container clearfix">
 					<h1>Законодательная<br>база</h1>

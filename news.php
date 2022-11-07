@@ -25,7 +25,7 @@
 
 			<!-- Page Title
 			============================================= -->
-			<section id="page-title" class="page-title-parallax page-title-dark" style="background-image: url('images/news-bg.jpg'); padding: 120px 0; opacity: .8" data-stellar-background-ratio="0.3">
+			<section id="page-title" class="page-title-parallax page-title-dark" style="background-image: url('images/22.png'); padding: 120px 0; opacity: .8" data-stellar-background-ratio="0.3">
 
 				<div class="container clearfix">
 					<h1>Новости</h1>
@@ -43,11 +43,125 @@
 
 				<div class="content-wrap">
 
-					<div class="container clearfix">
+					<div class="news__columns container clearfix">
 
 						<!-- Posts
 						============================================= -->
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/101022.php"><img class="image_fade" src="images/news/grid/225.jpg" alt="image 101022"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="101022.php">Национальное агенство развития квалификаций проводит мониторинг рынка труда и приглашает к участию.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>10/10/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p><a href="https://vk.com/anonark">Национальное агентство развития квалификаций</a> совместно с советами по....<a href="/101022.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/051022.php"><img class="image_fade" src="images/news/grid/224.jpg" alt="image 051022"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/051022.php">Одобрен план реализации приоритетных направлений развития НСК до 2024 года.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 05/10/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>21 сентября состоялось 67-е заседание Национального Совета при Президенте Российской Федерации по....<a href="/051022.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/031022.php"><img class="image_fade" src="images/news/grid/223.jpg" alt="image 031022"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="031022.php">Национальное агенство развития квалификаций совместно с АНО "Россия-страна возможностей" инициировало проект "Компетенции XXI века: Формирование, Развитие, Оценка".</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 03/10/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Суть проекта — в формиро¬вании компетенций по различным профессиональным направлениям и создании инструментария для....<a href="/031022.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/190922.php"><img class="image_fade" src="images/news/grid/222.jpg" alt="image 190922"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="190922.php">Состоялась рабочая встреча ЦОК НИИМЭ и ЭЦ КубГУ</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 19/9/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>16 сентября состоялась рабочая встреча специалистов Центра оценки квалификаций НИИМЭ с представителями ЭЦ КубГУ.<a href="/190922.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/120822.php"><img class="image_fade" src="images/news/grid/221.jpg" alt="image 310822"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="290822.php">Продолжается всеросийский конкурс профессионального мастерства<br> "Лучший по професии"</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 31/8/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Генеральный директор Национального агентства развития квалификаций Артем Шадрин выступил на площадке Международного форума технологического развития «Технопром-2022», проходящего в Новосибирске с 23 по 26 августа 2022 года<a href="/310822.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/120822.php"><img class="image_fade" src="images/news/grid/220.jpg" alt="image 290822"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="290822.php">Главный специалист управления персоналом АО "НИИМЭ" Екатерина Козикова завершила обучение по направлению "Эксперт по оценке".</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 29/8/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Обучение проходило на базе <a href="/index.php">Учебный центр НИИМЭ</a>. Удостоверение о повышении квалификации ей вручила Руководитель ЦОК НИИМЭ Лилиана Поликарпова.<a href="/290822.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/120822.php"><img class="image_fade" src="images/news/grid/219.png" alt="image 120822"></a>
@@ -66,7 +180,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/020822.php"><img class="image_fade" src="images/news/grid/218.png" alt="image 020822"></a>
@@ -86,7 +200,7 @@
                         </div><!-- #posts end -->
 
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/310722.php"><img class="image_fade" src="images/news/grid/217.png" alt="image 310722"></a>
@@ -105,10 +219,10 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
-                                    <a href="/150722.php"><img class="image_fade" src="images/news/grid/216.png" alt="image 150722"></a>
+                                    <a href="/150722.php"><img class="image_fade" src="images/news/grid/216.jpg" alt="image 150722"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
                                     <div class="entry-title">
@@ -124,7 +238,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/110722.php"><img class="image_fade" src="images/news/grid/214.png" alt="image 110722"></a>
@@ -143,7 +257,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/090722.php"><img class="image_fade" src="images/news/grid/213.png" alt="image 90722"></a>
@@ -163,7 +277,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/070722.php"><img class="image_fade" src="images/news/grid/212.png" alt="image 70722"></a>
@@ -182,7 +296,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/070722-2.php"><img class="image_fade" src="images/news/grid/215.png" alt="image 70722"></a>
@@ -201,7 +315,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/270622.php"><img class="image_fade" src="images/news/grid/211.png" alt="image 270622"></a>
@@ -222,7 +336,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/240622.php"><img class="image_fade" src="images/news/grid/210.png" alt="image 240622"></a>
@@ -241,7 +355,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/160622.php"><img class="image_fade" src="images/news/grid/209.png" alt="image 160622"></a>
@@ -260,7 +374,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/150622.php"><img class="image_fade" src="images/news/grid/208.png" alt="image 150622"></a>
@@ -279,7 +393,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/140622.php"><img class="image_fade" src="images/news/grid/207.png" alt="image 140622"></a>
@@ -298,7 +412,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/030622.php"><img class="image_fade" src="images/news/grid/206.png" alt="image 030622"></a>
@@ -317,7 +431,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/010622.php"><img class="image_fade" src="images/news/grid/205.png" alt="image 010622"></a>
@@ -336,7 +450,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/260522.php"><img class="image_fade" src="images/news/grid/204.png" alt="image 26052022"></a>
@@ -355,7 +469,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/190522.php"><img class="image_fade" src="images/news/grid/203.png" alt="image 19052022"></a>
@@ -374,7 +488,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/180522.php"><img class="image_fade" src="images/news/grid/202.png" alt="image 18052022"></a>
@@ -393,7 +507,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/110522.php"><img class="image_fade" src="images/news/grid/201.png" alt="image 11052022"></a>
@@ -412,7 +526,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/050522.php"><img class="image_fade" src="images/news/grid/200.png" alt="image 05052022"></a>
@@ -431,7 +545,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/290422.php"><img class="image_fade" src="images/news/grid/199.png" alt="Image"></a>
@@ -450,7 +564,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/270422.php"><img class="image_fade" src="images/news/grid/198.png" alt="Image"></a>
@@ -469,7 +583,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/260422.php"><img class="image_fade" src="images/news/grid/197.png" alt="Image"></a>
@@ -489,7 +603,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/130422.php"><img class="image_fade" src="images/news/grid/196.png" alt="Image"></a>
@@ -509,7 +623,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/110422.php"><img class="image_fade" src="images/news/grid/195.png" alt="Image"></a>
@@ -529,7 +643,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/080422.php"><img class="image_fade" src="images/news/grid/194.png" alt="Image"></a>
@@ -548,7 +662,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/040422.php"><img class="image_fade" src="images/news/grid/193.png" alt="Image"></a>
@@ -567,7 +681,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/280322.php"><img class="image_fade" src="images/news/grid/192.png" alt="Image"></a>
@@ -586,7 +700,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/210322.php"><img class="image_fade" src="images/news/grid/191.png" alt="Image"></a>
@@ -605,7 +719,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/180322.php"><img class="image_fade" src="images/news/grid/190.png" alt="Image"></a>
@@ -624,7 +738,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/050322.php"><img class="image_fade" src="images/news/grid/189.png" alt="Image"></a>
@@ -643,7 +757,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/250222.php"><img class="image_fade" src="images/news/grid/188.png" alt="Image"></a>
@@ -662,7 +776,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/160222.php"><img class="image_fade" src="images/news/grid/187.png" alt="Image"></a>
@@ -681,7 +795,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/080222.php"><img class="image_fade" src="images/news/grid/186.png" alt="Image"></a>
@@ -700,7 +814,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/040222.php"><img class="image_fade" src="images/news/grid/185.png" alt="Image"></a>
@@ -720,7 +834,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/240122.php"><img class="image_fade" src="images/news/grid/183.png" alt="Image"></a>
@@ -739,7 +853,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/190122.php"><img class="image_fade" src="images/news/grid/182.png" alt="Image"></a>
@@ -762,7 +876,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/180122.php"><img class="image_fade" src="images/news/grid/181.png" alt="Image"></a>
@@ -783,7 +897,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/261221.php"><img class="image_fade" src="images/news/grid/184.png" alt="Image"></a>
@@ -802,7 +916,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/231221.php"><img class="image_fade" src="images/news/grid/180.png" alt="Image"></a>
@@ -824,7 +938,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/201221.php"><img class="image_fade" src="images/news/grid/179.png" alt="Image"></a>
@@ -844,7 +958,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/101221.php"><img class="image_fade" src="images/news/grid/178.png" alt="Image"></a>
@@ -863,7 +977,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/091221.php"><img class="image_fade" src="images/news/grid/177.png" alt="Image"></a>
@@ -886,7 +1000,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/061221.php"><img class="image_fade" src="images/news/grid/176.png" alt="Image"></a>
@@ -906,7 +1020,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/031221-2.php"><img class="image_fade" src="images/news/grid/175.png" alt="Image"></a>
@@ -926,7 +1040,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/031221.php"><img class="image_fade" src="images/news/grid/174.png" alt="Image"></a>
@@ -948,7 +1062,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/241121.php"><img class="image_fade" src="images/news/grid/173.png" alt="Image"></a>
@@ -969,7 +1083,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/181121.php"><img class="image_fade" src="images/news/grid/172.png" alt="Image"></a>
@@ -991,7 +1105,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/151121.php"><img class="image_fade" src="images/news/grid/170.png" alt="Image"></a>
@@ -1013,7 +1127,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/111121.php"><img class="image_fade" src="images/news/grid/171.png" alt="Image"></a>
@@ -1036,7 +1150,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/011121-2.php"><img class="image_fade" src="images/news/grid/169.png" alt="Image"></a>
@@ -1059,7 +1173,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/011121.php"><img class="image_fade" src="images/news/grid/167.png" alt="Image"></a>
@@ -1083,7 +1197,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/261021.php"><img class="image_fade" src="images/news/grid/168.png" alt="Image"></a>
@@ -1108,7 +1222,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/221021.php"><img class="image_fade" src="images/news/grid/166.png" alt="Image"></a>
@@ -1131,7 +1245,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/211021.php"><img class="image_fade" src="images/news/grid/165.png" alt="Image"></a>
@@ -1155,7 +1269,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/111021.php"><img class="image_fade" src="images/news/grid/164.png" alt="Image"></a>
@@ -1179,7 +1293,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/011021.php"><img class="image_fade" src="images/news/grid/163.png" alt="Image"></a>
@@ -1198,7 +1312,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/290921.php"><img class="image_fade" src="images/news/grid/162.png" alt="Image"></a>
@@ -1217,7 +1331,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/240921-3.php"><img class="image_fade" src="images/news/grid/161.png" alt="Image"></a>
@@ -1236,7 +1350,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/240921-2.php"><img class="image_fade" src="images/news/grid/160.png" alt="Image"></a>
@@ -1255,7 +1369,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/240921.php"><img class="image_fade" src="images/news/grid/159.png" alt="Image"></a>
@@ -1274,7 +1388,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/210921.php"><img class="image_fade" src="images/news/grid/158.png" alt="Image"></a>
@@ -1293,7 +1407,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/170921.php"><img class="image_fade" src="images/news/grid/157.png" alt="Image"></a>
@@ -1312,7 +1426,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/060921.php"><img class="image_fade" src="images/news/grid/156.png" alt="Image"></a>
@@ -1331,7 +1445,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/030921.php"><img class="image_fade" src="images/news/grid/155.png" alt="Image"></a>
@@ -1350,7 +1464,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/160821.php"><img class="image_fade" src="images/news/grid/154.png" alt="Image"></a>
@@ -1369,7 +1483,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/210721.php"><img class="image_fade" src="images/news/grid/153.png" alt="Image"></a>
@@ -1388,7 +1502,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/280621.php"><img class="image_fade" src="images/news/grid/152.png" alt="Image"></a>
@@ -1407,7 +1521,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <!--<div id="posts" class="col_full small-thumbs">
+                        <!--<div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/040621.php"><img class="image_fade" src="images/news/grid/149.png" alt="Image"></a>
@@ -1426,7 +1540,7 @@
                             </div>
                         </div>--><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/020621.php"><img class="image_fade" src="images/news/grid/150.png" alt="Image"></a>
@@ -1445,7 +1559,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/200521.php"><img class="image_fade" src="images/news/grid/151.png" alt="Image"></a>
@@ -1464,7 +1578,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/280421.php"><img class="image_fade" src="images/news/grid/148.png" alt="Image"></a>
@@ -1483,7 +1597,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/260421-3.php"><img class="image_fade" src="images/news/grid/147-3.png" alt="Image"></a>
@@ -1502,7 +1616,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/260421-2.php"><img class="image_fade" src="images/news/grid/147-2.png" alt="Image"></a>
@@ -1521,7 +1635,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/260421-1.php"><img class="image_fade" src="images/news/grid/147-1.png" alt="Image"></a>
@@ -1540,7 +1654,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/010421.php"><img class="image_fade" src="images/news/grid/145.png" alt="Image"></a>
@@ -1560,7 +1674,7 @@
                         </div><!-- #posts end -->
 
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/290321.php"><img class="image_fade" src="images/news/grid/144.png" alt="Image"></a>
@@ -1579,7 +1693,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/180121.php"><img class="image_fade" src="images/news/grid/143.png" alt="Image"></a>
@@ -1599,7 +1713,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/281220.php"><img class="image_fade" src="images/news/grid/142.jpg" alt="Image"></a>
@@ -1618,7 +1732,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/141220.php"><img class="image_fade" src="images/news/grid/141.png" alt="Image"></a>
@@ -1637,7 +1751,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/231120.php"><img class="image_fade" src="images/news/grid/140.png" alt="Image"></a>
@@ -1656,7 +1770,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/091120.php"><img class="image_fade" src="images/news/grid/139.png" alt="Image"></a>
@@ -1675,7 +1789,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/021120.php"><img class="image_fade" src="images/news/grid/138.png" alt="Image"></a>
@@ -1694,7 +1808,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/211020.php"><img class="image_fade" src="images/news/grid/137.png" alt="Image"></a>
@@ -1713,7 +1827,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/191020.php"><img class="image_fade" src="images/news/grid/136.png" alt="Image"></a>
@@ -1732,7 +1846,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/121020.php"><img class="image_fade" src="images/news/grid/135.png" alt="Image"></a>
@@ -1751,7 +1865,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/011020-1.php"><img class="image_fade" src="images/news/grid/134.jpg" alt="Image"></a>
@@ -1770,7 +1884,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/011020.php"><img class="image_fade" src="images/news/grid/133.png" alt="Image"></a>
@@ -1789,7 +1903,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/220920.php"><img class="image_fade" src="images/news/grid/132.jpg" alt="Image"></a>
@@ -1808,7 +1922,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/150920.php"><img class="image_fade" src="images/news/grid/131.png" alt="Image"></a>
@@ -1827,7 +1941,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/070920.php"><img class="image_fade" src="images/news/grid/130.png" alt="Image"></a>
@@ -1846,7 +1960,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/140820.php"><img class="image_fade" src="images/news/grid/129.png" alt="Image"></a>
@@ -1865,7 +1979,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/060820.php"><img class="image_fade" src="images/news/grid/128.png" alt="Image"></a>
@@ -1884,7 +1998,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/040820.php"><img class="image_fade" src="images/news/grid/33.jpg" alt="Image"></a>
@@ -1903,7 +2017,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/220720.php"><img class="image_fade" src="images/news/grid/126.png" alt="Image"></a>
@@ -1922,7 +2036,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/200720.php"><img class="image_fade" src="images/news/grid/125.png" alt="Image"></a>
@@ -1941,7 +2055,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/250620.php"><img class="image_fade" src="images/news/grid/124.png" alt="Image"></a>
@@ -1960,7 +2074,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/190620.php"><img class="image_fade" src="images/news/grid/123.png" alt="Image"></a>
@@ -1979,7 +2093,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/090620.php"><img class="image_fade" src="images/news/grid/122.png" alt="Image"></a>
@@ -1998,7 +2112,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/010620.php"><img class="image_fade" src="images/news/grid/121.png" alt="Image"></a>
@@ -2017,7 +2131,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/290520.php"><img class="image_fade" src="images/news/grid/120.png" alt="Image"></a>
@@ -2036,7 +2150,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/210520.php"><img class="image_fade" src="images/news/grid/119.jpg" alt="Image"></a>
@@ -2055,7 +2169,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/300420.php"><img class="image_fade" src="images/news/grid/118.png" alt="Image"></a>
@@ -2075,7 +2189,7 @@
                         </div><!-- #posts end -->
 
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/230420.php"><img class="image_fade" src="images/news/grid/117.jpg" alt="Image"></a>
@@ -2094,7 +2208,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/210420.php"><img class="image_fade" src="images/news/grid/116.png" alt="Image"></a>
@@ -2114,7 +2228,7 @@
                         </div><!-- #posts end -->
 
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/030420.php"><img class="image_fade" src="images/news/grid/115.png" alt="Image"></a>
@@ -2133,7 +2247,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/160320.php"><img class="image_fade" src="images/news/grid/114.png" alt="Image"></a>
@@ -2152,7 +2266,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/120320.php"><img class="image_fade" src="images/news/grid/113.png" alt="Image"></a>
@@ -2171,7 +2285,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/020320.php"><img class="image_fade" src="images/news/grid/112.png" alt="Image"></a>
@@ -2190,7 +2304,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/110220.php"><img class="image_fade" src="images/news/grid/111.jpg" alt="Image"></a>
@@ -2209,7 +2323,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/280120.php"><img class="image_fade" src="images/news/grid/110.jpg" alt="Image"></a>
@@ -2228,7 +2342,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/240120.php"><img class="image_fade" src="images/news/grid/109.jpg" alt="Image"></a>
@@ -2247,7 +2361,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/160120.php"><img class="image_fade" src="images/news/grid/108.jpg" alt="Image"></a>
@@ -2266,7 +2380,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/261219.php"><img class="image_fade" src="images/news/grid/107.jpg" alt="Image"></a>
@@ -2285,7 +2399,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/271119.php"><img class="image_fade" src="images/news/grid/106.png" alt="Image"></a>
@@ -2304,7 +2418,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/261119.php"><img class="image_fade" src="images/news/grid/105.png" alt="Image"></a>
@@ -2323,7 +2437,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/211119.php"><img class="image_fade" src="images/news/grid/104.png" alt="Image"></a>
@@ -2342,7 +2456,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/181119.php"><img class="image_fade" src="images/news/grid/103.png" alt="Image"></a>
@@ -2361,7 +2475,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/081119.php"><img class="image_fade" src="images/news/grid/102.jpg" alt="Image"></a>
@@ -2380,7 +2494,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/251019.php"><img class="image_fade" src="images/news/grid/101.png" alt="Image"></a>
@@ -2399,7 +2513,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/060919.php"><img class="image_fade" src="images/news/grid/100.png" alt="Image"></a>
@@ -2418,7 +2532,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/030919.php"><img class="image_fade" src="images/news/grid/99.png" alt="Image"></a>
@@ -2437,7 +2551,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/130819.php"><img class="image_fade" src="images/news/grid/98.png" alt="Image"></a>
@@ -2456,7 +2570,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/050819.php"><img class="image_fade" src="images/news/grid/97.png" alt="Image"></a>
@@ -2475,7 +2589,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/290719.php"><img class="image_fade" src="images/news/grid/96.png" alt="Image"></a>
@@ -2494,7 +2608,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/230719.php"><img class="image_fade" src="images/news/grid/95.png" alt="Image"></a>
@@ -2513,7 +2627,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/080719.php"><img class="image_fade" src="images/news/grid/94.png" alt="Image"></a>
@@ -2532,7 +2646,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/020719.php"><img class="image_fade" src="images/news/grid/93.jpg" alt="Image"></a>
@@ -2551,7 +2665,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/200619.php"><img class="image_fade" src="images/news/grid/92.jpg" alt="Image"></a>
@@ -2570,7 +2684,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/030619.php"><img class="image_fade" src="images/news/grid/91.jpg" alt="Image"></a>
@@ -2589,7 +2703,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/240519.php"><img class="image_fade" src="images/news/grid/90.jpg" alt="Image"></a>
@@ -2608,7 +2722,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/160519.php"><img class="image_fade" src="images/news/grid/89.jpg" alt="Image"></a>
@@ -2627,7 +2741,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/250419.php"><img class="image_fade" src="images/news/grid/88.jpg" alt="Image"></a>
@@ -2646,7 +2760,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/220419.php"><img class="image_fade" src="images/news/grid/87.jpg" alt="Image"></a>
@@ -2666,7 +2780,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/150419.php"><img class="image_fade" src="images/news/grid/86.jpg" alt="Image"></a>
@@ -2687,7 +2801,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/100419.php"><img class="image_fade" src="images/news/grid/85.jpg" alt="Image"></a>
@@ -2707,7 +2821,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/020419.php"><img class="image_fade" src="images/news/grid/84.jpg" alt="Image"></a>
@@ -2728,7 +2842,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/010319.php"><img class="image_fade" src="images/news/grid/83.jpg" alt="Image"></a>
@@ -2747,7 +2861,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/070219-3.php"><img class="image_fade" src="images/news/grid/82.jpg" alt="Image"></a>
@@ -2767,7 +2881,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/070219-2.php"><img class="image_fade" src="images/news/grid/81.jpg" alt="Image"></a>
@@ -2786,7 +2900,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/070219-1.php"><img class="image_fade" src="images/news/grid/80.jpg" alt="Image"></a>
@@ -2805,7 +2919,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/250119.php"><img class="image_fade" src="images/news/grid/79.jpg" alt="Image"></a>
@@ -2825,7 +2939,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/100119.php"><img class="image_fade" src="images/news/grid/76.jpg" alt="Image"></a>
@@ -2845,7 +2959,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/281218.php"><img class="image_fade" src="images/news/grid/78.jpg" alt="Image"></a>
@@ -2865,7 +2979,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/261218.php"><img class="image_fade" src="images/news/grid/75.jpg" alt="Image"></a>
@@ -2885,7 +2999,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/031218.php"><img class="image_fade" src="images/news/grid/74.jpg" alt="Image"></a>
@@ -2905,7 +3019,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/211118.php"><img class="image_fade" src="images/news/grid/73.jpg" alt="Image"></a>
@@ -2925,7 +3039,7 @@
                         </div><!-- #posts end -->
 
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/071118.php"><img class="image_fade" src="images/news/grid/71.jpg" alt="Image"></a>
@@ -2944,7 +3058,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/231018.php"><img class="image_fade" src="images/news/grid/70.jpg" alt="Image"></a>
@@ -2964,7 +3078,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/221018.php"><img class="image_fade" src="images/news/grid/67.jpg" alt="Image"></a>
@@ -2984,7 +3098,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/191018.php"><img class="image_fade" src="images/news/grid/66.jpg" alt="Image"></a>
@@ -3004,7 +3118,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/171018.php"><img class="image_fade" src="images/news/grid/65.jpg" alt="Image"></a>
@@ -3023,7 +3137,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/300818.php"><img class="image_fade" src="images/news/grid/64.jpg" alt="Image"></a>
@@ -3042,7 +3156,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/260718.php"><img class="image_fade" src="images/news/grid/63.jpg" alt="Image"></a>
@@ -3061,7 +3175,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/250718.php"><img class="image_fade" src="images/news/grid/61.jpg" alt="Image"></a>
@@ -3080,7 +3194,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/030718.php"><img class="image_fade" src="images/news/grid/58.jpg" alt="Image"></a>
@@ -3099,7 +3213,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/290618.php"><img class="image_fade" src="images/news/grid/55-1.jpg" alt="Image"></a>
@@ -3118,7 +3232,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/260618.php"><img class="image_fade" src="images/news/grid/54.jpg" alt="Image"></a>
@@ -3137,7 +3251,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/190618.php"><img class="image_fade" src="images/news/grid/53.jpg" alt="Image"></a>
@@ -3156,7 +3270,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/130618.php"><img class="image_fade" src="images/news/grid/52.jpg" alt="Image"></a>
@@ -3175,7 +3289,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/090618.php"><img class="image_fade" src="images/news/grid/51.jpg" alt="Image"></a>
@@ -3194,7 +3308,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/220518-2.php"><img class="image_fade" src="images/news/grid/50.jpg" alt="Image"></a>
@@ -3213,7 +3327,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/220518.php"><img class="image_fade" src="images/news/grid/49.jpg" alt="Image"></a>
@@ -3232,7 +3346,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/080518.php"><img class="image_fade" src="images/news/grid/48.jpg" alt="Image"></a>
@@ -3252,7 +3366,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/280418.php"><img class="image_fade" src="images/news/grid/47.jpg" alt="Image"></a>
@@ -3272,7 +3386,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/260418.php"><img class="image_fade" src="images/news/grid/46.jpg" alt="Image"></a>
@@ -3291,7 +3405,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/250418-2.php"><img class="image_fade" src="images/news/grid/45.jpg" alt="Image"></a>
@@ -3310,7 +3424,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/250418.php"><img class="image_fade" src="images/news/grid/44.jpg" alt="Image"></a>
@@ -3330,7 +3444,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/040418.php"><img class="image_fade" src="images/news/grid/43.jpg" alt="Image"></a>
@@ -3349,7 +3463,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/020418.php"><img class="image_fade" src="images/news/grid/42.jpg" alt="Image"></a>
@@ -3368,7 +3482,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/210318-2.php"><img class="image_fade" src="images/news/grid/41.jpg" alt="Image"></a>
@@ -3387,7 +3501,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/210318.php"><img class="image_fade" src="images/news/grid/40.jpg" alt="Image"></a>
@@ -3408,7 +3522,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/270218.php"><img class="image_fade" src="images/news/grid/39.jpg" alt="Image"></a>
@@ -3428,7 +3542,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/160218-4.php"><img class="image_fade" src="images/news/grid/38.jpg" alt="Image"></a>
@@ -3450,7 +3564,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/160218-3.php"><img class="image_fade" src="images/news/grid/37.jpg" alt="Image"></a>
@@ -3469,7 +3583,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/160218-2.php"><img class="image_fade" src="images/news/grid/36.jpg" alt="Image"></a>
@@ -3489,7 +3603,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/160218.php"><img class="image_fade" src="images/news/grid/35.jpg" alt="Image"></a>
@@ -3508,7 +3622,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/080218.php"><img class="image_fade" src="images/news/grid/34.jpg" alt="Image"></a>
@@ -3528,7 +3642,7 @@
                         </div><!-- #posts end -->
 
 
-                        <div id="posts" class="col_full small-thumbs">
+                        <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
                                     <a href="/310118.php"><img class="image_fade" src="images/news/grid/33-310118.jpg" alt="Image"></a>
@@ -3547,7 +3661,7 @@
                             </div>
                         </div><!-- #posts end -->
 
-  						<div id="posts" class="col_full small-thumbs">
+  						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3568,7 +3682,7 @@
 
 						</div><!-- #posts end -->
 
-  						<div id="posts" class="col_full small-thumbs">
+  						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3590,7 +3704,7 @@
 						</div><!-- #posts end -->
 
 
-  						<div id="posts" class="col_full small-thumbs">
+  						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3611,7 +3725,7 @@
 
 						</div><!-- #posts end -->
 
-  						<div id="posts" class="col_full small-thumbs">
+  						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3633,7 +3747,7 @@
 						</div><!-- #posts end -->
 
 
-  						<div id="posts" class="col_full small-thumbs">
+  						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3654,7 +3768,7 @@
 
 						</div><!-- #posts end -->
 
-  						<div id="posts" class="col_full small-thumbs">
+  						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3675,7 +3789,7 @@
 
 						</div><!-- #posts end -->
 
-  						<div id="posts" class="col_full small-thumbs">
+  						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3696,7 +3810,7 @@
 
 						</div><!-- #posts end -->
 
- 						<div id="posts" class="col_full small-thumbs">
+ 						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3717,7 +3831,7 @@
 
 						</div><!-- #posts end -->
 
- 						<div id="posts" class="col_full small-thumbs">
+ 						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3738,7 +3852,7 @@
 
 						</div><!-- #posts end -->
 
- 						<div id="posts" class="col_full small-thumbs">
+ 						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3759,7 +3873,7 @@
 
 						</div><!-- #posts end -->
 
- 						<div id="posts" class="col_full small-thumbs">
+ 						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3780,7 +3894,7 @@
 
 						</div><!-- #posts end -->
 
- 						<div id="posts" class="col_full small-thumbs">
+ 						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3801,7 +3915,7 @@
 
 						</div><!-- #posts end -->
 
- 						<div id="posts" class="col_full small-thumbs">
+ 						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3822,7 +3936,7 @@
 
 						</div><!-- #posts end -->
 
- 						<div id="posts" class="col_full small-thumbs">
+ 						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3843,7 +3957,7 @@
 
 						</div><!-- #posts end -->
 
- 						<div id="posts" class="col_full small-thumbs">
+ 						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3864,7 +3978,7 @@
 
 						</div><!-- #posts end -->
 
- 						<div id="posts" class="col_full small-thumbs">
+ 						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3885,7 +3999,7 @@
 
 						</div><!-- #posts end -->
 
- 						<div id="posts" class="col_full small-thumbs">
+ 						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3906,7 +4020,7 @@
 
 						</div><!-- #posts end -->
 
- 						<div id="posts" class="col_full small-thumbs">
+ 						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3927,7 +4041,7 @@
 
 						</div>
 
- 						<div id="posts" class="col_full small-thumbs">
+ 						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3948,7 +4062,7 @@
 
 						</div><!-- #posts end -->
 
- 						<div id="posts" class="col_full small-thumbs">
+ 						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3969,7 +4083,7 @@
 
 						</div><!-- #posts end -->
 
- 						<div id="posts" class="col_full small-thumbs">
+ 						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -3990,7 +4104,7 @@
 
 						</div><!-- #posts end -->
 
- 						<div id="posts" class="col_full small-thumbs">
+ 						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -4012,7 +4126,7 @@
 						</div><!-- #posts end -->
 
 
- 						<div id="posts" class="col_full small-thumbs">
+ 						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -4033,7 +4147,7 @@
 
 						</div><!-- #posts end -->
 
-						<div id="posts" class="col_full small-thumbs">
+						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -4054,7 +4168,7 @@
 
 						</div><!-- #posts end -->
 
-						<div id="posts" class="col_full small-thumbs">
+						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -4075,7 +4189,7 @@
 
 						</div><!-- #posts end -->
 
-						<div id="posts" class="col_full small-thumbs">
+						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image col_one_forth">
@@ -4096,7 +4210,7 @@
 
 						</div><!-- #posts end -->
 
-						<div id="posts" class="col_full small-thumbs">
+						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image">
@@ -4117,7 +4231,7 @@
 
 						</div><!-- #posts end -->
 
-						<div id="posts" class="col_full small-thumbs">
+						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image">
@@ -4138,7 +4252,7 @@
 
 						</div><!-- #posts end -->
 
-						<div id="posts" class="col_full small-thumbs">
+						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image">
@@ -4159,7 +4273,7 @@
 
 						</div><!-- #posts end -->
 
-						<div id="posts" class="col_full small-thumbs">
+						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image">
@@ -4180,7 +4294,7 @@
 
 						</div><!-- #posts end -->
 
-						<div id="posts" class="col_full small-thumbs">
+						<div id="posts" class="news__column col_full small-thumbs">
 
 							<div class="entry clearfix">
 								<div class="entry-image">
