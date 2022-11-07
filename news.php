@@ -5,7 +5,7 @@
 	<?php include "includes/head-meta.php"; ?>
 	<!-- Document Title
 	============================================= -->
-	<title>Новости | ЦОК</title>
+	<title>Новости - ЦОК</title>
 
 </head>
 
