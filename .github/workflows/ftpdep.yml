@@ -1,19 +1,20 @@
-name: CI -> Deploy
+name: deploy via ftp
 on:
   push:
-    branches: [ master ]
+    branches: 
+      - master
 jobs:
-  build:
+  deploy:
+    name: Deploy
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      # Here is the deployment action
-      - name: Sync files
-        uses: airvzxf/ftp-deployment-action@latest
+      - name: Sync
+        uses: sebastianpopp/ftp-action@releases/v2
         with:
-          server: ${{ secrets.FTP_SERVER }}
+          host: ${{ secrets.FTP_SERVER }}
           user: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server_dir: /cok-niime.ru/docs/
-          delete: "false"
-          
+          localDir: "cok"
+          remoteDir: "/cok-niime.ru/docs/"
+          options: "--delete --asci"
