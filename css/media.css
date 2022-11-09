@@ -259,6 +259,13 @@
         border-radius: 17px;
         box-shadow: 0 0 5px #278791;
     }
+    .team-list {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        padding-bottom: 0px;
+        height: 100%;
+    }
     .team-title h4 {
         font-size: 16px;
         padding-top: 0px;
@@ -266,6 +273,7 @@
     }
     .team.team-list .team-desc{
         padding: 10px 10px;
+        width: 100%;
         text-align: center;
     }
     .team-title span {
@@ -329,5 +337,8 @@
             border-top-left-radius: 15px;
             border-top-right-radius: 15px;
             border-bottom-left-radius: 0px;
+        }
+        .small-thumbs .entry {
+            flex-direction: column;
         }
 }

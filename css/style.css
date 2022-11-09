@@ -4495,7 +4495,7 @@ body:not(.device-touch) .entry-link {
   margin: 0 30px 0 0; }
   .small-thumbs .entry-image img,
   .ievent .entry-image img {
-    border-radius: 0; }
+    border-radius: 30px; }
 
 .small-thumbs .entry-c .entry-image,
 .ievent .entry-c .entry-image {
