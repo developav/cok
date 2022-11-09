@@ -13,5 +13,5 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           user: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          remote_dir: "/cok-niime.ru/docs/"
+          remote_dir: "/cok-niime.ru/docs"
           delete: "false"
