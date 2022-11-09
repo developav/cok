@@ -1,17 +1,17 @@
 name: deploy via ftp
 on:
   push:
-    branches: [ master ]
+    branches: 
+      - master
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - name: Sync
-        uses: airvzxf/ftp-deployment-action@latest
+        uses: SamKirkland/FTP-Deploy-Action@4.3.2
         with:
           server: ${{ secrets.FTP_SERVER }}
           user: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          remote_dir: "/cok-niime.ru/docs"
-          delete: "false"
+          server-dir: "cok-niime.ru/docs/"
