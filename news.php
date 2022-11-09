@@ -130,7 +130,7 @@
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
                                     <div class="entry-title">
-                                        <h2><a href="290822.php">Продолжается всеросийский конкурс профессионального мастерства<br> "Лучший по професии"</a></h2>
+                                        <h2><a href="310822.php">Продолжается всеросийский конкурс профессионального мастерства<br> "Лучший по професии"</a></h2>
                                     </div>
                                     <ul class="entry-meta clearfix" style="height: 30px">
                                         <li><i class="icon-calendar3"></i> 31/8/2022</li>
