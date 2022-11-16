@@ -68,7 +68,18 @@
                             <li><a href="http://www.kpkrz.ru"><img src="images/clients/kpkrz.jpg" alt="Clients"></a></li>
                             <li><a href="https://www.sibsau.ru/"><img src="images/clients/sibsau.png" alt="Clients"></a></li>
                             <li><a href="https://www.sfedu.ru/"><img src="images/clients/sfedu.jpg" alt="Clients"></a></li>
+							<li><a href="https://nm-tech.org/"><img style="padding-top: 75px;" src="images/clients/nmtech.png" alt="Clients"></a></li>
+							<li><a href="https://mai.ru/"><img src="images/clients/mai.jpg" alt="Clients"></a></li>
 							<!--<li class="hidden-xs"><a href="#"><img src="images/clients/10.png" alt="Clients"></a></li>-->
+						</ul>
+						<ul class="clients-grid nobottommargin clearfix">
+                            <li><a href="https://tusur.ru/ru"><img style="padding-top: 75px;" src="images/clients/tgulog.png" alt="Clients"></a></li>
+							<li><a href="https://mpei.ru/Pages/default.aspx"><img style="padding-top: 70px;" src="images/clients/meilogo.png" alt="Clients"></a></li>
+							<li><a href="https://www.sevsu.ru/"><img style="padding-top: 60px;" src="images/clients/sgulogo.svg" alt="Clients"></a></li>
+							<li><a href="https://www.nstu.ru/"><img style="padding-top: 70px;" src="images/clients/nstulogo.png" alt="Clients"></a></li>
+							<li><a href="https://www.vlsu.ru/"><img src="images/clients/vlsulogo.svg" alt="Clients"></a></li>
+							<li><a href="https://urfu.ru/ru/"><img style="padding-top: 30px;" src="images/clients/csm_logo1_d783972efb.png" alt="Clients"></a></li>
+							<li><a href="https://www.isuct.ru/"><img src="images/clients/isuct.png" alt="Clients"></a></li>
 						</ul>
 
 
