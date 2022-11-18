@@ -72,7 +72,7 @@
                             </div>
                         </div>
 
-                        <div class="swiper-slide" style="background-image: url('images/slider/4.jpg'); background-position: center top;">
+                        <!-- <div class="swiper-slide" style="background-image: url('images/slider/4.jpg'); background-position: center top;">
                             <div class="container clearfix">
                                 <div class="slider-caption slider-caption-center">
                                     <a href="event.php">
@@ -82,7 +82,7 @@
                                     <a data-caption-animate="fadeInUp" data-caption-delay="300" href="event.php" target="_blank" class="slider__head-btn button button-border button-large button-rounded tright nomargin"><span>Регистрация на мероприятие</span> <i class="icon-angle-right"></i></a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- <div class="swiper-slide" style="background-image: url('images/slider/4.jpg'); background-position: center top;">
                             <div class="container clearfix">
@@ -354,7 +354,7 @@
                                 </div>
                                 <div class="team-desc">
                                     <div class="team-title">
-                                        <h4>Поликарпова Л.В.</h4><span>Руководитель центра оценки,<br>член Совета по квалификациям в наноиндустрии</span>
+                                        <h4>Поликарпова Л.В.</h4><span>Руководитель центра оценки квалификаций,<br>член Совета по профессиональным квалификациям в наноиндустрии</span>
                                     </div>
                                 </div>
                             </div>
@@ -370,7 +370,7 @@
                                 </div>
                                 <div class="team-desc">
                                     <div class="team-title">
-                                        <h4>Забодаева Н.Н.</h4><span>Заместитель руководителя центра оценки</span>
+                                        <h4>Забодаева Н.Н.</h4><span>Заместитель руководителя центра оценки квалификаций</span>
                                     </div>
                                 </div>
                             </div>
@@ -386,7 +386,7 @@
                                 </div>
                                 <div class="team-desc">
                                     <div class="team-title">
-                                        <h4>Жукалин Д.А.</h4><span>Руководитель ЭЦ ВГУ,<br>эксперт по оценке</span>
+                                        <h4>Жукалин Д.А.</h4><span>Руководитель ЭЦ, ВГУ,<br>эксперт по оценке</span>
                                     </div>
                                 </div>
                             </div>
@@ -399,7 +399,7 @@
                                 <img src="images/team/stroganova2.jpg" alt="Stroganova">
                                 </div>
                                 <div class="team-desc">
-                                    <div class="team-title"><h4>Строганова Е.В.</h4><span>Руководитель ЭЦ КубГУ,<br>эксперт по оценке</span></div>
+                                    <div class="team-title"><h4>Строганова Е.В.</h4><span>Руководитель ЭЦ, КубГУ,<br>эксперт по оценке</span></div>
                                 </div>
                             </div>
                         </div>
@@ -484,7 +484,6 @@
                         <div class="oc-item"><a target="_blank" href="https://miet.ru/"><img src="images/clients/miet.png" alt="Clients"></a></div>
                         <div class="oc-item"><a target="_blank" href="https://www.mikron.ru"><img src="images/clients/logo.svg" alt="Clients"></a></div>
                         <div class="oc-item"><a target="_blank" href="https://www.niitm.ru"><img src="images/clients/niitm.jpg" alt="Clients"></a></div>
-
                         <div class="oc-item"><a target="_blank" href="http://www.istokmw.ru"><img src="images/clients/istok.jpg" alt="Clients"></a></div>
                         <div class="oc-item"><a target="_blank" href="https://www.angstrem.ru/"><img src="images/clients/angstrem.jpg" alt="Clients"></a></div>
                         <div class="oc-item"><a target="_blank" href="https://www.milandr.ru"><img src="images/clients/milandr.jpg" alt="Clients"></a></div>
@@ -495,7 +494,15 @@
                         <div class="oc-item"><a target="_blank" href="http://www.kpkrz.ru"><img src="images/clients/kpkrz.jpg" alt="Clients"></a></div>
                         <div class="oc-item"><a target="_blank" href="https://www.sibsau.ru"><img src="images/clients/sibsau.png" alt="Clients"></a></div>
                         <div class="oc-item"><a target="_blank" href="https://sfedu.ru/"><img src="images/clients/sfedu.jpg" alt="Clients"></a></div>
-
+                        <div class="oc-item"><a target="_blank" href="https://nm-tech.org/"><img style="padding-top: 75px;" src="images/clients/nmtech.png" alt="Clients"></a></div>
+                        <div class="oc-item"><a target="_blank" href="https://mai.ru/"><img src="images/clients/mai.jpg" alt="Clients"></a></div>
+                        <div class="oc-item"><a target="_blank" href="https://tusur.ru/ru"><img style="padding-top: 75px;" src="images/clients/tgulog.png" alt="Clients"></a></div>
+						<div class="oc-item"><a target="_blank" href="https://mpei.ru/Pages/default.aspx"><img style="padding-top: 70px;" src="images/clients/meilogo.png" alt="Clients"></a></div>
+						<div class="oc-item"><a target="_blank" href="https://www.sevsu.ru/"><img style="padding-top: 60px;" src="images/clients/sgulogo.svg" alt="Clients"></a></div>
+						<div class="oc-item"><a target="_blank" href="https://www.nstu.ru/"><img style="padding-top: 70px;" src="images/clients/nstulogo.png" alt="Clients"></a></div>
+						<div class="oc-item"><a target="_blank" href="https://www.vlsu.ru/"><img src="images/clients/vlsulogo.svg" alt="Clients"></a></div>
+						<div class="oc-item"><a target="_blank" href="https://urfu.ru/ru/"><img style="padding-top: 30px;" src="images/clients/csm_logo1_d783972efb.png" alt="Clients"></a></div>
+						<div class="oc-item"><a target="_blank" href="https://www.isuct.ru/"><img src="images/clients/isuct.png" alt="Clients"></a></div>
                     </div>
 
                 </div>

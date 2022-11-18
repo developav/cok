@@ -97,7 +97,7 @@
                                                 <li><i class="icon-file"></i><a href="#"> Технолог производства наноразмерных полупроводниковых приборов и интегральных схем (6 уровень)</a></li>
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standards/ps24-exam-demo.pptx"> Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
                                             </ul>
-                                            <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/vvedenie-v-soprovozhdenie-i-integratsiyu-tekhnologicheskikh-protsessov-proizvodstva-poluprovodnikov-/" target="_blank" r>АНО «еНано»</a></p>
+                                            <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://www.neo-niime.ru/" target="_blank" r>Учебный центр АО "НИИМЭ"</a></p>
                                             <a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
                                         </div>
                                     </div>
@@ -124,7 +124,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps26-exam-demo.pptx"> Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
-                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/tekhnologiya-proizvodstva-nanogeterostrukturnykh-svch-monolitnykh-integralnykh-skhem/" target="_blank" r>АНО «еНано»</a></p>
+                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://www.neo-niime.ru/" target="_blank" r>Учебный центр АО "НИИМЭ"</a></p>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
 
@@ -149,7 +149,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps85-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
-                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/proektirovanie-sistem-na-kristalle/" target="_blank" r>АНО «еНано»</a></p>
+										<p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://www.neo-niime.ru/" target="_blank" r>Учебный центр АО "НИИМЭ"</a></p>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
 
@@ -174,7 +174,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps90-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
-                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/funktsionalnaya-verifikatsiya-nanorazmernykh-integralnykh-skhem/" target="_blank" r>АНО «еНано»</a></p>
+										<p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://www.neo-niime.ru/" target="_blank" r>Учебный центр АО "НИИМЭ"</a></p>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
 
@@ -200,7 +200,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps168-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
-                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/spetsialist-po-proektnomu-upravleniyu-v-oblasti-razrabotki-i-postanovki-proizvodstva-poluprovodnikov/" target="_blank" r>АНО «еНано»</a></p>
+										<p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://www.neo-niime.ru/" target="_blank" r>Учебный центр АО "НИИМЭ"</a></p>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
 
@@ -225,7 +225,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps172-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
-                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/proektirovanie-analogovykh-sf-blokov/" target="_blank" r>АНО «еНано»</a></p>
+										<p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://www.neo-niime.ru/" target="_blank" r>Учебный центр АО "НИИМЭ"</a></p>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
 
@@ -325,7 +325,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps182-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
-                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/proektirovanie-fotoshablonov-dlya-proizvodstva-nanosistem/" target="_blank" r>АНО «еНано»</a></p>
+										<p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://www.neo-niime.ru/" target="_blank" r>Учебный центр АО "НИИМЭ"</a></p>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
 
@@ -351,7 +351,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps538-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
-                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/proektirovanie-i-obsluzhivanie-chistykh-proizvodstvennykh-pomeshcheniy-dlya-mikro-i-nanoelektronnykh/" target="_blank" r>АНО «еНано»</a></p>
+										<p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://www.neo-niime.ru/" target="_blank" r>Учебный центр АО "НИИМЭ"</a></p>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
 
@@ -368,7 +368,6 @@
 										<div class="entry-title">
 											<p>«Cпециалист технического обеспечения технологических процессов приборов квантовой электроники и фотоники»</p>
 											<ul class="iconlist">
-
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps543.pdf">Описание стандарта в формате PDF</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps543-q4.pdf">Наладчик оборудования для производства приборов квантовой электроники и фотоники (4-ый уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps543-q5-1.pdf">Техник по метрологическому обеспечению технологических и измерительных процессов при производстве приборов квантовой электроники и фотоники на базе нанотехнологий (5 уровень квалификации)</a></li>
@@ -379,13 +378,10 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps543-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
-                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/tekhnicheskaya-podderzhka-oborudovaniya-tekhnologicheskikh-protsessov-proizvodstva-priborov-mikroele/" target="_blank" r>АНО «еНано»</a></p>
+										<p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://www.neo-niime.ru/" target="_blank" r>Учебный центр АО "НИИМЭ"</a></p>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 									</div>
 								</div>
-
-
-
                                 <div class="entry clearfix">
                                     <div class="entry-image">
                                         <img class="image_fade" src="images/standards/ps545.jpg" alt="Standard 545">
@@ -397,7 +393,6 @@
                                         <div class="entry-title">
                                             <p>«Специалист по измерению параметров и модификации свойств наноматериалов и наноструктур»</p>
                                             <ul class="iconlist">
-
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standards/ps545.pdf">Описание стандарта в формате PDF</a></li>
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standards/ps545-q5-1.docx">Техник-лаборант по измерению параметров наноматериалов и наноструктур (5 уровень квалификации)</a></li>
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standards/ps545-q5-2.docx">Техник по модификации свойств наноматериалов и наноструктур (5 уровень квалификации)</a></li>
@@ -406,7 +401,7 @@
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standards/ps545-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
                                             </ul>
                                         </div>
-                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://edunano.ru/courses/izmerenie-parametrov-i-modifikatsiya-svoystv-nanomaterialov-i-nanostruktur/" target="_blank" r>АНО «еНано»</a></p>
+                                        <p>Подготовиться к сдаче экзамена по данному профессиональному стандарту Вы можете в <a href="https://www.neo-niime.ru/" target="_blank" r>Учебный центр АО "НИИМЭ"</a></p>
                                         <a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
                                     </div>
                                 </div>

@@ -54,9 +54,9 @@
 
                     <div class="heading-block fancy-title nobottomborder title-bottom-border">
                         <!-- <div class="heading-block fancy-title nobottomborder"> -->
-                        <h4>Наши эксперты:</h4>
+                        <h4>Технические эксперты АО "НИИМЭ":</h4>
                     </div>
-                    <a href="regulationdocs/experts/expertslist.doc"><b>Список экспертов по оценке и технических экспертов, аттестованных СПК в наноиндустрии</b></a>
+                    <a href="regulationdocs/experts/expertslist.pdf"><b>Список экспертов по оценке и технических экспертов, аттестованных СПК в наноиндустрии</b></a>
 
                 </div>
 
@@ -99,7 +99,7 @@
                                 <img src="images/team/zabodaeva.jpg" alt="Zabodaeva">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Забодаева Нина Николаевна</a></h4><span>Заместитель руководителя Центра оценки квалификаций АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Забодаева Нина Николаевна</a></h4><span>Заместитель руководителя Центра оценки квалификаций АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>Эксперт по оценке, Технический эксперт</p>
                                 </div>
@@ -118,7 +118,7 @@
                                 <img src="images/team/zhukalin.jpg" alt="Zhukalin">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Жукалин Дмитрий Алексеевич</a></h4><span>Руководитель экзаменационного центра Воронежского государственного университета</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Жукалин Дмитрий Алексеевич</a></h4><span>Руководитель экзаменационного центра Воронежского государственного университета</span></div>
                                 <div class="team-content">
                                     <p>Эксперт по оценке, Технический эксперт</p>
                                 </div>
@@ -164,7 +164,7 @@
                                 <img src="images/team/kotlyarov.jpg" alt="Kotlyarov">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Котляров Евгений Юрьевич</a></h4><span>Старший научный сотрудник АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Котляров Евгений Юрьевич</a></h4><span>Старший научный сотрудник АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -179,7 +179,7 @@
                                 <img src="images/team/kravtsov.jpg" alt="Kravtsov">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Кравцов Александр Сергеевич</a></h4><span>Главный конструктор АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Кравцов Александр Сергеевич</a></h4><span>Главный конструктор АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -198,7 +198,7 @@
                                 <img src="images/team/pankratov.jpg" alt="pankratov">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Панкратов Александр Львович</a></h4><span>Начальник отдела проектирования фотошаблонов АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Панкратов Александр Львович</a></h4><span>Начальник отдела АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -212,7 +212,7 @@
                                 <img src="images/team/yanovich.jpg" alt="Yanovich">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Янович Сергей Игоревич </a></h4><span>Главный специалист АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Янович Сергей Игоревич </a></h4><span>Главный специалист АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -222,37 +222,7 @@
 
                 </div>
 
-                <div class="row">
-
-                    <div class="col-md-6 bottommargin">
-                        <div class="team team-list clearfix">
-                            <div class="team-image">
-                                <img src="images/team/burdin.jpg" alt="Burdin">
-                            </div>
-                            <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Бурдин Юрий Сергеевич </a></h4><span>Зам. начальника ОПиКС АО «Микрон»</span></div>
-                                <div class="team-content">
-                                    <p>Технический эксперт</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-6 bottommargin">
-                        <div class="team team-list clearfix">
-                            <div class="team-image">
-                                <img src="images/team/egorov.jpg" alt="Egorov">
-                            </div>
-                            <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Егоров Александр Александрович </a></h4><span>Руководитель ГТП АО «МИКРОН»</span></div>
-                                <div class="team-content">
-                                    <p>Технический эксперт</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
+              
                 <div class="row">
 
                     <div class="col-md-6 bottommargin">
@@ -261,7 +231,7 @@
                                 <img src="images/team/ivanov.jpg" alt="Ivanov">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Иванов Владимир Викторович </a></h4><span>Заместитель начальника отдела</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Иванов Владимир Викторович </a></h4><span>Заместитель начальника отдела АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -275,7 +245,7 @@
                                 <img src="images/team/kirushina.jpg" alt="Kirushina">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Кирюшина Ирина Васильевна </a></h4><span>Начальник лаборатории</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Кирюшина Ирина Васильевна </a></h4><span>Начальник лаборатории АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -291,7 +261,7 @@
                                 <img src="images/team/markin.jpg" alt="Markin">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Маркин Александр Викторович </a></h4><span>Заместитель начальника отдела</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Маркин Александр Викторович </a></h4><span>Заместитель начальника отдела АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -305,7 +275,7 @@
                                 <img src="images/team/blank.jpg" alt="Mytnyk">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Мытник Константин Яковлевич </a></h4><span>Начальник отдела разработки программного обеспечения для смарт-карт АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Мытник Константин Яковлевич </a></h4><span>Начальник отдела АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -315,27 +285,26 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-md-6 bottommargin">
+                <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
                             <div class="team-image">
-                                <img src="images/team/nuikin.jpg" alt="Nuikin">
+                                <img src="images/team/lastochkin.jpg" alt="Lastochkin">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Нуйкин Андрей Валерьевич</a></h4><span>Заместитель начальника отдела АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Ласточкин Олег Викторович </a></h4><span>Начальник отдела АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
                             <div class="team-image">
                                 <img src="images/team/pronin.jpg" alt="Pronin">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Пронин Алексей Александрович </a></h4><span>Ведущий инженер-конструктор АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Пронин Алексей Александрович </a></h4><span>Ведущий инженер-конструктор АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -344,28 +313,26 @@
                     </div>
                 </div>
                 <div class="row">
-
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
                             <div class="team-image">
                                 <img src="images/team/nadin.jpg" alt="Nadin">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Надин Алексей Семенович </a></h4><span>Начальник отдела АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Надин Алексей Семенович </a></h4><span>Начальник отдела АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
                             <div class="team-image">
                                 <img src="images/team/shipitsyn.jpg" alt="Shipitsyn">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Шипицин Дмитрий Святославович </a></h4><span>Директор по развитию систем проектирования АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Шипицин Дмитрий Святославович </a></h4><span>Директор по развитию систем проектирования АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -374,28 +341,87 @@
                     </div>
                 </div>
                 <div class="row">
-
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
                             <div class="team-image">
-                                <img src="images/team/sedova.jpg" alt="Sedova">
+                                <img src="images/team/blank.jpg" alt="Volosol">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Седова Ольга Валерьевна </a></h4><span>Доцент кафедры ИнЭУП НИУ МИЭТ</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Волосов Анатолий Викторович</a></h4><span>Начальник отдела АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/baranov.jpg" alt="Baranov">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Баранов Глеб Владимирович </a></h4><span>Начальник лаборатории АО «НИИМЭ»</span></div>
+                                <div class="team-content">
+                                    <p>Технический эксперт</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
                             <div class="team-image">
                                 <img src="images/team/averiev.jpg" alt="Averiev">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Аверьев Александр Владимирович </a></h4><span>Заместитель начальника отдела АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Аверьев Александр Владимирович </a></h4><span>Заместитель начальника отдела АО «НИИМЭ»</span></div>
+                                <div class="team-content">
+                                    <p>Технический эксперт</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/glebova.jpg" alt="Averiev">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Глебова Евгения Вячеславовна</a></h4><span>Специалист АО «НИИМЭ»</span></div>
+                                <div class="team-content">
+                                    <p>Эксперт по оценке</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="heading-block fancy-title nobottomborder title-bottom-border">
+                        <!-- <div class="heading-block fancy-title nobottomborder"> -->
+                        <h4>Технические эксперты в наноиндустрии:</h4>
+                    </div>
+
+                <div class="row">
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/blank.jpg" alt="Ezhova">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Ежова Ольга Александровна</a></h4><span>Старший научный сотрудник ФГАОУ ВО «ЮФУ»</span></div>
+                                <div class="team-content">
+                                    <p>Технический эксперт</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/panin.jpg" alt="Panin">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Панин Виталий Вячеславович </a></h4><span>Начальник отдела ОАО «НИИТМ»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -404,28 +430,26 @@
                     </div>
                 </div>
                 <div class="row">
-
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
                             <div class="team-image">
                                 <img src="images/team/lukyanchikov.jpg" alt="Lukyanchikov">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Лукянчиков Максим Владимирович </a></h4><span>Начальник лаборатории</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Лукянчиков Максим Владимирович </a></h4><span>Начальник лаборатории</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
                             <div class="team-image">
-                                <img src="images/team/goltsman.jpg" alt="Goltsman">
+                                <img src="images/team/nofoto.jpg" alt="Goltsman">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Гольцман Борис Евгеньевич </a></h4><span>Руководитель группы АО «МИКРОН»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Гольцман Борис Евгеньевич </a></h4><span>Руководитель группы АО «МИКРОН»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -435,13 +459,26 @@
                 </div>
 
                 <div class="row">
+                <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/nofoto.jpg" alt="Burdin">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Бурдин Юрий Сергеевич </a></h4><span>Зам. начальника АО «Микрон»</span></div>
+                                <div class="team-content">
+                                    <p>Технический эксперт</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
                             <div class="team-image">
-                                <img src="images/team/lastochkin.jpg" alt="Lastochkin">
+                                <img src="images/team/nuykin.jpg" alt="Nuikin">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Ласточкин Олег Викторович </a></h4><span>Начальник отдела СБ АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Нуйкин Андрей Валерьевич</a></h4><span></span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -457,7 +494,7 @@
                                 <img src="images/team/gorshkova.jpg" alt="Gorshkova">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Горшкова Наталья Михайловна </a></h4><span>Начальник лаборатории АО НПЦ «ЭЛВИС»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Горшкова Наталья Михайловна </a></h4><span>Начальник лаборатории АО НПЦ «ЭЛВИС»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -471,7 +508,7 @@
                                 <img src="images/team/shadrova.jpg" alt="Shadrova">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Шадрова Елена Николаевна </a></h4><span>Начальник техбюро АО «Ангстрем»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Шадрова Елена Николаевна </a></h4><span>Начальник техбюро АО «Ангстрем»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -481,33 +518,9 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-md-6 bottommargin">
-                        <div class="team team-list clearfix">
-                            <div class="team-image">
-                                <img src="images/team/baranov.jpg" alt="Baranov">
-                            </div>
-                            <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Баранов Глеб Владимирович </a></h4><span>Начальник лаборатории АО «НИИМЭ»</span></div>
-                                <div class="team-content">
-                                    <p>Технический эксперт</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                   
 
-                    <div class="col-md-6 bottommargin">
-                        <div class="team team-list clearfix">
-                            <div class="team-image">
-                                <img src="images/team/panin.jpg" alt="Panin">
-                            </div>
-                            <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Панин Виталий Вячеславович </a></h4><span>Начальник отдела ОАО «НИИТМ»</span></div>
-                                <div class="team-content">
-                                    <p>Технический эксперт</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    
                 </div>
 
                 <div class="row">
@@ -517,7 +530,7 @@
                                 <img src="images/team/zuev.jpg" alt="Zuev">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Зуев Егор Владиславович </a></h4><span>Инженер НИУ МИЭТ</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Зуев Егор Владиславович </a></h4><span>Инженер НИУ МИЭТ</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -528,10 +541,10 @@
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
                             <div class="team-image">
-                                <img src="images/team/vertyanov.jpg" alt="Vertyanov">
+                                <img src="images/team/nofoto.jpg" alt="Vertyanov">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Вертянов Денис Васильевич </a></h4><span>Руководитель УНЦ НИУ МИЭТ</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Вертянов Денис Васильевич </a></h4><span>Руководитель УНЦ НИУ МИЭТ</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -544,10 +557,10 @@
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
                             <div class="team-image">
-                                <img src="images/team/kosolapova.jpg" alt="Kosolapova">
+                                <img src="images/team/nofoto.jpg" alt="Kosolapova">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Косолапова Галина Викторовна </a></h4><span>Старший преподаватель НИУ МИЭТ</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Косолапова Галина Викторовна </a></h4><span>Старший преподаватель НИУ МИЭТ</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -558,10 +571,10 @@
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
                             <div class="team-image">
-                                <img src="images/team/juravlev.jpg" alt="Zhuravlev">
+                                <img src="images/team/nofoto.jpg" alt="Zhuravlev">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Журавлев Максим Николаевич </a></h4><span>Доцент НИУ  МИЭТ</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Журавлев Максим Николаевич </a></h4><span>Доцент НИУ  МИЭТ</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -569,7 +582,34 @@
                         </div>
                     </div>
                 </div>
-
+                <div class="row">
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/nofoto.jpg" alt="Egorov">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Егоров Александр Александрович </a></h4><span>Руководитель ГТП АО «МИКРОН»</span></div>
+                                <div class="team-content">
+                                    <p>Технический эксперт</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 bottommargin">
+                         <div class="team team-list clearfix">
+                             <div class="team-image">
+                                 <img src="images/team/blank.jpg" alt="Kulikova">
+                             </div>
+                             <div class="team-desc">
+                                 <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Куликова Татьяна Валентиновна</a></h4><span>Инженер ВГУ</span></div>
+                                 <div class="team-content">
+                                     <p>Технический эксперт</p>
+                                 </div>
+                             </div>
+                         </div>
+                     </div>
+                </div>
                 <div class="row">
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
@@ -577,7 +617,7 @@
                                 <img src="images/team/kosolapov.jpg" alt="Kosolapov">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Косолапов Андрей Алексеевич </a></h4><span>Инженер-конструктор АО «НТЦ ЭЛИНС»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Косолапов Андрей Алексеевич </a></h4><span>Инженер-конструктор АО «НТЦ ЭЛИНС»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -591,7 +631,7 @@
                                 <img src="images/team/blank.jpg" alt="Kochurina">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Кочурина Елена Сергеевна </a></h4><span>Инженер-конструктор НИУ МИЭТ</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Кочурина Елена Сергеевна </a></h4><span>Инженер-конструктор НИУ МИЭТ</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -600,33 +640,9 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-6 bottommargin">
-                        <div class="team team-list clearfix">
-                            <div class="team-image">
-                                <img src="images/team/blank.jpg" alt="Volosol">
-                            </div>
-                            <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Волосов Анатолий Викторович</a></h4><span>Начальник отдела АО «НИИМЭ»</span></div>
-                                <div class="team-content">
-                                    <p>Технический эксперт</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                   
 
-                     <div class="col-md-6 bottommargin">
-                         <div class="team team-list clearfix">
-                             <div class="team-image">
-                                 <img src="images/team/blank.jpg" alt="Kulikova">
-                             </div>
-                             <div class="team-desc">
-                                 <div class="team-title"><h4><a href="#">Куликова Татьяна Валентиновна</a></h4><span>Инженер ВГУ</span></div>
-                                 <div class="team-content">
-                                     <p>Технический эксперт</p>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
+                     
                 </div>
 
                 <div class="row">
@@ -636,7 +652,7 @@
                                 <img src="images/team/blank.jpg" alt="Menshikova">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Меньшикова Татьяна Геннадьевна</a></h4><span>Доцент ВГУ</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Меньшикова Татьяна Геннадьевна</a></h4><span>Доцент ВГУ</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -650,7 +666,7 @@
                                 <img src="images/team/blank.jpg" alt="Bogatikov">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Богатиков Евгений Васильевич</a></h4><span>Доцент ВГУ</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Богатиков Евгений Васильевич</a></h4><span>Доцент ВГУ</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -666,7 +682,7 @@
                                 <img src="images/team/blank.jpg" alt="Shabanov">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Шебанов Александо Николаевич </a></h4><span>Ассистент кафедры ВГУ</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Шебанов Александо Николаевич </a></h4><span>Ассистент кафедры ВГУ</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -680,7 +696,7 @@
                                 <img src="images/team/blank.jpg" alt="Nikolaenkov">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Николаенков Юрий Кимович</a></h4><span>Доцент ВГУ</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Николаенков Юрий Кимович</a></h4><span>Доцент ВГУ</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -696,7 +712,7 @@
                                 <img src="images/team/blank.jpg" alt="Bildanov">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Билданов Марат Амирович</a></h4><span>Инженер-технолог АО «Микрон»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Билданов Марат Амирович</a></h4><span>Инженер-технолог АО «Микрон»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -710,7 +726,7 @@
                                 <img src="images/team/blank.jpg" alt="Konyaev">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Коняев Вадим Павлович</a></h4><span>Начальник отдела АО «НИИ «Полюс»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Коняев Вадим Павлович</a></h4><span>Начальник отдела АО «НИИ «Полюс»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -726,7 +742,7 @@
                                 <img src="images/team/blank.jpg" alt="Lysenko">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Лысенко Игорь Евгеньевич</a></h4><span>Заведующий кафедрой ФГАОУ ВО «ЮФУ»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Лысенко Игорь Евгеньевич</a></h4><span>Заведующий кафедрой ФГАОУ ВО «ЮФУ»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -740,7 +756,7 @@
                                 <img src="images/team/blank.jpg" alt="Isaeva">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Исаева Алина Сергеевна</a></h4><span>Преподаватель ФГАОУ ВО «ЮФУ»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Исаева Алина Сергеевна</a></h4><span>Преподаватель ФГАОУ ВО «ЮФУ»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>
@@ -756,21 +772,7 @@
                                 <img src="images/team/blank.jpg" alt="Denisenko">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Денисенко Марк Анатольевич</a></h4><span>Доцент ФГАОУ ВО «ЮФУ»</span></div>
-                                <div class="team-content">
-                                    <p>Технический эксперт</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-6 bottommargin">
-                        <div class="team team-list clearfix">
-                            <div class="team-image">
-                                <img src="images/team/blank.jpg" alt="Ezhova">
-                            </div>
-                            <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Ежова Ольга Александровна</a></h4><span>Старший научный сотрудник ФГАОУ ВО «ЮФУ»</span></div>
+                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Денисенко Марк Анатольевич</a></h4><span>Доцент ФГАОУ ВО «ЮФУ»</span></div>
                                 <div class="team-content">
                                     <p>Технический эксперт</p>
                                 </div>

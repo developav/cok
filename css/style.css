@@ -8597,9 +8597,9 @@ ul.tab-nav li a i {
 .clients-grid.grid-6 li {
   width: 16.66%; }
 .clients-grid li a {
-  opacity: 0.6; }
+  opacity: 1; }
   .clients-grid li a:hover {
-    opacity: 1; }
+    opacity: 0.6; }
 
 body:not(.device-touch) .clients-grid li a {
   -webkit-transition: all 0.5s ease;
@@ -8627,8 +8627,7 @@ body:not(.device-touch) .clients-grid li a {
 .testimonials-grid li:before {
   height: 100%;
   top: 0;
-  left: -1px;
-  border-left: 1px dashed #DDD; }
+  left: -1px;}
 
 .clients-grid li:after,
 .testimonials-grid li:after {
@@ -8636,8 +8635,7 @@ body:not(.device-touch) .clients-grid li a {
   height: 0;
   top: auto;
   left: 0;
-  bottom: -1px;
-  border-bottom: 1px dashed #DDD; }
+  bottom: -1px;}
 
 /*-----------------------------------------------------------------------------------
 
@@ -8830,10 +8828,10 @@ body:not(.device-touch) .clients-grid li a {
 .team-image {
   position: relative; }
   .col_one_third .team{
-    min-height: 475px;
+    min-height: 490px;
   }
   .col_one_fourth .team{
-    min-height: 475px;
+    min-height: 490px;
   }
   .team{
     border: 1px solid #e1dede;
@@ -8872,8 +8870,7 @@ body:not(.device-touch) .clients-grid li a {
     width: 34px; }
 
 .team-title {
-  position: relative;
-  padding-top: 20px; }
+  position: relative;}
   .team-title h4 {
     display: block;
     margin-bottom: 0;
@@ -10690,7 +10687,6 @@ button.toast-close-button {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
     margin-right: 0;
   }
 
