@@ -400,8 +400,34 @@
                         <!-- <div class="heading-block fancy-title nobottomborder"> -->
                         <h4>Технические эксперты в наноиндустрии:</h4>
                     </div>
-
-                <div class="row">
+                    <ul>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Ежова Ольга Александровна</a><span> Старший научный сотрудник ФГАОУ ВО «ЮФУ»</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Панин Виталий Вячеславович</a><span> Начальник отдела ОАО «НИИТМ»</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Лукянчиков Максим Владимирович</a><span> Начальник лаборатории</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Гольцман Борис Евгеньевич</a><span> Руководитель группы АО «МИКРОН»</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Бурдин Юрий Сергеевич</a><span> Зам. начальника АО «Микрон»</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Нуйкин Андрей Валерьевич</a><span> Технический эксперт</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Горшкова Наталья Михайловна</a><span> Начальник лаборатории АО НПЦ «ЭЛВИС»</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Шадрова Елена Николаевна</a><span> Начальник техбюро АО «Ангстрем»</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Зуев Егор Владиславович</a><span> Инженер НИУ МИЭТ</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Вертянов Денис Васильевич</a><span> Руководитель УНЦ НИУ МИЭТ</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Косолапова Галина Викторовна</a><span> Старший преподаватель НИУ МИЭТ</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Журавлев Максим Николаевич</a><span> Доцент НИУ МИЭТ</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Егоров Александр Александрович</a><span> Руководитель ГТП АО «МИКРОН»</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Куликова Татьяна Валентиновна</a><span> Инженер ВГУ</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Косолапов Андрей Алексеевич</a><span> Инженер-конструктор АО «НТЦ ЭЛИНС»</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Кочурина Елена Сергеевна</a><span> Инженер-конструктор НИУ МИЭТ</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Меньшикова Татьяна Геннадьевна</a><span> Доцент ВГУ</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Богатиков Евгений Васильевич</a><span> Доцент ВГУ</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Шебанов Александо Николаевич</a><span> Ассистент кафедры ВГУ</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Николаенков Юрий Кимович</a><span> Доцент ВГУ</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Билданов Марат Амирович</a><span> Инженер-технолог АО «Микрон»</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Коняев Вадим Павлович</a><span> Начальник отдела АО «НИИ «Полюс»</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Лысенко Игорь Евгеньевич</a><span> Заведующий кафедрой ФГАОУ ВО «ЮФУ»</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Исаева Алина Сергеевна</a><span> Преподаватель ФГАОУ ВО «ЮФУ»</span></li>
+                        <li><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Денисенко Марк Анатольевич</a><span> Доцент ФГАОУ ВО «ЮФУ»</span></li>
+                    </ul>
+                <!-- <div class="row">
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
                             <div class="team-image">
@@ -779,7 +805,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <div class="clear"></div>
 
