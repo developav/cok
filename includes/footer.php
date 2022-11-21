@@ -10,7 +10,7 @@
 
 			<div class="col_half column__half">
 			<section id="google-map" class="gmap slider-parallax"></section>
-
+			
 				<div class="widget clearfix">
 
 					<div class="clearfix widget__contact" style="padding: 10px 0;">
