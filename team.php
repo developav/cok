@@ -56,7 +56,7 @@
                         <!-- <div class="heading-block fancy-title nobottomborder"> -->
                         <h4>Технические эксперты АО "НИИМЭ":</h4>
                     </div>
-                    <a href="regulationdocs/experts/expertslist.pdf"><b>Список экспертов по оценке и технических экспертов, аттестованных СПК в наноиндустрии</b></a>
+                    <!-- <a href="regulationdocs/experts/expertslist.pdf"><b>Список экспертов по оценке и технических экспертов, аттестованных СПК в наноиндустрии</b></a> -->
 
                 </div>
 
