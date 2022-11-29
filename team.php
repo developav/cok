@@ -385,10 +385,23 @@
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
                             <div class="team-image">
-                                <img src="images/team/glebova.jpg" alt="Averiev">
+                                <img src="images/team/glebova.jpg" alt="Glebova">
                             </div>
                             <div class="team-desc">
-                                <div class="team-title"><h4><a href="https://spknano.ru/eksperty-v-oblasti-otsenki-kvalifikatsii/">Глебова Евгения Вячеславовна</a></h4><span>Специалист АО «НИИМЭ»</span></div>
+                                <div class="team-title"><h4><a href="#">Глебова Евгения Вячеславовна</a></h4><span>Специалист АО «НИИМЭ»</span></div>
+                                <div class="team-content">
+                                    <p>Эксперт по оценке</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 bottommargin">
+                        <div class="team team-list clearfix">
+                            <div class="team-image">
+                                <img src="images/team/kozikova.jpeg" alt="Kozikova">
+                            </div>
+                            <div class="team-desc">
+                                <div class="team-title"><h4><a href="#">Козикова Екатерина Юрьевна</a></h4><span>Главный специалист АО «НИИМЭ»</span></div>
                                 <div class="team-content">
                                     <p>Эксперт по оценке</p>
                                 </div>
