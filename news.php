@@ -45,6 +45,163 @@
 
 					<div class="news__columns container clearfix">
 
+
+
+
+                      <!-- Posts
+						============================================= -->
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/061222.php"><img class="image_fade" src="images/news/grid/232.png" alt="image 061222"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="061222.php">Руководители и специалисты АО "НИИМЭ" приняли участие во встрече со студентами НИУ МИЭТ.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>06/12/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>5 декабря 2022г. в Институте проектирования приборов и систем НИУ МИЭТ состоялась встреча студентов 3 курса ИЭМС с руководителями и специалистами АО «НИИМЭ». Целью запланированного мероприятия было  <a href="/061222.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+
+
+                    <!-- Posts
+						============================================= -->
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/031222.php"><img class="image_fade" src="images/news/grid/231.png" alt="image 031222"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="031222.php">Сказано в Сенате. Генеральный директор Национального агентства развития квалификаций в программе Совета Федерации.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>03/12/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Генеральный директор Национального агентства развития квалификаций Артем Шадрин прокомментировал тему развития Национальной системы квалификаций и рынка труда в новых условиях экономики, а также озвучил передовые кейсы и практики внедрения  <a href="/031222.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+
+
+                    <!-- Posts
+						============================================= -->
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/301122.php"><img class="image_fade" src="images/news/grid/230.png" alt="image 301122"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="301122.php">ЦОК "НИИМЭ" принял участие в оценке квалификации студентов вузов Воронежа.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>29/10/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>На базе «Экзаменационного центра ВГУ» Центра оценки квалификаций АО «НИИМЭ» в рамках форума проходил демонстрационный экзамен по входным квалификациям в наноиндустрии для <a href="/301122.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                    <!-- Posts
+						============================================= -->
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/291122.php"><img class="image_fade" src="images/news/grid/229.png" alt="image 291122"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="291122.php">«Национальная система квалификаций России»: новый номер</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>29/11/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>В преддверии Форума НСК увидел свет № 3-4 журнала «Национальная система квалификаций России». «Наш новый номер посвящен ряду важных направлений и значимых событий в развитии Национальной системы квалификаций, а также <a href="/291122.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+
+
+                    <!-- Posts
+						============================================= -->
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/251022.php"><img class="image_fade" src="images/news/grid/228.png" alt="image 251022"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="251022.php">20 октября на площадке Алабушево Технополис «Москва» ОЭЗ «Технополис «Москва» прошел первый в Зеленограде HR-клуб.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>25/10/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Встреча была посвящена вопросам создания кадрового резерва в высокотехнологичных компаниях. Одним из спикеров мероприятия выступила <a href="/251022.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+
+                    <!-- Posts
+						============================================= -->
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/201022.php"><img class="image_fade" src="images/news/grid/227.png" alt="image 201022"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="201022.php">20 октября состоялось открытие Всероссийской конференции «Бизнес и образование: лучшие практики партнерства».</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>20/10/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>20 октября состоялось открытие Всероссийской конференции «Бизнес и образование: лучшие практики партнерства», организованной Национальным агентством развития квалификаций. Руководитель Национального агентства рассказал об <a href="/201022.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <!-- Posts
+						============================================= -->
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/171022.php"><img class="image_fade" src="images/news/grid/226.png" alt="image 171022"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="171022.php">ЦОК «НИИМЭ» принял участие в круглом столе по проблемам профессиональной подготовки рабочих для полупроводниковой промышленности Москвы.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>10/10/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>11 октября заместитель руководителя<a href="https://cok-niime.ru/" target="_blank">Центр оценки квалификаций НИИМЭ</a> Нина Забодаева и руководитель <a href="http://neo-niime.ru/" target="_blank">Учебного центра НИИМЭ</a> Наталья Степаненко приняли<a href="/171022.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
 						<!-- Posts
 						============================================= -->
                         <div id="posts" class="news__column col_full small-thumbs">

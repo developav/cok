@@ -280,71 +280,71 @@
 
                         <div class="entry__big-size entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/225.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/225.jpg" alt="image 101022"></a>
+                                <a href="images/news/full/232.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/232.png" alt="image 061222"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="/101022.php">Национальное агенство развития квалификаций проводит мониторинг рынка труда и приглашает к участию.</a></h2>
+                                <h2><a href="/061222.php">Руководители и специалисты АО "НИИМЭ" приняли участие во встрече со студентами НИУ МИЭТ.</a></h2>
                             </div>
                                 <ul class="entry-meta clearfix">
-                                    <li><i class="icon-calendar3"></i> 10/10/2022</li>
+                                    <li><i class="icon-calendar3"></i> 06/12/2022</li>
                                     <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                                 </ul>
                                 <div class="entry-content">
                                     <!-- <p>14 июля 2022 года на базе центра оценки квалификаций АО «НИИМЭ» прошло совещание с представителями Совета по профессиональным квалификациям в наноиндустрии: зам. председателя Совета Крюковой О.А. и секретарем Совета Ионовым С.А.</p> -->
-                                    <a href="/101022.php" class="more-link">Подробнее</a>
+                                    <a href="/061222.php" class="more-link">Подробнее</a>
                                 </div>
                         </div>
 
                         <div class="entry__big-size entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/224.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/224.jpg" alt="image 051022"></a>
+                                <a href="images/news/full/231.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/231.png" alt="image 031222"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="/051022.php">Одобрен план реализации приоритетных направлений развития НСК до 2024 года.</a></h2>
+                                <h2><a href="/031222.php">Сказано в Сенате. Генеральный директор Национального агентства развития квалификаций в программе Совета Федерации.</a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 05/10/2022</li>
+                                <li><i class="icon-calendar3"></i> 03/12/2022</li>
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
                                 <!-- <p>Целью конкурса является повышение престижа рабочих профессий и популяризация их среди молодежи, распространение актуального опыта и лучших практик подготовки кадров</p> -->
-                                <a href="/051022.php" class="more-link">Подробнее</a>
+                                <a href="/031222.php" class="more-link">Подробнее</a>
                             </div>
                         </div>
 
                         <div class="entry__big-size entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/223.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/223.jpg" alt="image 031022"></a>
+                                <a href="images/news/full/230.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/230.png" alt="image 301122"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="/031022.php">Национальное агенство развития квалификаций совместно с АНО "Россия-страна возможностей" инициировало проект "Компетенции XXI века: Формирование, Развитие, Оценка".</a></h2>
+                                <h2><a href="/301122.php">ЦОК "НИИМЭ" принял участие в оценке квалификации студентов вузов Воронежа.</a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 03/10/2022</li>
+                                <li><i class="icon-calendar3"></i> 30/11/2022</li>
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
                                 <!-- <p>ЦОК АО "НИИМЭ" приступил к разработке КОС для работников основного производства микросхем</p> -->
-                                <a href="/031022.php" class="more-link">Подробнее</a>
+                                <a href="/301122.php" class="more-link">Подробнее</a>
                             </div>
                         </div>
 
                         <div class="entry__big-size entry clearfix">
                             <div class="entry-image">
-                                <a href="images/news/full/222.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/222.jpg" alt="image 190922"></a>
+                                <a href="images/news/full/229.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/229.png" alt="image 291122"></a>
                             </div>
                             <div class="entry-title">
-                                <h2><a href="/190922.php">Состоялась рабочая встреча ЦОК НИИМЭ и ЭЦ КубГУ.</a></h2>
+                                <h2><a href="/291122.php">«Национальная система квалификаций России»: новый номер.</a></h2>
                             </div>
                             <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 19/9/2022</li>
+                                <li><i class="icon-calendar3"></i> 29/11/2022</li>
                                 <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
                             </ul>
                             <div class="entry-content">
                                 <!-- <p>Национальное агентство развития квалификаций и Союз журналистов России начинают прием работ на VI ежегодный конкурс публикаций о профессиональном образовании и рынке труда! </p> -->
                                
                             </div>
-                            <a href="/190922.php" class="more-link">Подробнее</a>
+                            <a href="/291122.php" class="more-link">Подробнее</a>
                         </div>
 
                     </div>
