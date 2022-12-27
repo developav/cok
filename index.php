@@ -55,7 +55,7 @@
 
                 <div class="swiper-container swiper-parent">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide dark" style="background-image: url('images/slider/1.png');">
+                        <div class="swiper-slide dark" style="background-image: url('images/slider/1.webp');">
                             <div class="container clearfix">
                                 <div class="slider-caption slider-caption-center">
                                     <h2 data-caption-animate="fadeInUp">Добро пожаловать</h2>
@@ -65,7 +65,7 @@
                             </div>
                         </div>
 
-                        <div class="swiper-slide" style="background-image: url('images/slider/3.png'); background-position: center top;">
+                        <div class="swiper-slide" style="background-image: url('images/slider/3.webp'); background-position: center top;">
                             <div class="container clearfix">
                                 <div class="slider-caption slider-caption-center">
                                     <a href="lawframe.php">
@@ -76,7 +76,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide" style="background-image: url('images/slider/22.png');">
+                        <div class="swiper-slide" style="background-image: url('images/slider/22.webp');">
                             <div class="container clearfix">
                                 <div class="slider-caption slider-caption-center">
                                     <a href="standards.php">
@@ -124,7 +124,7 @@
                             </div>
                         </div> -->
 
-                        <div class="swiper-slide" style="background-image: url('images/slider/6.png'); background-position: center top;">
+                        <div class="swiper-slide" style="background-image: url('images/slider/6.webp'); background-position: center top;">
                             <div class="container clearfix">
                                 <div class="slider-caption slider-caption-center">
                                     <a href="standards.php">
@@ -277,6 +277,24 @@
                                 <a href="news3.php" class="more-link">Далее</a>
                             </div>
                         </div> -->
+                        <div class="entry__big-size entry clearfix">
+                            <div class="entry-image">
+                                <a href="images/news/full/233.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/233.jpg" alt="image 211222"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="/211222.php">Операторы и наладчики АО «Микрон» прошли оценку квалификации в ЦОК «НИИМЭ»</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 21/12/2022</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <!-- <p>Национальное агентство развития квалификаций и Союз журналистов России начинают прием работ на VI ежегодный конкурс публикаций о профессиональном образовании и рынке труда! </p> -->
+                               
+                            </div>
+                            <a href="/211222.php" class="more-link">Подробнее</a>
+                        </div>
+
 
                         <div class="entry__big-size entry clearfix">
                             <div class="entry-image">
@@ -327,24 +345,6 @@
                                 <!-- <p>ЦОК АО "НИИМЭ" приступил к разработке КОС для работников основного производства микросхем</p> -->
                                 <a href="/301122.php" class="more-link">Подробнее</a>
                             </div>
-                        </div>
-
-                        <div class="entry__big-size entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/229.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/229.png" alt="image 291122"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="/291122.php">«Национальная система квалификаций России»: новый номер.</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 29/11/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <!-- <p>Национальное агентство развития квалификаций и Союз журналистов России начинают прием работ на VI ежегодный конкурс публикаций о профессиональном образовании и рынке труда! </p> -->
-                               
-                            </div>
-                            <a href="/291122.php" class="more-link">Подробнее</a>
                         </div>
 
                     </div>

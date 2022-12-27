@@ -47,6 +47,29 @@
 
 
 
+                         <!-- Posts
+						============================================= -->
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/211222.php"><img class="image_fade" src="images/news/grid/233.jpg" alt="image 211222"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="211222.php">Операторы и наладчики АО «Микрон» прошли оценку квалификации в ЦОК «НИИМЭ»</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>21/12/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>С целью популяризации рабочих специальностей и поднятия престижа рабочей профессии центр оценки квалификаций АО «НИИМЭ» и АО «Микрон» провели  <a href="/211222.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+
+
 
                       <!-- Posts
 						============================================= -->
@@ -92,30 +115,28 @@
                             </div>
                         </div><!-- #posts end -->
 
-
-
-                    <!-- Posts
+                        <!-- Posts
 						============================================= -->
                         <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
-                                    <a href="/301122.php"><img class="image_fade" src="images/news/grid/230.png" alt="image 301122"></a>
+                                    <a href="/3011222.php"><img class="image_fade" src="images/news/grid/234.png" alt="image 3011222"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
                                     <div class="entry-title">
-                                        <h2><a href="301122.php">ЦОК "НИИМЭ" принял участие в оценке квалификации студентов вузов Воронежа.</a></h2>
+                                        <h2><a href="3011222.php">ЦОК «НИИМЭ» разработал комплекты оценочных средств для рабочих специальностей в микроэлектронике.</a></h2>
                                     </div>
                                     <ul class="entry-meta clearfix" style="height: 30px">
-                                        <li><i class="icon-calendar3"></i>29/10/2022</li>
+                                        <li><i class="icon-calendar3"></i>30/11/2022</li>
                                     </ul>
                                     <div class="entry-content col_last">
-                                        <p>На базе «Экзаменационного центра ВГУ» Центра оценки квалификаций АО «НИИМЭ» в рамках форума проходил демонстрационный экзамен по входным квалификациям в наноиндустрии для <a href="/301122.php" class="more-link"> (Дальше...)</a></p>
+                                        <p>В ноябре 2022 года ЦОК АО "НИИМЭ" завершил разработку КОС для Рабочих специальностей производственных участков изготовления изделий микроэлектроники. Комплекты оценочных средств ориентированы <a href="/3011222.php" class="more-link"> (Дальше...)</a></p>
                                     </div>
                                 </div>
                             </div>
                         </div><!-- #posts end -->
 
-                    <!-- Posts
+                        <!-- Posts
 						============================================= -->
                         <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
@@ -137,6 +158,68 @@
                         </div><!-- #posts end -->
 
 
+                         <!-- Posts
+						============================================= -->
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/151122.php"><img class="image_fade" src="images/news/grid/236.png" alt="image 151122"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="151122.php">Заключено Соглашение о сотрудничестве и взаимодействии в сфере развития кадрового потенциала микро- и наноэлектроники и независимой оценки качества подготовки специалистов в вузах.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>15/11/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>15. 11. 2022 года заключено Соглашение о сотрудничестве и взаимодействии в сфере развития кадрового потенциала микро- и наноэлектроники и независимой оценки качества подготовки специалистов в вузах. (5-ти стороннее соглашение:  <a href="/151122.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+                    <!-- Posts
+						============================================= -->
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/301122.php"><img class="image_fade" src="images/news/grid/230.png" alt="image 301122"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="301122.php">ЦОК "НИИМЭ" принял участие в оценке квалификации студентов вузов Воронежа.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>29/10/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>На базе «Экзаменационного центра ВГУ» Центра оценки квалификаций АО «НИИМЭ» в рамках форума проходил демонстрационный экзамен по входным квалификациям в наноиндустрии для <a href="/301122.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                    
+                         <!-- Posts
+						============================================= -->
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/281022.php"><img class="image_fade" src="images/news/grid/235.png" alt="image 281022"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="281022.php">ЦОК "НИИМЭ" принял участие в оценке квалификации студентов вузов Воронежа.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>28/10/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>На базе «Экзаменационного центра ВГУ» Центра оценки квалификаций АО «НИИМЭ» в рамках форума проходил демонстрационный экзамен по входным квалификациям в наноиндустрии для <a href="/281022.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
 
                     <!-- Posts
 						============================================= -->
