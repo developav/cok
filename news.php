@@ -209,7 +209,7 @@
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
                                     <div class="entry-title">
-                                        <h2><a href="281022.php">ЦОК "НИИМЭ" принял участие в оценке квалификации студентов вузов Воронежа.</a></h2>
+                                        <h2><a href="281022.php">ЦОК «НИИМЭ» выступил организатором мероприятия по теме «От идеи до реализации» для студентов и преподавателей Кубанского государственного университета.</a></h2>
                                     </div>
                                     <ul class="entry-meta clearfix" style="height: 30px">
                                         <li><i class="icon-calendar3"></i>28/10/2022</li>
