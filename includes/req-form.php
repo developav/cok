@@ -5,7 +5,8 @@ require_once('phpmailer/PHPMailerAutoload.php');
 $toemails = array();
  
 $toemails[] = array(
-				'email' => 'info@cok-niime.ru, dpavlov@niime.ru', // Your Email Address
+				'email' => 'info@cok-niime.ru', // Your Email Address
+				'email' => 'dpavlov@niime.ru', // Your Email Address
 				'name' => 'COK NIME' // Your Name
 			);
 
