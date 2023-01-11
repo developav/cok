@@ -6,7 +6,6 @@ $toemails = array();
 
 $toemails[] = array(
 				'email' => 'info@cok-niime.ru', // Your Email Address
-				'email' => 'dpavlov@niime.ru', // Your Email Address
 				'name'  => 'COK NIIME' // Your Name
 			);
  
