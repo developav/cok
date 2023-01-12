@@ -58,7 +58,7 @@
 
 					<div class="quick-contact-form-result"></div>
 
-					<form id="quick-contact-form" name="quick-contact-form" action="/includes/sendmail.php" method="POST" class="quick-contact-form nobottommargin">
+					<form id="quick-contact-form" name="quick-contact-form" action="sendmail.php" method="POST" class="quick-contact-form nobottommargin">
 
 						<div class="form-process"></div>
 

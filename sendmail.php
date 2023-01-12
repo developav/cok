@@ -11,7 +11,8 @@
 	$mail->CharSet = 'UTF-8';
 	$mail->setLanguage('ru', 'phpmailer/language/');
 	$mail->isHTML(true);
-    $mail->isSMTP();                                            //Send using SMTP
+    $mail->isSMTP();    
+	$mail->SMTPDebug = 2;                                        //Send using SMTP
     $mail->Host       = 'smtp.timeweb.ru';                     //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
     $mail->Username   = 'mail@cb90059.tmweb.ru';                     //SMTP username
