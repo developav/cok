@@ -14,13 +14,13 @@
     $mail->isSMTP();                                            //Send using SMTP
     $mail->Host       = 'mail.nic.ru';                     //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'info@cok-niime.nichost.ru';                     //SMTP username
+    $mail->Username   = 'info@cok-niime.ru';                     //SMTP username
     $mail->Password   = '09October2018';                               //SMTP password
     $mail->SMTPSecure = 'ssl';            //Enable implicit TLS encryption
     $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
 	// От кого письмо
-	$mail->setFrom('info@cok-niime.nichost.ru');
+	$mail->setFrom('info@cok-niime.ru');
 	// Кому отправить
 	$mail->addAddress('dpavlov@niime.ru');
 	// Тема письма
