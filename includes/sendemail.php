@@ -28,7 +28,7 @@ $mail->SMTPDebug = 0;
 $mail->SMTPAuth = true;
 $mail->Port = 587;
 $mail->Username = "info@cok-niime.nichost.ru"; //nichost.
-$mail->Password = "23eZU2dP2Rwyk";
+$mail->Password = "09October2018";
 
 
 if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
