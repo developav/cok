@@ -58,17 +58,17 @@
 
 					<div class="quick-contact-form-result"></div>
 
-					<form id="quick-contact-form" name="quick-contact-form" action="/include/sendmail.php" method="POST" class="quick-contact-form nobottommargin">
+					<form id="quick-contact-form" name="quick-contact-form" action="/includes/sendmail.php" method="POST" class="quick-contact-form nobottommargin">
 
 						<div class="form-process"></div>
 
 						<div class="input-group divcenter">
-							<input type="text" class="required form-control input-block-level" id="quick-contact-form-name" name="quick-contact-form-name" value="" placeholder="Имя..." />
+							<input type="text" class="required form-control input-block-level" id="quick-contact-form-name" name="name" value="" placeholder="Имя..." />
 						</div>
 						<div class="input-group divcenter">
-							<input type="text" class="required form-control email input-block-level" id="quick-contact-form-email" name="quick-contact-form-email" value="" placeholder="Ваш Email..." />
+							<input type="text" class="required form-control email input-block-level" id="quick-contact-form-email" name="email" value="" placeholder="Ваш Email..." />
 						</div>
-						<textarea class="required form-control input-block-level short-textarea" id="quick-contact-form-message" name="quick-contact-form-message" rows="4" cols="30" placeholder="Сообщение..."></textarea>
+						<textarea class="required form-control input-block-level short-textarea" id="quick-contact-form-message" name="message" rows="4" cols="30" placeholder="Сообщение..."></textarea>
 						<input type="text" class="hidden" id="quick-contact-form-botcheck" name="quick-contact-form-botcheck" value="" />
 						<button type="submit" id="quick-contact-form-submit" name="quick-contact-form-submit" class="btn btn-danger nomargin" value="submit">Отправить</button>
 
