@@ -12,17 +12,18 @@
 	$mail->setLanguage('ru', 'phpmailer/language/');
 	$mail->isHTML(true);
     $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'mail.nic.ru';                     //Set the SMTP server to send through
+    $mail->Host       = 'smtp.timeweb.ru';                     //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'info@cok-niime.ru';                     //SMTP username
-    $mail->Password   = '09October2018';                               //SMTP password
+    $mail->Username   = 'mail@cb90059.tmweb.ru';                     //SMTP username
+    $mail->Password   = 'Frontdeveloper1!';                               //SMTP password
     $mail->SMTPSecure = 'ssl';            //Enable implicit TLS encryption
-    $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+    $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
 	// От кого письмо
-	$mail->setFrom('info@cok-niime.ru');
+	$mail->setFrom('mail@cb90059.tmweb.ru');
 	// Кому отправить
 	$mail->addAddress('dpavlov@niime.ru');
+	$mail->addAddress('developavlov@ya.ru');
 	// Тема письма
 	$mail->Subject = 'ЦОК "НИИМЭ"';
 
@@ -35,8 +36,8 @@
 	if(trim(!empty($_POST['email']))){
 		$body.='<p><strong>Email:</strong> '.$_POST['email'].'</p>';
 	}
-	if(trim(!empty($_POST['message']))){
-		$body.='<p><strong>Message:</strong> '.$_POST['message'].'</p>';
+	if(trim(!empty($_POST['descr']))){
+		$body.='<p><strong>Message:</strong> '.$_POST['descr'].'</p>';
 	}
 
 	$mail->Body = $body;

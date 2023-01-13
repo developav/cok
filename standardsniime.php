@@ -522,7 +522,7 @@
 
 										<div class="contact-form-result"></div>
 
-										<form class="nobottommargin" id="template-contactform" name="template-contactform" action="includes/req-form.php" method="post">
+										<form class="nobottommargin" id="template-contactform" name="template-contactform" action="sendmail.php" method="post">
 
 											<div class="form-process"></div>
 
