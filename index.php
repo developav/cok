@@ -279,6 +279,23 @@
                         </div> -->
                         <div class="entry__big-size entry clearfix">
                             <div class="entry-image">
+                                <a href="images/news/full/237.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/237.jpg" alt="image 100123"></a>
+                            </div>
+                            <div class="entry-title">
+                                <h2><a href="/100123.php">У нашего Совета новое название!</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><i class="icon-calendar3"></i> 10/01/2023</li>
+                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+                            </ul>
+                            <div class="entry-content">
+                                <!-- <p>ЦОК АО "НИИМЭ" приступил к разработке КОС для работников основного производства микросхем</p> -->
+                                <a href="/100123.php" class="more-link">Подробнее</a>
+                            </div>
+                        </div>
+
+                        <div class="entry__big-size entry clearfix">
+                            <div class="entry-image">
                                 <a href="images/news/full/233.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/233.jpg" alt="image 211222"></a>
                             </div>
                             <div class="entry-title">
@@ -330,22 +347,7 @@
                             </div>
                         </div>
 
-                        <div class="entry__big-size entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/230.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/230.png" alt="image 301122"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="/301122.php">ЦОК "НИИМЭ" принял участие в оценке квалификации студентов вузов Воронежа.</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 30/11/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <!-- <p>ЦОК АО "НИИМЭ" приступил к разработке КОС для работников основного производства микросхем</p> -->
-                                <a href="/301122.php" class="more-link">Подробнее</a>
-                            </div>
-                        </div>
+                        
 
                     </div>
                 </div><!-- end news block -->
