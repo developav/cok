@@ -23,7 +23,8 @@
 	$mail->setFrom('mail@cb90059.tmweb.ru');
 	// Кому отправить
 	$mail->addAddress('dpavlov@niime.ru');
-	$mail->addAddress('developavlov@ya.ru');
+	$mail->addAddress('ekozikova@niime.ru');
+	$mail->addAddress('eglebova@niime.ru');
 	// Тема письма
 	$mail->Subject = 'ЦОК "НИИМЭ"';
 
