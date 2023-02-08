@@ -73,7 +73,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standarts_spk/ПС_245/40.05800.02 (6 уровень).pdf">40.05800.02 Инженер-технолог по производству изделий микроэлектроники III категории (6 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standarts_spk/ПС_245/40.05800.03 (7 уровень).pdf">40.05800.03 Инженер-технолог по производству изделий микроэлектроники II категории (7 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standarts_spk/ПС_245/40.05800.04 (7 уровень).pdf">40.05800.04 Инженер-технолог по производству изделий микроэлектроники I категории (7 уровень квалификации)</a></li>
-												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps21-exam-demo.pptx"> Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
+												<li><i class="icon-file"></i><a href="#"> Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 											<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
 										</div>
@@ -97,7 +97,7 @@
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standarts_spk/ПС_102/06.00500.04.pdf">06.00500.04 Инженер-электроник III категории (5 уровень квалификации)</a></li>
                                                 <li><i class="icon-file"></i><a href="regulationdocs/standarts_spk/ПС_102/06.00500.05.pdf">06.00500.05 Инженер-электроник II категории (6 уровень)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standarts_spk/ПС_102/06.00500.06.pdf">06.00500.06 Инженер-электроник I категории (7 уровень)</a></li>
-                                                <li><i class="icon-file"></i><a href="regulationdocs/standards/ps24-exam-demo.pptx"> Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
+                                                <li><i class="icon-file"></i><a href="#"> Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
                                             </ul>
                                             <a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
                                         </div>
@@ -122,7 +122,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standarts_spk/ПС_1286/40.20100.02.pdf">40.20100.02 Контролер радиоэлектронной аппаратуры и приборов 4-го разряда (3 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standarts_spk/ПС_1286/40.20100.03.pdf">40.20100.03 Контролер радиоэлектронной аппаратуры и приборов 5-го разряда (4 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standarts_spk/ПС_1286/40.20100.04.pdf">40.20100.04 Контролер радиоэлектронной аппаратуры и приборов 6-го разряда (4 уровень квалификации)</a></li>
-												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps26-exam-demo.pptx"> Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
+												<li><i class="icon-file"></i><a href="#"> Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
@@ -148,7 +148,7 @@
 												<li><i class="icon-file"></i><a href="regulationdocs/standarts_spk/ПС_1281/40.19600.02.pdf">40.19600.02 Сборщик микросхем 4-го разряда (3 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standarts_spk/ПС_1281/40.19600.03.pdf">40.19600.03 Сборщик микросхем 5-го разряда (4 уровень квалификации)</a></li>
 												<li><i class="icon-file"></i><a href="regulationdocs/standarts_spk/ПС_1281/40.19600.04.pdf">40.19600.04 Сборщик микросхем 6-го разряда (4 уровень квалификации)</a></li>
-												<li><i class="icon-file"></i><a href="regulationdocs/standards/ps85-exam-demo.pptx">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
+												<li><i class="icon-file"></i><a href="#">Демо-версия экзамена в формате Microsoft PowerPoint</a></li>
 											</ul>
 										</div>
 										<a href="#" data-scrollto="#req-apply" class="button button-3d button-small notopmargin">Подать заявку</a>
