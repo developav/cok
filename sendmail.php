@@ -25,6 +25,7 @@
 	$mail->addAddress('dpavlov@niime.ru');
 	$mail->addAddress('ekozikova@niime.ru');
 	$mail->addAddress('eglebova@niime.ru');
+	$mail->addAddress('nzabodaeva@niime.ru');
 	// Тема письма
 	$mail->Subject = 'ЦОК "НИИМЭ"';
 

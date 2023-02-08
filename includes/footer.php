@@ -1,6 +1,6 @@
 <!-- Footer
 ============================================= -->
-<footer id="footer" class="dark">
+<footer id="footer" class="dark footer-head">
 
 	<div class="container">
 
@@ -9,7 +9,7 @@
 		<div class="footer-widgets-wrap clearfix">
 
 			<div class="col_half column__half">
-			<section id="google-map" class="gmap slider-parallax"></section>
+			<section id="google-map" class="gmap"></section>
 			
 				<div class="widget clearfix">
 
@@ -99,10 +99,7 @@
 			<div class="col_half col_last tright">
 				<div class="fright clearfix">
 					<div class="copyrights-menu copyright-links nobottommargin">
-						<a href="./index.php">Главная</a>/
-						<!-- <a href="#">Услуги</a>/ -->
-						<!-- <a href="./projects.php">Проекты</a>/ -->
-						<!-- <a href="#">FAQs</a>/ -->
+						<a href="./index.php">Главная</a>
 						<a href="./contacts.php">Контакты</a>
 					</div>
 				</div>
