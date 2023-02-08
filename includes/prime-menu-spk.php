@@ -27,39 +27,22 @@
 			<ul>
 				<li><a href="#"><div>О центре</div></a>
 					<ul>
-						<li><a href="/goals.php"><div>Цели и задачи</div></a></li>
-						<li><a href="/lawframe.php"><div>Законодательная база</div></a></li>
-						<li><a href="/cokdocs.php"><div>Документы центра</div></a></li>
-						<li><a href="#"><div>Профессиональные стандарты</div></a>
-							<ul>
-								<li><a href="/standards.php"><div>Общая информация</div></a></li>
-								<li><a href="/standardsniime.php"><div>Оценка в НИИМЭ: Профессиональные стандарты</div></a></li>
-							</ul>
-						</li>
-                        <li><a href="/centers.php"><div>Экзаменационные&nbsp;центры</div></a></li>
-						<li><a href="/profession.php"><div>Вход в профессию</div></a></li>
-						<li><a href="/team.php"><div>Наша команда</div></a></li>
-						<li><a href="/news.php"><div>Новости</div></a></li>
-						<li><a href="/contacts.php"><div>Контакты</div></a></li>
+						<li><a href="/goals_spk.php"><div>Цели и задачи</div></a></li>
+						<li><a href="/lawframe_spk.php"><div>Законодательная база</div></a></li>
+						<li><a href="/cokdocs_spk.php"><div>Документы центра</div></a></li>
+						<li><a href="/standardsniime_spk.php"><div>Профессиональные стандарты</div></a></li>
+						<li><a href="/team_spk.php"><div>Наша команда</div></a></li>
+						<li><a href="/contacts_spk.php"><div>Контакты</div></a></li>
 					</ul>
 				</li>
 				<li><a href="#"><div>Услуги</div></a>
 					<ul>
-						<li><a href="/candidate.php"><div><i class="icon-stackoverflow"></i>Соискателю</div></a></li>
-						<li><a href="/employer.php"><div><i class="icon-line-head"></i>Работодателю</div></a></li>
-						<li><a href="/expertpage.php"><div><i class="icon-params"></i>Эксперту</div></a></li>
+						<li><a href="/candidate_spk.php"><div><i class="icon-stackoverflow"></i>Соискателю</div></a></li>
+						<li><a href="/employer_spk.php"><div><i class="icon-line-head"></i>Работодателю</div></a></li>
 					</ul>
 				</li>
-				<!--<li class="mega-menu"><a href="./projects.php"><div>Экзаменационные центры</div></a></li>-->
-				<li><a href="/partners.php"><div>Партнеры</div></a></li>
-                <li><a href="/news.php"><div>Новости</div></a>
-                    <!--<ul>
-                        <li><a href="/blog.php"><div>Блог</div></a></li>
-                    </ul>-->
-                </li>
-                <li><a href="/blog.php"><div>Блог</div></a></li>
-				<li><a href="/contacts.php"><div>Контакты</div></a></li>
-				<li><a href="standardsniime.php#req-apply"><div>Подать заявку</div></a></li>
+				<li><a href="/contacts_spk.php"><div>Контакты</div></a></li>
+				<li><a href="standardsniime_spk.php#req-apply"><div>Подать заявку</div></a></li>
 			</ul>
 
 			<!-- Top Search
