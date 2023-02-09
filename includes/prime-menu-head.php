@@ -1,12 +1,12 @@
 <div id="header-wrap">
 
-<div class="container clearfix">
+<div class="container clearfix header__nav-bar">
 
 	<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
 
 	<!-- Logo
 	============================================= -->
-	<div id="logo">
+	<div  class="logo first-page__logo">
 		<a href="/index.php" class="standard-logo">
 			
 			<svg width="170" height="90" viewBox="0 0 390 187" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
