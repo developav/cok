@@ -72,22 +72,10 @@
                                 <div class="team-title"><h4><a href="#">Поликарпова Лилиана Владимировна</a>
                                     </h4><span>Руководитель Центра оценки квалификаций АО «НИИМЭ»</span></div>
                                 <div class="team-content">
-                                    <p>Член Совета по профессиональным квалификациям в наноиндустрии
+                                    <p>Член Совета по профессиональным квалификациям в сфере нанотехнологий и микроэлектроники
                                         <br>Зам.генерального директора по организационному развитию и управлению персоналом АО «НИИМЭ»
                                         <br>Эксперт по оценке</p>
                                 </div>
-                                <!--<a href="#" class="social-icon si-rounded si-small si-facebook">
-                                    <i class="icon-facebook"></i>
-                                    <i class="icon-facebook"></i>
-                                </a>
-                                <a href="#" class="social-icon si-rounded si-small si-twitter">
-                                    <i class="icon-twitter"></i>
-                                    <i class="icon-twitter"></i>
-                                </a>
-                                <a href="#" class="social-icon si-rounded si-small si-gplus">
-                                    <i class="icon-gplus"></i>
-                                    <i class="icon-gplus"></i>
-                                </a>-->
                             </div>
                         </div>
 
@@ -110,8 +98,6 @@
                 </div>
 
                 <div class="row">
-
-                    <!--// Жукалин Дмитрий Алексеевич- руководитель экзаменационного центра Воронежского государственного университета -->
                     <div class="col-md-6 bottommargin">
                         <div class="team team-list clearfix">
                             <div class="team-image">
@@ -141,20 +127,6 @@
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="col-md-6 bottommargin">
-                        <div class="team team-list clearfix">
-                            <div class="team-image">
-                                <img src="images/team/smirnova.jpg" alt="Smirnova">
-                            </div>
-                            <div class="team-desc">
-                                <div class="team-title"><h4><a href="#">Смирнова Екатерина Юрьевна</a></h4><span>Специалист по оценке ЦОК</span></div>
-                                <div class="team-content">
-                                    <p>Эксперт по оценке</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-
                 </div>
 
                 <div class="row">
