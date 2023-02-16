@@ -15,7 +15,7 @@
 <link rel="stylesheet" href="/css/magnific-popup.css" type="text/css" />
 <link rel="stylesheet" href="/css/responsive.css" type="text/css" />
 <link rel="stylesheet" href="/css/styleInfograph.css" type="text/css" />
-<link rel="stylesheet" href="/css/stylehead.css" type="text/css" />
+<link rel="stylesheet" href="/css/style_spk.css" type="text/css" />
 <link rel="stylesheet" href="/css/media.css" type="text/css" />
 
 
