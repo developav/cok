@@ -26,6 +26,7 @@
 	<nav id="primary-menu">
 
 		<ul>
+			<li><a href="/news.php"><div>Новости</div></a></li>
 			<li><a href="/contacts.php"><div>Контакты</div></a></li>
 			<li><a href="standardsniime.php#req-apply"><div>Подать заявку</div></a></li>
 		</ul>
