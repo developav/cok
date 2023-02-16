@@ -2,7 +2,7 @@
 <html dir="ltr" lang="ru">
 
 <head>
-    <!-- Yandex.Metrika counter -->
+    <!-- Yandex.Metrika counter
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
    m[i].l=1*new Date();
@@ -16,8 +16,8 @@
         accurateTrackBounce:true,
         webvisor:true
    });
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/91453245" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</script> -->
+<!-- <noscript><div><img src="https://mc.yandex.ru/watch/91453245" style="position:absolute; left:-9999px;" alt="" /></div></noscript> -->
 <!-- /Yandex.Metrika counter -->
     <?php include "includes/head-meta.php"; ?>
 
@@ -167,88 +167,6 @@
                         </ul>
                     </div>
                 </div>
-
-                <!-- news block -->
-                <div class="container clearfix topmargin nobottommargin">
-
-                    <div class="clear"></div>
-
-                    <div id="cok_news" class="heading-block center">
-                        <h3><a href="/news.php">Новости</a></h3>
-                        <!--<span>Доп текст в заголовке блока новостей</span>-->
-                    </div>
-                    <!-- id="posts" class="post-grid grid-container clearfix" -->
-                    <div class="news__group"  data-layout="fitRows">
-
-                        <div class="entry__big-size entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/237.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/237.jpg" alt="image 100123"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="/100123.php">У нашего Совета новое название!</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 10/01/2023</li>
-                            </ul>
-                            <div class="entry-content">
-                                <a href="/100123.php" class="more-link">Подробнее</a>
-                            </div>
-                        </div>
-
-                        <div class="entry__big-size entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/233.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/233.jpg" alt="image 211222"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="/211222.php">Операторы и наладчики АО «Микрон» прошли оценку квалификации в ЦОК «НИИМЭ»</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 21/12/2022</li>
-                            </ul>
-                            <div class="entry-content">
-                                <a href="/211222.php" class="more-link">Подробнее</a>
-                            </div>
-                        </div>
-
-
-                        <div class="entry__big-size entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/232.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/232.png" alt="image 061222"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="/061222.php">Руководители и специалисты АО "НИИМЭ" приняли участие во встрече со студентами НИУ МИЭТ.</a></h2>
-                            </div>
-                                <ul class="entry-meta clearfix">
-                                    <li><i class="icon-calendar3"></i> 06/12/2022</li>
-                                    <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                                </ul>
-                                <div class="entry-content">
-                                    <!-- <p>14 июля 2022 года на базе центра оценки квалификаций АО «НИИМЭ» прошло совещание с представителями Совета по профессиональным квалификациям в наноиндустрии: зам. председателя Совета Крюковой О.А. и секретарем Совета Ионовым С.А.</p> -->
-                                    <a href="/061222.php" class="more-link">Подробнее</a>
-                                </div>
-                        </div>
-
-                        <div class="entry__big-size entry clearfix">
-                            <div class="entry-image">
-                                <a href="images/news/full/231.png" data-lightbox="image"><img class="image_fade" src="images/news/grid/231.png" alt="image 031222"></a>
-                            </div>
-                            <div class="entry-title">
-                                <h2><a href="/031222.php">Сказано в Сенате. Генеральный директор Национального агентства развития квалификаций в программе Совета Федерации.</a></h2>
-                            </div>
-                            <ul class="entry-meta clearfix">
-                                <li><i class="icon-calendar3"></i> 03/12/2022</li>
-                                <!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-                            </ul>
-                            <div class="entry-content">
-                                <!-- <p>Целью конкурса является повышение престижа рабочих профессий и популяризация их среди молодежи, распространение актуального опыта и лучших практик подготовки кадров</p> -->
-                                <a href="/031222.php" class="more-link">Подробнее</a>
-                            </div>
-                        </div>
-
-                        
-
-                    </div>
-                </div><!-- end news block -->
 
                 <!-- Team -->
                 <div class="section notopmargin nobottommargin">

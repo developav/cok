@@ -48,6 +48,82 @@
                     <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/150223.php"><img class="image_fade" src="images/news/grid/242.jpg" alt="image 150223"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/150223.php">ЦОК и тенденции развития сферы независимой оценки.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>15/02/2023</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>13-14 февраля наши коллеги прошли обучение «Организация деятельности центров оценки квалификаций», проводимое <a href="/150223.php" class="more-link">(Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                    <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/030223.php"><img class="image_fade" src="images/news/grid/241.jpg" alt="image 030223"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/030223.php">Решение о создании нового центра оценки квалификаций на базе АО «НИИМЭ»</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>03/02/2023</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>30 декабря 2022г. на заседании Совета по квалификациям (СПК) в области промышленной электроники и приборостроения было принято решение о создании нового <a href="/030223.php" class="more-link">(Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                    <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/020223.php"><img class="image_fade" src="images/news/grid/240.jpg" alt="image 020223"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/020223.php">Как не волноваться, если ты волна, и как не колебаться в мире колебаний?</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>02/02/2023</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Руководитель Экзаменационного центра ЦОК НИИМЭ в ВГУ Дмитрий Жукалин отвечает на вопросы науки, которые <a href="/020223.php" class="more-link">(Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+                    
+                    <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/240123.php"><img class="image_fade" src="images/news/grid/239.jpg" alt="image 240123"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/240123.php">Рассказываем, как происходит процесс прохождения НОК.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>24/01/2023</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Экзамен проводится с целью установления знаний, умений и навыков, отвечающих требованиям конкретной <a href="/240123.php" class="more-link">(Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                    <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/100123.php"><img class="image_fade" src="images/news/grid/237.jpg" alt="image 100123"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
@@ -59,6 +135,25 @@
                                     </ul>
                                     <div class="entry-content col_last">
                                         <p><strong>У нашего Совета новое название!</strong> Национальный совет при Президенте РФ по профессиональным квалификациям (НСПК) одобрил внесение  <a href="/100123.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- #posts end -->
+
+                        <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="090123.php"><img class="image_fade" src="images/news/grid/238.jpg" alt="image 090123"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="090123.php">Представлен фрагмент выступления руководителя Центра оценки квалификаций НИИМЭ.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>09/01/2023</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p><strong>Представлен фрагмент выступления руководителя Центра оценки квалификаций НИИМЭ Лилианы Поликарповой в рамках выставки "Электроника России".<a href="090123.php" class="more-link"> (Дальше...)</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -85,6 +180,7 @@
                             </div>
                         </div><!-- #posts end -->
 
+                        
 
 
 

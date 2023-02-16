@@ -41,6 +41,7 @@
 						<li><a href="/employer_spk.php"><div><i class="icon-line-head"></i>Работодателю</div></a></li>
 					</ul>
 				</li>
+				<li><a href="/news.php"><div>Новости</div></a></li>
 				<li><a href="/contacts_spk.php"><div>Контакты</div></a></li>
 				<li><a href="standardsniime_spk.php#req-apply"><div>Подать заявку</div></a></li>
 			</ul>
