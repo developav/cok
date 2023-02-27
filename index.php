@@ -68,6 +68,23 @@
 					<!-- id="posts" class="post-grid grid-container clearfix" -->
 					<div class="news__group"  data-layout="fitRows">
 
+					<div class="entry__big-size entry clearfix">
+							<div class="entry-image">
+								<a href="images/news/full/243.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/243.jpg" alt="image 200223"></a>
+							</div>
+							<div class="entry-title">
+								<h2><a href="/200223.php">Стартовал Конкурс «Национальная система квалификаций» для журналистов, СМИ, социальных медиа.</a></h2>
+							</div>
+							<ul class="entry-meta clearfix">
+								<li><i class="icon-calendar3"></i> 20/02/2023</li>
+								<!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+							</ul>
+							<div class="entry-content">
+								<!-- <p>Целью конкурса является повышение престижа рабочих профессий и популяризация их среди молодежи, распространение актуального опыта и лучших практик подготовки кадров</p> -->
+								<a href="/200223.php" class="more-link">Подробнее</a>
+							</div>
+						</div>
+
 						<div class="entry__big-size entry clearfix">
 							<div class="entry-image">
 								<a href="images/news/full/242.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/242.jpg" alt="image 100123"></a>
@@ -116,22 +133,7 @@
 								</div>
 						</div>
 
-						<div class="entry__big-size entry clearfix">
-							<div class="entry-image">
-								<a href="images/news/full/238.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/238.jpg" alt="image 031222"></a>
-							</div>
-							<div class="entry-title">
-								<h2><a href="/090123.php">Представлен фрагмент выступления руководителя Центра оценки квалификаций НИИМЭ Лилианы Поликарповой в рамках выставки "Электроника России".</a></h2>
-							</div>
-							<ul class="entry-meta clearfix">
-								<li><i class="icon-calendar3"></i> 09/01/2023</li>
-								<!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-							</ul>
-							<div class="entry-content">
-								<!-- <p>Целью конкурса является повышение престижа рабочих профессий и популяризация их среди молодежи, распространение актуального опыта и лучших практик подготовки кадров</p> -->
-								<a href="/090123.php" class="more-link">Подробнее</a>
-							</div>
-						</div>
+						
 
 						
 
