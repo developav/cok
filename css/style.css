@@ -818,7 +818,7 @@ body.stretched .container-fullwidth {
   padding-top: 100px; }
 
 #header.full-header {
-  border-bottom-color: #ffffff; }
+  border-bottom-color: #ffffff;}
 
 body.stretched #header.full-header .container {
   padding: 0 30px; }
@@ -1790,6 +1790,10 @@ body.top-search-open #top-account {
   transform: translate3d(0, 0, 0);
   -webkit-perspective: 1000px;
   -webkit-backface-visibility: hidden; }
+
+.header__wrap-spk {
+  box-shadow: 0 0 15px #4197a6;
+}
 
 #header.sticky-header #header-wrap {
   position: fixed;
