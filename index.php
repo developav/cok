@@ -32,7 +32,7 @@
 <!-- /Yandex.Metrika counter -->
 </head>
 <body>
-	<header class="full-header">
+	<header id="header" class="full-header">
 	
 	<?php include "includes/prime-menu-head.php"; ?>
 
