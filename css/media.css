@@ -236,7 +236,6 @@
         -webkit-transition: opacity 0.3s ease;
         -o-transition: opacity 0.3s ease;
         transition: opacity 0.3s ease; }
-      
       #top-search form input {
         box-shadow: none !important;
         pointer-events: none;
