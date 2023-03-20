@@ -1,4 +1,4 @@
-<div id="header-wrap">
+<div id="header-wrap" class="header__wrap-spk">
 
 <div class="container clearfix header__nav-bar">
 
@@ -9,7 +9,7 @@
 	<div  class="logo first-page__logo">
 		<a href="/index.php" class="standard-logo">
 			
-			<svg width="170" height="90" viewBox="0 0 390 187" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<svg width="120" height="90" viewBox="0 0 390 187" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 				<rect width="390" height="187" fill="url(#pattern0)"/>
 				<defs>
 				<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
