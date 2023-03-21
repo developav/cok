@@ -12,10 +12,10 @@
 	$mail->setLanguage('ru', 'phpmailer/language/');
 	$mail->isHTML(true);
     $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'smtp.timeweb.ru';                     //Set the SMTP server to send through
+    $mail->Host       = 'mail.nic.ru';                     //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'mail@cb90059.tmweb.ru';                     //SMTP username
-    $mail->Password   = 'Frontdeveloper1!';                               //SMTP password
+    $mail->Username   = 'info@cok-niime.ru';                     //SMTP username
+    $mail->Password   = '09October2018';                               //SMTP password
     $mail->SMTPSecure = 'ssl';            //Enable implicit TLS encryption
     $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
@@ -38,8 +38,8 @@
 	if(trim(!empty($_POST['email']))){
 		$body.='<p><strong>Email:</strong> '.$_POST['email'].'</p>';
 	}
-	if(trim(!empty($_POST['descr']))){
-		$body.='<p><strong>Message:</strong> '.$_POST['descr'].'</p>';
+	if(trim(!empty($_POST['message']))){
+		$body.='<p><strong>Message:</strong> '.$_POST['message'].'</p>';
 	}
 
 	$mail->Body = $body;

@@ -58,7 +58,7 @@
 
 					<div class="quick-contact-form-result"></div>
 
-					<form id="quick-contact-form" name="quick-contact-form" action="" method="POST" class="quick-contact-form nobottommargin" autocomplete="off">
+					<form id="quick-contact-form" name="quick-contact-form" action="sendmail.php" method="POST" class="quick-contact-form nobottommargin">
 
 						<div class="form-process"></div>
 
@@ -68,8 +68,8 @@
 						<div class="input-group divcenter">
 							<input type="text" class="required form-control email input-block-level _req _email" id="quick-contact-form-email" name="email" value="" placeholder="Ваш Email..." autocomplete="off" />
 						</div>
-						<textarea class="required form-control input-block-level short-textarea" id="quick-contact-form-message" name="descr" rows="4" cols="30" placeholder="Сообщение..."></textarea>
-						<!-- <input type="text" class="hidden" id="quick-contact-form-botcheck" name="quick-contact-form-botcheck" value="" /> -->
+						<textarea class="required form-control input-block-level short-textarea" id="quick-contact-form-message" name="message" rows="4" cols="30" placeholder="Сообщение..."></textarea>
+						<input type="text" class="hidden" id="quick-contact-form-botcheck" name="quick-contact-form-botcheck" value="" />
 						<button type="submit" id="quick-contact-form-submit" name="quick-contact-form-submit" class="btn btn-danger nomargin" value="submit">Отправить</button>
 
                         <p style="margin: 10px; font-size: 75%">Нажимая кнопку «Отправить», я принимаю условия <a href="/regulationdocs/Политика.pdf" target="_blank">Политики конфиденциальности</a> и даю своё <a href="/regulationdocs/Согласие.pdf" target="_blank">согласие на обработку моих персональных данных</a></p>
