@@ -149,7 +149,7 @@
 	<script type="text/javascript" src="./js/jquery.js"></script>
     <script type="text/javascript" src="./js/plugins.js"></script>
     <script type="text/javascript" src="./js/main.js"></script>
-    <script type="text/javascript" src="./js/sender.js"></script>
+    <!-- <script type="text/javascript" src="./js/sender.js"></script> -->
 
     <!-- <script src="js/menu-hilight.js"></script> -->
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCgFBaLmsRydkkVs0TXvtAqIwqYbLIKTrQ"></script>
