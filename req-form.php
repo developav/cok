@@ -16,12 +16,13 @@ $message_success = 'Сообщение <strong>успешно</strong> дост�
 // Add this only if you use reCaptcha with your Contact Forms
 $recaptcha_secret = ''; // Your reCaptcha Secret
 
-$mail = new PHPMailer();
+$mail = new PHPMailer(true);
 
 $mail->CharSet = 'UTF-8';
 
 // If you intend you use SMTP, add your SMTP Code after this Line
-
+$mail->setLanguage('ru', 'phpmailer/language/');
+$mail->isHTML(true);
 $mail->IsSMTP();
 $mail->Host = "mail.nic.ru";
 $mail->SMTPDebug = 0;
@@ -30,7 +31,6 @@ $mail->Port = 465;
 $mail->SMTPSecure = 'ssl';
 $mail->Username = "info@prospectschool.ru";
 $mail->Password = "Prospect2023!";
-
 
 if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 	if( $_POST['template-contactform-email'] != '' ) {
@@ -50,7 +50,7 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 
 		if( $botcheck == '' ) {
 
-			$mail->SetFrom( $email , $name );
+			$mail->SetFrom('info@prospectschool.ru');
 			$mail->AddReplyTo( $email , $name );
 			foreach( $toemails as $toemail ) {
 				$mail->AddAddress( $toemail['email'] , $toemail['name'] );
