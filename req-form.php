@@ -5,7 +5,7 @@ require_once('PHPMailer/PHPMailerAutoload.php');
 $toemails = array();
  
 $toemails[] = array(
-				'email' => 'dpavlov@niime.ru', // Your Email Address
+				'email' => 'info@prospectschool.ru', // Your Email Address
 				'name' => 'COK NIME' // Your Name
 			);
 
@@ -26,7 +26,8 @@ $mail->IsSMTP();
 $mail->Host = "mail.nic.ru";
 $mail->SMTPDebug = 0;
 $mail->SMTPAuth = true;
-$mail->Port = 587;
+$mail->Port = 465;
+$mail->SMTPSecure = 'ssl';
 $mail->Username = "info@prospectschool.ru";
 $mail->Password = "Prospect2023!";
 
