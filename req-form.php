@@ -5,7 +5,7 @@ require_once('PHPMailer/PHPMailerAutoload.php');
 $toemails = array();
  
 $toemails[] = array(
-				'email' => 'info@prospectschool.ru', // Your Email Address
+				'email' => 'dpavlov@niime.ru', // Your Email Address
 				'name' => 'COK NIME' // Your Name
 			);
 
@@ -22,13 +22,13 @@ $mail->CharSet = 'UTF-8';
 
 // If you intend you use SMTP, add your SMTP Code after this Line
 
-// $mail->IsSMTP();
-// $mail->Host = "mail.nic.ru";
-// $mail->SMTPDebug = 0;
-// $mail->SMTPAuth = true;
-// $mail->Port = 587;
-// $mail->Username = "info@cok-niime.ru";
-// $mail->Password = "23eZU2dP2Rwyk";
+$mail->IsSMTP();
+$mail->Host = "mail.nic.ru";
+$mail->SMTPDebug = 0;
+$mail->SMTPAuth = true;
+$mail->Port = 587;
+$mail->Username = "info@prospectschool.ru";
+$mail->Password = "Prospect2023!";
 
 
 if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
