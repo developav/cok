@@ -48,6 +48,63 @@
                     <div id="posts" class="news__column col_full small-thumbs">
                             <div class="entry clearfix">
                                 <div class="entry-image col_one_forth">
+                                    <a href="/200323.php"><img class="image_fade" src="images/news/grid/246.jpg" alt="image 200323"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/200323.php">Всероссийский конкурс лучших практик подготовки кадров.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>20/03/2023</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>До 31 марта продолжается прием заявок на Всероссийский конкурс лучших практик подготовки рабочих кадров и специалистов среднего <a href="/200323.php" class="more-link">(Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                    </div><!-- #posts end -->
+
+                    <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/010323.php"><img class="image_fade" src="images/news/grid/245.jpg" alt="image 010323"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/010323.php">От "Рынка димпломов" к "Рынку квалификаций".Интервью с руководителем Центра Оценки Квалификаций НИИМЭ Лилианы Поликарповой.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>01/03/2023</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>От "Рынка димпломов" к "Рынку квалификаций".Интервью с руководителем Центра Оценки Квалификаций НИИМЭ Лилианы Поликарповой. <a href="/010323.php" class="more-link">(Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                    </div><!-- #posts end -->
+
+                    <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
+                                    <a href="/210223.php"><img class="image_fade" src="images/news/grid/244.jpg" alt="image 200223"></a>
+                                </div>
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="/210223.php">ЦОК «НИИМЭ» планирует открыть экзаменационный центр в Тюмени.</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i>20/02/2023</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>ЦОК «НИИМЭ» планирует открыть экзаменационный центр в Тюмени.<a href="/210223.php" class="more-link">(Дальше...)</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                    </div><!-- #posts end -->
+
+                    <div id="posts" class="news__column col_full small-thumbs">
+                            <div class="entry clearfix">
+                                <div class="entry-image col_one_forth">
                                     <a href="/200223.php"><img class="image_fade" src="images/news/grid/243.jpg" alt="image 200223"></a>
                                 </div>
                                 <div class="entry-c col_three_forth col_last">
