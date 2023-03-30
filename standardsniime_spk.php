@@ -229,10 +229,14 @@
 												<input type="file" id="template-contactform-file" name="template-contactform-file" value="" class="sm-form-control"/>
 											</div>
 
+											<div class="input-group divcenter">
+												<input type="checkbox" class="required" id="quick-contact-form-checkbox" name="quick-contact-form-checkbox" value="">
+												<span style="font-size: 75%;padding-left: 5px;">Нажимая кнопку «Отправить», я принимаю условия <a href="/regulationdocs/Политика.pdf" target="_blank">Политики конфиденциальности</a> и даю своё <a href="/regulationdocs/Согласие.pdf" target="_blank">согласие на обработку моих персональных данных</a></span>
+											</div>
 											<div class="col_full hidden">
 												<input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="sm-form-control" />
 											</div>
-
+											<div id="recaptcha-2"></div>
 											<div class="col_full">
 												<button class="button button-3d nomargin" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Отправить</button>
                                                 <p style="margin: 10px; font-size: 85%">Нажимая кнопку «Отправить», я принимаю условия <a href="/regulationdocs/Политика.pdf" target="_blank">Политики конфиденциальности</a> и даю своё <a href="/regulationdocs/Согласие.pdf" target="_blank">согласие на обработку моих персональных данных</a></p>
@@ -267,6 +271,17 @@
 
 		<!-- External JavaScripts
 		============================================= -->
+		<script>
+			var onloadCallback = function(){
+				var key = '6Lf5HwgkAAAAAADoNRZaU2ZjEUe1wVP-l5rmttGQ';
+				grecaptcha.render('recaptcha-1', {
+					'sitekey': key
+				});
+				grecaptcha.render('recaptcha-2', {
+					'sitekey': key
+				});
+			};
+		</script>
 		<script type="text/javascript" src="js/jquery.js"></script>
 		<script type="text/javascript" src="js/plugins.js"></script>
 
