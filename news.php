@@ -5,8 +5,8 @@
 
     <?php include "includes/head-meta.php"; ?>
     <!-- Document Title
-	============================================= -->
-    <title>Новости | ЦОК</title>
+	
+	<title>Новости - ЦОК</title>
 
 </head>
 
@@ -562,11 +562,17 @@
                                 <div class="entry-title">
                                     <h2><a href="290822.php">Продолжается всеросийский конкурс профессионального мастерства<br> "Лучший по професии"</a></h2>
                                 </div>
-                                <ul class="entry-meta clearfix" style="height: 30px">
-                                    <li><i class="icon-calendar3"></i> 31/8/2022</li>
-                                </ul>
-                                <div class="entry-content col_last">
-                                    <p>Генеральный директор Национального агентства развития квалификаций Артем Шадрин выступил на площадке Международного форума технологического развития «Технопром-2022», проходящего в Новосибирске с 23 по 26 августа 2022 года<a href="/310822.php" class="more-link"> (Дальше...)</a></p>
+
+                                <div class="entry-c col_three_forth col_last">
+                                    <div class="entry-title">
+                                        <h2><a href="310822.php">Продолжается всеросийский конкурс профессионального мастерства<br> "Лучший по професии"</a></h2>
+                                    </div>
+                                    <ul class="entry-meta clearfix" style="height: 30px">
+                                        <li><i class="icon-calendar3"></i> 31/8/2022</li>
+                                    </ul>
+                                    <div class="entry-content col_last">
+                                        <p>Генеральный директор Национального агентства развития квалификаций Артем Шадрин выступил на площадке Международного форума технологического развития «Технопром-2022», проходящего в Новосибирске с 23 по 26 августа 2022 года<a href="/310822.php" class="more-link"> (Дальше...)</a></p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
