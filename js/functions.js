@@ -3191,7 +3191,7 @@ var SEMICOLON = SEMICOLON || {};
 
 			var $contactForm = $('.contact-widget:not(.customjs)');
 			if( $contactForm.length < 1 ){ return true; }
-
+			
 			$contactForm.each( function(){
 				var element = $(this),
 					elementAlert = element.attr('data-alert-type'),
@@ -3203,8 +3203,10 @@ var SEMICOLON = SEMICOLON || {};
 					submitHandler: function(form) {
 
 						elementResult.hide();
-
+						
+    
 						if( elementLoader == 'button' ) {
+							
 							var defButton = $(form).find('button'),
 								defButtonText = defButton.html();
 
@@ -3212,15 +3214,25 @@ var SEMICOLON = SEMICOLON || {};
 						} else {
 							$(form).find('.form-process').fadeIn();
 						}
-
+						
 						$(form).ajaxSubmit({
 							target: elementResult,
 							dataType: 'json',
 							success: function( data ) {
 								if( elementLoader == 'button' ) {
 									defButton.html( defButtonText );
+									$('input[type="checkbox"]').on('change', function(){
+      
+										if($(this).prop('checked',false))
+										  alert('Чекбокс выбран');
+										});
 								} else {
 									$(form).find('.form-process').fadeOut();
+									$('input[type="checkbox"]').on('change', function(){
+      
+										if($(this).prop('checked',true))
+										  alert('Чекбокс выбран');
+										});
 								}
 								if( data.alert != 'error' && elementRedirect ){
 									window.location.replace( elementRedirect );
@@ -3240,6 +3252,7 @@ var SEMICOLON = SEMICOLON || {};
 								}
 								if( $(form).find('.g-recaptcha').children('div').length > 0 ) { grecaptcha.reset(); }
 								if( data.alert != 'error' ) { $(form).clearForm(); }
+
 							}
 						});
 					}
@@ -3317,79 +3330,78 @@ var SEMICOLON = SEMICOLON || {};
 
 			});
 		},
-
 		quickContact: function(){
 
-			if( !$().validate ) {
-				console.log('quickContact: Form Validate not Defined.');
-				return true;
-			}
-
-			if( !$().ajaxSubmit ) {
-				console.log('quickContact: jQuery Form not Defined.');
-				return true;
-			}
-
-			var $quickContact = $('.quick-contact-widget:not(.customjs)');
-			if( $quickContact.length < 1 ){ return true; }
-
-			$quickContact.each( function(){
-				var element = $(this),
-					elementAlert = element.attr('data-alert-type'),
-					elementLoader = element.attr('data-loader'),
-					elementResult = element.find('.quick-contact-form-result'),
-					elementRedirect = element.attr('data-redirect');
-
-				element.find('form').validate({
-					submitHandler: function(form) {
-
-						elementResult.hide();
-						$(form).animate({ opacity: 0.4 });
-
-						if( elementLoader == 'button' ) {
-							var defButton = $(form).find('button'),
-								defButtonText = defButton.html();
-
-							defButton.html('<i class="icon-line-loader icon-spin nomargin"></i>');
-						} else {
-							$(form).find('.form-process').fadeIn();
-						}
-
-						$(form).ajaxSubmit({
-							target: elementResult,
-							dataType: 'json',
-							resetForm: true,
-							success: function( data ) {
-								$(form).animate({ opacity: 1 });
-								if( elementLoader == 'button' ) {
-									defButton.html( defButtonText );
-								} else {
-									$(form).find('.form-process').fadeOut();
-								}
-								if( data.alert != 'error' && elementRedirect ){
-									window.location.replace( elementRedirect );
-									return true;
-								}
-								if( elementAlert == 'inline' ) {
-									if( data.alert == 'error' ) {
-										var alertType = 'alert-danger';
-									} else {
-										var alertType = 'alert-success';
-									}
-
-									elementResult.addClass( 'alert ' + alertType ).html( data.message ).slideDown( 400 );
-								} else {
-									elementResult.attr( 'data-notify-type', data.alert ).attr( 'data-notify-msg', data.message ).html('');
-									SEMICOLON.widget.notifications( elementResult );
-								}
-								if( $(form).find('.g-recaptcha').children('div').length > 0 ) { grecaptcha.reset(); }
+				if( !$().validate ) {
+					console.log('quickContact: Form Validate not Defined.');
+					return true;
+				}
+	
+				if( !$().ajaxSubmit ) {
+					console.log('quickContact: jQuery Form not Defined.');
+					return true;
+				}
+	
+				var $quickContact = $('.quick-contact-widget:not(.customjs)');
+				if( $quickContact.length < 1 ){ return true; }
+	
+				$quickContact.each( function(){
+					var element = $(this),
+						elementAlert = element.attr('data-alert-type'),
+						elementLoader = element.attr('data-loader'),
+						elementResult = element.find('.quick-contact-form-result'),
+						elementRedirect = element.attr('data-redirect');
+	
+					element.find('form').validate({
+						submitHandler: function(form) {
+	
+							elementResult.hide();
+							$(form).animate({ opacity: 0.4 });
+	
+							if( elementLoader == 'button' ) {
+								var defButton = $(form).find('button'),
+									defButtonText = defButton.html();
+	
+								defButton.html('<i class="icon-line-loader icon-spin nomargin"></i>');
+							} else {
+								$(form).find('.form-process').fadeIn();
 							}
-						});
-					}
+	
+							$(form).ajaxSubmit({
+								target: elementResult,
+								dataType: 'json',
+								resetForm: true,
+								success: function( data ) {
+									$(form).animate({ opacity: 1 });
+									if( elementLoader == 'button' ) {
+										defButton.html( defButtonText );
+									} else {
+										$(form).find('.form-process').fadeOut();
+									}
+									if( data.alert != 'error' && elementRedirect ){
+										window.location.replace( elementRedirect );
+										return true;
+									}
+									if( elementAlert == 'inline' ) {
+										if( data.alert == 'error' ) {
+											var alertType = 'alert-danger';
+										} else {
+											var alertType = 'alert-success';
+										}
+	
+										elementResult.addClass( 'alert ' + alertType ).html( data.message ).slideDown( 400 );
+									} else {
+										elementResult.attr( 'data-notify-type', data.alert ).attr( 'data-notify-msg', data.message ).html('');
+										SEMICOLON.widget.notifications( elementResult );
+									}
+									if( $(form).find('.g-recaptcha').children('div').length > 0 ) { grecaptcha.reset(); }
+								}
+							});
+						}
+					});
+	
 				});
-
-			});
-		},
+			},
 
 		stickySidebar: function(){
 
