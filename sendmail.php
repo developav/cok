@@ -15,9 +15,30 @@
     $mail->Host       = 'mail.nic.ru';                     //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
     $mail->Username   = 'info@prospectschool.ru';                     //SMTP username
-    $mail->Password   = 'Prospect2023!';                               //SMTP password
+    $mail->Password   = 'NiProsp03!23';                               //SMTP password
     $mail->SMTPSecure = 'ssl';            //Enable implicit TLS encryption
     $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+
+	$error = true;
+	$secret = '6LcxK0MlAAAAAO0FdMI7pKjfca8L8i-atAbXjEQq';
+	
+	if (!empty($_POST['g-recaptcha-response'])) {
+		$curl = curl_init('https://www.google.com/recaptcha/api/siteverify');
+		curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+		curl_setopt($curl, CURLOPT_POST, true);
+		curl_setopt($curl, CURLOPT_POSTFIELDS, 'secret=' . $secret . '&response=' . $_POST['g-recaptcha-response']);
+		$out = curl_exec($curl);
+		curl_close($curl);
+		
+		$out = json_decode($out);
+		if ($out->success == true) {
+			$error = false;
+		} 
+	}    
+	
+	if ($error) {
+		echo 'Ошибка заполнения капчи.';
+	}
 
 	// От кого письмо
 	$mail->setFrom('info@prospectschool.ru');
