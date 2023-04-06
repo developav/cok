@@ -68,13 +68,13 @@
 						<div class="form-process"></div>
 						<div class="input-group divcenter">
 							<span class="input-group-addon"><i class="icon-user"></i></span>
-							<input type="text" class="required form-control input-block-level" id="quick-contact-form-name" name="quick-contact-form-name" value="" placeholder="Имя..." />
+							<input type="text" class="required form-control input-block-level" id="quick-contact-form-name" name="name" value="" placeholder="Имя..." />
 						</div>
 						<div class="input-group divcenter">
 							<span class="input-group-addon"><i class="icon-email2"></i></span>
-							<input type="text" class="required form-control email input-block-level" id="quick-contact-form-email" name="quick-contact-form-email" value="" placeholder="Ваш Email..." />
+							<input type="text" class="required form-control email input-block-level" id="quick-contact-form-email" name="email" value="" placeholder="Ваш Email..." />
 						</div>
-						<textarea class="required form-control input-block-level short-textarea" id="quick-contact-form-message" name="quick-contact-form-message" rows="4" cols="30" placeholder="Сообщение..."></textarea>
+						<textarea class="required form-control input-block-level short-textarea" id="quick-contact-form-message" name="message" rows="4" cols="30" placeholder="Сообщение..."></textarea>
 						<div class="input-group divcenter">
 						<input type="checkbox" class="required" id="quick-contact-form-checkbox" name="quick-contact-form-checkbox" value="">
 						<span style="font-size: 75%;padding-left: 5px;">Нажимая кнопку «Отправить», я принимаю условия <a href="/regulationdocs/Политика.pdf" target="_blank">Политики конфиденциальности</a> и даю своё <a href="/regulationdocs/Согласие.pdf" target="_blank">согласие на обработку моих персональных данных</a></span>
