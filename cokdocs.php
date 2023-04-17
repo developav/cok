@@ -60,6 +60,8 @@
 							<li><i class="icon-line-paper"></i><a href="./regulationdocs/cokdocs/dogovor-fiz-2022.docx">Договор на оказание услуг по независимой оценке квалификации  с физическим лицом</a></li>
 
                             <li><i class="icon-line-paper"></i><a href="./regulationdocs/cokdocs/dogovor-ur-2022.docx">Договор на оказание услуг по независимой оценке квалификации с юридическим лицом</a></li>
+
+							<li><i class="icon-line-paper"></i><a href="./regulationdocs/cokdocs/Аттестат соответствия ЦОК  № 13 от 23.12.2022.pdf">Аттестат соответствия ЦОК  № 13 от 23.12.2022</a></li>
 						</ul>
 							
 					</div>

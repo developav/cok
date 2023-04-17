@@ -55,13 +55,13 @@
 	$body = '<h1>Письмо с сайта ЦОК "НИИМЭ"!</h1>';
 
 	if(trim(!empty($_POST['name']))){
-		$body.='<p><strong>Имя:</strong> '.$_POST['quick-contact-form-name'].'</p>';
+		$body.='<p><strong>Имя:</strong> '.$_POST['name'].'</p>';
 	}
 	if(trim(!empty($_POST['email']))){
-		$body.='<p><strong>Email:</strong> '.$_POST['quick-contact-form-email'].'</p>';
+		$body.='<p><strong>Email:</strong> '.$_POST['email'].'</p>';
 	}
 	if(trim(!empty($_POST['message']))){
-		$body.='<p><strong>Message:</strong> '.$_POST['quick-contact-form-message'].'</p>';
+		$body.='<p><strong>Message:</strong> '.$_POST['message'].'</p>';
 	}
 
 	$mail->Body = $body;
