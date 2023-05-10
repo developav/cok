@@ -49,6 +49,44 @@
                     <div id="posts" class="news__column col_full small-thumbs">
                         <div class="entry clearfix">
                             <div class="entry-image col_one_forth">
+                                <a href="/030423.php"><img class="image_fade" src="images/news/grid/248.jpg" alt="image 030423"></a>
+                            </div>
+                            <div class="entry-c col_three_forth col_last">
+                                <div class="entry-title">
+                                    <h2><a href="/030423.php">В ЦОК АО «НИИМЭ» в области промышленной электрооники и приборостроения назначен заместитель руководителя.</a></h2>
+                                </div>
+                                <ul class="entry-meta clearfix" style="height: 30px">
+                                    <li><i class="icon-calendar3"></i>03/04/2023</li>
+                                </ul>
+                                <div class="entry-content col_last">
+                                    <p>Мы уже писали о том, что одним из важнейших достижений начала года стало открытие в НИИМЭ нового <a href="/030423.php" class="more-link">(Дальше...)</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- #posts end -->
+
+                    <div id="posts" class="news__column col_full small-thumbs">
+                        <div class="entry clearfix">
+                            <div class="entry-image col_one_forth">
+                                <a href="/220323.php"><img class="image_fade" src="images/news/grid/247.jpg" alt="image 220323"></a>
+                            </div>
+                            <div class="entry-c col_three_forth col_last">
+                                <div class="entry-title">
+                                    <h2><a href="/220323.php">ЦОК АО «НИИМЭ» переводит комплекты оценочных средств в дистанционный формат</a></h2>
+                                </div>
+                                <ul class="entry-meta clearfix" style="height: 30px">
+                                    <li><i class="icon-calendar3"></i>22/03/2023</li>
+                                </ul>
+                                <div class="entry-content col_last">
+                                    <p>Всё больше и больше компаний переводят бизнес-процессы в онлайн-формат. Уже никого не удивляет, например, возможность <a href="/220323.php" class="more-link">(Дальше...)</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- #posts end -->
+
+                    <div id="posts" class="news__column col_full small-thumbs">
+                        <div class="entry clearfix">
+                            <div class="entry-image col_one_forth">
                                 <a href="/200323.php"><img class="image_fade" src="images/news/grid/246.jpg" alt="image 200323"></a>
                             </div>
                             <div class="entry-c col_three_forth col_last">

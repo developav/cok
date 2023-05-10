@@ -79,6 +79,38 @@
 				<div class="news__group" data-layout="fitRows">
 					<div class="entry__big-size entry clearfix">
 						<div class="entry-image">
+							<a href="images/news/full/248.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/248.jpg" alt="image 030423"></a>
+						</div>
+						<div class="entry-title">
+							<h2><a href="/030423.php">В ЦОК АО «НИИМЭ» в области промышленной электрооники и приборостроения назначен заместитель руководителя.</a></h2>
+						</div>
+						<ul class="entry-meta clearfix">
+							<li><i class="icon-calendar3"></i>03/04/2023</li>
+							<!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+						</ul>
+						<div class="entry-content">
+							<!-- <p>Целью конкурса является повышение престижа рабочих профессий и популяризация их среди молодежи, распространение актуального опыта и лучших практик подготовки кадров</p> -->
+							<a href="/030423.php" class="more-link">Подробнее</a>
+						</div>
+					</div>
+					<div class="entry__big-size entry clearfix">
+						<div class="entry-image">
+							<a href="images/news/full/247.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/247.jpg" alt="image 220323"></a>
+						</div>
+						<div class="entry-title">
+							<h2><a href="/220323.php">ЦОК АО «НИИМЭ» переводит комплекты оценочных средств в дистанционный формат.</a></h2>
+						</div>
+						<ul class="entry-meta clearfix">
+							<li><i class="icon-calendar3"></i>22/03/2023</li>
+							<!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
+						</ul>
+						<div class="entry-content">
+							<!-- <p>14 июля 2022 года на базе центра оценки квалификаций АО «НИИМЭ» прошло совещание с представителями Совета по профессиональным квалификациям в наноиндустрии: зам. председателя Совета Крюковой О.А. и секретарем Совета Ионовым С.А.</p> -->
+							<a href="/220323.php" class="more-link">Подробнее</a>
+						</div>
+					</div>
+					<div class="entry__big-size entry clearfix">
+						<div class="entry-image">
 							<a href="images/news/full/246.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/246.jpg" alt="image 200323"></a>
 						</div>
 						<div class="entry-title">
@@ -100,46 +132,13 @@
 							<h2><a href="/010323.php">От "Рынка димпломов" к "Рынку квалификаций".Интервью с руководителем Центра Оценки Квалификаций НИИМЭ Лилианы Поликарповой.</a></h2>
 						</div>
 						<ul class="entry-meta clearfix">
-							<li><i class="icon-calendar3"></i>01/03/2022</li>
+							<li><i class="icon-calendar3"></i>01/03/2023</li>
 						</ul>
 						<div class="entry-content">
 							<a href="/010323.php" class="more-link">Подробнее</a>
 						</div>
 					</div>
-
-
-					<div class="entry__big-size entry clearfix">
-						<div class="entry-image">
-							<a href="images/news/full/244.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/244.jpg" alt="image 210223"></a>
-						</div>
-						<div class="entry-title">
-							<h2><a href="/210223.php">ЦОК АО «НИИМЭ» планирует открыть экзаменационный центр в Тюмени.</a></h2>
-						</div>
-						<ul class="entry-meta clearfix">
-							<li><i class="icon-calendar3"></i>21/02/2022</li>
-							<!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-						</ul>
-						<div class="entry-content">
-							<!-- <p>14 июля 2022 года на базе центра оценки квалификаций АО «НИИМЭ» прошло совещание с представителями Совета по профессиональным квалификациям в наноиндустрии: зам. председателя Совета Крюковой О.А. и секретарем Совета Ионовым С.А.</p> -->
-							<a href="/210223.php" class="more-link">Подробнее</a>
-						</div>
-					</div>
-					<div class="entry__big-size entry clearfix">
-						<div class="entry-image">
-							<a href="images/news/full/243.jpg" data-lightbox="image"><img class="image_fade" src="images/news/grid/243.jpg" alt="image 200223"></a>
-						</div>
-						<div class="entry-title">
-							<h2><a href="/200223.php">Стартовал Конкурс «Национальная система квалификаций» для журналистов, СМИ, социальных медиа.</a></h2>
-						</div>
-						<ul class="entry-meta clearfix">
-							<li><i class="icon-calendar3"></i> 20/02/2023</li>
-							<!--<li><a href="news-single.php#comments"><i class="icon-comments"></i> 13</a></li>-->
-						</ul>
-						<div class="entry-content">
-							<!-- <p>Целью конкурса является повышение престижа рабочих профессий и популяризация их среди молодежи, распространение актуального опыта и лучших практик подготовки кадров</p> -->
-							<a href="/200223.php" class="more-link">Подробнее</a>
-						</div>
-					</div>
+					
 				</div>
 			</div><!-- end news block -->
 		</section>
