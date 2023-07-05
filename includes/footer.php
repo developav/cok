@@ -79,7 +79,7 @@
 						<input type="checkbox" class="required" id="quick-contact-form-checkbox" name="quick-contact-form-checkbox" value="">
 						<span style="font-size: 75%;padding-left: 5px;">Нажимая кнопку «Отправить», я принимаю условия <a href="/regulationdocs/Политика.pdf" target="_blank">Политики конфиденциальности</a> и даю своё <a href="/regulationdocs/Согласие.pdf" target="_blank">согласие на обработку моих персональных данных</a></span>
 						</div>
-						<input type="text" class="hidden" id="quick-contact-form-botcheck" name="quick-contact-form-botcheck" value="" />
+						<input type="text" class="hidden-form" id="quick-contact-form-botcheck" name="quick-contact-form-botcheck" value=""/>
 						<div id="recaptcha-1" class="g-recaptcha" data-sitekey="6LcxK0MlAAAAALsFIqMpq_prfQxJsuYXujHvskxL"></div>
 						<button type="submit" id="quick-contact-form-submit" data-sitekey="6LcxK0MlAAAAALsFIqMpq_prfQxJsuYXujHvskxL"  data-callback="onSubmit" name="quick-contact-form-submit" class="btn btn-danger nomargin g-recaptcha" value="submit">Отправить</button>
 						<!-- <p style="margin: 10px; font-size: 75%;padding-left: 12px;"></p> -->
@@ -97,9 +97,6 @@
 var onloadCallback = function(){
 	var key = '6LcxK0MlAAAAALsFIqMpq_prfQxJsuYXujHvskxL';
 	grecaptcha.render('recaptcha-1', {
-		'sitekey': key
-	});
-	grecaptcha.render('recaptcha-2', {
 		'sitekey': key
 	});
 };
